@@ -1,0 +1,198 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wud , score : 14 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : quiz , score : 33 , direction : 1 , anchor (6 , 8) , col : 8 , row : 6
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  D P K R C V S
+New Tiles :  O E U Y O P D
+
+
+******COMPUTER TURN******
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : doozy , score : 30 , direction : 2 , col : 9 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : howf , score : 39 , direction : 2 , anchor (10 , 5) , col : 4 , row : 10
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : dope , score : 7 , direction : 1 , col : 13 , row : 5
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gyms , score : 37 , direction : 2 , anchor (13 , 5) , col : 4 , row : 13
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : bow , score : 11 , direction : 1 , col : 11 , row : 6
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : midgut , score : 45 , direction : 2 , anchor (14 , 6) , col : 6 , row : 14
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : hurt , score : 14 , direction : 1 , col : 15 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ceps , score : 30 , direction : 2 , anchor (11 , 4) , col : 3 , row : 11
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : junk , score : 30 , direction : 2 , col : 12 , row : 14
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : faulds , score : 49 , direction : 1 , anchor (12 , 14) , col : 14 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : bal , score : 4 , direction : 2 , col : 10 , row : 15
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ax , score : 23 , direction : 2 , anchor (10 , 9) , col : 9 , row : 10
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : midguts , score : 11 , direction : 0 , col : 14 , row : 13
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : avion , score : 22 , direction : 1 , anchor (7 , 13) , col : 13 , row : 4
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : gap , score : 6 , direction : 2 , col : 4 , row : 15
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ova , score : 13 , direction : 2 , anchor (5 , 14) , col : 12 , row : 5
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : bones , score : 14 , direction : 1 , col : 15 , row : 12
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : illite , score : 18 , direction : 2 , anchor (3 , 12) , col : 7 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : nice , score : 16 , direction : 1 , col : 9 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : travel , score : 22 , direction : 2 , anchor (2 , 7) , col : 2 , row : 2
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : jeu , score : 13 , direction : 1 , col : 15 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : rainier , score : 14 , direction : 1 , anchor (1 , 4) , col : 4 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tone , score : 4 , direction : 2 , col : 4 , row : 6
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : retro , score : 17 , direction : 1 , anchor (1 , 6) , col : 6 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tate , score : 5 , direction : 1 , col : 8 , row : 2
+
+
+******COMPUTER TURN******
+

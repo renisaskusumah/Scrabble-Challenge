@@ -1,0 +1,55 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	sum	--	10		3	HUMAN 
+Player 2	mopy	4.279	33		4	GADDAG
+Player 1	mop	--	7		2	HUMAN 
+Player 2	tupik	2.809	22		4	GADDAG
+Player 1	hut	--	6		2	HUMAN 
+Player 2	ivy	53.482	13		2	GADDAG
+Player 1	busy	--	9		3	HUMAN 
+Player 2	rialtos	110.977	69		7	GADDAG
+Player 1	zags	--	26		3	HUMAN 
+Player 2	jobs	3.068	29		3	GADDAG
+Player 1	dup	--	8		1	HUMAN 
+Player 2	feh	3.576	34		3	GADDAG
+Player 1	owl	--	10		2	HUMAN 
+Player 2	qat	3.255	13		2	GADDAG
+Player 1	ben	--	5		1	HUMAN 
+Player 2	nor	1.564	0		2	GADDAG
+Player 1	lag	--	5		2	HUMAN 
+Player 2	adunc	3.26	16		4	GADDAG
+Player 1	full	--	9		3	HUMAN 
+Player 2	re	2.989	12		2	GADDAG
+Player 1	raw	--	8		2	HUMAN 
+Player 2	rawin	2.673	9		2	GADDAG
+Player 1	load	--	5		3	HUMAN 
+Player 2	oxo	3.373	16		2	GADDAG
+Player 1	dice	--	9		3	HUMAN 
+Player 2	dicentra	7.007	22		4	GADDAG
+Player 1	gat	--	8		2	HUMAN 
+Player 2	oar	8.35	13		2	GADDAG
+Player 1	goat	--	5		2	HUMAN 
+Player 2	ode	9.516	20		3	GADDAG
+Player 1	rent	--	4		3	HUMAN 
+Player 2	titi	5.878	12		3	GADDAG
+Player 1	rete	--	6		3	HUMAN 
+Player 2	ae	131.116	8		2	NEGASCOUT
+Player 1	gate	--	5		4	HUMAN 
+Player 2	de	1.247	7		3	NEGASCOUT
+Player 1	ae	--	2		5	HUMAN 
+Player 2	er	0.501	4		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	er	0.339	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	er	0.34	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 6 menit 20 detik 
+player 1 left tile : 2
+player 1 total skor : 147
+player 2 durasi : 5 menit 50 detik 
+player 2 left tile : 3
+player 2 total skor : 352
+Player 2	er	0.345	0		4	NEGASCOUT

@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	me	--	8		2	HUMAN 
+Player 2	baba	6.11	25		4	GADDAG
+Player 1	ham	--	8		1	HUMAN 
+Player 2	homily	4.003	35		5	GADDAG

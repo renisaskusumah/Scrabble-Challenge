@@ -1,0 +1,34 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	fuse	--	14		4	HUMAN 
+Player 2	jibb	5.685	22		4	GADDAG
+Player 1	wait	--	14		3	HUMAN 
+Player 2	fozy	6.528	34		4	GADDAG
+Player 1	paw	--	9		2	HUMAN 
+Player 2	myth	10.175	31		4	GADDAG
+Player 1	wych	--	21		3	HUMAN 
+Player 2	vino	17.341	36		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	judo	17.081	26		3	GADDAG
+Player 1	soap	--	7		3	HUMAN 
+Player 2	soth	30.868	34		3	GADDAG
+Player 1	sap	--	10		2	HUMAN 
+Player 2	ducal	21.98	28		5	GADDAG
+Player 1	god	--	14		2	HUMAN 
+Player 2	langurs	191.66	72		7	GADDAG
+Player 1	toxin	--	26		4	HUMAN 
+Player 2	skillet	429.466	71		7	GADDAG
+Player 1	duel	--	5		2	HUMAN 
+Player 2	mythic	48.992	28		1	GADDAG
+Player 1	mad	--	11		2	HUMAN 
+Player 2	neb	51.721	16		2	GADDAG
+Player 1	moor	--	7		3	HUMAN 
+Player 2	tan	51.976	19		3	GADDAG
+Player 1	rage	--	5		3	HUMAN 
+Player 2	ziti	38.514	13		1	GADDAG
+Player 1	ave	--	14		2	HUMAN 
+Player 2	eerier	39.882	18		5	GADDAG
+Player 1	lie	--	3		2	HUMAN 
+Player 2	or	4620.08	9		3	NEGASCOUT
+Player 1	ear	--	7		4	HUMAN 

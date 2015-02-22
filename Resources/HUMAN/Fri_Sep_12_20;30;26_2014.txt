@@ -1,0 +1,41 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	pend	--	14		4	HUMAN 
+Player 2	hoy	18.039	20		3	GADDAG
+Player 1	flop	--	9		2	HUMAN 
+Player 2	forename	30.573	76		7	GADDAG
+Player 1	trait	--	10		4	HUMAN 
+Player 2	ofay	29.058	30		4	GADDAG
+Player 1	who	--	9		2	HUMAN 
+Player 2	oiled	32.351	20		4	GADDAG
+Player 1	duel	--	7		3	HUMAN 
+Player 2	evict	17.089	33		5	GADDAG
+Player 1	most	--	8		3	HUMAN 
+Player 2	qoph	155.271	54		3	GADDAG
+Player 1	wax	--	21		2	HUMAN 
+Player 2	dolt	39.006	25		4	GADDAG
+Player 1	tow	--	7		2	HUMAN 
+Player 2	boning	25.003	24		5	GADDAG
+Player 1	wait	--	14		3	HUMAN 
+Player 2	joker	20.302	32		4	GADDAG
+Player 1	cain	--	12		3	HUMAN 
+Player 2	berg	47.795	25		4	GADDAG
+Player 1	vain	--	12		3	HUMAN 
+Player 2	augur	29.244	12		4	GADDAG
+Player 1	zoa	--	12		2	HUMAN 
+Player 2	sastrugi	66.488	72		7	GADDAG
+Player 1	nee	--	8		2	HUMAN 
+Player 2	ever	418.706	14		3	NEGASCOUT
+Player 1	roe	--	4		4	HUMAN 
+Player 2	await	31.857	15		4	NEGASCOUT
+Player 1	it	--	4		5	HUMAN 
+Player 2	case	28.995	15		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 2
+player 1 total skor : 151
+player 2 durasi : 16 menit 24 detik 
+player 2 left tile : 0
+player 2 total skor : 467

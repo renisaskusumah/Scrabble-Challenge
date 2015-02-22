@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	poem	--	16		4	HUMAN 
+Player 2	lex	1.762	40		3	GADDAG
+Player 1	mick	--	24		3	HUMAN 
+Player 2	poco	2.037	36		4	GADDAG
+Player 1	hard	--	29		4	HUMAN 
+Player 2	fa	0.588	10		1	GADDAG
+Player 1	dozed	--	32		4	HUMAN 
+Player 2	jo	1.74	29		2	GADDAG
+Player 1	alcid	--	23		4	HUMAN 
+Player 2	coxal	0.87	14		1	GADDAG

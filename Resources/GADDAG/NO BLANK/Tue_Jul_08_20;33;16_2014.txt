@@ -1,0 +1,47 @@
+Player 2 	suns	1.747	17		4
+Player 1	yum	1.521	14		2
+Player 2 	texas	2.665	29		4
+Player 1	jay	0.853	21		1
+Player 2 	ugh	1.521	16		3
+Player 1	shh	0.771	18		1
+Player 2 	hover	2.731	21		4
+Player 1	mob	0.743	10		2
+Player 2 	vee	3.347	32		2
+Player 1	nus	0.569	3		1
+Player 2 	guv	2.558	19		2
+Player 1	lib	1.132	11		2
+Player 2 	cog	2.89	18		3
+Player 1	owl	1.587	19		3
+Player 2 	tune	3.692	16		4
+Player 1	we	1.011	15		2
+Player 2 	keyed	1.277	13		2
+Player 1	lord	1.115	15		4
+Player 2 	de	2.187	15		2
+Player 1	qaid	2.122	14		3
+Player 2 	carp	1.158	11		3
+Player 1	opioid	3.515	28		6
+Player 2 	ratton	6.88	20		6
+Player 1	aerate	13.102	35		6
+Player 2 	tain	7.582	16		4
+Player 1	pinion	3.812	11		3
+Player 2 	me	0.215	6		5
+Player 1	riata	0.412	9		6
+Player 2 	ae	0.095	5		6
+Player 1	sit	0.042	53		7
+Player 2 	el	0.044	53		7
+Player 1	-	0.027	0		7
+Player 2 	-	0.027	0		7
+Player 1	-	0.028	0		7
+Player 2 	-	0.029	0		7
+Player 1	-	0.026	0		7
+Player 2 	-	0.027	0		7
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 26 detik 
+player 1 left tile : 0
+player 1 total skor : 328
+player 1 Final skor : 328
+player 2 durasi : 0 menit 33 detik 
+player 2 left tile : 0
+player 2 total skor : 340
+player 2 Final skor : 340

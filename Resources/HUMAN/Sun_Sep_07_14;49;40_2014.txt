@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	hm	0.061	14		2	GADDAG
+Player 1	my	--	3		1	HUMAN 
+Player 2	sh	0.205	5		1	GADDAG

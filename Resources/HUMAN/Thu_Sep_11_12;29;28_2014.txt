@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	help	--	18		4	HUMAN 
+Player 2	bop	104.778	25		3	GADDAG
+Player 1	perm	--	9		2	HUMAN 
+Player 2	clip	128.348	16		3	GADDAG

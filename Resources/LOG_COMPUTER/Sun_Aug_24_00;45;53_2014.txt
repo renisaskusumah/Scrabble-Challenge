@@ -1,0 +1,112 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : weep , score : 18 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : jeez , score : 40 , direction : 2 , anchor (9 , 6) , col : 6 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : mazed , score : 17 , direction : 1 , col : 12 , row : 9
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : whips , score : 39 , direction : 2 , anchor (11 , 7) , col : 3 , row : 11
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : thin , score : 14 , direction : 1 , col : 14 , row : 4
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : baff , score : 33 , direction : 2 , anchor (6 , 9) , col : 8 , row : 6
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gelid , score : 35 , direction : 2 , anchor (14 , 4) , col : 3 , row : 14
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  V Y D X
+New Tiles :  G I I I
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : blunts , score : 26 , direction : 1 , anchor (6 , 12) , col : 12 , row : 1
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  G I I S K I
+New Tiles :  A L G H N S
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : amazedly , score : 31 , direction : 1 , anchor (12 , 9) , col : 9 , row : 6
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  A I L G H N S
+New Tiles :  N Y M E D E G
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : cyders , score : 24 , direction : 2 , anchor (13 , 8) , col : 8 , row : 13
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  N Y M E D E G
+New Tiles :  N I U I E C E
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : quit , score : 34 , direction : 1 , anchor (12 , 13) , col : 13 , row : 9
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  N I U I E C E
+New Tiles :  L N X * U T G
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : herm , score : 27 , direction : 1 , anchor (14 , 12) , col : 12 , row : 11
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : guts , score : 8 , direction : 2 , col : 3 , row : 15
+
+
+******COMPUTER TURN******
+

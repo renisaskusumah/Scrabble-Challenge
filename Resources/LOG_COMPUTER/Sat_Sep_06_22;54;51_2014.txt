@@ -1,0 +1,28 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : p*pzxbv
+
+word : pap anchor( col :  7 row : 7 ) score : 12 new tiles : pap
+word : zap anchor( col :  7 row : 7 ) score : 26 new tiles : zap
+word : zax anchor( col :  7 row : 7 ) score : 36 new tiles : zax
+Hasil evaluasi : zax , score : 36 , direction : 2 , col : 7 , row : 6
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : ba anchor( col :  6 row : 7 ) score : 3 new tiles : b
+word : jab anchor( col :  6 row : 7 ) score : 11 new tiles : jb
+word : jaw anchor( col :  6 row : 7 ) score : 12 new tiles : jw
+word : be anchor( col :  6 row : 7 ) score : 18 new tiles : be
+word : jab anchor( col :  8 row : 7 ) score : 11 new tiles : jb
+word : jaw anchor( col :  8 row : 7 ) score : 12 new tiles : jw
+word : ex anchor( col :  6 row : 8 ) score : 10 new tiles : e
+word : vex anchor( col :  6 row : 8 ) score : 14 new tiles : ve
+word : be anchor( col :  6 row : 8 ) score : 18 new tiles : be
+-------HUMAN CLICK HINT-------
+
+
+

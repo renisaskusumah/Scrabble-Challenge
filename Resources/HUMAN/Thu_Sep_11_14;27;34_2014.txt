@@ -1,0 +1,36 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	jib	0.121	24		3	GADDAG
+Player 1	sip	--	9		2	HUMAN 
+Player 2	jun	0.782	14		2	GADDAG
+Player 1	win	--	13		2	HUMAN 
+Player 2	waff	1.341	13		3	GADDAG
+Player 1	fly	--	13		2	HUMAN 
+Player 2	duty	1.647	33		4	GADDAG
+Player 1	node	--	5		3	HUMAN 
+Player 2	chive	2.346	39		5	GADDAG
+Player 1	rank	--	14		3	HUMAN 
+Player 2	coz	4.63	39		3	GADDAG
+Player 1	pic	--	7		2	HUMAN 
+Player 2	wing	5.554	16		3	GADDAG
+Player 1	gun	--	5		2	HUMAN 
+Player 2	vein	5.714	35		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	mum	6.485	17		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ghettos	10.573	72		7	GADDAG
+Player 1	bed	--	6		2	HUMAN 
+Player 2	gilds	8.957	34		5	GADDAG
+Player 1	boron	--	14		4	HUMAN 
+Player 2	fiats	16.164	26		4	GADDAG
+Player 1	tie	--	3		2	HUMAN 
+Player 2	qat	7.565	14		2	GADDAG
+Player 1	tear	--	12		3	HUMAN 
+Player 2	rill	10.462	14		3	GADDAG
+Player 1	old	--	6		3	HUMAN 
+Player 2	ex	7.091	38		2	GADDAG
+Player 1	end	--	8		2	HUMAN 
+Player 2	aal	11.248	13		2	GADDAG
+Player 1	nee	--	3		2	HUMAN 

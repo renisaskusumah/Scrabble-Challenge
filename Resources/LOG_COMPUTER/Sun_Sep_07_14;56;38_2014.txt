@@ -1,0 +1,52 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : kunaily
+
+word : auk anchor( col :  7 row : 7 ) score : 14 new tiles : auk
+word : yuk anchor( col :  7 row : 7 ) score : 20 new tiles : yuk
+word : lanky anchor( col :  7 row : 7 ) score : 24 new tiles : lanky
+word : lanky anchor( col :  7 row : 7 ) score : 32 new tiles : lanky
+Hasil evaluasi : lanky , score : 32 , direction : 2 , col : 7 , row : 7
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : slut anchor( col :  6 row : 7 ) score : 4 new tiles : sut
+word : sou anchor( col :  6 row : 7 ) score : 4 new tiles : sou
+word : stull anchor( col :  6 row : 7 ) score : 5 new tiles : stul
+word : stull anchor( col :  6 row : 7 ) score : 6 new tiles : stul
+word : nulls anchor( col :  8 row : 7 ) score : 5 new tiles : nuls
+word : lunts anchor( col :  8 row : 7 ) score : 6 new tiles : unts
+word : sot anchor( col :  8 row : 7 ) score : 10 new tiles : sot
+word : tolu anchor( col :  8 row : 7 ) score : 13 new tiles : tolu
+word : sau anchor( col :  6 row : 8 ) score : 5 new tiles : su
+word : saul anchor( col :  6 row : 8 ) score : 6 new tiles : sul
+word : sault anchor( col :  6 row : 8 ) score : 7 new tiles : sult
+word : santol anchor( col :  6 row : 8 ) score : 8 new tiles : sntol
+word : qat anchor( col :  6 row : 8 ) score : 23 new tiles : qt
+word : qats anchor( col :  6 row : 8 ) score : 24 new tiles : qts
+word : as anchor( col :  8 row : 8 ) score : 3 new tiles : s
+word : oast anchor( col :  8 row : 8 ) score : 6 new tiles : ost
+word : quotas anchor( col :  8 row : 8 ) score : 17 new tiles : quots
+word : qat anchor( col :  8 row : 8 ) score : 23 new tiles : qt
+word : qats anchor( col :  8 row : 8 ) score : 24 new tiles : qts
+word : snout anchor( col :  6 row : 9 ) score : 7 new tiles : sout
+word : lunts anchor( col :  6 row : 9 ) score : 9 new tiles : luts
+word : uns anchor( col :  8 row : 9 ) score : 3 new tiles : us
+word : nouns anchor( col :  8 row : 9 ) score : 7 new tiles : nous
+word : tonus anchor( col :  8 row : 9 ) score : 9 new tiles : tous
+word : tolu anchor( col :  8 row : 9 ) score : 13 new tiles : tolu
+word : tusk anchor( col :  6 row : 10 ) score : 16 new tiles : tus
+word : stun anchor( col :  6 row : 10 ) score : 18 new tiles : stun
+word : lunks anchor( col :  8 row : 10 ) score : 18 new tiles : luns
+word : knouts anchor( col :  8 row : 10 ) score : 20 new tiles : nouts
+word : lousy anchor( col :  6 row : 11 ) score : 16 new tiles : lous
+word : snout anchor( col :  6 row : 11 ) score : 18 new tiles : snout
+word : toys anchor( col :  8 row : 11 ) score : 7 new tiles : tos
+-------HUMAN CLICK HINT-------
+
+
+

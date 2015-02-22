@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	nest	--	2		4
+Player 2	clozes	18.233	35		5

@@ -1,0 +1,70 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	war	--	10		3	HUMAN 
+Player 2	gift	2.158	23		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	yin	2.98	25		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	hired	36.895	38		4	GADDAG
+Player 1		pass		--			0		0	
+Player 1		pass		--			0		0	
+Player 1		pass		--			0		0	
+Player 2	kayo	2.244	46		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	nurl	2.786	10		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	von	3.943	21		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ritz	5.136	18		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	phi	4.63	22		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gnu	5.629	14		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gowd	1.572	9		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	render	9.608	18		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	nevi	6.866	25		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	bead	7.519	28		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	cubs	3.206	32		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	mow	5.004	30		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	cotes	7.617	25		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ghis	8.227	20		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	edict	7.908	16		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	trots	9.843	21		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	qat	3.217	24		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	loo	7.874	10		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	eta	6.496	14		3	GADDAG
+Player 1	gip	--	11		2	HUMAN 
+Player 2	el	7.493	9		2	GADDAG
+Player 1	mac	--	13		2	HUMAN 
+Player 2	ag	5.034	6		1	GADDAG
+Player 1	ex	--	9		1	HUMAN 
+Player 2	ire	4.583	4		1	GADDAG
+Player 1	er	--	2		1	HUMAN 
+Player 2		9.591	0		0	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2		8.073	0		0	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2		9.72	0		0	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 4 menit 11 detik 
+player 1 left tile : 7
+player 1 total skor : 45
+player 2 durasi : 3 menit 1 detik 
+player 2 left tile : 7
+player 2 total skor : 508
+Player 1		pass		--			0		0	

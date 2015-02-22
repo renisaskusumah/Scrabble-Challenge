@@ -1,0 +1,69 @@
+player word durasi skor tiles
+
+
+Player 1	velum	2.905	28		5	
+Player 2 	jelly	16.418	38		4	blank tiles
+Player 1	bumpy	22.707	29		5	blank tiles
+Player 2 	xu	1.717	33		1	
+Player 1	he	0.596	17		1	
+Player 2 	spik	2.018	23		4	
+Player 1	if	0.647	9		1	
+Player 2 	try	0.748	6		2	
+Player 1	gnu	0.715	4		2	
+Player 2 	-	0.593	0		0	
+Player 1	zag	1.615	23		2	
+Player 2 	fa	0.549	13		1	
+Player 1	fag	1.735	13		2	
+Player 2 	kab	0.607	12		1	
+Player 1	nu	1.233	8		2	
+Player 2 	-	0.617	0		0	
+Player 1	mm	0.59	6		1	
+Player 2 	-	0.639	0		0	
+Player 1	gelt	1.642	11		3	
+Player 2 	beg	0.75	6		1	
+Player 1	-	0.698	0		0	
+Player 2 	gelts	0.759	6		1	
+Player 1	-	0.699	0		0	
+Player 2 	lends	1.723	12		4	
+Player 1	crew	1.033	18		3	
+Player 2 	dud	2.216	10		2	
+Player 1	-	1.01	0		0	
+Player 2 	dow	2.506	11		2	
+Player 1	low	1.102	14		1	
+Player 2 	rennet	5.359	28		6	
+Player 1	von	3.124	18		3	
+Player 2 	ado	3.397	10		2	
+Player 1	acre	8.353	18		3	
+Player 2 	it	3.812	8		2	
+Player 1	ha	5.66	8		2	
+Player 2 	its	4.158	13		1	
+Player 1	na	6.781	6		1	
+Player 2 	re	2.839	10		1	
+Player 1	an	6.457	3		1	
+Player 2 	rennets	3.66	13		1	
+Player 1	goa	5.764	8		2	
+Player 2 	-	2.446	0		0	
+Player 1	devon	5.949	9		2	
+Player 2 	teiid	2.932	12		4	
+Player 1	error	10.201	16		5	
+Player 2 	oe	2.722	12		2	
+Player 1	too	2.094	9		4	
+Player 2 	qat	0.769	32		4	
+Player 1	-	0.195	0		4	
+Player 2 	ore	0.227	3		5	
+Player 1	-	0.197	0		4	
+Player 2 	-	0.116	0		5	
+Player 1	-	0.197	0		4	
+Player 2 	-	0.111	0		5	
+Player 1	-	0.208	0		4	
+Player 2 	-	0.116	0		5	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 94.107
+player 1 left tile : 3
+player 1 total skor : 275
+player 1 Final skor : 272
+player 2 durasi : 64.524
+player 2 left tile : 2
+player 2 total skor : 311
+player 2 Final skor : 309

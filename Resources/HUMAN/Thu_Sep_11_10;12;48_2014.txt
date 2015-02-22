@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	wink	--	22		4	HUMAN 

@@ -1,0 +1,36 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	why	--	16		3	HUMAN 
+Player 2	huffs	1.84	41		5	GADDAG
+Player 1	hunt	--	14		3	HUMAN 
+Player 2	joe	3.52	30		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	totem	5.842	26		4	GADDAG
+Player 1	fag	--	9		2	HUMAN 
+Player 2	shade	3.57	48		5	GADDAG
+Player 1	gab	--	9		2	HUMAN 
+Player 2	copy	1.59	27		4	GADDAG
+Player 1	cow	--	7		2	HUMAN 
+Player 2	coma	2.08	28		3	GADDAG
+Player 1	pass	--	12		2	HUMAN 
+Player 2	shaded	0.79	11		1	GADDAG
+Player 1	seg	--	8		2	HUMAN 
+Player 2	axe	0.72	10		1	GADDAG
+Player 1	gar	--	8		2	HUMAN 
+Player 2	blown	0.93	10		3	GADDAG
+Player 1	vibe	--	9		3	HUMAN 
+Player 2	turd	1.45	18		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	coz	2.816	29		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	xi	4.16	15		1	GADDAG
+Player 1	volva	--	21		4	HUMAN 
+Player 2	ragtop	5.308	24		5	GADDAG
+Player 1	girl	--	10		3	HUMAN 
+Player 2	tried	4.784	22		4	GADDAG
+Player 1	know	--	12		2	HUMAN 
+Player 2	rent	2.9	12		4	GADDAG
+Player 1	inker	--	10		4	HUMAN 
+Player 2	qanat	5.87	34		4	GADDAG
+Player 1	or	--	6		2	HUMAN 

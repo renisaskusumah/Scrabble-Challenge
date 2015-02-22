@@ -1,0 +1,148 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : sane , score : 8 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : vox , score : 44 , direction : 1 , anchor (7 , 8) , col : 8 , row : 6
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : vail , score : 7 , direction : 2 , col : 6 , row : 12
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : web , score : 35 , direction : 1 , anchor (8 , 6) , col : 6 , row : 8
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : lums , score : 7 , direction : 1 , col : 10 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : mover , score : 35 , direction : 1 , anchor (8 , 12) , col : 12 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : hap , score : 40 , direction : 2 , anchor (5 , 9) , col : 9 , row : 5
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : koine , score : 41 , direction : 1 , anchor (9 , 5) , col : 5 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : nonguilt , score : 62 , direction : 2 , anchor (12 , 4) , col : 3 , row : 12
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : jew , score : 24 , direction : 2 , anchor (11 , 11) , col : 11 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : chay , score : 18 , direction : 1 , anchor (4 , 9) , col : 9 , row : 4
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : globed , score : 18 , direction : 2 , anchor (10 , 4) , col : 3 , row : 10
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : zing , score : 24 , direction : 1 , anchor (9 , 3) , col : 3 , row : 7
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : bronzing , score : 40 , direction : 1 , anchor (6 , 3) , col : 3 , row : 3
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : raff , score : 20 , direction : 2 , anchor (4 , 4) , col : 3 , row : 4
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : pe , score : 26 , direction : 1 , anchor (4 , 11) , col : 11 , row : 3
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : coda , score : 19 , direction : 2 , anchor (5 , 2) , col : 2 , row : 5
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : daunts , score : 38 , direction : 1 , anchor (11 , 14) , col : 14 , row : 6
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : aristo , score : 30 , direction : 2 , anchor (14 , 5) , col : 2 , row : 14
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : rawer , score : 34 , direction : 1 , anchor (9 , 13) , col : 13 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : note , score : 15 , direction : 2 , anchor (6 , 4) , col : 3 , row : 6
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : tail , score : 14 , direction : 2 , anchor (13 , 8) , col : 8 , row : 13
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : diet , score : 16 , direction : 1 , anchor (3 , 12) , col : 12 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : per , score : 5 , direction : 2 , col : 3 , row : 14
+
+
+******COMPUTER TURN******
+

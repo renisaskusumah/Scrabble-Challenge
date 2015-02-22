@@ -1,0 +1,16 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	years	--	16		5	HUMAN 
+Player 2	zymase	22.704	62		6	GADDAG
+Player 1	poly	--	9		3	HUMAN 
+Player 2	bop	31.32	33		3	GADDAG
+Player 1	zek	--	32		2	HUMAN 
+Player 2	sex	11.856	26		2	GADDAG
+Player 1	bag	--	6		2	HUMAN 
+Player 2	bagwig	10.603	21		3	GADDAG
+Player 1	fin	--	12		2	HUMAN 
+Player 2	cam	212.635	28		3	GADDAG
+Player 1	gats	--	12		3	HUMAN 
+Player 2	gul	388.198	14		3	GADDAG
+Player 1		pass		--			0		0	

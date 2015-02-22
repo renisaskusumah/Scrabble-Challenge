@@ -1,0 +1,17 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : ÀÐÊ<Ï¼ÀÐÊ
+
+
+
+HUMAN MOVE : exact , score : 24 , direction : 1 , col : 12 , row : 7
+
+
+******COMPUTER TURN******
+RACK : Ð
+
+Hasil evaluasi : zits , score : 29 , direction : 2 , anchor (12 , 7) , col : 4 , row : 12
+
+
+

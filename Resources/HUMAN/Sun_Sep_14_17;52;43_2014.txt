@@ -1,0 +1,27 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	fob	0.79	16		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	facia	2.317	30		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	id	24.506	7		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	bid	4.061	6		5	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	facial	2.579	11		6	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	facial	0.009	0		6	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	facial	0.011	0		6	NEGASCOUT
+Player 1		pass		--			0		0	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 7
+player 1 total skor : 0
+player 2 durasi : 0 menit 32 detik 
+player 2 left tile : 1
+player 2 total skor : 70
+Player 2	facial	0.01	0		6	NEGASCOUT

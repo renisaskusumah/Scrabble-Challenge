@@ -1,0 +1,55 @@
+player word durasi skor tiles
+
+
+Player 1	soyuz	16.434	52		5	blank tiles
+Player 2 	raj	3.076	37		3	
+Player 1	hwan	16.287	41		4	blank tiles
+Player 2 	widdy	1.67	27		5	
+Player 1	bricked	2.44	32		6	
+Player 2 	remex	2.215	28		4	
+Player 1	dak	3.15	27		2	
+Player 2 	cunts	0.853	14		3	
+Player 1	dim	2.574	19		2	
+Player 2 	dev	0.631	7		1	
+Player 1	urb	2.722	19		3	
+Player 2 	horn	2.002	19		4	
+Player 1	opt	0.987	5		2	
+Player 2 	porns	2.869	31		5	
+Player 1	horns	1.221	9		1	
+Player 2 	foul	3.976	21		4	
+Player 1	fog	2.783	19		3	
+Player 2 	titre	6.007	20		4	
+Player 1	tufa	4.979	22		3	
+Player 2 	none	5.662	17		3	
+Player 1	avian	8.837	24		5	
+Player 2 	logo	5.708	19		4	
+Player 1	lienal	13.256	16		6	
+Player 2 	qat	3.492	12		2	
+Player 1	gat	9.516	18		3	
+Player 2 	she	3.746	12		1	
+Player 1	ae	2.29	11		3	
+Player 2 	cee	1.952	11		3	
+Player 1	ess	0.47	11		4	
+Player 2 	ow	0.38	7		4	
+Player 1	et	0.211	10		5	
+Player 2 	logoi	0.16	6		5	
+Player 1	gie	0.086	56		7	
+Player 2 	in	0.08	4		6	
+Player 1	-	0.01	0		7	
+Player 2 	bi	0.03	54		7	
+Player 1	-	0.011	0		7	
+Player 2 	-	0.011	0		7	
+Player 1	-	0.011	0		7	
+Player 2 	-	0.01	0		7	
+Player 1	-	0.012	0		7	
+Player 2 	-	0.01	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 88.287
+player 1 left tile : 0
+player 1 total skor : 391
+player 1 Final skor : 391
+player 2 durasi : 44.54
+player 2 left tile : 0
+player 2 total skor : 346
+player 2 Final skor : 346

@@ -1,0 +1,36 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	hotbox	2.357	46		6	GADDAG
+Player 1	hush	--	11		3	HUMAN 
+Player 2	jag	1.997	31		3	GADDAG
+Player 1	pax	--	12		1	HUMAN 
+Player 2	dauphin	4.367	26		6	GADDAG
+Player 1	jolts	--	24		3	HUMAN 
+Player 2	vary	2.596	20		3	GADDAG
+Player 1	wynd	--	22		3	HUMAN 
+Player 2	aunty	5.707	23		5	GADDAG
+Player 1	sift	--	7		3	HUMAN 
+Player 2	redubs	124.731	39		6	GADDAG
+Player 1	zek	--	32		2	HUMAN 
+Player 2	bids	8.242	29		4	GADDAG
+Player 1	veils	--	25		5	HUMAN 
+Player 2	imino	13.679	30		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	colour	13.522	24		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	mitral	14.813	29		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	feta	14.899	22		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	azon	13.022	20		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	keno	14.632	21		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	twin	13.596	16		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	retiree	15.055	16		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	eave	5.935	18		3	GADDAG
+Player 1		pass		--			0		0	

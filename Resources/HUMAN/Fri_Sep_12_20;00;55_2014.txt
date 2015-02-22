@@ -1,0 +1,44 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	beam	--	16		4	HUMAN 
+Player 2	hedgy	13.14	50		5	GADDAG
+Player 1	beady	--	25		4	HUMAN 
+Player 2	jefe	252.249	38		4	GADDAG
+Player 1	yip	--	7		2	HUMAN 
+Player 2	vacs	22.566	31		4	GADDAG
+Player 1	kef	--	20		1	HUMAN 
+Player 2	firn	24.401	28		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ass	26.557	22		3	GADDAG
+Player 1	brunt	--	8		4	HUMAN 
+Player 2	qat	24.236	12		2	GADDAG
+Player 1	nog	--	4		2	HUMAN 
+Player 2	clews	30.928	42		5	GADDAG
+Player 1	awl	--	10		2	HUMAN 
+Player 2	ox	12.711	17		1	GADDAG
+Player 1	nor	--	4		2	HUMAN 
+Player 2	vill	23.117	9		3	GADDAG
+Player 1	hunt	--	9		3	HUMAN 
+Player 2	grim	23.682	20		4	GADDAG
+Player 1	torn	--	8		3	HUMAN 
+Player 2	outgun	35.795	23		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tog	59.786	25		2	GADDAG
+Player 1	part	--	6		3	HUMAN 
+Player 2	eon	51.388	21		3	GADDAG
+Player 1	riper	--	8		4	HUMAN 
+Player 2	looie	37.617	9		5	GADDAG
+Player 1	tire	--	10		3	HUMAN 
+Player 2	qaid	457.137	19		2	NEGASCOUT
+Player 1	daze	--	22		5	HUMAN 
+Player 2	ai	9.055	12		4	NEGASCOUT
+Player 1	ai	--	5		7	HUMAN 
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 0
+player 1 total skor : 162
+player 2 durasi : 18 menit 17 detik 
+player 2 left tile : 3
+player 2 total skor : 378

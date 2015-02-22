@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	sock	--	10		4
+Player 2	jays	20.033	32		4

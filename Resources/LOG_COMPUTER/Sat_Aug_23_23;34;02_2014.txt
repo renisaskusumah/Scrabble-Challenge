@@ -1,0 +1,38 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gloom , score : 22 , direction : 2 , col : 7 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : mo , score : 4 , direction : 1 , col : 8 , row : 10
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+quoit
+word quoit
+skor 40
+
+
+
+-------NEGA--------
+
+eval 5 word fugio skor 9 depth 1 end 27 child 17
+eval -10 word quilt skor 16 depth 1 end 60 child 9
+eval -18 word oft skor 20 depth 1 end 77 child 6
+eval -56 word quoit skor 40 depth 1 end 96 child 9
+eval -36 word motif skor 20 depth 1 end 68 child 11
+eval -51 word fou skor 20 depth 1 end 47 child 13
+eval -38 word omit skor 10 depth 1 end 42 child 11
+eval -24 word mott skor 11 depth 1 end 57 child 13
+eval -37 word motif skor 20 depth 1 end 66 child 14
+
+
+

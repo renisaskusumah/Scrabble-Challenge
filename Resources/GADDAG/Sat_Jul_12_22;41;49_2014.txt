@@ -1,0 +1,22 @@
+player word durasi skor tiles
+
+
+Player 1	queazy	17.669	64		6	blank tiles
+Player 2 	jamb	0.469	25		3	
+Player 1	like	1.814	31		4	
+Player 2 	prof	1.867	33		4	
+Player 1	coz	1.119	23		2	
+Player 2 	tranq	1.722	28		4	
+Player 1	gym	1.751	23		2	
+Player 2 	ox	1.613	29		2	
+Player 1	vouch	2.248	40		5	
+Player 2 	jambed	0.934	17		1	
+Player 1	whig	3.883	22		3	
+Player 2 	fawn	1.108	12		3	
+Player 1	nus	7.953	19		3	
+Player 2 	vera	5.619	29		3	
+Player 1	tsar	7.728	20		4	
+Player 2 	geds	3.91	22		4	
+Player 1	eyry	5.267	20		3	
+Player 2 	adorn	7.631	25		5	
+Player 1	bugle	7.686	24		4	

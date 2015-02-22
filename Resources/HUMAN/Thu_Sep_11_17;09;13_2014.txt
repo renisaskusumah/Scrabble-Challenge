@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	dry	--	14		3	HUMAN 
+Player 2		2.799	0		0	NEGASCOUT

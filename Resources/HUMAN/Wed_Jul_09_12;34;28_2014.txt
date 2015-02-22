@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	dole	--	10		4
+Player 2	methoxy	0.966	32		6

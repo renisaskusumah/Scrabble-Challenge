@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	homes	--	16		5	HUMAN 
+Player 2	maze	6.404	35		3	GADDAG
+Player 1	pet	--	10		2	HUMAN 

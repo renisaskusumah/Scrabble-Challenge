@@ -1,0 +1,17 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	is	--	4		2	HUMAN 
+Player 2	raspish	151.882	77		7	GADDAG
+Player 1	mags	--	7		3	HUMAN 
+Player 2	chub	9.977	30		4	GADDAG
+Player 1	pen	--	7		2	HUMAN 
+Player 2	ex	3.389	31		2	GADDAG
+Player 1	rug	--	3		2	HUMAN 
+Player 2	exequy	2.865	33		4	GADDAG
+Player 1	dew	--	14		2	HUMAN 
+Player 2	fucks	2.494	36		4	GADDAG
+Player 1	bins	--	6		3	HUMAN 
+Player 2	jug	4.385	30		2	GADDAG
+Player 1	my	--	30		2	HUMAN 
+Player 2	orzo	7.95	43		4	GADDAG

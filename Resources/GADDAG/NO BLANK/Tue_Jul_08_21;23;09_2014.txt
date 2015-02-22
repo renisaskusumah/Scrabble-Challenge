@@ -1,0 +1,61 @@
+player word durasi skor tiles
+
+
+Player 1	-	0.017	0		0
+Player 2 	joy	0.143	26		3
+Player 1	fox	0.338	25		2
+Player 2 	us	0.473	17		2
+Player 1	yids	1.133	17		3
+Player 2 	sizy	0.774	32		3
+Player 1	mm	0.563	17		2
+Player 2 	fizz	1.199	27		2
+Player 1	-	0.593	0		0
+Player 2 	umm	0.934	11		1
+Player 1	urd	0.759	8		2
+Player 2 	wud	1.109	14		3
+Player 1	ump	0.727	7		1
+Player 2 	twig	1.389	16		3
+Player 1	tsk	0.948	21		3
+Player 2 	fizzed	1.384	32		2
+Player 1	zag	4.439	31		2
+Player 2 	ceps	1.694	25		4
+Player 1	cover	5.103	23		4
+Player 2 	he	3.093	30		2
+Player 1	gala	4.95	12		4
+Player 2 	wit	1.434	8		2
+Player 1	in	5.373	7		2
+Player 2 	bi	3.655	12		2
+Player 1	ag	3.975	18		1
+Player 2 	uh	2.173	15		2
+Player 1	enjoys	4.181	17		3
+Player 2 	bovine	4.718	22		5
+Player 1	von	2.98	12		2
+Player 2 	libri	9.727	14		4
+Player 1	act	5.615	13		2
+Player 2 	orra	7.49	18		4
+Player 1	dell	5.458	12		3
+Player 2 	roan	9.274	18		4
+Player 1	teethe	4.928	19		4
+Player 2 	alee	4.584	10		3
+Player 1	anon	0.233	6		6
+Player 2 	en	0.592	8		5
+Player 1	-	0.105	0		6
+Player 2 	ne	0.163	4		6
+Player 1	-	0.105	0		6
+Player 2 	er	0.113	52		7
+Player 1	-	0.101	0		6
+Player 2 	-	0.09	0		7
+Player 1	-	0.104	0		6
+Player 2 	-	0.093	0		7
+Player 1	-	0.107	0		6
+Player 2 	-	0.092	0		7
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 52.835
+player 1 left tile : 1
+player 1 total skor : 265
+player 1 Final skor : 255
+player 2 durasi : 56.39
+player 2 left tile : 0
+player 2 total skor : 411
+player 2 Final skor : 411

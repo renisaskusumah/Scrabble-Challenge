@@ -1,0 +1,46 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	barn	--	12		4	HUMAN 
+Player 2	shivs	11.93	30		5	GADDAG
+Player 1	phi	--	14		2	HUMAN 
+Player 2	farms	1.06	15		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	prow	2.857	20		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ruby	3.538	17		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	town	4.173	22		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tony	3.005	24		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gox	3.745	22		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	dow	5.502	17		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	quip	3.622	17		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	glib	4.946	12		3	GADDAG
+Player 1	hugs	--	8		3	HUMAN 
+Player 2	lum	5.661	24		3	GADDAG
+Player 1	lint	--	5		3	HUMAN 
+Player 2	ilial	9.45	21		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	afar	7.434	23		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	dato	7.773	20		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	mended	11.11	16		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tut	4.839	27		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	revoke	7.567	28		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ogre	8.71	21		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	toea	4.438	14		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ava	3.747	12		2	GADDAG
+Player 1	qat	--	12		2	HUMAN 
+Player 2	eve	3.349	9		2	GADDAG
+Player 1	even	--	7		1	HUMAN 

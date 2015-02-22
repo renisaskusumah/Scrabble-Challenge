@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	pep	--	14		3
+Player 2	gravure	4.023	67		7

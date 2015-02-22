@@ -1,0 +1,38 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : ptcfpfo
+
+word : op anchor( col :  7 row : 7 ) score : 8 new tiles : op
+word : top anchor( col :  7 row : 7 ) score : 10 new tiles : top
+word : cop anchor( col :  7 row : 7 ) score : 14 new tiles : cop
+word : fop anchor( col :  7 row : 7 ) score : 16 new tiles : fop
+word : pfft anchor( col :  7 row : 7 ) score : 24 new tiles : pfft
+Hasil evaluasi : pfft , score : 24 , direction : 2 , col : 7 , row : 7
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : espy anchor( col :  6 row : 7 ) score : 9 new tiles : esy
+word : spy anchor( col :  8 row : 7 ) score : 8 new tiles : sy
+word : espy anchor( col :  8 row : 7 ) score : 9 new tiles : esy
+word : pyx anchor( col :  8 row : 7 ) score : 15 new tiles : yx
+word : pyxes anchor( col :  8 row : 7 ) score : 18 new tiles : yxes
+word : defy anchor( col :  6 row : 8 ) score : 16 new tiles : dey
+word : defy anchor( col :  8 row : 8 ) score : 16 new tiles : dey
+word : defy anchor( col :  6 row : 9 ) score : 15 new tiles : dey
+word : defy anchor( col :  8 row : 9 ) score : 15 new tiles : dey
+word : fey anchor( col :  8 row : 9 ) score : 17 new tiles : ey
+word : xyst anchor( col :  6 row : 10 ) score : 28 new tiles : xys
+word : xysts anchor( col :  6 row : 10 ) score : 30 new tiles : xyss
+word : sty anchor( col :  8 row : 10 ) score : 6 new tiles : sy
+word : stye anchor( col :  8 row : 10 ) score : 7 new tiles : sye
+word : styed anchor( col :  8 row : 10 ) score : 18 new tiles : syed
+word : sexts anchor( col :  8 row : 10 ) score : 24 new tiles : sexs
+word : xysts anchor( col :  8 row : 10 ) score : 30 new tiles : xyss
+-------HUMAN CLICK HINT-------
+
+
+

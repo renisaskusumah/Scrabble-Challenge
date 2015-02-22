@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	plow	0.184	18		4	GADDAG
+Player 1	claw	--	10		3	HUMAN 
+Player 2	sox	2.138	36		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jill	2.177	27		3	GADDAG
+Player 1	oms	--	5		2	HUMAN 
+Player 2	corks	2.186	22		4	GADDAG

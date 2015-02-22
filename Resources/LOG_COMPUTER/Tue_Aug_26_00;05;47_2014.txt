@@ -1,0 +1,22 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : fly , score : 18 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : coys , score : 15 , direction : 2 , anchor (9 , 6) , col : 5 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : shy , score : 5 , direction : 1 , col : 12 , row : 8
+
+
+******COMPUTER TURN******
+

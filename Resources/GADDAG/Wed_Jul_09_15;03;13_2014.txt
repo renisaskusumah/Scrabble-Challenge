@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	fauvism	3.947	80		7	blank tiles
+Player 2 	jump	1.094	31		3	
+Player 1	zags	3.827	34		4	
+Player 2 	from	1.538	31		4	
+Player 1	zoner	7.048	28		4	
+Player 2 	poky	17.36	47		4	blank tiles
+Player 1	bud	4	31		3	
+Player 2 	feh	1.952	18		2	
+Player 1	bay	4.187	30		3	
+Player 2 	john	0.874	14		2	
+Player 1	na	6.256	20		2	
+Player 2 	fax	0.641	25		1	
+Player 1	lev	2.252	22		3	
+Player 2 	crus	0.798	12		2	
+Player 1	cay	1.041	8		1	
+Player 2 	quinol	2.014	14		4	
+Player 1	dell	0.862	5		1	
+Player 2 	arvos	4.938	35		5	
+Player 1	warn	3.156	16		4	
+Player 2 	johns	1.345	17		1	
+Player 1	ledge	6.473	21		5	
+Player 2 	dreg	1.149	12		3	
+Player 1	sinew	6.191	16		4	
+Player 2 	tat	8.292	19		3	
+Player 1	deed	7.546	19		3	
+Player 2 	saki	7.854	17		2	
+Player 1	toil	4.58	18		3	
+Player 2 	tae	8.132	18		3	
+Player 1	ole	2.411	9		2	
+Player 2 	tote	5.512	14		4	
+Player 1	oot	0.699	6		4	
+Player 2 	tate	0.167	10		5	
+Player 1	-	0.134	0		4	
+Player 2 	-	0.065	0		5	
+Player 1	-	0.134	0		4	
+Player 2 	-	0.073	0		5	
+Player 1	-	0.146	0		4	
+Player 2 	-	0.065	0		5	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 64.89
+player 1 left tile : 3
+player 1 total skor : 363
+player 1 Final skor : 360
+player 2 durasi : 63.863
+player 2 left tile : 2
+player 2 total skor : 334
+player 2 Final skor : 332

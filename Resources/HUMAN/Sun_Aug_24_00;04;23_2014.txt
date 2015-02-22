@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	-	0.03	0		0	GADDAG
+Player 1	gas	--	8		3	HUMAN 
+Player 2	haj	0.438	25		2	GADDAG
+Player 1	gasp	--	7		1	HUMAN 
+Player 2	chapt	25.556	24		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	aft	2.361	7		6	NEGASCOUT

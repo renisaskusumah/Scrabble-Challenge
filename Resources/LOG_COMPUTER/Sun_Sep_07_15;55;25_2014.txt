@@ -1,0 +1,52 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : NASLY*X
+
+HUMAN MOVE : lynx , score : 28 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : zqt*kej
+
+word : zlote anchor( col :  6 row : 7 ) score : 13 new tiles : zote
+word : keto anchor( col :  6 row : 7 ) score : 13 new tiles : keto
+word : klutz anchor( col :  6 row : 7 ) score : 17 new tiles : kutz
+word : jake anchor( col :  6 row : 7 ) score : 21 new tiles : jake
+word : alt anchor( col :  8 row : 7 ) score : 2 new tiles : at
+word : kilt anchor( col :  8 row : 7 ) score : 7 new tiles : kit
+word : jilt anchor( col :  8 row : 7 ) score : 10 new tiles : jit
+word : laze anchor( col :  8 row : 7 ) score : 12 new tiles : aze
+word : lez anchor( col :  8 row : 7 ) score : 12 new tiles : ez
+word : zlote anchor( col :  8 row : 7 ) score : 13 new tiles : zote
+word : klutz anchor( col :  8 row : 7 ) score : 17 new tiles : kutz
+word : kae anchor( col :  8 row : 7 ) score : 19 new tiles : kae
+word : joe anchor( col :  8 row : 7 ) score : 25 new tiles : joe
+word : zyme anchor( col :  6 row : 8 ) score : 25 new tiles : zme
+word : byte anchor( col :  8 row : 8 ) score : 7 new tiles : bte
+word : kyte anchor( col :  8 row : 8 ) score : 17 new tiles : kte
+word : zyme anchor( col :  8 row : 8 ) score : 25 new tiles : zme
+word : joe anchor( col :  8 row : 8 ) score : 25 new tiles : joe
+word : etna anchor( col :  6 row : 9 ) score : 5 new tiles : eta
+word : tank anchor( col :  6 row : 9 ) score : 9 new tiles : tak
+word : kane anchor( col :  6 row : 9 ) score : 17 new tiles : kae
+word : jane anchor( col :  6 row : 9 ) score : 26 new tiles : jae
+word : jink anchor( col :  6 row : 9 ) score : 30 new tiles : jik
+word : inkjet anchor( col :  6 row : 9 ) score : 32 new tiles : ikjet
+word : zonk anchor( col :  6 row : 9 ) score : 36 new tiles : zok
+word : ant anchor( col :  8 row : 9 ) score : 2 new tiles : at
+word : ante anchor( col :  8 row : 9 ) score : 5 new tiles : ate
+word : kent anchor( col :  8 row : 9 ) score : 18 new tiles : ket
+word : jink anchor( col :  8 row : 9 ) score : 30 new tiles : jik
+word : inkjet anchor( col :  8 row : 9 ) score : 32 new tiles : ikjet
+word : zonk anchor( col :  8 row : 9 ) score : 36 new tiles : zok
+word : zax anchor( col :  6 row : 10 ) score : 18 new tiles : za
+word : jeu anchor( col :  6 row : 10 ) score : 34 new tiles : jeu
+word : next anchor( col :  8 row : 10 ) score : 10 new tiles : net
+word : uke anchor( col :  8 row : 10 ) score : 15 new tiles : uke
+word : lynxes anchor( col :  7 row : 11 ) score : 16 new tiles : es
+Hasil evaluasi : zonk , score : 36 , direction : 1 , anchor (7 , 11) , col : 9 , row : 5
+
+POSSIBLE MOVEMENT : 
+
+

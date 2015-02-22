@@ -1,0 +1,33 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : xjlztwr
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : YGMMKLI
+
+HUMAN MOVE : milk , score : 20 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : xjlztwr
+
+word : xi anchor( col :  6 row : 8 ) score : 17 new tiles : x
+word : jilt anchor( col :  6 row : 8 ) score : 20 new tiles : jlt
+word : zit anchor( col :  6 row : 8 ) score : 23 new tiles : zt
+word : wiz anchor( col :  6 row : 8 ) score : 29 new tiles : wz
+word : jilt anchor( col :  8 row : 8 ) score : 20 new tiles : jlt
+word : wiz anchor( col :  8 row : 8 ) score : 29 new tiles : wz
+Hasil evaluasi : wiz , score : 29 , direction : 1 , anchor (7 , 11) , col : 8 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+
+word : gym anchor( col :  7 row : 11 ) score : 31 new tiles : gym
+-------HUMAN CLICK HINT-------
+
+
+

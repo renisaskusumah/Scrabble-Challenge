@@ -1,0 +1,36 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	xu	0.061	18		2	GADDAG
+Player 1	buy	--	8		2	HUMAN 
+Player 2	sows	1.223	24		4	GADDAG
+Player 1	rows	--	7		3	HUMAN 
+Player 2	braza	4.354	38		5	GADDAG
+Player 1	ride	--	10		3	HUMAN 
+Player 2	sop	26.028	23		2	GADDAG
+Player 1	heal	--	14		3	HUMAN 
+Player 2	fad	1.035	20		2	GADDAG
+Player 1	him	--	8		2	HUMAN 
+Player 2	gird	0.882	21		3	GADDAG
+Player 1	wry	--	9		2	HUMAN 
+Player 2	mayed	3.052	28		4	GADDAG
+Player 1	milk	--	30		3	HUMAN 
+Player 2	gulch	2.729	23		4	GADDAG
+Player 1	fog	--	7		2	HUMAN 
+Player 2	heals	1.715	9		1	GADDAG
+Player 1	dive	--	9		3	HUMAN 
+Player 2	nip	1.671	12		2	GADDAG
+Player 1	rib	--	6		2	HUMAN 
+Player 2	gular	6.878	26		5	GADDAG
+Player 1	fur	--	6		2	HUMAN 
+Player 2	cannot	6.104	29		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	avo	6.053	17		3	GADDAG
+Player 1	jotas	--	30		4	HUMAN 
+Player 2	tab	10.677	16		2	GADDAG
+Player 1	noel	--	5		3	HUMAN 
+Player 2	tit	8.805	19		3	GADDAG
+Player 1	net	--	6		2	HUMAN 
+Player 2	ay	7.627	18		1	GADDAG
+Player 1	one	--	6		2	HUMAN 

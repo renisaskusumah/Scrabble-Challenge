@@ -1,0 +1,45 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1		exchange ( 15.166 )		--			0		0	
+Player 2	pfft	0.314	24		4	GADDAG	24
+Player 1		exchange ( 4.443 )		--			0		0	
+Player 2	goy	2.65	21		3	GADDAG	45
+Player 1		exchange ( 4.9 )		--			0		0	
+Player 2	waqf	2.095	29		3	GADDAG	74
+Player 1		exchange ( 3.747 )		--			0		0	
+Player 2	wax	1.119	29		2	GADDAG	103
+Player 1		exchange ( 4.334 )		--			0		0	
+Player 2	pock	0.924	12		2	GADDAG	115
+Player 1	husk	23.107	20		3	HUMAN 	20
+Player 2	voip	7.865	32		4	GADDAG	147
+Player 1		exchange ( 24.151 )		--			0		0	
+Player 2	hm	6.03	32		2	GADDAG	179
+Player 1		exchange ( 10.649 )		--			0		0	
+Player 2	wadt	7.579	25		3	GADDAG	204
+Player 1		exchange ( 5.528 )		--			0		0	
+Player 2	vrot	6.46	22		3	GADDAG	226
+Player 1		exchange ( 10.411 )		--			0		0	
+Player 2	chimb	5.44	14		2	GADDAG	240
+Player 1		exchange ( 4.841 )		--			0		0	
+Player 2	metre	16.892	20		4	GADDAG	260
+Player 1		exchange ( 5.073 )		--			0		0	
+Player 2	bez	7.274	34		2	GADDAG	294
+Player 1	secs	33.696	12		3	HUMAN 	32
+Player 2	relax	10.688	14		2	GADDAG	308
+Player 1		pass ( 3.844 )		--			0		0	
+Player 2	dig	13.106	14		3	GADDAG	322
+Player 1		pass ( 3.654 )		--			0		0	
+Player 2	ungilt	22.987	24		6	GADDAG	346
+Player 1		pass ( 1.531 )		--			0		0	
+Player 2	aue	8.863	20		3	GADDAG	366
+Player 1		pass ( 1.34 )		--			0		0	
+Player 2	aioli	20.36	18		5	GADDAG	384
+Player 1		pass ( 2.332 )		--			0		0	
+Player 2	bedrites	53.51	63		7	GADDAG	447
+Player 1		pass ( 6.317 )		--			0		0	
+Player 2	alien	76.353	30		5	GADDAG	477
+Player 1		pass ( 1.561 )		--			0		0	
+Player 2	bezoar	23.817	21		3	GADDAG	498
+Player 1		pass ( 4.265 )		--			0		0	
+Player 2	aia	13.006	14		3	GADDAG	512

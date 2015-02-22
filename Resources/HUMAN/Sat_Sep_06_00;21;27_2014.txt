@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	whew	1	24		4	GADDAG
+Player 1	spend	--	11		4	HUMAN 

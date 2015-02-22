@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	beg	--	10		3	HUMAN 
+Player 2	mumus	1.526	25		5	GADDAG
+Player 1	my	--	3		1	HUMAN 
+Player 2	fez	0.764	29		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	plat	1.662	30		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	pyx	3.168	30		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jean	3.433	35		4	GADDAG

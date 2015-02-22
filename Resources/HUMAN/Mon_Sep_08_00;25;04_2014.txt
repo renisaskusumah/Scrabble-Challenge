@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	jog	--	22		3	HUMAN 
+Player 2	fisc	14.714	27		4	GADDAG
+Player 1	flaxy	--	26		4	HUMAN 
+Player 2	brawl	2.021	22		4	GADDAG
+Player 1	brawlie	--	12		2	HUMAN 
+Player 2	spik	3.572	28		4	GADDAG

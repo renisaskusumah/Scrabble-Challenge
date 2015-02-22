@@ -1,0 +1,10 @@
+player word durasi skor tiles
+
+
+Player 1	ram	--	2		3
+Player 2	bendy	1.349	29		5
+Player 1		pass		--			0		0	
+Player 2	hunh	1.058	31		4
+Player 1	hum	--	8		2
+Player 2	odyl	2.192	24		4
+Player 1	why	--	8		2

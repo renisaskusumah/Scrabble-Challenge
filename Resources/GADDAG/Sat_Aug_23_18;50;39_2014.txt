@@ -1,0 +1,55 @@
+player word durasi skor tiles
+
+
+Player 1	skalds	1.141	32		6	
+Player 2 	kylix	2.97	38		4	
+Player 1	fuci	3.106	37		4	
+Player 2 	hippy	0.884	21		4	
+Player 1	maya	6.126	36		3	
+Player 2 	thy	0.875	22		2	
+Player 1	whippy	1.986	19		1	
+Player 2 	gem	2.081	24		3	
+Player 1	fa	3.79	22		2	
+Player 2 	ablest	19.635	20		5	blank tiles
+Player 1	budges	4.951	26		5	
+Player 2 	dev	1.103	9		2	
+Player 1	ganja	3.335	26		4	
+Player 2 	vin	3.229	18		3	
+Player 1	waded	68.436	27		4	blank tiles
+Player 2 	qursh	5.119	18		3	
+Player 1	cruor	8.306	22		5	
+Player 2 	snit	9.339	20		4	
+Player 1	tool	11.402	21		3	
+Player 2 	altar	15.888	13		4	
+Player 1	rede	13.417	21		3	
+Player 2 	ana	8.231	12		3	
+Player 1	train	10.062	14		4	
+Player 2 	wool	4.071	11		2	
+Player 1	orzo	6.831	31		3	
+Player 2 	re	3.145	8		1	
+Player 1	ne	5.813	10		2	
+Player 2 	id	1.595	7		2	
+Player 1	trainee	0.942	7		4	
+Player 2 	if	0.866	6		3	
+Player 1	oe	0.199	6		6	
+Player 2 	ti	0.423	4		4	
+Player 1	pi	0.024	4		7	
+Player 2 	ne	0.178	2		5	
+Player 1	-	0.005	0		7	
+Player 2 	er	0.078	2		6	
+Player 1	-	0.004	0		7	
+Player 2 	-	0.021	0		6	
+Player 1	-	0.005	0		7	
+Player 2 	-	0.021	0		6	
+Player 1	-	0.015	0		7	
+Player 2 	-	0.021	0		6	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 149.896
+player 1 left tile : 0
+player 1 total skor : 361
+player 1 Final skor : 361
+player 2 durasi : 79.773
+player 2 left tile : 1
+player 2 total skor : 255
+player 2 Final skor : 254

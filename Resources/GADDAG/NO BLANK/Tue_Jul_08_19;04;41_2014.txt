@@ -1,0 +1,69 @@
+player word durasi skor tiles
+
+
+Player 1	redd	0.126	12		4
+Player 2 	preed	1.956	18		4
+Player 1	edh	1.476	24		2
+Player 2 	treddled	0.859	12		4
+Player 1	clerk	0.703	27		4
+Player 2 	-	0.413	0		0
+Player 1	ax	1.482	24		2
+Player 2 	kaf	0.437	10		1
+Player 1	cwm	0.659	10		2
+Player 2 	mm	0.582	6		1
+Player 1	fub	1.994	30		3
+Player 2 	-	0.571	0		0
+Player 1	cwms	1.172	11		1
+Player 2 	-	0.59	0		0
+Player 1	apt	3.126	13		3
+Player 2 	grad	0.657	6		2
+Player 1	gob	2.451	12		2
+Player 2 	gummy	0.83	16		2
+Player 1	fib	2.391	25		2
+Player 2 	-	0.585	0		0
+Player 1	em	3.433	26		1
+Player 2 	-	0.572	0		0
+Player 1	got	0.957	4		1
+Player 2 	-	0.564	0		0
+Player 1	by	1.278	7		1
+Player 2 	-	0.586	0		0
+Player 1	sync	1.165	28		3
+Player 2 	-	0.611	0		0
+Player 1	vast	2.946	22		4
+Player 2 	gnawn	0.744	18		3
+Player 1	junco	4.19	60		4
+Player 2 	zip	1.75	14		2
+Player 1	unzip	6.987	18		3
+Player 2 	sh	1.431	20		2
+Player 1	lez	6.963	24		2
+Player 2 	qaid	4.094	17		3
+Player 1	inurn	3.95	14		3
+Player 2 	vino	8.152	30		4
+Player 1	woe	5.892	16		2
+Player 2 	sett	7.597	12		3
+Player 1	lari	8.137	14		4
+Player 2 	na	3.326	10		1
+Player 1	ai	3.913	10		2
+Player 2 	bye	1.909	8		2
+Player 1	ai	1.155	6		4
+Player 2 	ae	0.968	9		4
+Player 1	lo	0.251	6		5
+Player 2 	no	0.222	3		5
+Player 1	-	0.11	0		5
+Player 2 	tor	0.106	3		6
+Player 1	-	0.107	0		5
+Player 2 	-	0.057	0		6
+Player 1	-	0.115	0		5
+Player 2 	-	0.058	0		6
+Player 1	-	0.112	0		5
+Player 2 	-	0.057	0		6
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 0 menit 54 detik 
+player 1 left tile : 2
+player 1 total skor : 443
+player 1 Final skor : 441
+player 2 durasi : 0 menit 26 detik 
+player 2 left tile : 1
+player 2 total skor : 212
+player 2 Final skor : 211

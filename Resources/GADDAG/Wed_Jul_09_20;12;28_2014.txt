@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	jeez	0.217	40		4	
+Player 2 	zag	1.312	17		2	
+Player 1	angaries	11.178	61		7	
+Player 2 	baffs	0.871	26		4	
+Player 1	dorp	5.341	20		4	
+Player 2 	valvar	21.526	19		5	blank tiles
+Player 1	sec	5.788	22		2	
+Player 2 	waxer	30.534	34		4	blank tiles
+Player 1	sick	6.36	28		4	
+Player 2 	gamb	1.352	16		3	
+Player 1	narky	7.096	28		4	
+Player 2 	god	1.553	5		1	
+Player 1	thole	9.36	34		5	
+Player 2 	dada	1.451	5		2	
+Player 1	ray	8.452	25		2	
+Player 2 	xu	3.089	13		1	
+Player 1	opt	7.825	14		2	
+Player 2 	dap	1.296	12		1	
+Player 1	urb	5.781	6		2	
+Player 2 	mutt	1.339	10		3	
+Player 1	nth	3.524	15		3	
+Player 2 	intro	4.846	20		5	
+Player 1	renown	5.929	20		5	
+Player 2 	aloe	7.638	21		4	
+Player 1	loof	3.134	14		2	
+Player 2 	teel	4.572	15		3	
+Player 1	aw	2.935	8		1	
+Player 2 	pea	2.748	11		2	
+Player 1	ai	3.085	8		2	
+Player 2 	owe	1.304	8		2	
+Player 1	ani	0.816	3		3	
+Player 2 	tie	0.674	3		3	
+Player 1	ai	0.448	2		4	
+Player 2 	-	0.37	0		3	
+Player 1	-	0.239	0		4	
+Player 2 	-	0.374	0		3	
+Player 1	-	0.237	0		4	
+Player 2 	-	0.374	0		3	
+Player 1	-	0.247	0		4	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 87.992
+player 1 left tile : 3
+player 1 total skor : 348
+player 1 Final skor : 345
+player 2 durasi : 87.223
+player 2 left tile : 4
+player 2 total skor : 235
+player 2 Final skor : 222

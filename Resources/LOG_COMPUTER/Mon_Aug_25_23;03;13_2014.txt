@@ -1,0 +1,244 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : kite , score : 16 , direction : 2 , col : 7 , row : 8
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : outbid , score : 21 , direction : 1 , anchor (7 , 8) , col : 8 , row : 2
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tog , score : 8 , direction : 2 , col : 4 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : zips , score : 32 , direction : 1 , anchor (4 , 11) , col : 11 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : fins , score : 9 , direction : 1 , col : 10 , row : 5
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : six , score : 20 , direction : 2 , anchor (2 , 10) , col : 10 , row : 2
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : got , score : 4 , direction : 1 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : vug , score : 14 , direction : 2 , anchor (3 , 9) , col : 7 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : skited , score : 12 , direction : 2 , col : 7 , row : 9
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : bi , score : 22 , direction : 2 , anchor (1 , 10) , col : 9 , row : 1
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tend , score : 7 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : molds , score : 16 , direction : 1 , anchor (6 , 3) , col : 3 , row : 3
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : cord , score : 14 , direction : 2 , col : 4 , row : 6
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : goon , score : 18 , direction : 1 , anchor (5 , 9) , col : 9 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : hurts , score : 16 , direction : 2 , col : 9 , row : 6
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : om , score : 19 , direction : 2 , anchor (8 , 1) , col : 1 , row : 8
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : cords , score : 8 , direction : 2 , col : 4 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : towy , score : 20 , direction : 1 , anchor (10 , 4) , col : 4 , row : 9
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wry , score : 18 , direction : 2 , col : 12 , row : 5
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : pug , score : 15 , direction : 2 , anchor (3 , 12) , col : 11 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : help , score : 27 , direction : 1 , anchor (3 , 14) , col : 14 , row : 3
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  O L Q C
+New Tiles :  Y R O Q
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : helpful , score : 42 , direction : 1 , anchor (7 , 14) , col : 14 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : noh , score : 6 , direction : 1 , anchor (7 , 1) , col : 1 , row : 7
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : dev , score : 15 , direction : 2 , anchor (9 , 8) , col : 7 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : re , score : 14 , direction : 1 , anchor (3 , 2) , col : 2 , row : 2
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : car , score : 26 , direction : 1 , anchor (12 , 1) , col : 1 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : laten , score : 18 , direction : 1 , anchor (9 , 10) , col : 10 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : are , score : 16 , direction : 1 , anchor (11 , 3) , col : 3 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ana , score : 14 , direction : 1 , anchor (10 , 11) , col : 11 , row : 10
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gae , score : 12 , direction : 1 , anchor (4 , 13) , col : 13 , row : 3
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : eve , score : 11 , direction : 1 , anchor (10 , 9) , col : 9 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : era , score : 10 , direction : 1 , anchor (3 , 4) , col : 4 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : ya , score : 22 , direction : 1 , col : 14 , row : 12
+
+
+******COMPUTER TURN******
+

@@ -1,0 +1,52 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : NDYOUFK
+
+HUMAN MOVE : fund , score : 16 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : lhe*yon
+
+word : re anchor( col :  7 row : 6 ) score : 9 new tiles : re
+word : el anchor( col :  6 row : 7 ) score : 6 new tiles : el
+word : shelf anchor( col :  6 row : 7 ) score : 10 new tiles : shel
+word : hefty anchor( col :  6 row : 7 ) score : 13 new tiles : hety
+word : honeyful anchor( col :  6 row : 7 ) score : 67 new tiles : honeyul
+word : refly anchor( col :  8 row : 7 ) score : 10 new tiles : rely
+word : flesh anchor( col :  8 row : 7 ) score : 14 new tiles : lesh
+word : fleshy anchor( col :  8 row : 7 ) score : 18 new tiles : leshy
+word : honeyful anchor( col :  8 row : 7 ) score : 67 new tiles : honeyul
+word : blue anchor( col :  6 row : 8 ) score : 5 new tiles : ble
+word : bluey anchor( col :  6 row : 8 ) score : 9 new tiles : bley
+word : luny anchor( col :  6 row : 8 ) score : 9 new tiles : lny
+word : lehua anchor( col :  6 row : 8 ) score : 11 new tiles : leha
+word : shul anchor( col :  6 row : 8 ) score : 11 new tiles : shl
+word : shuln anchor( col :  6 row : 8 ) score : 12 new tiles : shln
+word : cohune anchor( col :  6 row : 8 ) score : 13 new tiles : cohne
+word : hulky anchor( col :  6 row : 8 ) score : 15 new tiles : hlky
+word : euphony anchor( col :  6 row : 8 ) score : 17 new tiles : ephony
+word : honeyful anchor( col :  6 row : 8 ) score : 65 new tiles : honeyfl
+word : shul anchor( col :  8 row : 8 ) score : 11 new tiles : shl
+word : shuln anchor( col :  8 row : 8 ) score : 12 new tiles : shln
+word : hulky anchor( col :  8 row : 8 ) score : 15 new tiles : hlky
+word : honeyful anchor( col :  8 row : 8 ) score : 65 new tiles : honeyfl
+word : foehn anchor( col :  6 row : 9 ) score : 9 new tiles : foeh
+word : johnny anchor( col :  6 row : 9 ) score : 21 new tiles : johny
+word : henry anchor( col :  6 row : 9 ) score : 26 new tiles : hery
+word : honey anchor( col :  6 row : 9 ) score : 27 new tiles : hoey
+word : openly anchor( col :  8 row : 9 ) score : 16 new tiles : opely
+word : liney anchor( col :  8 row : 9 ) score : 17 new tiles : liey
+word : honey anchor( col :  8 row : 9 ) score : 27 new tiles : hoey
+word : hooly anchor( col :  8 row : 9 ) score : 31 new tiles : hooly
+word : el anchor( col :  6 row : 10 ) score : 4 new tiles : el
+word : held anchor( col :  6 row : 10 ) score : 16 new tiles : hel
+word : holden anchor( col :  6 row : 10 ) score : 20 new tiles : holen
+word : lynched anchor( col :  6 row : 10 ) score : 26 new tiles : lynche
+word : redly anchor( col :  8 row : 10 ) score : 8 new tiles : rely
+word : notedly anchor( col :  8 row : 10 ) score : 20 new tiles : notely
+word : hondle anchor( col :  8 row : 10 ) score : 20 new tiles : honle
+word : dhooly anchor( col :  8 row : 10 ) score : 24 new tiles : hooly
+word : hoyden anchor( col :  8 row : 10 ) score : 26 new tiles : hoyen
+word : hooly anchor( col :  8 row : 10 ) score : 31 new tiles : hooly

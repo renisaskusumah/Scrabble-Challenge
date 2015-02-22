@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	zip	0.059	28		3	
+Player 2 	umps	1.669	26		4	
+Player 1	bevy	1.114	35		4	
+Player 2 	deny	3.636	33		3	
+Player 1	zax	19.732	35		2	
+Player 2 	how	2.409	32		3	
+Player 1	huck	22.767	42		4	blank tiles
+Player 2 	vacua	3.034	25		4	
+Player 1	fig	0.863	22		2	
+Player 2 	sward	2.463	26		4	
+Player 1	jus	1.478	21		3	
+Player 2 	ops	4.612	21		2	
+Player 1	ted	1.987	23		3	
+Player 2 	mad	4.272	19		3	
+Player 1	fa	2.148	21		2	
+Player 2 	myalgic	4.125	16		5	
+Player 1	bot	2.844	18		3	
+Player 2 	jocular	62.44	30		5	blank tiles
+Player 1	quin	2.788	14		3	
+Player 2 	root	8.469	15		4	
+Player 1	rent	3.921	18		4	
+Player 2 	rentier	6.918	21		3	
+Player 1	qat	9.066	30		2	
+Player 2 	ag	6.423	11		2	
+Player 1	nu	5.367	8		1	
+Player 2 	ninon	6.809	10		4	
+Player 1	riot	6.158	8		2	
+Player 2 	oe	2.672	9		2	
+Player 1	requin	7.266	16		2	
+Player 2 	ago	1.966	9		1	
+Player 1	ne	0.977	6		3	
+Player 2 	re	0.873	2		2	
+Player 1	-	0.373	0		3	
+Player 2 	-	0.502	0		2	
+Player 1	-	0.38	0		3	
+Player 2 	-	0.506	0		2	
+Player 1	-	0.381	0		3	
+Player 2 	-	0.51	0		2	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 89.669
+player 1 left tile : 4
+player 1 total skor : 345
+player 1 Final skor : 341
+player 2 durasi : 124.308
+player 2 left tile : 5
+player 2 total skor : 305
+player 2 Final skor : 300

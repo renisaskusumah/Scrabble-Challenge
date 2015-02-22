@@ -1,0 +1,282 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+
+word : sh anchor( col :  7 row : 7 ) score : 10
+word : sh anchor( col :  7 row : 7 ) score : 10
+Hasil evaluasi : sh , score : 10 , direction : 2 , col : 7 , row : 6
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  D G Y K H
+New Tiles :  G O Q W O
+
+
+******COMPUTER TURN******
+
+word : byrl anchor( col :  6 row : 6 ) score : 11
+word : byrls anchor( col :  6 row : 6 ) score : 11
+word : by anchor( col :  6 row : 6 ) score : 12
+word : bys anchor( col :  6 row : 6 ) score : 12
+word : sly anchor( col :  8 row : 6 ) score : 7
+word : by anchor( col :  7 row : 8 ) score : 19
+word : byrl anchor( col :  7 row : 8 ) score : 22
+word : shy anchor( col :  7 row : 8 ) score : 9
+Hasil evaluasi : byrl , score : 22 , direction : 1 , anchor (7 , 8) , col : 8 , row : 6
+
+
+
+word : wogs anchor( col :  6 row : 6 ) score : 10
+word : wogs anchor( col :  6 row : 6 ) score : 10
+word : nogs anchor( col :  6 row : 6 ) score : 7
+word : nogs anchor( col :  6 row : 6 ) score : 7
+word : wogs anchor( col :  6 row : 6 ) score : 10
+word : wogs anchor( col :  6 row : 6 ) score : 10
+word : nogs anchor( col :  6 row : 6 ) score : 7
+word : nogs anchor( col :  6 row : 6 ) score : 7
+word : wo anchor( col :  6 row : 6 ) score : 7
+word : no anchor( col :  6 row : 6 ) score : 4
+word : goos anchor( col :  6 row : 6 ) score : 6
+word : goos anchor( col :  6 row : 6 ) score : 6
+word : woos anchor( col :  6 row : 6 ) score : 8
+word : woos anchor( col :  6 row : 6 ) score : 8
+word : zoos anchor( col :  6 row : 6 ) score : 14
+word : zoos anchor( col :  6 row : 6 ) score : 14
+word : os anchor( col :  6 row : 6 ) score : 3
+word : nows anchor( col :  6 row : 6 ) score : 11
+word : nows anchor( col :  6 row : 6 ) score : 11
+word : nows anchor( col :  6 row : 6 ) score : 11
+word : nows anchor( col :  6 row : 6 ) score : 11
+word : on anchor( col :  6 row : 6 ) score : 4
+word : wons anchor( col :  6 row : 6 ) score : 8
+word : wons anchor( col :  6 row : 6 ) score : 8
+word : goon anchor( col :  6 row : 6 ) score : 7
+word : goons anchor( col :  6 row : 6 ) score : 7
+word : zoon anchor( col :  6 row : 6 ) score : 15
+word : zoons anchor( col :  6 row : 6 ) score : 15
+word : ons anchor( col :  6 row : 6 ) score : 4
+word : own anchor( col :  6 row : 6 ) score : 8
+word : gowns anchor( col :  6 row : 6 ) score : 10
+word : gowns anchor( col :  6 row : 6 ) score : 10
+word : own anchor( col :  6 row : 6 ) score : 8
+word : gowns anchor( col :  6 row : 6 ) score : 10
+word : gowns anchor( col :  6 row : 6 ) score : 10
+word : on anchor( col :  6 row : 6 ) score : 4
+word : goons anchor( col :  6 row : 6 ) score : 7
+word : goons anchor( col :  6 row : 6 ) score : 7
+word : zoons anchor( col :  6 row : 6 ) score : 15
+word : zoons anchor( col :  6 row : 6 ) score : 15
+word : won anchor( col :  6 row : 6 ) score : 8
+word : ons anchor( col :  6 row : 6 ) score : 4
+word : goo anchor( col :  6 row : 6 ) score : 6
+word : woo anchor( col :  6 row : 6 ) score : 8
+word : zoo anchor( col :  6 row : 6 ) score : 14
+word : wo anchor( col :  6 row : 6 ) score : 7
+word : wos anchor( col :  6 row : 6 ) score : 7
+word : no anchor( col :  6 row : 6 ) score : 4
+word : nos anchor( col :  6 row : 6 ) score : 4
+word : os anchor( col :  6 row : 6 ) score : 3
+word : go anchor( col :  6 row : 6 ) score : 7
+word : wo anchor( col :  6 row : 6 ) score : 9
+word : gonzo anchor( col :  6 row : 6 ) score : 21
+word : no anchor( col :  6 row : 6 ) score : 6
+word : goo anchor( col :  6 row : 6 ) score : 8
+word : woo anchor( col :  6 row : 6 ) score : 10
+word : zoo anchor( col :  6 row : 6 ) score : 16
+word : noo anchor( col :  6 row : 6 ) score : 7
+word : go anchor( col :  6 row : 6 ) score : 7
+word : goo anchor( col :  6 row : 6 ) score : 8
+word : woo anchor( col :  6 row : 6 ) score : 10
+word : zoo anchor( col :  6 row : 6 ) score : 16
+word : noo anchor( col :  6 row : 6 ) score : 7
+word : wo anchor( col :  6 row : 6 ) score : 9
+word : gonzo anchor( col :  6 row : 6 ) score : 21
+word : no anchor( col :  6 row : 6 ) score : 6
+word : so anchor( col :  8 row : 6 ) score : 3
+word : sow anchor( col :  8 row : 6 ) score : 7
+word : sown anchor( col :  8 row : 6 ) score : 8
+word : son anchor( col :  8 row : 6 ) score : 4
+word : song anchor( col :  8 row : 6 ) score : 6
+word : soon anchor( col :  8 row : 6 ) score : 5
+word : swoon anchor( col :  8 row : 6 ) score : 12
+word : swoon anchor( col :  8 row : 6 ) score : 12
+word : snog anchor( col :  8 row : 6 ) score : 6
+word : snow anchor( col :  8 row : 6 ) score : 8
+word : snog anchor( col :  8 row : 6 ) score : 6
+word : snow anchor( col :  8 row : 6 ) score : 8
+word : so anchor( col :  8 row : 6 ) score : 3
+word : soon anchor( col :  8 row : 6 ) score : 5
+word : sow anchor( col :  8 row : 6 ) score : 7
+word : sown anchor( col :  8 row : 6 ) score : 8
+word : son anchor( col :  8 row : 6 ) score : 4
+word : song anchor( col :  8 row : 6 ) score : 6
+word : go anchor( col :  8 row : 6 ) score : 7
+word : wo anchor( col :  8 row : 6 ) score : 9
+word : gonzo anchor( col :  8 row : 6 ) score : 21
+word : no anchor( col :  8 row : 6 ) score : 6
+word : goo anchor( col :  8 row : 6 ) score : 8
+word : woo anchor( col :  8 row : 6 ) score : 10
+word : zoo anchor( col :  8 row : 6 ) score : 16
+word : noo anchor( col :  8 row : 6 ) score : 7
+word : go anchor( col :  8 row : 6 ) score : 7
+word : goo anchor( col :  8 row : 6 ) score : 8
+word : woo anchor( col :  8 row : 6 ) score : 10
+word : zoo anchor( col :  8 row : 6 ) score : 16
+word : noo anchor( col :  8 row : 6 ) score : 7
+word : wo anchor( col :  8 row : 6 ) score : 9
+word : gonzo anchor( col :  8 row : 6 ) score : 21
+word : no anchor( col :  8 row : 6 ) score : 6
+word : ho anchor( col :  8 row : 7 ) score : 7
+word : ho anchor( col :  8 row : 7 ) score : 7
+word : or anchor( col :  8 row : 7 ) score : 7
+word : or anchor( col :  8 row : 7 ) score : 7
+word : or anchor( col :  8 row : 7 ) score : 7
+word : or anchor( col :  8 row : 7 ) score : 7
+word : go anchor( col :  6 row : 9 ) score : 11
+word : wo anchor( col :  6 row : 9 ) score : 17
+word : gonzo anchor( col :  6 row : 9 ) score : 39
+word : no anchor( col :  6 row : 9 ) score : 8
+word : goo anchor( col :  6 row : 9 ) score : 10
+word : woo anchor( col :  6 row : 9 ) score : 12
+word : zoo anchor( col :  6 row : 9 ) score : 18
+word : noo anchor( col :  6 row : 9 ) score : 9
+word : go anchor( col :  6 row : 9 ) score : 11
+word : goo anchor( col :  6 row : 9 ) score : 10
+word : woo anchor( col :  6 row : 9 ) score : 12
+word : zoo anchor( col :  6 row : 9 ) score : 18
+word : noo anchor( col :  6 row : 9 ) score : 9
+word : wo anchor( col :  6 row : 9 ) score : 17
+word : gonzo anchor( col :  6 row : 9 ) score : 39
+word : no anchor( col :  6 row : 9 ) score : 8
+word : bo anchor( col :  6 row : 9 ) score : 4
+word : bog anchor( col :  6 row : 9 ) score : 6
+word : bow anchor( col :  6 row : 9 ) score : 8
+word : bozo anchor( col :  6 row : 9 ) score : 15
+word : bong anchor( col :  6 row : 9 ) score : 7
+word : bongo anchor( col :  6 row : 9 ) score : 9
+word : boo anchor( col :  6 row : 9 ) score : 5
+word : boon anchor( col :  6 row : 9 ) score : 6
+word : bo anchor( col :  6 row : 9 ) score : 4
+word : bog anchor( col :  6 row : 9 ) score : 6
+word : boo anchor( col :  6 row : 9 ) score : 5
+word : boon anchor( col :  6 row : 9 ) score : 6
+word : bow anchor( col :  6 row : 9 ) score : 8
+word : bozo anchor( col :  6 row : 9 ) score : 15
+word : bong anchor( col :  6 row : 9 ) score : 7
+word : bongo anchor( col :  6 row : 9 ) score : 9
+word : ow anchor( col :  10 row : 9 ) score : 5
+word : own anchor( col :  10 row : 9 ) score : 6
+word : on anchor( col :  10 row : 9 ) score : 2
+word : wo anchor( col :  10 row : 9 ) score : 25
+word : woo anchor( col :  10 row : 9 ) score : 29
+word : wo anchor( col :  10 row : 9 ) score : 25
+word : woo anchor( col :  10 row : 9 ) score : 29
+word : no anchor( col :  10 row : 9 ) score : 16
+word : noo anchor( col :  10 row : 9 ) score : 20
+word : no anchor( col :  10 row : 9 ) score : 16
+word : noo anchor( col :  10 row : 9 ) score : 20
+word : gown anchor( col :  8 row : 10 ) score : 16
+word : wow anchor( col :  8 row : 10 ) score : 9
+word : wow anchor( col :  8 row : 10 ) score : 9
+word : now anchor( col :  8 row : 10 ) score : 6
+word : now anchor( col :  8 row : 10 ) score : 6
+word : own anchor( col :  8 row : 10 ) score : 12
+word : gown anchor( col :  8 row : 10 ) score : 16
+word : wow anchor( col :  8 row : 10 ) score : 9
+word : wow anchor( col :  8 row : 10 ) score : 9
+word : now anchor( col :  8 row : 10 ) score : 6
+word : now anchor( col :  8 row : 10 ) score : 6
+word : own anchor( col :  8 row : 10 ) score : 12
+word : wo anchor( col :  10 row : 10 ) score : 10
+word : wog anchor( col :  10 row : 10 ) score : 14
+word : wow anchor( col :  10 row : 10 ) score : 18
+word : won anchor( col :  10 row : 10 ) score : 12
+word : woo anchor( col :  10 row : 10 ) score : 12
+word : own anchor( col :  10 row : 10 ) score : 12
+word : gown anchor( col :  10 row : 10 ) score : 16
+word : own anchor( col :  10 row : 10 ) score : 12
+word : gown anchor( col :  10 row : 10 ) score : 16
+word : wo anchor( col :  10 row : 10 ) score : 10
+word : wog anchor( col :  10 row : 10 ) score : 14
+word : woo anchor( col :  10 row : 10 ) score : 12
+word : wow anchor( col :  10 row : 10 ) score : 18
+word : won anchor( col :  10 row : 10 ) score : 12
+word : wo anchor( col :  10 row : 10 ) score : 25
+word : woo anchor( col :  10 row : 10 ) score : 29
+word : no anchor( col :  10 row : 10 ) score : 16
+word : noo anchor( col :  10 row : 10 ) score : 20
+word : wo anchor( col :  10 row : 10 ) score : 25
+word : woo anchor( col :  10 row : 10 ) score : 29
+word : no anchor( col :  10 row : 10 ) score : 16
+word : noo anchor( col :  10 row : 10 ) score : 20
+word : gonzo anchor( col :  8 row : 11 ) score : 34
+word : won anchor( col :  8 row : 11 ) score : 10
+word : won anchor( col :  8 row : 11 ) score : 10
+word : goo anchor( col :  8 row : 11 ) score : 6
+word : goon anchor( col :  8 row : 11 ) score : 6
+word : zoo anchor( col :  8 row : 11 ) score : 14
+word : zoon anchor( col :  8 row : 11 ) score : 14
+word : noo anchor( col :  8 row : 11 ) score : 5
+word : noon anchor( col :  8 row : 11 ) score : 5
+word : own anchor( col :  8 row : 11 ) score : 7
+word : gown anchor( col :  8 row : 11 ) score : 9
+word : own anchor( col :  8 row : 11 ) score : 7
+word : own anchor( col :  8 row : 11 ) score : 7
+word : gown anchor( col :  8 row : 11 ) score : 9
+word : own anchor( col :  8 row : 11 ) score : 7
+word : gonzo anchor( col :  8 row : 11 ) score : 34
+word : goo anchor( col :  8 row : 11 ) score : 6
+word : goon anchor( col :  8 row : 11 ) score : 6
+word : zoo anchor( col :  8 row : 11 ) score : 14
+word : zoon anchor( col :  8 row : 11 ) score : 14
+word : noo anchor( col :  8 row : 11 ) score : 5
+word : noon anchor( col :  8 row : 11 ) score : 5
+word : won anchor( col :  8 row : 11 ) score : 10
+word : won anchor( col :  8 row : 11 ) score : 10
+word : ow anchor( col :  8 row : 11 ) score : 11
+word : own anchor( col :  8 row : 11 ) score : 12
+word : on anchor( col :  8 row : 11 ) score : 5
+word : ow anchor( col :  8 row : 11 ) score : 11
+word : own anchor( col :  8 row : 11 ) score : 12
+word : on anchor( col :  8 row : 11 ) score : 5
+word : no anchor( col :  10 row : 11 ) score : 2
+word : nog anchor( col :  10 row : 11 ) score : 8
+word : now anchor( col :  10 row : 11 ) score : 12
+word : noo anchor( col :  10 row : 11 ) score : 6
+word : noon anchor( col :  10 row : 11 ) score : 8
+word : gonzo anchor( col :  10 row : 11 ) score : 34
+word : gonzo anchor( col :  10 row : 11 ) score : 34
+word : no anchor( col :  10 row : 11 ) score : 2
+word : nog anchor( col :  10 row : 11 ) score : 8
+word : noo anchor( col :  10 row : 11 ) score : 6
+word : noon anchor( col :  10 row : 11 ) score : 8
+word : now anchor( col :  10 row : 11 ) score : 12
+word : woo anchor( col :  10 row : 11 ) score : 29
+word : noo anchor( col :  10 row : 11 ) score : 20
+word : ow anchor( col :  10 row : 11 ) score : 7
+word : own anchor( col :  10 row : 11 ) score : 8
+word : on anchor( col :  10 row : 11 ) score : 4
+word : woo anchor( col :  10 row : 11 ) score : 29
+word : noo anchor( col :  10 row : 11 ) score : 20
+word : ow anchor( col :  10 row : 11 ) score : 7
+word : own anchor( col :  10 row : 11 ) score : 8
+word : on anchor( col :  10 row : 11 ) score : 4
+******HUMAN RESULT******
+
+
+HUMAN MOVE : lown , score : 9 , direction : 2 , col : 9 , row : 12
+
+
+******COMPUTER TURN******
+
+word : flown anchor( col :  9 row : 7 ) score : 11
+word : old anchor( col :  10 row : 9 ) score : 4
+word : of anchor( col :  10 row : 9 ) score : 5
+word : oft anchor( col :  10 row : 9 ) score : 6
+word : od anchor( col :  10 row : 9 ) score : 3
+Hasil evaluasi : flown , score : 11 , direction : 2 , anchor (9 , 7) , col : 7 , row : 9
+
+
+

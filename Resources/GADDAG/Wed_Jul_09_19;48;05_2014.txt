@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	gems	0.165	14		4	
+Player 2 	knap	13.991	21		4	blank tiles
+Player 1	scag	0.669	12		2	
+Player 2 	pew	0.556	12		1	
+Player 1	mack	2.014	24		3	
+Player 2 	flabs	0.647	20		3	
+Player 1	tiff	2.555	28		3	
+Player 2 	hob	2.119	21		3	
+Player 1	pond	1.599	27		4	
+Player 2 	id	2.937	14		2	
+Player 1	bortz	0.616	32		3	
+Player 2 	zig	1.67	26		2	
+Player 1	qat	1.878	12		2	
+Player 2 	jab	2.865	16		2	
+Player 1	von	4.833	19		2	
+Player 2 	qat	3.875	13		2	
+Player 1	halt	6.433	15		3	
+Player 2 	tax	1.342	11		2	
+Player 1	taxa	60.896	38		3	blank tiles
+Player 2 	jural	5.776	14		4	
+Player 1	sin	5.628	32		2	
+Player 2 	yew	4.563	24		3	
+Player 1	loungy	5.705	23		6	
+Player 2 	duvet	5.176	18		4	
+Player 1	sac	8.936	22		2	
+Player 2 	doyen	7.518	22		4	
+Player 1	noria	8.279	19		5	
+Player 2 	retax	6.621	12		2	
+Player 1	eerier	8.928	12		5	
+Player 2 	oe	4.843	10		2	
+Player 1	eerie	2.866	14		4	
+Player 2 	ourie	1.337	10		6	
+Player 1	id	0.243	3		5	
+Player 2 	en	0.053	55		7	
+Player 1	-	0.112	0		5	
+Player 2 	-	0.025	0		7	
+Player 1	-	0.125	0		5	
+Player 2 	-	0.025	0		7	
+Player 1	-	0.115	0		5	
+Player 2 	-	0.025	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 122.595
+player 1 left tile : 2
+player 1 total skor : 346
+player 1 Final skor : 344
+player 2 durasi : 65.964
+player 2 left tile : 0
+player 2 total skor : 319
+player 2 Final skor : 319

@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	fly	--	18		3	HUMAN 
+Player 2	coys	2.255	15		3	GADDAG
+Player 1	shy	--	5		2	HUMAN 

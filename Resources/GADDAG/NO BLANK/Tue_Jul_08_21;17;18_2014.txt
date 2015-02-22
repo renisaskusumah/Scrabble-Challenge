@@ -1,0 +1,50 @@
+player word durasi skor tiles
+
+
+Player 1	exact	0.252	30		5
+Player 2 	adze	4.379	34		3
+Player 1	ryked	1.072	26		4
+Player 2 	caudex	6.643	32		5
+Player 1	quart	1.823	28		4
+Player 2 	sob	3.114	26		3
+Player 1	pubs	2.4	26		4
+Player 2 	mumu	1.748	14		2
+Player 1	wyte	3.209	33		4
+Player 2 	frap	4.667	30		4
+Player 1	jugs	1.962	24		3
+Player 2 	vent	6.895	27		4
+Player 1	how	5.608	31		3
+Player 2 	sh	4.149	30		2
+Player 1	gloom	7.376	29		4
+Player 2 	onto	11.533	17		4
+Player 1	flota	7.013	32		5
+Player 2 	draw	9.986	18		3
+Player 1	glaive	11.654	33		6
+Player 2 	lea	16.931	20		3
+Player 1	aqua	14.974	26		3
+Player 2 	irone	17.83	23		5
+Player 1	mi	12.222	10		1
+Player 2 	ere	11.573	21		3
+Player 1	ill	11.773	8		1
+Player 2 	ice	0.776	11		5
+Player 1	ire	5.339	7		2
+Player 2 	tie	0.18	57		7
+Player 1	inn	2.319	7		5
+Player 2 	-	0.062	0		7
+Player 1	in	0.188	56		7
+Player 2 	-	0.063	0		7
+Player 1	-	0.062	0		7
+Player 2 	-	0.062	0		7
+Player 1	-	0.063	0		7
+Player 2 	-	0.062	0		7
+Player 1	-	0.064	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 89.373
+player 1 left tile : 0
+player 1 total skor : 406
+player 1 Final skor : 406
+player 2 durasi : 100.653
+player 2 left tile : 0
+player 2 total skor : 360
+player 2 Final skor : 360

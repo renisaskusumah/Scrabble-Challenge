@@ -1,0 +1,48 @@
+player word durasi skor tiles
+
+
+Player 1	peewee	5.409	20		6	blank tiles
+Player 2 	veery	48.766	26		4	blank tiles
+Player 1	oyez	2.034	30		3	
+Player 2 	bleep	4.139	31		5	
+Player 1	wriggle	2.735	28		6	
+Player 2 	fem	5.756	31		3	
+Player 1	snob	3.198	25		4	
+Player 2 	mojo	2.848	38		4	
+Player 1	keg	5.909	32		3	
+Player 2 	wood	3.526	29		4	
+Player 1	vac	5.882	25		3	
+Player 2 	qat	2.782	38		3	
+Player 1	durrs	6.447	38		5	
+Player 2 	lynx	1.757	14		3	
+Player 1	tafia	12.388	27		5	
+Player 2 	butch	5.011	24		4	
+Player 1	urare	14.28	18		5	
+Player 2 	aland	13.655	27		5	
+Player 1	heat	9.93	34		4	
+Player 2 	doat	15.392	19		4	
+Player 1	sis	14.908	41		3	
+Player 2 	rin	8.224	15		3	
+Player 1	out	5.541	14		3	
+Player 2 	hin	0.678	6		5	
+Player 1	ire	0.451	12		5	
+Player 2 	nip	0.112	55		7	
+Player 1	if	0.095	5		6	
+Player 2 	-	0.021	0		7	
+Player 1	it	0.04	53		7	
+Player 2 	-	0.027	0		7	
+Player 1	-	0.026	0		7	
+Player 2 	-	0.026	0		7	
+Player 1	-	0.026	0		7	
+Player 2 	-	0.025	0		7	
+Player 1	-	0.026	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 89.325
+player 1 left tile : 0
+player 1 total skor : 402
+player 1 Final skor : 402
+player 2 durasi : 112.745
+player 2 left tile : 0
+player 2 total skor : 353
+player 2 Final skor : 353

@@ -1,0 +1,41 @@
+Player 2 	vugg	0.832	17		4
+Player 1	gnu	0.764	5		2
+Player 2 	tsks	0.573	8		2
+Player 1	cloy	4.326	21		3
+Player 2 	flic	3.108	18		3
+Player 1	riff	2.887	20		2
+Player 2 	dopas	3.415	26		5
+Player 1	lotto	1.543	10		3
+Player 2 	prods	1.089	22		4
+Player 1	along	6.052	18		4
+Player 2 	qat	4.254	30		3
+Player 1	ti	4.565	10		1
+Player 2 	overate	7.229	66		7
+Player 1	rin	6.248	22		3
+Player 2 	deb	8.202	22		3
+Player 1	inro	5.274	12		4
+Player 2 	beano	6.394	32		5
+Player 1	ex	2.33	22		2
+Player 2 	aga	3.545	16		2
+Player 1	jota	2.388	12		1
+Player 2 	oe	0.963	11		4
+Player 1	it	1.135	7		2
+Player 2 	eel	0.213	9		6
+Player 1	ess	0.632	6		3
+Player 2 	si	0.056	54		7
+Player 1	-	0.31	0		3
+Player 2 	-	0.038	0		7
+Player 1	-	0.317	0		3
+Player 2 	-	0.038	0		7
+Player 1	-	0.316	0		3
+Player 2 	-	0.042	0		7
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 42.722
+player 1 left tile : 4
+player 1 total skor : 241
+player 1 Final skor : 237
+player 2 durasi : 44.455
+player 2 left tile : 0
+player 2 total skor : 482
+player 2 Final skor : 482

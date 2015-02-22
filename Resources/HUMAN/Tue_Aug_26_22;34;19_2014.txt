@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	cwms	0.121	22		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	quaffs	17.905	40		5	GADDAG

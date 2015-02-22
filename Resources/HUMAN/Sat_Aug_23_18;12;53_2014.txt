@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	jin	--	20		3
+Player 2	hao	1.084	21		3
+Player 1	junk	--	15		3
+Player 2	anoxia	26.693	44		5

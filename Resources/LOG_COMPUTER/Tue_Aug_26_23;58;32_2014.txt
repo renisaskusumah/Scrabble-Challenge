@@ -1,0 +1,720 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : XPKJVHI
+
+HUMAN MOVE : hip , score : 16 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : qbddnap
+
+Hasil evaluasi : dab , score : 23 , direction : 2 , anchor (6 , 7) , col : 6 , row : 6
+
+POSSIBLE MOVEMENT : 
+ba ( col : 5 row: 7 ) score : 8
+dab ( col : 6 row: 6 ) score : 23
+hap ( col : 7 row: 7 ) score : 8
+bad ( col : 8 row: 6 ) score : 21
+qaid ( col : 5 row: 8 ) score : 17
+pap ( col : 5 row: 9 ) score : 13
+dab ( col : 8 row: 8 ) score : 17
+
+
+******COMPUTER TURN******
+RACK : qdnpayu
+
+Hasil evaluasi : quad , score : 31 , direction : 2 , anchor (8 , 7) , col : 5 , row : 8
+
+POSSIBLE MOVEMENT : 
+quad ( col : 3 row: 6 ) score : 14
+quay ( col : 5 row: 4 ) score : 30
+ayah ( col : 4 row: 7 ) score : 10
+aha ( col : 6 row: 7 ) score : 6
+quad ( col : 8 row: 5 ) score : 31
+upbind ( col : 4 row: 8 ) score : 12
+pay ( col : 7 row: 9 ) score : 16
+day ( col : 8 row: 8 ) score : 21
+hippy ( col : 7 row: 7 ) score : 19
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : XTKJVUY
+
+HUMAN MOVE : ut , score : 2 , direction : 1 , col : 10 , row : 6
+
+
+******COMPUTER TURN******
+RACK : npyvw*f
+
+Hasil evaluasi : spy , score : 28 , direction : 1 , anchor (8 , 4) , col : 4 , row : 8
+
+POSSIBLE MOVEMENT : 
+spy ( col : 8 row: 4 ) score : 28
+wyn ( col : 3 row: 6 ) score : 11
+pya ( col : 5 row: 4 ) score : 17
+uta ( col : 8 row: 6 ) score : 2
+wyns ( col : 10 row: 3 ) score : 20
+haha ( col : 5 row: 7 ) score : 6
+unbid ( col : 4 row: 8 ) score : 7
+biddy ( col : 6 row: 8 ) score : 10
+spy ( col : 9 row: 8 ) score : 19
+wyns ( col : 4 row: 10 ) score : 26
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : XFKJVUY
+
+HUMAN MOVE : yup , score : 8 , direction : 2 , col : 9 , row : 5
+
+
+******COMPUTER TURN******
+RACK : nvwfzre
+
+Hasil evaluasi : wyvern , score : 38 , direction : 1 , anchor (8 , 2) , col : 2 , row : 8
+
+POSSIBLE MOVEMENT : 
+wyvern ( col : 8 row: 2 ) score : 38
+espy ( col : 7 row: 4 ) score : 8
+we ( col : 7 row: 3 ) score : 17
+ef ( col : 10 row: 5 ) score : 10
+wen ( col : 3 row: 6 ) score : 8
+verbid ( col : 3 row: 8 ) score : 12
+bider ( col : 6 row: 8 ) score : 8
+ef ( col : 9 row: 8 ) score : 20
+
+
+******COMPUTER TURN******
+RACK : fzldhrm
+
+Hasil evaluasi : zed , score : 46 , direction : 2 , anchor (11 , 1) , col : 1 , row : 11
+
+POSSIBLE MOVEMENT : 
+zed ( col : 11 row: 1 ) score : 46
+haha ( col : 5 row: 7 ) score : 10
+
+
+******COMPUTER TURN******
+RACK : flhrmic
+
+Hasil evaluasi : chi , score : 19 , direction : 2 , anchor (5 , 6) , col : 4 , row : 5
+
+POSSIBLE MOVEMENT : 
+inch ( col : 13 row: 1 ) score : 18
+crispy ( col : 5 row: 4 ) score : 12
+child ( col : 2 row: 6 ) score : 14
+chi ( col : 5 row: 4 ) score : 19
+
+
+******COMPUTER TURN******
+RACK : flrmmi*
+
+Hasil evaluasi : filmer , score : 27 , direction : 2 , anchor (4 , 6) , col : 6 , row : 4
+
+POSSIBLE MOVEMENT : 
+fila ( col : 5 row: 1 ) score : 18
+inarm ( col : 13 row: 1 ) score : 24
+wyverns ( col : 8 row: 2 ) score : 15
+ism ( col : 14 row: 1 ) score : 22
+kimchi ( col : 5 row: 1 ) score : 12
+de ( col : 11 row: 3 ) score : 3
+refilm ( col : 12 row: 2 ) score : 13
+mafic ( col : 1 row: 4 ) score : 22
+farci ( col : 2 row: 4 ) score : 18
+crispy ( col : 5 row: 4 ) score : 12
+me ( col : 7 row: 3 ) score : 13
+filth ( col : 1 row: 5 ) score : 18
+alif ( col : 10 row: 5 ) score : 18
+flu ( col : 2 row: 6 ) score : 12
+filmer ( col : 4 row: 6 ) score : 27
+uteri ( col : 8 row: 6 ) score : 5
+alif ( col : 10 row: 6 ) score : 8
+for ( col : 3 row: 8 ) score : 11
+ibidem ( col : 5 row: 8 ) score : 10
+ef ( col : 9 row: 8 ) score : 18
+lis ( col : 4 row: 9 ) score : 13
+psi ( col : 7 row: 9 ) score : 20
+films ( col : 3 row: 10 ) score : 26
+
+
+******COMPUTER TURN******
+RACK : mruwbot
+
+Hasil evaluasi : womb , score : 30 , direction : 2 , anchor (3 , 10) , col : 10 , row : 3
+
+POSSIBLE MOVEMENT : 
+umbo ( col : 5 row: 1 ) score : 15
+unto ( col : 13 row: 1 ) score : 8
+row ( col : 12 row: 2 ) score : 9
+numb ( col : 13 row: 2 ) score : 14
+tor ( col : 2 row: 4 ) score : 12
+mi ( col : 3 row: 7 ) score : 7
+bow ( col : 1 row: 8 ) score : 10
+worm ( col : 1 row: 9 ) score : 17
+womb ( col : 2 row: 9 ) score : 17
+mower ( col : 1 row: 10 ) score : 9
+womb ( col : 3 row: 10 ) score : 30
+um ( col : 5 row: 9 ) score : 15
+burrow ( col : 2 row: 11 ) score : 30
+
+
+******COMPUTER TURN******
+RACK : rutnald
+
+Hasil evaluasi : uta , score : 19 , direction : 2 , anchor (5 , 9) , col : 9 , row : 5
+
+POSSIBLE MOVEMENT : 
+tundra ( col : 3 row: 1 ) score : 15
+annul ( col : 13 row: 1 ) score : 14
+rand ( col : 12 row: 2 ) score : 8
+duct ( col : 3 row: 4 ) score : 14
+auld ( col : 10 row: 5 ) score : 14
+uta ( col : 8 row: 6 ) score : 3
+adult ( col : 10 row: 6 ) score : 15
+lar ( col : 1 row: 7 ) score : 5
+ta ( col : 3 row: 7 ) score : 8
+da ( col : 2 row: 8 ) score : 6
+mu ( col : 4 row: 9 ) score : 6
+uta ( col : 5 row: 9 ) score : 19
+unwed ( col : 1 row: 10 ) score : 8
+lurdan ( col : 2 row: 6 ) score : 17
+dawen ( col : 1 row: 10 ) score : 8
+torula ( col : 2 row: 11 ) score : 7
+da ( col : 2 row: 11 ) score : 18
+ant ( col : 5 row: 9 ) score : 19
+dam ( col : 1 row: 12 ) score : 12
+urban ( col : 1 row: 13 ) score : 18
+
+
+******COMPUTER TURN******
+RACK : rnldtaa
+
+Hasil evaluasi : tabard , score : 22 , direction : 1 , anchor (2 , 13) , col : 13 , row : 1
+
+POSSIBLE MOVEMENT : 
+data ( col : 5 row: 1 ) score : 14
+antral ( col : 13 row: 1 ) score : 16
+radar ( col : 12 row: 2 ) score : 10
+narc ( col : 2 row: 4 ) score : 12
+act ( col : 4 row: 4 ) score : 10
+anta ( col : 10 row: 5 ) score : 11
+uta ( col : 8 row: 6 ) score : 3
+aland ( col : 10 row: 6 ) score : 15
+lar ( col : 1 row: 7 ) score : 5
+la ( col : 3 row: 7 ) score : 8
+da ( col : 2 row: 8 ) score : 6
+tora ( col : 2 row: 11 ) score : 4
+ta ( col : 2 row: 11 ) score : 16
+orad ( col : 3 row: 11 ) score : 5
+dal ( col : 6 row: 11 ) score : 10
+dam ( col : 1 row: 12 ) score : 12
+tabard ( col : 1 row: 13 ) score : 22
+
+
+******COMPUTER TURN******
+RACK : nlerstt
+
+Hasil evaluasi : stern , score : 22 , direction : 2 , anchor (14 , 2) , col : 2 , row : 14
+
+POSSIBLE MOVEMENT : 
+ens ( col : 13 row: 1 ) score : 6
+wyverns ( col : 8 row: 2 ) score : 16
+stern ( col : 14 row: 2 ) score : 22
+de ( col : 11 row: 3 ) score : 5
+rents ( col : 12 row: 2 ) score : 9
+nerts ( col : 13 row: 2 ) score : 7
+recs ( col : 3 row: 4 ) score : 12
+espy ( col : 7 row: 4 ) score : 8
+ne ( col : 7 row: 3 ) score : 11
+erns ( col : 10 row: 5 ) score : 11
+utters ( col : 8 row: 6 ) score : 7
+stern ( col : 10 row: 6 ) score : 13
+re ( col : 2 row: 7 ) score : 4
+sel ( col : 1 row: 8 ) score : 5
+biders ( col : 6 row: 8 ) score : 9
+stern ( col : 9 row: 8 ) score : 14
+rewets ( col : 1 row: 10 ) score : 8
+sled ( col : 6 row: 10 ) score : 16
+stern ( col : 7 row: 10 ) score : 19
+lorans ( col : 2 row: 11 ) score : 7
+sea ( col : 2 row: 11 ) score : 18
+elm ( col : 1 row: 12 ) score : 16
+tabards ( col : 1 row: 13 ) score : 10
+ens ( col : 7 row: 11 ) score : 14
+rents ( col : 1 row: 10 ) score : 5
+es ( col : 2 row: 14 ) score : 18
+seal ( col : 2 row: 11 ) score : 20
+ne ( col : 4 row: 14 ) score : 6
+erns ( col : 6 row: 14 ) score : 15
+
+
+******COMPUTER TURN******
+RACK : ltnaiao
+
+Hasil evaluasi : alation , score : 77 , direction : 1 , anchor (6 , 14) , col : 14 , row : 6
+
+POSSIBLE MOVEMENT : 
+latino ( col : 3 row: 1 ) score : 14
+zoa ( col : 11 row: 1 ) score : 30
+aa ( col : 13 row: 1 ) score : 14
+asternal ( col : 14 row: 1 ) score : 24
+litchi ( col : 5 row: 1 ) score : 13
+rational ( col : 12 row: 2 ) score : 63
+at ( col : 13 row: 3 ) score : 4
+nana ( col : 13 row: 2 ) score : 14
+alnico ( col : 1 row: 4 ) score : 16
+al ( col : 12 row: 4 ) score : 3
+alt ( col : 10 row: 5 ) score : 8
+ala ( col : 11 row: 5 ) score : 6
+uta ( col : 8 row: 6 ) score : 3
+alation ( col : 10 row: 6 ) score : 67
+lin ( col : 11 row: 6 ) score : 5
+alation ( col : 13 row: 6 ) score : 61
+tali ( col : 1 row: 7 ) score : 5
+la ( col : 3 row: 7 ) score : 8
+liana ( col : 10 row: 7 ) score : 36
+til ( col : 1 row: 8 ) score : 5
+oorali ( col : 2 row: 11 ) score : 7
+oration ( col : 3 row: 11 ) score : 8
+lad ( col : 6 row: 11 ) score : 9
+atilt ( col : 1 row: 9 ) score : 7
+am ( col : 2 row: 12 ) score : 12
+alation ( col : 6 row: 12 ) score : 72
+al ( col : 1 row: 14 ) score : 6
+anatto ( col : 1 row: 9 ) score : 8
+aal ( col : 2 row: 12 ) score : 14
+al ( col : 4 row: 13 ) score : 2
+alation ( col : 6 row: 14 ) score : 77
+
+
+******COMPUTER TURN******
+RACK : auetaor
+
+Hasil evaluasi : zoea , score : 38 , direction : 1 , anchor (14 , 1) , col : 1 , row : 11
+
+POSSIBLE MOVEMENT : 
+reata ( col : 4 row: 1 ) score : 12
+zoa ( col : 11 row: 1 ) score : 30
+zoea ( col : 11 row: 1 ) score : 38
+de ( col : 11 row: 3 ) score : 5
+router ( col : 12 row: 2 ) score : 10
+at ( col : 13 row: 3 ) score : 4
+ana ( col : 13 row: 1 ) score : 8
+taro ( col : 1 row: 4 ) score : 14
+turaco ( col : 1 row: 4 ) score : 16
+ae ( col : 7 row: 3 ) score : 11
+tae ( col : 12 row: 4 ) score : 3
+reata ( col : 13 row: 4 ) score : 15
+ate ( col : 10 row: 5 ) score : 8
+year ( col : 10 row: 4 ) score : 10
+aura ( col : 10 row: 5 ) score : 12
+aurate ( col : 13 row: 5 ) score : 16
+utter ( col : 8 row: 6 ) score : 6
+aurate ( col : 10 row: 6 ) score : 15
+ear ( col : 11 row: 6 ) score : 5
+etui ( col : 1 row: 7 ) score : 5
+ae ( col : 3 row: 7 ) score : 8
+reata ( col : 10 row: 7 ) score : 36
+tea ( col : 1 row: 8 ) score : 5
+ta ( col : 3 row: 7 ) score : 8
+bidet ( col : 6 row: 8 ) score : 8
+euro ( col : 9 row: 8 ) score : 13
+re ( col : 1 row: 10 ) score : 7
+tea ( col : 2 row: 11 ) score : 18
+orator ( col : 3 row: 11 ) score : 7
+outeat ( col : 1 row: 8 ) score : 8
+am ( col : 2 row: 12 ) score : 12
+tea ( col : 8 row: 13 ) score : 13
+eat ( col : 9 row: 13 ) score : 13
+tau ( col : 11 row: 13 ) score : 10
+ae ( col : 1 row: 14 ) score : 6
+outrate ( col : 1 row: 8 ) score : 9
+aa ( col : 1 row: 14 ) score : 6
+tear ( col : 2 row: 11 ) score : 20
+aa ( col : 4 row: 13 ) score : 2
+
+
+******COMPUTER TURN******
+RACK : utareio
+
+Hasil evaluasi : tear , score : 20 , direction : 2 , anchor (2 , 14) , col : 11 , row : 2
+
+POSSIBLE MOVEMENT : 
+retia ( col : 4 row: 1 ) score : 12
+da ( col : 11 row: 3 ) score : 6
+orator ( col : 12 row: 1 ) score : 10
+enure ( col : 13 row: 1 ) score : 15
+tori ( col : 1 row: 4 ) score : 14
+turaco ( col : 1 row: 4 ) score : 16
+crispy ( col : 5 row: 4 ) score : 12
+at ( col : 12 row: 4 ) score : 3
+ate ( col : 10 row: 5 ) score : 8
+year ( col : 10 row: 4 ) score : 10
+tea ( col : 11 row: 5 ) score : 6
+aurei ( col : 13 row: 5 ) score : 15
+trifid ( col : 1 row: 6 ) score : 11
+utter ( col : 8 row: 6 ) score : 6
+aurei ( col : 10 row: 6 ) score : 13
+tar ( col : 11 row: 6 ) score : 5
+etui ( col : 1 row: 7 ) score : 5
+ta ( col : 3 row: 7 ) score : 8
+rotl ( col : 1 row: 8 ) score : 5
+bidet ( col : 6 row: 8 ) score : 8
+euro ( col : 9 row: 8 ) score : 13
+re ( col : 1 row: 10 ) score : 7
+tea ( col : 2 row: 11 ) score : 18
+orator ( col : 3 row: 11 ) score : 7
+outeat ( col : 1 row: 8 ) score : 8
+am ( col : 2 row: 12 ) score : 12
+tea ( col : 8 row: 13 ) score : 13
+ait ( col : 8 row: 13 ) score : 13
+eat ( col : 9 row: 13 ) score : 13
+tui ( col : 11 row: 13 ) score : 10
+ratio ( col : 12 row: 9 ) score : 12
+at ( col : 1 row: 14 ) score : 6
+outrate ( col : 1 row: 8 ) score : 9
+tear ( col : 2 row: 11 ) score : 20
+at ( col : 4 row: 13 ) score : 2
+
+
+******COMPUTER TURN******
+RACK : uaionis
+
+Hasil evaluasi : psoai , score : 24 , direction : 1 , anchor (8 , 9) , col : 9 , row : 7
+
+POSSIBLE MOVEMENT : 
+inia ( col : 5 row: 1 ) score : 11
+da ( col : 11 row: 3 ) score : 6
+ionics ( col : 1 row: 4 ) score : 16
+na ( col : 12 row: 4 ) score : 3
+naoi ( col : 13 row: 4 ) score : 14
+ain ( col : 10 row: 5 ) score : 8
+yuans ( col : 10 row: 4 ) score : 11
+sou ( col : 11 row: 5 ) score : 6
+utas ( col : 8 row: 6 ) score : 4
+sun ( col : 11 row: 6 ) score : 5
+nous ( col : 13 row: 4 ) score : 14
+unai ( col : 1 row: 7 ) score : 5
+saul ( col : 1 row: 8 ) score : 5
+bids ( col : 6 row: 8 ) score : 7
+sain ( col : 9 row: 8 ) score : 13
+psoai ( col : 7 row: 9 ) score : 24
+wets ( col : 3 row: 10 ) score : 6
+sain ( col : 7 row: 10 ) score : 17
+toras ( col : 2 row: 11 ) score : 5
+soda ( col : 6 row: 11 ) score : 11
+ais ( col : 8 row: 13 ) score : 13
+nus ( col : 8 row: 13 ) score : 13
+anus ( col : 10 row: 13 ) score : 14
+ars ( col : 1 row: 14 ) score : 19
+aa ( col : 4 row: 13 ) score : 2
+alations ( col : 6 row: 14 ) score : 8
+unais ( col : 13 row: 10 ) score : 18
+
+
+******COMPUTER TURN******
+RACK : uninrie
+
+Hasil evaluasi : renin , score : 18 , direction : 1 , anchor (9 , 10) , col : 10 , row : 9
+
+POSSIBLE MOVEMENT : 
+de ( col : 11 row: 3 ) score : 6
+enure ( col : 13 row: 1 ) score : 15
+unci ( col : 3 row: 4 ) score : 12
+espy ( col : 7 row: 4 ) score : 8
+ne ( col : 7 row: 3 ) score : 11
+rue ( col : 12 row: 4 ) score : 3
+ern ( col : 10 row: 5 ) score : 8
+rue ( col : 11 row: 5 ) score : 6
+uteri ( col : 8 row: 6 ) score : 6
+rei ( col : 11 row: 6 ) score : 5
+rein ( col : 13 row: 4 ) score : 14
+re ( col : 2 row: 7 ) score : 4
+nil ( col : 2 row: 8 ) score : 4
+inaner ( col : 10 row: 7 ) score : 12
+urine ( col : 11 row: 7 ) score : 12
+renin ( col : 9 row: 10 ) score : 18
+ennui ( col : 9 row: 10 ) score : 18
+nu ( col : 8 row: 13 ) score : 10
+re ( col : 10 row: 12 ) score : 3
+nun ( col : 11 row: 13 ) score : 10
+an ( col : 4 row: 13 ) score : 2
+
+
+******COMPUTER TURN******
+RACK : uilooig
+
+Hasil evaluasi : logic , score : 16 , direction : 1 , anchor (4 , 4) , col : 4 , row : 1
+
+POSSIBLE MOVEMENT : 
+igloo ( col : 4 row: 1 ) score : 15
+li ( col : 5 row: 2 ) score : 10
+logic ( col : 1 row: 4 ) score : 16
+loci ( col : 3 row: 4 ) score : 12
+gie ( col : 12 row: 4 ) score : 4
+gor ( col : 12 row: 5 ) score : 6
+oil ( col : 13 row: 5 ) score : 11
+gin ( col : 12 row: 6 ) score : 6
+li ( col : 3 row: 7 ) score : 3
+gull ( col : 1 row: 8 ) score : 6
+gae ( col : 10 row: 8 ) score : 4
+gul ( col : 11 row: 8 ) score : 9
+lingo ( col : 11 row: 8 ) score : 12
+inion ( col : 13 row: 9 ) score : 12
+oiling ( col : 11 row: 6 ) score : 16
+oiling ( col : 13 row: 6 ) score : 11
+li ( col : 10 row: 13 ) score : 2
+gul ( col : 11 row: 13 ) score : 13
+or ( col : 1 row: 14 ) score : 4
+ag ( col : 4 row: 13 ) score : 3
+
+
+******COMPUTER TURN******
+RACK : uoigssl
+
+Hasil evaluasi : gnosis , score : 30 , direction : 2 , anchor (13 , 14) , col : 9 , row : 13
+
+POSSIBLE MOVEMENT : 
+silo ( col : 5 row: 1 ) score : 11
+siglos ( col : 1 row: 1 ) score : 18
+isologs ( col : 2 row: 2 ) score : 20
+glugs ( col : 3 row: 1 ) score : 18
+soli ( col : 4 row: 1 ) score : 4
+li ( col : 5 row: 2 ) score : 10
+logics ( col : 1 row: 4 ) score : 9
+lugs ( col : 6 row: 1 ) score : 15
+li ( col : 12 row: 4 ) score : 3
+os ( col : 1 row: 5 ) score : 10
+so ( col : 2 row: 5 ) score : 7
+go ( col : 12 row: 5 ) score : 6
+oils ( col : 13 row: 5 ) score : 12
+sulfid ( col : 1 row: 6 ) score : 11
+uts ( col : 8 row: 6 ) score : 3
+so ( col : 10 row: 6 ) score : 5
+gin ( col : 12 row: 6 ) score : 6
+soli ( col : 1 row: 7 ) score : 5
+gull ( col : 1 row: 8 ) score : 6
+sorgo ( col : 9 row: 8 ) score : 13
+slug ( col : 10 row: 8 ) score : 12
+issuing ( col : 11 row: 5 ) score : 18
+lungis ( col : 13 row: 8 ) score : 18
+wets ( col : 3 row: 10 ) score : 6
+hips ( col : 7 row: 7 ) score : 9
+renins ( col : 9 row: 10 ) score : 6
+toras ( col : 2 row: 11 ) score : 5
+sos ( col : 7 row: 11 ) score : 7
+gaes ( col : 10 row: 8 ) score : 5
+so ( col : 12 row: 11 ) score : 6
+soda ( col : 6 row: 11 ) score : 11
+lis ( col : 8 row: 13 ) score : 13
+slug ( col : 10 row: 13 ) score : 16
+ors ( col : 1 row: 14 ) score : 19
+ag ( col : 4 row: 13 ) score : 3
+alations ( col : 6 row: 14 ) score : 8
+gnosis ( col : 13 row: 9 ) score : 30
+
+
+******COMPUTER TURN******
+RACK : ulnooge
+
+Hasil evaluasi : gouge , score : 18 , direction : 2 , anchor (3 , 3) , col : 1 , row : 3
+
+POSSIBLE MOVEMENT : 
+logo ( col : 5 row: 1 ) score : 12
+el ( col : 1 row: 3 ) score : 6
+gull ( col : 1 row: 1 ) score : 10
+oolong ( col : 2 row: 1 ) score : 18
+gouge ( col : 3 row: 1 ) score : 18
+li ( col : 4 row: 3 ) score : 2
+de ( col : 11 row: 3 ) score : 6
+espy ( col : 7 row: 4 ) score : 8
+ne ( col : 7 row: 3 ) score : 11
+gee ( col : 12 row: 4 ) score : 4
+noel ( col : 13 row: 4 ) score : 14
+on ( col : 1 row: 5 ) score : 10
+lounge ( col : 1 row: 4 ) score : 11
+no ( col : 2 row: 5 ) score : 7
+eng ( col : 10 row: 5 ) score : 9
+gor ( col : 12 row: 5 ) score : 6
+gun ( col : 12 row: 6 ) score : 6
+li ( col : 3 row: 7 ) score : 3
+gull ( col : 1 row: 8 ) score : 6
+gaen ( col : 10 row: 8 ) score : 5
+go ( col : 11 row: 8 ) score : 8
+lingo ( col : 11 row: 8 ) score : 12
+go ( col : 13 row: 9 ) score : 3
+go ( col : 14 row: 8 ) score : 6
+ole ( col : 7 row: 11 ) score : 7
+looing ( col : 11 row: 6 ) score : 16
+no ( col : 12 row: 11 ) score : 4
+nog ( col : 12 row: 11 ) score : 8
+eon ( col : 14 row: 11 ) score : 11
+gluon ( col : 8 row: 12 ) score : 18
+unloose ( col : 8 row: 12 ) score : 16
+nu ( col : 8 row: 13 ) score : 10
+el ( col : 9 row: 13 ) score : 10
+lei ( col : 11 row: 13 ) score : 7
+noil ( col : 11 row: 13 ) score : 8
+or ( col : 1 row: 14 ) score : 4
+ag ( col : 4 row: 13 ) score : 3
+
+
+******COMPUTER TURN******
+RACK : lnoeeee
+
+Hasil evaluasi : leonine , score : 16 , direction : 2 , anchor (11 , 8) , col : 5 , row : 11
+
+POSSIBLE MOVEMENT : 
+loge ( col : 1 row: 1 ) score : 10
+leno ( col : 5 row: 1 ) score : 11
+leone ( col : 1 row: 2 ) score : 10
+enol ( col : 1 row: 1 ) score : 8
+noo ( col : 2 row: 3 ) score : 7
+de ( col : 11 row: 3 ) score : 6
+espy ( col : 7 row: 4 ) score : 8
+ne ( col : 7 row: 3 ) score : 11
+ole ( col : 12 row: 4 ) score : 3
+noel ( col : 13 row: 4 ) score : 14
+one ( col : 1 row: 5 ) score : 11
+eon ( col : 10 row: 5 ) score : 8
+lee ( col : 11 row: 5 ) score : 6
+on ( col : 13 row: 6 ) score : 2
+li ( col : 3 row: 7 ) score : 3
+el ( col : 2 row: 8 ) score : 4
+lo ( col : 11 row: 8 ) score : 6
+leonine ( col : 11 row: 5 ) score : 16
+go ( col : 13 row: 9 ) score : 3
+lo ( col : 14 row: 8 ) score : 5
+ole ( col : 7 row: 11 ) score : 7
+aeon ( col : 10 row: 9 ) score : 4
+no ( col : 12 row: 11 ) score : 4
+noo ( col : 12 row: 11 ) score : 6
+eon ( col : 14 row: 11 ) score : 11
+leone ( col : 8 row: 12 ) score : 14
+lense ( col : 10 row: 12 ) score : 10
+ne ( col : 8 row: 13 ) score : 10
+el ( col : 9 row: 13 ) score : 10
+lei ( col : 11 row: 13 ) score : 7
+noil ( col : 11 row: 13 ) score : 8
+or ( col : 1 row: 14 ) score : 4
+al ( col : 4 row: 13 ) score : 2
+
+
+******COMPUTER TURN******
+RACK : eeee
+
+
+/*-----HASIL NEGA----*/
+gee
+word gee
+skor 6
+
+
+
+-------NEGA--------
+
+eval -530 word egg skor 3 depth 1 end 571 child 19
+eval -534 word gee skor 6 depth 1 end 575 child 23
+eval -529 word oe skor 2 depth 1 end 570 child 21
+eval -527 word eel skor 3 depth 1 end 572 child 20
+eval -531 word de skor 6 depth 1 end 574 child 20
+eval -532 word espy skor 8 depth 1 end 575 child 21
+eval -531 word lee skor 5 depth 1 end 574 child 22
+eval -532 word el skor 7 depth 1 end 575 child 21
+eval -532 word lee skor 6 depth 1 end 575 child 17
+eval -527 word oe skor 2 depth 1 end 570 child 18
+eval -530 word eel skor 4 depth 1 end 573 child 23
+eval -528 word ne skor 3 depth 1 end 571 child 21
+eval -528 word ore skor 3 depth 1 end 571 child 21
+eval -528 word oe skor 3 depth 1 end 571 child 17
+eval -529 word es skor 4 depth 1 end 572 child 17
+eval -527 word ae skor 2 depth 1 end 570 child 20
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : XFKJVCI
+
+HUMAN MOVE : fox , score : 35 , direction : 1 , col : 5 , row : 2
+
+
+******COMPUTER TURN******
+RACK : ee
+
+
+/*-----HASIL NEGA----*/
+oe
+word oe
+skor 3
+
+
+
+-------NEGA--------
+
+eval -504 word el skor 2 depth 1 end 577 child 11
+eval -508 word de skor 6 depth 1 end 581 child 10
+eval -506 word espy skor 8 depth 1 end 582 child 11
+eval -512 word lee skor 5 depth 1 end 573 child 0
+eval -509 word el skor 7 depth 1 end 582 child 12
+eval -513 word lee skor 6 depth 1 end 574 child 0
+eval -514 word oe skor 2 depth 1 end 577 child 10
+eval -511 word eel skor 4 depth 1 end 572 child 0
+eval -515 word ne skor 3 depth 1 end 578 child 11
+eval -515 word ore skor 3 depth 1 end 578 child 9
+eval -515 word oe skor 3 depth 1 end 578 child 10
+eval -506 word es skor 4 depth 1 end 579 child 10
+eval -514 word ae skor 2 depth 1 end 577 child 10
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : KJVCI
+
+HUMAN MOVE : jock , score : 17 , direction : 1 , col : 14 , row : 7
+
+
+******COMPUTER TURN******
+RACK : e
+
+
+/*-----HASIL NEGA----*/
+espy
+word espy
+skor 8
+
+
+
+-------NEGA--------
+
+eval -495 word el skor 2 depth 1 end 573 child 0
+eval -499 word de skor 6 depth 1 end 577 child 0
+eval -501 word espy skor 8 depth 1 end 579 child 0
+eval -500 word el skor 7 depth 1 end 578 child 0
+eval -497 word er skor 4 depth 1 end 575 child 0
+eval -495 word el skor 2 depth 1 end 573 child 0
+eval -496 word ore skor 3 depth 1 end 574 child 0
+eval -497 word es skor 4 depth 1 end 575 child 0
+eval -495 word ae skor 2 depth 1 end 573 child 0
+
+
+

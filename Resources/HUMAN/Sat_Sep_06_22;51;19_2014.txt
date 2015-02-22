@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	cering	0.483	24		6	GADDAG

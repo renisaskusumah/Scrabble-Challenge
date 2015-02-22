@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	chore	0.327	26		5
+Player 2 	fitch	0.783	26		4
+Player 1	dip	4.376	26		3
+Player 2 	jo	1.256	24		2
+Player 1	mm	2.329	15		2
+Player 2 	cylix	1.617	34		4
+Player 1	kill	2.582	18		4
+Player 2 	kelep	2.013	24		4
+Player 1	fay	2.266	28		3
+Player 2 	eh	1.79	30		2
+Player 1	vie	1.418	11		2
+Player 2 	wynd	0.705	21		3
+Player 1	drug	1.864	12		3
+Player 2 	bi	0.701	17		1
+Player 1	vugg	3.048	18		2
+Player 2 	urd	0.754	8		2
+Player 1	drawn	5.305	18		4
+Player 2 	zing	2.098	14		3
+Player 1	brinies	9.285	91		7
+Player 2 	qat	5.05	32		3
+Player 1	nogg	6.722	29		2
+Player 2 	two	5.333	16		1
+Player 1	avo	3.355	16		2
+Player 2 	gnarr	6.257	14		3
+Player 1	ava	3.916	10		2
+Player 2 	dozing	6.058	21		3
+Player 1	anatase	9.843	80		7
+Player 2 	tutu	8.662	18		4
+Player 1	oses	10.146	18		4
+Player 2 	no	0.528	9		4
+Player 1	gee	0.221	5		6
+Player 2 	oe	0.24	7		6
+Player 1	ear	0.045	55		7
+Player 2 	oe	0.042	52		7
+Player 1	-	0.023	0		7
+Player 2 	-	0.023	0		7
+Player 1	-	0.021	0		7
+Player 2 	-	0.021	0		7
+Player 1	-	0.021	0		7
+Player 2 	-	0.023	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 67.113
+player 1 left tile : 0
+player 1 total skor : 476
+player 1 Final skor : 476
+player 2 durasi : 43.954
+player 2 left tile : 0
+player 2 total skor : 367
+player 2 Final skor : 367

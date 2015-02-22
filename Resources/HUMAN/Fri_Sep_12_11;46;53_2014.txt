@@ -1,0 +1,12 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	pix	--	24		3	HUMAN 
+Player 2	wadi	9.995	32		4	GADDAG
+Player 1	pam	--	7		1	HUMAN 
+Player 2	swop	8.199	27		4	GADDAG
+Player 1	ovoid	--	10		3	HUMAN 
+Player 2	hic	9.346	29		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	callboy	14.947	28		6	GADDAG
+Player 1	bald	--	7		3	HUMAN 

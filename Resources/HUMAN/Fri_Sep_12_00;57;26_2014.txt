@@ -1,0 +1,15 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	kite	--	14		4	HUMAN 
+Player 2	wo	2.252	14		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	waugh	2.858	20		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	careful	5.674	26		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	dizen	3.958	33		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	yetis	9.968	49		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	hyps	2.141	31		4	GADDAG

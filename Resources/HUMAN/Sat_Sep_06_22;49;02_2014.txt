@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	fin	--	12		3	HUMAN 
+Player 2	fique	0.88	31		4	GADDAG

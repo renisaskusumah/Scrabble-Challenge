@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method
+Player 1		pass		--			0		0	
+Player 1	ward	--	16		4	HUMAN 
+Player 2	poofy	11.13	24		5	GADDAG

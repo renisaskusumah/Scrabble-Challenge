@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	flong	0.127	26		5
+Player 2 	ghyll	0.533	24		4
+Player 1	zoa	2.03	27		3
+Player 2 	fox	0.66	28		3
+Player 1	dozy	2.254	34		3
+Player 2 	wo	0.479	13		1
+Player 1	waken	2.473	23		4
+Player 2 	eh	0.514	9		1
+Player 1	huger	2.48	20		4
+Player 2 	web	0.554	24		2
+Player 1	split	2.185	26		5
+Player 2 	am	1.492	18		2
+Player 1	datum	2.796	21		5
+Player 2 	tub	1.683	20		3
+Player 1	trisect	6.798	78		7
+Player 2 	quirt	5.014	34		4
+Player 1	jo	4.322	33		2
+Player 2 	oven	8.209	20		4
+Player 1	stands	2.311	25		5
+Player 2 	ancon	7.199	24		4
+Player 1	nod	7.285	20		3
+Player 2 	eave	9.84	18		4
+Player 1	plier	11.291	25		5
+Player 2 	wee	8.243	14		2
+Player 1	aa	6.118	13		2
+Player 2 	ree	3.395	11		4
+Player 1	ria	1.328	10		5
+Player 2 	be	0.255	7		5
+Player 1	hi	0.123	7		6
+Player 2 	pi	0.124	4		6
+Player 1	id	0.075	53		7
+Player 2 	in	0.075	52		7
+Player 1	-	0.051	0		7
+Player 2 	-	0.047	0		7
+Player 1	-	0.046	0		7
+Player 2 	-	0.046	0		7
+Player 1	-	0.047	0		7
+Player 2 	-	0.046	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 0 menit 49 detik 
+player 1 left tile : 0
+player 1 total skor : 441
+player 1 Final skor : 441
+player 2 durasi : 0 menit 42 detik 
+player 2 left tile : 0
+player 2 total skor : 320
+player 2 Final skor : 320

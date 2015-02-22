@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	hulk	--	20		4	HUMAN 
+Player 2	gulpy	13.76	49		5	GADDAG
+Player 1	hum	--	8		2	HUMAN 
+Player 2	lez	22.442	32		2	GADDAG
+Player 1	mix	--	28		2	HUMAN 
+Player 2	dulia	36.757	24		5	GADDAG
+Player 1	zig	--	13		2	HUMAN 
+Player 2	overdid	35.941	101		7	GADDAG
+Player 1	mad	--	12		2	HUMAN 
+Player 2	sharps	37.533	32		6	GADDAG

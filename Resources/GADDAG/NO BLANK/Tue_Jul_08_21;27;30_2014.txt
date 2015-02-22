@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	bonds	0.106	22		5
+Player 2 	synods	0.902	20		5
+Player 1	dryly	0.406	14		3
+Player 2 	dusks	0.807	20		3
+Player 1	by	0.348	7		1
+Player 2 	doff	1.455	22		3
+Player 1	doffs	0.504	12		1
+Player 2 	spaz	3.171	35		3
+Player 1	qat	0.581	12		2
+Player 2 	curdy	1.921	30		4
+Player 1	vug	1.305	22		2
+Player 2 	jaw	1.809	25		3
+Player 1	ox	2.036	22		2
+Player 2 	new	3.177	29		3
+Player 1	vex	1.525	13		1
+Player 2 	gox	3.311	25		2
+Player 1	hm	1.843	15		2
+Player 2 	mull	1.861	18		4
+Player 1	huller	4.374	26		5
+Player 2 	eff	9.223	20		1
+Player 1	cheth	6.008	39		3
+Player 2 	geta	3.747	18		3
+Player 1	poorer	6.14	22		5
+Player 2 	tannate	10.165	71		7
+Player 1	reata	14.522	22		5
+Player 2 	cola	3.776	19		2
+Player 1	nee	7.473	15		3
+Player 2 	yoni	2.898	15		2
+Player 1	ire	3.24	15		3
+Player 2 	ae	1.684	12		3
+Player 1	pi	0.358	8		4
+Player 2 	hie	0.408	6		5
+Player 1	-	0.194	0		4
+Player 2 	-	0.109	0		5
+Player 1	-	0.186	0		4
+Player 2 	-	0.091	0		5
+Player 1	-	0.186	0		4
+Player 2 	-	0.09	0		5
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 51.335
+player 1 left tile : 3
+player 1 total skor : 286
+player 1 Final skor : 283
+player 2 durasi : 50.605
+player 2 left tile : 2
+player 2 total skor : 385
+player 2 Final skor : 383

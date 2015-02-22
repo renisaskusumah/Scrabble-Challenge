@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	hut	--	2		3
+Player 2	pyx	0.529	24		3

@@ -1,0 +1,22 @@
+player word durasi skor tiles
+
+
+Player 1	hm	0.029	14		2	
+Player 2 	myth	0.289	34		4	
+Player 1	whys	0.573	26		3	
+Player 2 	-	0.273	0		0	
+Player 1	verbids	22.11	24		6	blank tiles
+Player 2 	zek	0.45	35		2	
+Player 1	fallow	48.411	37		6	blank tiles
+Player 2 	java	0.419	13		2	
+Player 1	profuse	7.727	82		7	
+Player 2 	qua	1.977	31		2	
+Player 1	piped	12.317	32		4	
+Player 2 	taxi	5.34	35		4	
+Player 1	rani	9.38	17		4	
+Player 2 	bene	7.789	20		4	
+Player 1	nasal	11.167	21		5	
+Player 2 	vote	7.362	17		3	
+Player 1	oat	9.066	17		3	
+Player 2 	renege	4.047	20		4	
+Player 1	onager	11.186	26		6	

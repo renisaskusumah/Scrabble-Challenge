@@ -1,0 +1,22 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  Q K M
+New Tiles :  N N V
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : hymns , score : 34 , direction : 2 , col : 7 , row : 3
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : ho , score : 5 , direction : 1 , col : 9 , row : 3
+
+
+******COMPUTER TURN******
+

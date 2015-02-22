@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	hex	--	26		3
+Player 2	yah	3.83	31		3
+Player 1	dah	--	7		1
+Player 2	pub	1.901	30		3

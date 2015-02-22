@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	bye	--	16		3
+Player 2	zags	1.14	37		4

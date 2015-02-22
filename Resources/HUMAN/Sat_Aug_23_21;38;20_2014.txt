@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	sh	0.216	10		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	byrl	0.775	22		4	GADDAG
+Player 1	lown	--	9		3	HUMAN 
+Player 2	flown	0.928	11		1	GADDAG

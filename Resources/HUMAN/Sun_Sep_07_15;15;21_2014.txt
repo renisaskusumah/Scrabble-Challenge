@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	if	--	10		2	HUMAN 
+Player 2	fanzines	22.572	73		7	GADDAG

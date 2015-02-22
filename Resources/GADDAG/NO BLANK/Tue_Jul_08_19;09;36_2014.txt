@@ -1,0 +1,50 @@
+player word durasi skor tiles
+
+
+Player 1	cobbs	0.11	28		5
+Player 2 	baff	1.52	20		3
+Player 1	koto	0.374	15		2
+Player 2 	cobb	1.44	22		2
+Player 1	adz	0.605	28		3
+Player 2 	fatly	0.967	11		3
+Player 1	hypo	1.429	20		3
+Player 2 	rondo	1.099	14		3
+Player 1	quod	1.705	28		3
+Player 2 	craw	3.094	17		3
+Player 1	ply	1.811	26		3
+Player 2 	vaw	1.484	13		2
+Player 1	juts	2.983	34		4
+Player 2 	gul	3.648	11		3
+Player 1	hem	3.529	30		3
+Player 2 	id	3.886	21		2
+Player 1	ox	1.231	9		1
+Player 2 	vet	4.109	15		3
+Player 1	glom	4.117	34		4
+Player 2 	nor	7.373	14		3
+Player 1	rased	8.81	36		5
+Player 2 	not	7.671	15		3
+Player 1	giro	7.468	13		4
+Player 2 	themes	8.287	30		3
+Player 1	eating	7.754	20		5
+Player 2 	rain	7.963	18		4
+Player 1	ae	3.403	9		2
+Player 2 	en	5.212	9		2
+Player 1	ta	3.427	7		1
+Player 2 	pane	0.729	6		3
+Player 1	aa	1.732	2		2
+Player 2 	-	0.306	0		3
+Player 1	-	0.807	0		2
+Player 2 	-	0.321	0		3
+Player 1	-	0.824	0		2
+Player 2 	-	0.325	0		3
+Player 1	-	0.843	0		2
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 0 menit 42 detik 
+player 1 left tile : 5
+player 1 total skor : 339
+player 1 Final skor : 334
+player 2 durasi : 0 menit 51 detik 
+player 2 left tile : 4
+player 2 total skor : 236
+player 2 Final skor : 232

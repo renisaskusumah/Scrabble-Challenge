@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	lay	--	12		3
+Player 2	joy	1.106	36		3
+Player 1	soy	--	8		2
+Player 2	fop	0.939	25		2
+Player 1	lobes	--	6		3
+Player 2	gazes	9.414	28		4
+Player 1	bam	--	12		2
+Player 2	vigs	0.946	25		4

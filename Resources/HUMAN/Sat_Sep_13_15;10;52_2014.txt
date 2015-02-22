@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	put	--	10		3	HUMAN 
+Player 2	-	2.735	0		0	GADDAG

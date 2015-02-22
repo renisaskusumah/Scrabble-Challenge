@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	cub	--	14		3
+Player 2	yup	1.185	16		3

@@ -1,0 +1,53 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : UNVKLHZ
+
+HUMAN MOVE : hun , score : 12 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : hiueytu
+
+word : huh anchor( col :  6 row : 7 ) score : 9 new tiles : hu	Heuristic : 8.5
+word : ye anchor( col :  6 row : 7 ) score : 14 new tiles : ye	Heuristic : 9
+word : hi anchor( col :  8 row : 7 ) score : 5 new tiles : i	Heuristic : 4.5
+word : huh anchor( col :  8 row : 7 ) score : 9 new tiles : uh	Heuristic : 8.5
+word : hi anchor( col :  8 row : 7 ) score : 14 new tiles : hi	Heuristic : 11
+word : hit anchor( col :  8 row : 7 ) score : 19 new tiles : hit	Heuristic : 14
+word : yeh anchor( col :  8 row : 7 ) score : 31 new tiles : yeh	Heuristic : 23.5
+word : hue anchor( col :  6 row : 8 ) score : 11 new tiles : he	Heuristic : 3.5
+word : hut anchor( col :  6 row : 8 ) score : 11 new tiles : ht	Heuristic : 4.5
+word : uh anchor( col :  8 row : 8 ) score : 9 new tiles : h	Heuristic : 4.5
+word : eh anchor( col :  8 row : 8 ) score : 23 new tiles : eh	Heuristic : 15.5
+word : yeh anchor( col :  8 row : 8 ) score : 31 new tiles : yeh	Heuristic : 23.5
+word : hi anchor( col :  6 row : 9 ) score : 14 new tiles : hi	Heuristic : 11
+word : yin anchor( col :  6 row : 9 ) score : 14 new tiles : yi	Heuristic : 13.5
+word : unit anchor( col :  8 row : 9 ) score : 6 new tiles : uit	Heuristic : 7.5
+word : unity anchor( col :  8 row : 9 ) score : 10 new tiles : uity	Heuristic : 11.5
+word : hunt anchor( col :  8 row : 9 ) score : 15 new tiles : hut	Heuristic : 12.5
+word : hue anchor( col :  8 row : 9 ) score : 21 new tiles : hue	Heuristic : 17.5
+word : hut anchor( col :  8 row : 9 ) score : 21 new tiles : hut	Heuristic : 18.5
+word : uh anchor( col :  7 row : 10 ) score : 15 new tiles : uh	Heuristic : 14.5
+word : hyte anchor( col :  7 row : 10 ) score : 30 new tiles : hyte	Heuristic : 20.5
+word : be anchor( col :  5 row : 6 ) score : 9 new tiles : be	Heuristic : 33
+word : kibe anchor( col :  5 row : 6 ) score : 20 new tiles : kibe	Heuristic : 46
+word : en anchor( col :  6 row : 6 ) score : 11 new tiles : en	Heuristic : 31
+word : ben anchor( col :  6 row : 6 ) score : 14 new tiles : ben	Heuristic : 38.5
+word : ken anchor( col :  6 row : 6 ) score : 16 new tiles : ken	Heuristic : 39.5
+word : zebu anchor( col :  6 row : 6 ) score : 18 new tiles : zeb	Heuristic : 41
+word : ens anchor( col :  7 row : 6 ) score : 17 new tiles : ens	Heuristic : 12.5
+word : bens anchor( col :  7 row : 6 ) score : 20 new tiles : bens	Heuristic : 20
+word : kens anchor( col :  7 row : 6 ) score : 22 new tiles : kens	Heuristic : 21
+word : skin anchor( col :  7 row : 6 ) score : 18 new tiles : skin	Heuristic : 21.5
+word : bohunk anchor( col :  7 row : 6 ) score : 14 new tiles : bok	Heuristic : 22
+word : bi anchor( col :  5 row : 8 ) score : 9 new tiles : bi	Heuristic : 37.5
+word : kibe anchor( col :  5 row : 8 ) score : 20 new tiles : kibe	Heuristic : 46
+word : genu anchor( col :  6 row : 8 ) score : 12 new tiles : gen	Heuristic : 7.5
+word : nu anchor( col :  6 row : 8 ) score : 6 new tiles : n	Heuristic : 32
+word : nub anchor( col :  6 row : 8 ) score : 12 new tiles : nb	Heuristic : 41.5
+word : nub anchor( col :  8 row : 8 ) score : 12 new tiles : nb	Heuristic : 41.5
+word : in anchor( col :  6 row : 9 ) score : 2 new tiles : i	Heuristic : 26
+word : bi anchor( col :  6 row : 9 ) score : 11 new tiles : bi	Heuristic : 39.5
+word : kin anchor( col :  6 row : 9 ) score : 17 new tiles : ki	Heuristic : 44.5
+word : benzin anchor( col :  6 row : 9 ) score : 37 new tiles : benzi	Heuristic : 59

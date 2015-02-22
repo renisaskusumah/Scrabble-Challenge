@@ -1,0 +1,154 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+
+Hasil evaluasi : zoeas , score : 48 , direction : 2 , col : 7 , row : 3
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : grosz , score : 30 , direction : 1 , anchor (6 , 3) , col : 3 , row : 3
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : whack , score : 40 , direction : 2 , anchor (6 , 5) , col : 5 , row : 6
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : hypes , score : 54 , direction : 2 , anchor (8 , 3) , col : 2 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : tivy , score : 41 , direction : 1 , anchor (6 , 10) , col : 10 , row : 3
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : voe , score : 19 , direction : 1 , anchor (3 , 4) , col : 4 , row : 2
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : wo , score : 18 , direction : 2 , anchor (9 , 2) , col : 1 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : jeu , score : 28 , direction : 1 , anchor (3 , 9) , col : 9 , row : 1
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : tuft , score : 20 , direction : 2 , anchor (10 , 2) , col : 2 , row : 10
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : mog , score : 19 , direction : 1 , anchor (2 , 8) , col : 8 , row : 2
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : jutes , score : 24 , direction : 2 , anchor (1 , 10) , col : 9 , row : 1
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : naif , score : 25 , direction : 2 , anchor (11 , 3) , col : 3 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : pinball , score : 75 , direction : 2 , anchor (9 , 6) , col : 6 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tag , score : 8 , direction : 1 , col : 11 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : coloni , score : 27 , direction : 1 , anchor (8 , 11) , col : 11 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tail , score : 8 , direction : 2 , col : 12 , row : 13
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : braid , score : 26 , direction : 1 , anchor (3 , 2) , col : 2 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : men , score : 8 , direction : 1 , col : 3 , row : 12
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : odd , score : 22 , direction : 1 , anchor (2 , 1) , col : 1 , row : 2
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : fan , score : 6 , direction : 1 , col : 13 , row : 4
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : inner , score : 21 , direction : 2 , anchor (13 , 4) , col : 1 , row : 13
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : dor , score : 4 , direction : 2 , col : 2 , row : 3
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ae , score : 10 , direction : 2 , anchor (12 , 1) , col : 1 , row : 12
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : era , score : 17 , direction : 1 , anchor (2 , 7) , col : 7 , row : 2
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : ar , score : 2 , direction : 1 , col : 14 , row : 10
+
+
+******COMPUTER TURN******
+

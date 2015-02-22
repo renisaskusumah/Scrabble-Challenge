@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	gas	--	8		3	HUMAN 
+Player 2	clip	5.748	23		4	GADDAG
+Player 1	fall	--	9		3	HUMAN 
+Player 2	vigs	5.769	24		4	GADDAG
+Player 1	goo	--	4		2	HUMAN 
+Player 2	gowd	10.795	24		4	GADDAG
+Player 1	frog	--	7		3	HUMAN 
+Player 2	jow	6.844	34		2	GADDAG
+Player 1	ah	--	18		1	HUMAN 
+Player 2	pol	31.569	24		2	GADDAG

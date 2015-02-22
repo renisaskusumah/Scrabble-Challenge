@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	bun	--	10		3	HUMAN 
+Player 2	jam	6.974	32		3	GADDAG

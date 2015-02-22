@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	dad	--	0		3
+Player 2	zany	0.358	27		3

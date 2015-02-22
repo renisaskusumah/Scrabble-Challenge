@@ -1,0 +1,127 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : HVLHEPP
+
+HUMAN MOVE : help , score : 18 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : fvcsssn
+
+word : sh anchor( col :  6 row : 7 ) score : 5 new tiles : s
+word : fess anchor( col :  6 row : 8 ) score : 12 new tiles : fss
+word : ef anchor( col :  8 row : 8 ) score : 9 new tiles : f
+word : efs anchor( col :  8 row : 8 ) score : 10 new tiles : fs
+word : fess anchor( col :  8 row : 8 ) score : 12 new tiles : fss
+word : helps anchor( col :  7 row : 11 ) score : 11 new tiles : s
+Hasil evaluasi : fess , score : 12 , direction : 1 , anchor (7 , 11) , col : 8 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : HVEJ*NP
+
+HUMAN MOVE : seen , score : 5 , direction : 2 , col : 9 , row : 12
+
+
+******COMPUTER TURN******
+RACK : vcsnk*w
+
+word : cwm anchor( col :  7 row : 6 ) score : 23 new tiles : cwm
+word : cwms anchor( col :  7 row : 6 ) score : 24 new tiles : cwms
+word : swank anchor( col :  7 row : 6 ) score : 25 new tiles : swank
+word : wack anchor( col :  7 row : 6 ) score : 25 new tiles : wack
+word : wacks anchor( col :  7 row : 6 ) score : 26 new tiles : wacks
+word : eh anchor( col :  6 row : 7 ) score : 8 new tiles : e
+word : no anchor( col :  6 row : 7 ) score : 9 new tiles : no
+word : ka anchor( col :  6 row : 7 ) score : 18 new tiles : ka
+word : ha anchor( col :  8 row : 7 ) score : 5 new tiles : a
+word : vas anchor( col :  8 row : 7 ) score : 13 new tiles : va
+word : kvas anchor( col :  8 row : 7 ) score : 18 new tiles : kva
+word : un anchor( col :  9 row : 7 ) score : 5 new tiles : un
+word : con anchor( col :  5 row : 8 ) score : 11 new tiles : con
+word : fesse anchor( col :  10 row : 8 ) score : 7 new tiles : e
+word : fesses anchor( col :  10 row : 8 ) score : 8 new tiles : es
+word : sen anchor( col :  10 row : 8 ) score : 11 new tiles : sen
+word : ken anchor( col :  10 row : 8 ) score : 15 new tiles : ken
+word : kens anchor( col :  10 row : 8 ) score : 27 new tiles : kens
+word : sal anchor( col :  6 row : 9 ) score : 8 new tiles : sa
+word : lie anchor( col :  8 row : 9 ) score : 3 new tiles : i
+word : lies anchor( col :  8 row : 9 ) score : 4 new tiles : is
+word : liens anchor( col :  8 row : 9 ) score : 5 new tiles : ins
+word : eve anchor( col :  10 row : 9 ) score : 5 new tiles : ve
+word : eves anchor( col :  10 row : 9 ) score : 6 new tiles : ves
+word : evens anchor( col :  10 row : 9 ) score : 9 new tiles : vens
+word : es anchor( col :  10 row : 9 ) score : 10 new tiles : es
+word : snack anchor( col :  10 row : 9 ) score : 27 new tiles : snack
+word : kens anchor( col :  10 row : 9 ) score : 27 new tiles : kens
+word : as anchor( col :  6 row : 10 ) score : 4 new tiles : as
+word : was anchor( col :  6 row : 10 ) score : 16 new tiles : was
+word : knap anchor( col :  6 row : 10 ) score : 18 new tiles : kna
+word : apse anchor( col :  8 row : 10 ) score : 5 new tiles : as
+word : cops anchor( col :  8 row : 10 ) score : 8 new tiles : cos
+word : peeve anchor( col :  8 row : 10 ) score : 16 new tiles : eve
+word : peek anchor( col :  8 row : 10 ) score : 18 new tiles : ek
+word : peeks anchor( col :  8 row : 10 ) score : 20 new tiles : eks
+word : eve anchor( col :  10 row : 10 ) score : 10 new tiles : ve
+word : eves anchor( col :  10 row : 10 ) score : 12 new tiles : ves
+word : evens anchor( col :  10 row : 10 ) score : 14 new tiles : vens
+word : ensky anchor( col :  10 row : 10 ) score : 16 new tiles : nsky
+word : peek anchor( col :  10 row : 10 ) score : 18 new tiles : ek
+word : peeks anchor( col :  10 row : 10 ) score : 20 new tiles : eks
+word : kens anchor( col :  10 row : 10 ) score : 27 new tiles : kens
+word : vacs anchor( col :  7 row : 11 ) score : 20 new tiles : vacs
+word : wacks anchor( col :  7 row : 11 ) score : 39 new tiles : wacks
+word : snack anchor( col :  8 row : 11 ) score : 20 new tiles : sack
+word : knew anchor( col :  8 row : 11 ) score : 20 new tiles : kew
+word : knows anchor( col :  8 row : 11 ) score : 22 new tiles : kows
+word : knowns anchor( col :  8 row : 11 ) score : 24 new tiles : kowns
+word : sync anchor( col :  10 row : 11 ) score : 17 new tiles : syc
+word : sank anchor( col :  10 row : 11 ) score : 19 new tiles : sak
+word : snack anchor( col :  10 row : 11 ) score : 20 new tiles : sack
+word : knew anchor( col :  10 row : 11 ) score : 20 new tiles : kew
+word : knows anchor( col :  10 row : 11 ) score : 22 new tiles : kows
+word : knowns anchor( col :  10 row : 11 ) score : 24 new tiles : kowns
+word : snack anchor( col :  10 row : 11 ) score : 27 new tiles : snack
+Hasil evaluasi : wacks , score : 39 , direction : 1 , anchor (9 , 12) , col : 11 , row : 3
+
+POSSIBLE MOVEMENT : 
+
+
+word : ha anchor( col :  8 row : 7 ) score : 7 new tiles : a
+word : has anchor( col :  8 row : 7 ) score : 15 new tiles : ha
+word : pa anchor( col :  6 row : 9 ) score : 16 new tiles : pa
+word : eh anchor( col :  10 row : 9 ) score : 5 new tiles : h
+word : epha anchor( col :  10 row : 9 ) score : 9 new tiles : pha
+word : ha anchor( col :  3 row : 10 ) score : 10 new tiles : ha
+word : hap anchor( col :  3 row : 10 ) score : 27 new tiles : hap
+word : zap anchor( col :  3 row : 10 ) score : 39 new tiles : zap
+word : ah anchor( col :  4 row : 10 ) score : 23 new tiles : ah
+word : nah anchor( col :  4 row : 10 ) score : 25 new tiles : nah
+word : pah anchor( col :  4 row : 10 ) score : 29 new tiles : pah
+word : zap anchor( col :  4 row : 10 ) score : 39 new tiles : zap
+word : vac anchor( col :  5 row : 10 ) score : 16 new tiles : va
+word : eh anchor( col :  10 row : 10 ) score : 10 new tiles : h
+word : epha anchor( col :  10 row : 10 ) score : 18 new tiles : pha
+word : ha anchor( col :  10 row : 10 ) score : 22 new tiles : ha
+word : haj anchor( col :  10 row : 10 ) score : 38 new tiles : haj
+word : na anchor( col :  10 row : 11 ) score : 2 new tiles : a
+word : nah anchor( col :  10 row : 11 ) score : 12 new tiles : ah
+word : ha anchor( col :  10 row : 11 ) score : 22 new tiles : ha
+word : haj anchor( col :  10 row : 11 ) score : 38 new tiles : haj
+word : wha anchor( col :  3 row : 12 ) score : 9 new tiles : ha
+word : hwan anchor( col :  3 row : 12 ) score : 10 new tiles : han
+word : ah anchor( col :  4 row : 12 ) score : 4 new tiles : h
+word : nah anchor( col :  4 row : 12 ) score : 10 new tiles : nh
+word : pah anchor( col :  4 row : 12 ) score : 14 new tiles : ph
+word : java anchor( col :  4 row : 12 ) score : 26 new tiles : jva
+word : hazan anchor( col :  4 row : 12 ) score : 32 new tiles : hazn
+word : can anchor( col :  5 row : 12 ) score : 7 new tiles : an
+word : cap anchor( col :  5 row : 12 ) score : 13 new tiles : ap
+word : ka anchor( col :  6 row : 12 ) score : 7 new tiles : a
+-------HUMAN CLICK HINT-------
+
+
+

@@ -1,0 +1,47 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	zee	--	24		3
+Player 2	caecum	0.945	20		5
+Player 1	yam	--	21		2
+Player 2	kami	1.011	20		3
+Player 1		pass		--			0		0	
+Player 2	fub	0.41	17		2
+Player 1	kid	--	9		2
+Player 2	bawd	1.342	27		4
+Player 1	wig	--	14		2
+Player 2	foxy	8.136	38		4
+Player 1	quit	--	19		3
+Player 2	vugg	1.367	18		3
+Player 1	pique	--	24		4
+Player 2	spang	3.85	41		5
+Player 1	hoop	--	9		3
+Player 2	jinn	22.723	32		4
+Player 1	woo	--	7		2
+Player 2	didst	3.917	25		5
+Player 1	hold	--	8		3
+Player 2	ons	9.597	29		3
+Player 1		pass		--			0		0	
+Player 2	jota	5.525	22		2
+Player 1	tons	--	4		1
+Player 2	vill	4.214	18		3
+Player 1		pass		--			0		0	
+Player 2	tavern	10.478	22		5
+Player 1	rose	--	20		3
+Player 2	under	4.541	19		3
+Player 1		pass		--			0		0	
+Player 2	tahini	7.887	25		3
+Player 1		pass		--			0		0	
+Player 2	looed	8.425	20		3
+Player 1	lit	--	9		2
+Player 2	eerie	7.988	15		5
+Player 1	ree	--	5		3
+Player 2	er	0.204	8		7
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 5 menit 38 detik 
+player 1 left tile : 4
+player 1 total skor : 173
+player 2 durasi : 1 menit 33 detik 
+player 2 left tile : 0
+player 2 total skor : 416

@@ -1,0 +1,49 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	bee	--	10		3	HUMAN 
+Player 2	jews	0.83	26		3	GADDAG
+Player 1	beg	--	7		2	HUMAN 
+Player 2	zeds	2.027	35		4	GADDAG
+Player 1	sheep	--	10		4	HUMAN 
+Player 2	sprung	3.837	19		5	GADDAG
+Player 1	horn	--	12		3	HUMAN 
+Player 2	boxthorn	35.654	38		4	GADDAG
+Player 1	yond	--	7		3	HUMAN 
+Player 2	undid	6.507	25		4	GADDAG
+Player 1	dom	--	7		2	HUMAN 
+Player 2	fin	4.358	20		2	GADDAG
+Player 1	syn	--	10		2	HUMAN 
+Player 2	beech	1.135	12		1	GADDAG
+Player 1	mon	--	15		2	HUMAN 
+Player 2	fog	1.213	12		2	GADDAG
+Player 1	gink	--	9		3	HUMAN 
+Player 2	it	1.253	2		1	GADDAG
+Player 1	fit	--	12		2	HUMAN 
+Player 2	deck	2.844	22		3	GADDAG
+Player 1	vet	--	12		2	HUMAN 
+Player 2	volti	5.298	21		5	GADDAG
+Player 1	root	--	5		3	HUMAN 
+Player 2	axe	9.777	26		2	GADDAG
+Player 1	roll	--	6		3	HUMAN 
+Player 2	trowel	6.903	23		5	GADDAG
+Player 1	mire	--	12		3	HUMAN 
+Player 2	cope	5.697	16		2	GADDAG
+Player 1	eat	--	6		2	HUMAN 
+Player 2	aurum	5.847	16		4	GADDAG
+Player 1	die	--	6		2	HUMAN 
+Player 2	vara	83.973	14		2	NEGASCOUT
+Player 1	aa	--	5		4	HUMAN 
+Player 2	ego	5.845	15		4	NEGASCOUT
+Player 1	no	--	6		5	HUMAN 
+Player 2	ai	1.196	6		6	NEGASCOUT
+Player 1	si	--	2		6	HUMAN 
+Player 2	awa	0.053	8		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 1
+player 1 total skor : 159
+player 2 durasi : 2 menit 54 detik 
+player 2 left tile : 0
+player 2 total skor : 356

@@ -1,0 +1,55 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	raze	--	26		4	HUMAN 
+Player 2	apex	18.754	41		4	GADDAG
+Player 1	bone	--	12		3	HUMAN 
+Player 2	bum	1.615	23		3	GADDAG
+Player 1	braws	--	10		4	HUMAN 
+Player 2	fryer	3.833	46		4	GADDAG
+Player 1	new	--	10		1	HUMAN 
+Player 2	savvy	3.295	42		4	GADDAG
+Player 1	tax	--	11		1	HUMAN 
+Player 2	capos	5.198	30		5	GADDAG
+Player 1	ham	--	8		1	HUMAN 
+Player 2	joy	1.935	29		1	GADDAG
+Player 1	my	--	7		1	HUMAN 
+Player 2	guck	3.265	27		4	GADDAG
+Player 1	odds	--	12		3	HUMAN 
+Player 2	lits	14.899	28		4	GADDAG
+Player 1	daft	--	14		3	HUMAN 
+Player 2	iota	7.323	25		4	GADDAG
+Player 1	fin	--	12		2	HUMAN 
+Player 2	lungi	6.844	14		4	GADDAG
+Player 1	hall	--	8		3	HUMAN 
+Player 2	urari	7.193	14		4	GADDAG
+Player 1	lot	--	6		1	HUMAN 
+Player 2	owl	5.507	12		2	GADDAG
+Player 1	nod	--	8		2	HUMAN 
+Player 2	rouge	4.21	14		3	GADDAG
+Player 1	odd	--	15		2	HUMAN 
+Player 2	en	6.08	13		2	GADDAG
+Player 1	gane	--	9		3	HUMAN 
+Player 2	tine	6.097	12		4	GADDAG
+Player 1	net	--	4		2	HUMAN 
+Player 2	meet	203.279	8		2	NEGASCOUT
+Player 1	soar	--	10		4	HUMAN 
+Player 2	eh	0.833	7		3	NEGASCOUT
+Player 1	gee	--	4		6	HUMAN 
+Player 2	tie	0.388	3		5	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	ti	0.095	2		6	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	ti	0.039	0		6	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	ti	0.038	0		6	NEGASCOUT
+Player 1		pass		--			0		0	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 5 menit 34 detik 
+player 1 left tile : 1
+player 1 total skor : 186
+player 2 durasi : 4 menit 52 detik 
+player 2 left tile : 1
+player 2 total skor : 390
+Player 2	ti	0.039	0		6	NEGASCOUT

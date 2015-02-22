@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	help	--	18		4	HUMAN 
+Player 2	fess	0.696	12		3	GADDAG
+Player 1	seen	--	5		3	HUMAN 
+Player 2	wacks	10.757	39		5	GADDAG

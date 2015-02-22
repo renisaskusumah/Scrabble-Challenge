@@ -1,0 +1,47 @@
+player word durasi skor tiles
+
+
+Player 1	pigsty	4.035	30		6	blank tiles
+Player 2 	unmixt	3.43	30		5	
+Player 1	quiz	33.306	42		3	blank tiles
+Player 2 	ales	10.458	22		3	
+Player 1	jubas	5.782	22		5	
+Player 2 	jefe	9.592	28		3	
+Player 1	casked	9.4	45		6	
+Player 2 	recur	10.564	18		5	
+Player 1	yodhs	6.822	32		5	
+Player 2 	rem	9.563	25		3	
+Player 1	flocs	11.087	38		4	
+Player 2 	fub	4.298	16		2	
+Player 1	ow	9.056	24		2	
+Player 2 	vine	9.083	18		4	
+Player 1	diagram	11.623	22		5	
+Player 2 	pad	9.174	20		3	
+Player 1	why	5.827	20		2	
+Player 2 	egal	14.831	15		4	
+Player 1	exon	9.929	17		2	
+Player 2 	elite	16.653	15		3	
+Player 1	arrive	10.771	36		5	
+Player 2 	ana	12.09	14		3	
+Player 1	teen	11.065	18		4	
+Player 2 	it	11.339	13		2	
+Player 1	titi	4.502	12		5	
+Player 2 	ion	2.429	11		5	
+Player 1	woo	0.119	56		7	
+Player 2 	lo	0.14	57		7	
+Player 1	-	0.029	0		7	
+Player 2 	-	0.029	0		7	
+Player 1	-	0.029	0		7	
+Player 2 	-	0.029	0		7	
+Player 1	-	0.028	0		7	
+Player 2 	-	0.028	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 133.41
+player 1 left tile : 0
+player 1 total skor : 414
+player 1 Final skor : 414
+player 2 durasi : 123.73
+player 2 left tile : 0
+player 2 total skor : 302
+player 2 Final skor : 302

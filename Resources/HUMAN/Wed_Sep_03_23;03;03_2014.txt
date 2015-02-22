@@ -1,0 +1,30 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	dark	--	18		4	HUMAN 
+Player 2	chorizo	33.951	86		7	GADDAG
+Player 1	jot	--	27		3	HUMAN 
+Player 2	forb	0.534	18		2	GADDAG
+Player 1	mured	--	18		4	HUMAN 
+Player 2	ox	1.16	21		2	GADDAG
+Player 1	grosz	--	28		4	HUMAN 
+Player 2	ebb	11.967	28		2	GADDAG
+Player 1	mog	--	22		3	HUMAN 
+Player 2	fisc	3.029	25		4	GADDAG
+Player 1	qat	--	23		3	HUMAN 
+Player 2	peags	7.123	29		5	GADDAG
+Player 1	forbids	--	26		3	HUMAN 
+Player 2	where	9.836	30		5	GADDAG
+Player 1	oat	--	26		3	HUMAN 
+Player 2	ow	5.469	21		2	GADDAG
+Player 1	viva	--	22		4	HUMAN 
+Player 2	pad	6.124	25		3	GADDAG
+Player 1	nodule	--	18		5	HUMAN 
+Player 2	laying	9.697	20		5	GADDAG
+Player 1	eta	--	20		3	HUMAN 
+Player 2	ye	3.111	18		1	GADDAG
+Player 1	aye	--	12		1	HUMAN 
+Player 2	unwon	4.512	9		3	GADDAG
+Player 1	nail	--	11		4	HUMAN 
+Player 2	stir	5.401	10		3	GADDAG
+Player 1	lieve	--	8		2	HUMAN 

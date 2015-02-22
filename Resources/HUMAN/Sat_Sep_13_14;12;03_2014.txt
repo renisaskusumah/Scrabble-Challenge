@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	wan	--	12		3	HUMAN 
+Player 2	jaw	2.694	25		2	GADDAG
+Player 1	kwanza	--	23		3	HUMAN 
+Player 2	put	8.908	30		3	GADDAG

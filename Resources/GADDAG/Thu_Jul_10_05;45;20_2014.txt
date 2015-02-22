@@ -1,0 +1,50 @@
+player word durasi skor tiles
+
+
+Player 1	ducky	0.131	38		5	
+Player 2 	pic	1.376	13		2	
+Player 1	xu	1.83	34		1	
+Player 2 	ivy	0.982	9		2	
+Player 1	qua	1.714	16		3	
+Player 2 	biz	0.983	40		3	
+Player 1	winch	2.226	34		5	
+Player 2 	djinn	2.451	28		3	
+Player 1	idyls	3.903	44		5	
+Player 2 	doffs	2.883	31		5	
+Player 1	vaw	3.62	29		3	
+Player 2 	plight	3.523	27		6	
+Player 1	vug	100.102	36		2	blank tiles
+Player 2 	sombre	10.718	39		6	
+Player 1	knee	8.62	31		3	
+Player 2 	zags	118.06	28		3	blank tiles
+Player 1	glume	8.057	21		4	
+Player 2 	antenna	12.13	77		7	
+Player 1	groin	13.227	22		5	
+Player 2 	await	8.772	20		3	
+Player 1	tel	12.637	18		3	
+Player 2 	too	11.96	12		3	
+Player 1	tiro	9.601	13		4	
+Player 2 	ago	10.206	17		3	
+Player 1	sombrero	8.111	12		2	
+Player 2 	rear	0.78	8		5	
+Player 1	tire	1.628	7		4	
+Player 2 	ae	0.095	56		7	
+Player 1	eme	0.186	5		5	
+Player 2 	-	0.008	0		7	
+Player 1	gee	0.078	54		7	
+Player 2 	-	0.007	0		7	
+Player 1	-	0.008	0		7	
+Player 2 	-	0.008	0		7	
+Player 1	-	0.007	0		7	
+Player 2 	-	0.008	0		7	
+Player 1	-	0.007	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 175.693
+player 1 left tile : 0
+player 1 total skor : 414
+player 1 Final skor : 414
+player 2 durasi : 184.95
+player 2 left tile : 0
+player 2 total skor : 405
+player 2 Final skor : 405

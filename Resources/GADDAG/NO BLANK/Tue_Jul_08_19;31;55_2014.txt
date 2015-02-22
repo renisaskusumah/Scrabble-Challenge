@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	coz	0.129	28		3
+Player 2 	whop	0.757	19		3
+Player 1	wark	1.255	21		4
+Player 2 	qua	1.122	22		2
+Player 1	prey	1.491	32		3
+Player 2 	zed	1.324	17		2
+Player 1	dib	1.356	12		3
+Player 2 	buhls	2.316	34		5
+Player 1	fund	0.725	8		3
+Player 2 	taj	1.805	32		3
+Player 1	glen	2.164	22		4
+Player 2 	odd	2.4	20		2
+Player 1	ivy	2.391	26		3
+Player 2 	log	1.05	4		2
+Player 1	conns	2.534	26		5
+Player 2 	fug	2.738	15		3
+Player 1	ex	3.085	32		2
+Player 2 	scion	7.476	18		4
+Player 1	murals	3.934	22		6
+Player 2 	taint	10.256	22		5
+Player 1	motivate	6.451	65		7
+Player 2 	torii	10.771	30		5
+Player 1	oca	5.783	15		2
+Player 2 	err	14.15	14		3
+Player 1	ate	6.271	14		3
+Player 2 	ire	7.414	12		3
+Player 1	oe	0.591	10		5
+Player 2 	ebb	0.554	7		4
+Player 1	baa	0.179	60		7
+Player 2 	loge	0.308	5		5
+Player 1	-	0.104	0		7
+Player 2 	it	0.16	2		6
+Player 1	-	0.116	0		7
+Player 2 	er	0.121	52		7
+Player 1	-	0.103	0		7
+Player 2 	-	0.106	0		7
+Player 1	-	0.109	0		7
+Player 2 	-	0.105	0		7
+Player 1	-	0.104	0		7
+Player 2 	-	0.106	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 0 menit 32 detik 
+player 1 left tile : 0
+player 1 total skor : 393
+player 1 Final skor : 393
+player 2 durasi : 0 menit 58 detik 
+player 2 left tile : 0
+player 2 total skor : 325
+player 2 Final skor : 325

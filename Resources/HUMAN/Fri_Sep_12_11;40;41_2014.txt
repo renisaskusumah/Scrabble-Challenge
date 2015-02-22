@@ -1,0 +1,12 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	bed	--	12		3	HUMAN 
+Player 2	winy	4.377	26		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	spry	2.202	18		3	GADDAG
+Player 1	bold	--	7		3	HUMAN 
+Player 2	pod	1.905	20		2	GADDAG
+Player 1	tidy	--	8		3	HUMAN 
+Player 2	fir	3.849	31		2	GADDAG
+Player 1	the	--	5		2	HUMAN 

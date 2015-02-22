@@ -1,0 +1,36 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	fritz	--	52		5	HUMAN 
+Player 2	maquis	33.545	36		5	GADDAG
+Player 1	foam	--	9		3	HUMAN 
+Player 2	jimpy	3.039	54		4	GADDAG
+Player 1	ham	--	8		2	HUMAN 
+Player 2	vealy	8.746	54		5	GADDAG
+Player 1	haws	--	12		2	HUMAN 
+Player 2	scend	4.943	38		5	GADDAG
+Player 1	unto	--	5		3	HUMAN 
+Player 2	we	1.735	34		1	GADDAG
+Player 1	descend	--	11		2	HUMAN 
+Player 2	bib	3.865	21		3	GADDAG
+Player 1	xu	--	9		1	HUMAN 
+Player 2	khi	2.677	14		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	byrl	15.126	9		2	GADDAG
+Player 1	fed	--	14		2	HUMAN 
+Player 2	en	1.954	4		1	GADDAG
+Player 1	abut	--	12		3	HUMAN 
+Player 2	tag	1.478	6		2	GADDAG
+Player 1	zees	--	13		3	HUMAN 
+Player 2	nicad	10.089	32		5	GADDAG
+Player 1	star	--	4		3	HUMAN 
+Player 2	gulfed	5.949	15		3	GADDAG
+Player 1	rut	--	3		2	HUMAN 
+Player 2	pang	2.998	13		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	riding	7.934	18		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	oorie	10.383	22		5	GADDAG
+Player 1	due	--	4		2	HUMAN 
+Player 2	ewe	4.954	17		2	GADDAG
+Player 1	eve	--	10		2	HUMAN 

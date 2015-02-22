@@ -1,0 +1,56 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  W W P C
+New Tiles :  J N C N
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  J N N C N D R
+New Tiles :  L W Z * S I N
+
+
+******HUMAN RESULT******
+RACK : LWZ*SIN
+
+HUMAN MOVE : sin , score : 6 , direction : 1 , col : 9 , row : 7
+
+
+******COMPUTER TURN******
+RACK : fnnplrh
+
+word : fin anchor( col :  7 row : 6 ) score : 6 new tiles : fn    Heuristic : 2
+word : fil anchor( col :  7 row : 6 ) score : 6 new tiles : fl    Heuristic : 0.5
+word : fir anchor( col :  7 row : 6 ) score : 6 new tiles : fr    Heuristic : -2
+word : firn anchor( col :  7 row : 6 ) score : 7 new tiles : frn    Heuristic : 2.5
+word : nip anchor( col :  7 row : 6 ) score : 5 new tiles : np    Heuristic : 0.5
+word : nil anchor( col :  7 row : 6 ) score : 3 new tiles : nl    Heuristic : -2
+word : pi anchor( col :  7 row : 6 ) score : 4 new tiles : p    Heuristic : -4
+word : pin anchor( col :  7 row : 6 ) score : 5 new tiles : pn    Heuristic : 0.5
+word : pirn anchor( col :  7 row : 6 ) score : 6 new tiles : prn    Heuristic : 1
+word : flip anchor( col :  7 row : 6 ) score : 9 new tiles : flp    Heuristic : 6
+word : li anchor( col :  7 row : 6 ) score : 2 new tiles : l    Heuristic : -6.5
+word : lin anchor( col :  7 row : 6 ) score : 3 new tiles : ln    Heuristic : -2
+word : linn anchor( col :  7 row : 6 ) score : 4 new tiles : lnn    Heuristic : -0.5
+word : lip anchor( col :  7 row : 6 ) score : 5 new tiles : lp    Heuristic : -1
+word : rif anchor( col :  7 row : 6 ) score : 6 new tiles : rf    Heuristic : -2
+word : rin anchor( col :  7 row : 6 ) score : 3 new tiles : rn    Heuristic : -4.5
+word : rip anchor( col :  7 row : 6 ) score : 5 new tiles : rp    Heuristic : -3.5
+word : phi anchor( col :  7 row : 6 ) score : 8 new tiles : ph    Heuristic : 0.5
+word : hi anchor( col :  7 row : 6 ) score : 5 new tiles : h    Heuristic : -5
+word : hin anchor( col :  7 row : 6 ) score : 6 new tiles : hn    Heuristic : -0.5
+word : hip anchor( col :  7 row : 6 ) score : 8 new tiles : hp    Heuristic : 0.5
+word : sinh anchor( col :  9 row : 7 ) score : 7 new tiles : h    Heuristic : -3
+word : sh anchor( col :  6 row : 8 ) score : 9 new tiles : h    Heuristic : -1
+word : if anchor( col :  7 row : 8 ) score : 5 new tiles : f    Heuristic : -2.5
+word : in anchor( col :  7 row : 8 ) score : 2 new tiles : n    Heuristic : -5
+word : inn anchor( col :  7 row : 8 ) score : 3 new tiles : nn    Heuristic : -3.5
+Hasil evaluasi : flip , score : 9 , direction :2 ,i: 5 j: 7 Heuristic: 6
+
+
+
+POSSIBLE MOVEMENT : 
+
+

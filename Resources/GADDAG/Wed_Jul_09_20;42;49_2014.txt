@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	xu	0.03	18		2	
+Player 2 	zax	0.718	20		2	
+Player 1	hug	0.441	13		3	
+Player 2 	cobbs	10.083	28		5	blank tiles
+Player 1	noddy	0.751	19		4	
+Player 2 	podgy	2.767	24		4	
+Player 1	ow	2.247	24		2	
+Player 2 	ka	2.792	21		2	
+Player 1	fozy	2.141	21		3	
+Player 2 	avow	2.64	35		4	
+Player 1	quassia	4.469	32		5	
+Player 2 	humic	3.122	29		5	
+Player 1	pe	4.709	20		2	
+Player 2 	djins	50.808	36		5	blank tiles
+Player 1	tea	5.689	15		2	
+Player 2 	ag	5.183	16		2	
+Player 1	ivory	4.54	12		4	
+Player 2 	boa	4.173	13		2	
+Player 1	bel	6.832	15		2	
+Player 2 	of	3.086	13		2	
+Player 1	nine	7.155	11		4	
+Player 2 	am	4.89	12		2	
+Player 1	irone	7.713	20		5	
+Player 2 	lin	4.807	13		3	
+Player 1	taller	8.643	25		6	
+Player 2 	air	7.818	17		3	
+Player 1	treat	12.744	16		5	
+Player 2 	tier	9.304	14		4	
+Player 1	tee	0.267	57		7	
+Player 2 	er	0.204	9		5	
+Player 1	-	0.02	0		7	
+Player 2 	vie	0.09	57		7	
+Player 1	-	0.02	0		7	
+Player 2 	-	0.02	0		7	
+Player 1	-	0.02	0		7	
+Player 2 	-	0.02	0		7	
+Player 1	-	0.02	0		7	
+Player 2 	-	0.02	0		7	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 68.451
+player 1 left tile : 0
+player 1 total skor : 318
+player 1 Final skor : 318
+player 2 durasi : 112.545
+player 2 left tile : 0
+player 2 total skor : 357
+player 2 Final skor : 357

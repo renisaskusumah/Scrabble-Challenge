@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	fap	20.439	16		3	HUMAN 	16
+Player 2	waqf	6.921	29		3	GADDAG	29

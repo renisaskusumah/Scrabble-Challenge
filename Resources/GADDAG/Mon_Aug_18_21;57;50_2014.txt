@@ -1,0 +1,58 @@
+player word durasi skor tiles
+
+
+Player 1	punk	0.198	20		4	
+Player 2 	jump	0.417	30		3	
+Player 1	wyn	0.722	30		3	
+Player 2 	bot	0.789	20		3	
+Player 1	gym	1.024	28		3	
+Player 2 	ax	0.985	29		2	
+Player 1	gonzo	2.066	38		5	
+Player 2 	cub	1.382	30		3	
+Player 1	fora	5.436	23		4	
+Player 2 	wolf	2.025	20		3	
+Player 1	dugong	2.885	20		4	
+Player 2 	john	0.87	14		2	
+Player 1	rut	1.152	6		2	
+Player 2 	pro	0.661	11		2	
+Player 1	veldt	15.869	23		5	blank tiles
+Player 2 	mach	0.778	11		1	
+Player 1	pical	7.437	24		4	
+Player 2 	unwind	1.733	18		4	
+Player 1	arioso	8.595	31		6	
+Player 2 	videos	53.683	41		6	blank tiles
+Player 1	ratio	10.745	20		5	
+Player 2 	stet	9.852	22		4	
+Player 1	liars	9.412	20		4	
+Player 2 	ana	6.073	19		2	
+Player 1	ai	4.262	16		2	
+Player 2 	el	4.984	14		2	
+Player 1	inn	3.511	12		1	
+Player 2 	qat	0.735	12		3	
+Player 1	epical	1.58	10		2	
+Player 2 	vive	0.459	10		5	
+Player 1	eh	0.871	9		3	
+Player 2 	dee	0.095	55		7	
+Player 1	lei	0.432	6		4	
+Player 2 	-	0.016	0		7	
+Player 1	em	0.206	4		5	
+Player 2 	-	0.015	0		7	
+Player 1	ae	0.088	3		6	
+Player 2 	-	0.021	0		7	
+Player 1	ree	0.037	53		7	
+Player 2 	-	0.017	0		7	
+Player 1	-	0.016	0		7	
+Player 2 	-	0.015	0		7	
+Player 1	-	0.016	0		7	
+Player 2 	-	0.015	0		7	
+Player 1	-	0.015	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 76.575
+player 1 left tile : 0
+player 1 total skor : 396
+player 1 Final skor : 396
+player 2 durasi : 85.62
+player 2 left tile : 0
+player 2 total skor : 356
+player 2 Final skor : 356

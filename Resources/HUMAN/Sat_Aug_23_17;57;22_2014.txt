@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	lob	--	10		3
+Player 2	kay	1.314	30		3

@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	cut	--	10		3	HUMAN 
+Player 2	jut	4.295	26		2	GADDAG
+Player 1	cut	--	5		2	HUMAN 
+Player 2	clumsy	4.95	35		5	GADDAG

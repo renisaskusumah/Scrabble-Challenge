@@ -1,0 +1,51 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : JLRDFIE
+
+HUMAN MOVE : die , score : 8 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : mlrdfdl
+
+word : mi anchor( col :  6 row : 8 ) score : 7 new tiles : m
+word : mil anchor( col :  6 row : 8 ) score : 9 new tiles : ml
+word : mild anchor( col :  6 row : 8 ) score : 11 new tiles : mld
+word : mid anchor( col :  6 row : 8 ) score : 11 new tiles : md
+word : film anchor( col :  6 row : 8 ) score : 14 new tiles : flm
+word : rim anchor( col :  8 row : 8 ) score : 9 new tiles : rm
+word : dim anchor( col :  8 row : 8 ) score : 11 new tiles : dm
+word : film anchor( col :  8 row : 8 ) score : 14 new tiles : flm
+word : me anchor( col :  6 row : 9 ) score : 4 new tiles : m
+word : mel anchor( col :  6 row : 9 ) score : 5 new tiles : ml
+word : meld anchor( col :  6 row : 9 ) score : 11 new tiles : mld
+word : fled anchor( col :  6 row : 9 ) score : 16 new tiles : fld
+word : fremd anchor( col :  6 row : 9 ) score : 23 new tiles : frmd
+word : em anchor( col :  8 row : 9 ) score : 4 new tiles : m
+word : rem anchor( col :  8 row : 9 ) score : 5 new tiles : rm
+word : fremd anchor( col :  8 row : 9 ) score : 23 new tiles : frmd
+word : diel anchor( col :  7 row : 10 ) score : 5 new tiles : l
+word : died anchor( col :  7 row : 10 ) score : 6 new tiles : d
+word : mi anchor( col :  6 row : 8 ) score : 7 new tiles : m
+word : mil anchor( col :  6 row : 8 ) score : 9 new tiles : ml
+word : mild anchor( col :  6 row : 8 ) score : 11 new tiles : mld
+word : mid anchor( col :  6 row : 8 ) score : 11 new tiles : md
+word : film anchor( col :  6 row : 8 ) score : 14 new tiles : flm
+word : rim anchor( col :  8 row : 8 ) score : 9 new tiles : rm
+word : dim anchor( col :  8 row : 8 ) score : 11 new tiles : dm
+word : film anchor( col :  8 row : 8 ) score : 14 new tiles : flm
+word : me anchor( col :  6 row : 9 ) score : 4 new tiles : m
+word : mel anchor( col :  6 row : 9 ) score : 5 new tiles : ml
+word : meld anchor( col :  6 row : 9 ) score : 11 new tiles : mld
+word : fled anchor( col :  6 row : 9 ) score : 16 new tiles : fld
+word : fremd anchor( col :  6 row : 9 ) score : 23 new tiles : frmd
+word : em anchor( col :  8 row : 9 ) score : 4 new tiles : m
+word : rem anchor( col :  8 row : 9 ) score : 5 new tiles : rm
+word : fremd anchor( col :  8 row : 9 ) score : 23 new tiles : frmd
+word : diel anchor( col :  7 row : 10 ) score : 5 new tiles : l
+word : died anchor( col :  7 row : 10 ) score : 6 new tiles : d
+Hasil evaluasi : fremd , score : 23 , direction :1 ,i: 9 j: 5
+
+
+

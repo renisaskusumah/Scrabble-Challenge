@@ -1,0 +1,403 @@
+﻿Build started 11/9/2014 11:23:28 PM.
+     1>Project "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Scrabble.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\cocos2dx" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\cocos2dx\include" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\cocos2dx\kazmath\include" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\cocos2dx\platform\win32" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\cocos2dx\platform\third_party\win32" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\external" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\external\chipmunk\include\chipmunk" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\CocosDenshion\include" /I"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\extensions" /I..\Classes /I.. /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release.win32\\" /Fd"Release.win32\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\AboutScene.cpp ..\Classes\AiMenuScene.cpp ..\Classes\AppDelegate.cpp ..\Classes\BasicTiles.cpp ..\Classes\EndGameScene.cpp ..\Classes\Gaddag.cpp ..\Classes\GameAiScene.cpp ..\Classes\GameAlgorithm.cpp ..\Classes\GameHumanScene.cpp ..\Classes\GameScene.cpp ..\Classes\HelloWorldScene.cpp ..\Classes\HelpScene.cpp ..\Classes\Heuristic.cpp ..\Classes\LoadingScene.cpp ..\Classes\MenuScene.cpp ..\Classes\Negascout.cpp ..\Classes\Papan.cpp ..\Classes\AiPlayer.cpp ..\Classes\RackTile.cpp ..\Classes\Strategy.cpp ..\Classes\TileOnBoard.cpp main.cpp
+         AboutScene.cpp
+         AiMenuScene.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8) : see previous definition of 'COCOS2D_DEBUG'
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(68): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(363): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAiScene.h(15): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7) : see previous definition of 'COCOS2D_DEBUG'
+         AppDelegate.cpp
+         BasicTiles.cpp
+     1>..\Classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+         EndGameScene.cpp
+     1>..\Classes\EndGameScene.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\EndGameScene.cpp(89): warning C4101: 'pos' : unreferenced local variable
+         Gaddag.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>..\Classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+         GameAiScene.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8) : see previous definition of 'COCOS2D_DEBUG'
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(68): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(363): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAiScene.h(15): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7) : see previous definition of 'COCOS2D_DEBUG'
+     1>..\Classes\GameAiScene.cpp(23): warning C4101: 'k' : unreferenced local variable
+     1>..\Classes\GameAiScene.cpp(374): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAiScene.cpp(379): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAiScene.cpp(426): warning C4101: 'i' : unreferenced local variable
+         GameAlgorithm.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAlgorithm.cpp(68): warning C4101: 'i' : unreferenced local variable
+     1>..\Classes\GameAlgorithm.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAlgorithm.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAlgorithm.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAlgorithm.cpp(363): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAlgorithm.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAlgorithm.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameAlgorithm.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+         GameHumanScene.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(68): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(363): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7) : see previous definition of 'COCOS2D_DEBUG'
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameHumanScene.h(15): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8) : see previous definition of 'COCOS2D_DEBUG'
+     1>..\Classes\GameHumanScene.cpp(139): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\Classes\GameHumanScene.cpp(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>..\Classes\GameHumanScene.cpp(325): warning C4002: too many actual parameters for macro 'schedule_selector'
+     1>..\Classes\GameHumanScene.cpp(394): warning C4101: 'j' : unreferenced local variable
+     1>..\Classes\GameHumanScene.cpp(628): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameHumanScene.cpp(634): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameHumanScene.cpp(738): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\GameHumanScene.cpp(908): warning C4101: 'score' : unreferenced local variable
+     1>..\Classes\GameHumanScene.cpp(905): warning C4101: 'durasi' : unreferenced local variable
+     1>..\Classes\GameHumanScene.cpp(888): warning C4101: 'i' : unreferenced local variable
+     1>..\Classes\GameHumanScene.cpp(904): warning C4101: 'start' : unreferenced local variable
+     1>..\Classes\GameHumanScene.cpp(1464): warning C4101: 'i' : unreferenced local variable
+         GameScene.cpp
+         HelloWorldScene.cpp
+         HelpScene.cpp
+         Heuristic.cpp
+     1>..\Classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+         LoadingScene.cpp
+         MenuScene.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(68): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(363): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7) : see previous definition of 'COCOS2D_DEBUG'
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameHumanScene.h(15): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8) : see previous definition of 'COCOS2D_DEBUG'
+         Negascout.cpp
+         Papan.cpp
+     1>..\Classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+         AiPlayer.cpp
+     1>..\Classes\AiPlayer.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+         RackTile.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(68): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(363): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7) : see previous definition of 'COCOS2D_DEBUG'
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameHumanScene.h(15): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8) : see previous definition of 'COCOS2D_DEBUG'
+         Strategy.cpp
+         Compiling...
+         TileOnBoard.cpp
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Papan.cpp(172): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Heuristic.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(480): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(464): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(470): warning C4101: 'evalDirection' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(469): warning C4101: 'tempTag' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(581): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(833): warning C4101: 'j' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(958): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(995): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1187): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1290): warning C4101: 'wordCheck' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1423): warning C4101: 'start' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1722): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1781): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1807): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1832): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1835): warning C4101: 'letter' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1881): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\Gaddag.cpp(1979): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\BasicTiles.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(68): warning C4101: 'i' : unreferenced local variable
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(363): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameAlgorithm.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\TileOnBoard.h(7) : see previous definition of 'COCOS2D_DEBUG'
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\GameHumanScene.h(15): warning C4005: 'COCOS2D_DEBUG' : macro redefinition
+                 e:\~skripseh~\[folder fix tulisan]\cocos2d-x-2.2.3\projects\scrabble\classes\AiPlayer.cpp(8) : see previous definition of 'COCOS2D_DEBUG'
+         main.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release.win32\Scrabble.res" Scrabble.rc 
+       PreLinkEvent:
+         if not exist "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\" mkdir "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\"
+         xcopy /Y /Q "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\..\..\..\external\libwebsockets\win32\lib\*.*" "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\"
+         :VCEnd
+         2 File(s) copied
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\Scrabble.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\\" libExtensions.lib libcocos2d.lib libCocosDenshion.lib opengl32.lib glew32.lib libBox2d.lib libchipmunk.lib libcurl_imp.lib pthreadVCE2.lib websockets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\Scrabble.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\Scrabble.lib" /MACHINE:X86 /SAFESEH Release.win32\Scrabble.res
+         Release.win32\AboutScene.obj
+         Release.win32\AiMenuScene.obj
+         Release.win32\AppDelegate.obj
+         Release.win32\BasicTiles.obj
+         Release.win32\EndGameScene.obj
+         Release.win32\Gaddag.obj
+         Release.win32\GameAiScene.obj
+         Release.win32\GameAlgorithm.obj
+         Release.win32\GameHumanScene.obj
+         Release.win32\GameScene.obj
+         Release.win32\HelloWorldScene.obj
+         Release.win32\HelpScene.obj
+         Release.win32\Heuristic.obj
+         Release.win32\LoadingScene.obj
+         Release.win32\MenuScene.obj
+         Release.win32\Negascout.obj
+         Release.win32\Papan.obj
+         Release.win32\AiPlayer.obj
+         Release.win32\RackTile.obj
+         Release.win32\Strategy.obj
+         Release.win32\TileOnBoard.obj
+         Release.win32\main.obj
+         "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\libcocos2d.lib"
+         "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\libCocosDenshion.lib"
+         "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\libExtensions.lib"
+         "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\libBox2D.lib"
+         "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\libchipmunk.lib"
+         Generating code
+         Finished generating code
+         Scrabble.vcxproj -> E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Release.win32\Scrabble.exe
+     1>Done Building Project "E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\projects\Scrabble\proj.win32\Scrabble.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:33.69

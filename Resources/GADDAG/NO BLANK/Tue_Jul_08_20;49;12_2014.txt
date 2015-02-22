@@ -1,0 +1,61 @@
+player word durasi skor tiles
+
+
+Player 1	keys	0.077	22		4
+Player 2 	boy	1.559	27		3
+Player 1	sex	0.572	31		3
+Player 2 	sext	0.509	11		1
+Player 1	nth	0.517	14		2
+Player 2 	closed	0.692	9		3
+Player 1	jerk	1.875	30		3
+Player 2 	dev	0.732	15		2
+Player 1	lown	1.177	20		3
+Player 2 	jerking	2.588	38		3
+Player 1	us	1.653	16		2
+Player 2 	twin	1.851	14		3
+Player 1	nun	0.918	4		2
+Player 2 	putti	3.7	20		4
+Player 1	qua	2.739	37		2
+Player 2 	psi	1.157	8		2
+Player 1	pacha	3.39	24		4
+Player 2 	um	2.368	15		2
+Player 1	tet	1.653	20		3
+Player 2 	bid	2.245	14		2
+Player 1	umm	0.873	14		1
+Player 2 	mantid	4.014	11		4
+Player 1	vig	1.217	11		2
+Player 2 	user	5.978	13		3
+Player 1	fain	2.707	17		2
+Player 2 	heeze	4.169	19		3
+Player 1	reforge	2.88	22		5
+Player 2 	rille	8.889	17		5
+Player 1	ole	8.147	13		3
+Player 2 	azo	3.433	22		2
+Player 1	raia	4.956	20		4
+Player 2 	aqua	3.426	13		2
+Player 1	agog	0.498	11		5
+Player 2 	bi	0.887	8		3
+Player 1	oe	0.104	57		7
+Player 2 	err	0.465	6		4
+Player 1	-	0.034	0		7
+Player 2 	er	0.221	6		5
+Player 1	-	0.043	0		7
+Player 2 	do	0.104	5		6
+Player 1	-	0.032	0		7
+Player 2 	in	0.057	52		7
+Player 1	-	0.032	0		7
+Player 2 	-	0.034	0		7
+Player 1	-	0.033	0		7
+Player 2 	-	0.032	0		7
+Player 1	-	0.034	0		7
+Player 2 	-	0.034	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 36.161
+player 1 left tile : 0
+player 1 total skor : 383
+player 1 Final skor : 383
+player 2 durasi : 49.144
+player 2 left tile : 0
+player 2 total skor : 343
+player 2 Final skor : 343

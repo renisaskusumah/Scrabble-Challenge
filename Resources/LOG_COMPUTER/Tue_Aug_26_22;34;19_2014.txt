@@ -1,0 +1,32 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : cumqwts
+
+Hasil evaluasi : cwms , score : 22 , direction : 2 , col : 7 , row : 7
+
+
+
+POSSIBLE MOVEMENT : 
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  W B J M
+New Tiles :  T N W G
+
+
+******COMPUTER TURN******
+RACK : uqtsff*
+
+Hasil evaluasi : quaffs , score : 40 , direction : 1 , anchor (6 , 10) , col : 10 , row : 2
+
+
+
+POSSIBLE MOVEMENT : 
+scruff ( col : 6 row: 7 ) score : 17
+cutoffs ( col : 7 row: 7 ) score : 18
+squaw ( col : 3 row: 8 ) score : 16
+waffs ( col : 7 row: 8 ) score : 13
+fumets ( col : 5 row: 9 ) score : 20
+muffs ( col : 7 row: 9 ) score : 21
+quaffs ( col : 2 row: 10 ) score : 40
+squats ( col : 7 row: 10 ) score : 28

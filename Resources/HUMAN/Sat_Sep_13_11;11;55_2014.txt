@@ -1,0 +1,32 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	zig	--	26		3	HUMAN 
+Player 2	jug	1.863	27		2	GADDAG
+Player 1	jug	--	11		2	HUMAN 
+Player 2	yup	1.839	20		2	GADDAG
+Player 1	hiker	--	33		4	HUMAN 
+Player 2	dev	1.661	15		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	hikers	1.915	13		1	GADDAG
+Player 1	slim	--	12		3	HUMAN 
+Player 2	vig	2.579	14		2	GADDAG
+Player 1	rumor	--	17		4	HUMAN 
+Player 2	buddy	3.935	26		4	GADDAG
+Player 1	bird	--	14		3	HUMAN 
+Player 2	cent	16.336	19		4	GADDAG
+Player 1	the	--	10		2	HUMAN 
+Player 2	taxied	13.146	66		5	GADDAG
+Player 1	pub	--	7		2	HUMAN 
+Player 2	ficoes	17.449	43		6	GADDAG
+Player 1	rob	--	7		2	HUMAN 
+Player 2	frets	26.816	28		5	GADDAG
+Player 1	tart	--	4		3	HUMAN 
+Player 2	oar	26.054	18		2	GADDAG
+Player 1	war	--	10		2	HUMAN 
+Player 2	qua	20.253	28		2	GADDAG
+Player 1	saw	--	6		2	HUMAN 
+Player 2	wean	30.334	21		4	GADDAG
+Player 1	heats	--	6		4	HUMAN 
+Player 2	aioli	30.138	19		5	GADDAG
+Player 1	alone	--	8		4	HUMAN 

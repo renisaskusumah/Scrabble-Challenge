@@ -1,0 +1,25 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	matzah	2.25	46		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gawps	0.761	20		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	cep	1.128	17		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	thud	0.642	21		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	revs	25.009	29		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	vets	2.313	28		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	baned	4.719	21		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	qanat	5.461	48		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	debar	10.566	35		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	fay	5.64	35		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	toom	7.855	27		4	GADDAG

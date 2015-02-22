@@ -1,0 +1,22 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : bond , score : 14 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : foxy , score : 29 , direction : 2 , anchor (8 , 6) , col : 6 , row : 8
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : ted , score : 4 , direction : 2 , col : 10 , row : 8
+
+
+******COMPUTER TURN******
+

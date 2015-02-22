@@ -1,0 +1,7 @@
+player word durasi skor tiles
+
+
+Player 1	win	--	6		3
+Player 2	jib	0.181	23		2
+Player 1	wing	--	6		1
+Player 2	gym	0.257	27		3

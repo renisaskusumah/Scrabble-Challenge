@@ -1,0 +1,85 @@
+******HUMAN TURN******
+
+word : bloc anchor( col :  7 row : 6 ) score : 8
+word : cyclo anchor( col :  7 row : 6 ) score : 12
+word : jolly anchor( col :  7 row : 6 ) score : 15
+word : boyo anchor( col :  8 row : 6 ) score : 13
+word : boyo anchor( col :  8 row : 6 ) score : 16
+word : jo anchor( col :  8 row : 6 ) score : 17
+word : joy anchor( col :  8 row : 6 ) score : 25
+word : cob anchor( col :  9 row : 6 ) score : 12
+word : cobby anchor( col :  9 row : 6 ) score : 16
+word : cobb anchor( col :  9 row : 6 ) score : 16
+word : cobby anchor( col :  9 row : 6 ) score : 28
+word : job anchor( col :  9 row : 6 ) score : 28
+word : blob anchor( col :  6 row : 7 ) score : 8
+word : yob anchor( col :  6 row : 7 ) score : 17
+word : job anchor( col :  6 row : 7 ) score : 21
+word : lobby anchor( col :  10 row : 7 ) score : 16
+word : joy anchor( col :  10 row : 7 ) score : 19
+word : cyclo anchor( col :  10 row : 7 ) score : 30
+word : bo anchor( col :  7 row : 8 ) score : 9
+word : boy anchor( col :  7 row : 8 ) score : 26
+word : joy anchor( col :  7 row : 8 ) score : 36
+word : oy anchor( col :  8 row : 8 ) score : 20
+word : boy anchor( col :  8 row : 8 ) score : 26
+word : joy anchor( col :  8 row : 8 ) score : 36
+word : yob anchor( col :  9 row : 8 ) score : 15
+word : yob anchor( col :  9 row : 8 ) score : 25
+word : cobby anchor( col :  9 row : 8 ) score : 28
+word : bloc anchor( col :  7 row : 6 ) score : 8
+word : cyclo anchor( col :  7 row : 6 ) score : 12
+word : jolly anchor( col :  7 row : 6 ) score : 15
+word : boyo anchor( col :  8 row : 6 ) score : 13
+word : boyo anchor( col :  8 row : 6 ) score : 16
+word : jo anchor( col :  8 row : 6 ) score : 17
+word : joy anchor( col :  8 row : 6 ) score : 25
+word : cob anchor( col :  9 row : 6 ) score : 12
+word : cobby anchor( col :  9 row : 6 ) score : 16
+word : cobb anchor( col :  9 row : 6 ) score : 16
+word : cobby anchor( col :  9 row : 6 ) score : 28
+word : job anchor( col :  9 row : 6 ) score : 28
+word : blob anchor( col :  6 row : 7 ) score : 8
+word : yob anchor( col :  6 row : 7 ) score : 17
+word : job anchor( col :  6 row : 7 ) score : 21
+word : lobby anchor( col :  10 row : 7 ) score : 16
+word : joy anchor( col :  10 row : 7 ) score : 19
+word : cyclo anchor( col :  10 row : 7 ) score : 30
+word : bo anchor( col :  7 row : 8 ) score : 9
+word : boy anchor( col :  7 row : 8 ) score : 26
+word : joy anchor( col :  7 row : 8 ) score : 36
+word : oy anchor( col :  8 row : 8 ) score : 20
+word : boy anchor( col :  8 row : 8 ) score : 26
+word : joy anchor( col :  8 row : 8 ) score : 36
+word : yob anchor( col :  9 row : 8 ) score : 15
+word : yob anchor( col :  9 row : 8 ) score : 25
+word : cobby anchor( col :  9 row : 8 ) score : 28
+******HUMAN RESULT******
+
+
+HUMAN MOVE : lob , score : 10 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+
+word : ya anchor( col :  7 row : 6 ) score : 11
+word : rya anchor( col :  7 row : 6 ) score : 12
+word : yaw anchor( col :  7 row : 6 ) score : 28
+word : aw anchor( col :  8 row : 6 ) score : 20
+word : yaw anchor( col :  8 row : 6 ) score : 28
+word : ka anchor( col :  9 row : 6 ) score : 19
+word : kilobar anchor( col :  6 row : 7 ) score : 14
+word : kilobar anchor( col :  10 row : 7 ) score : 14
+word : ya anchor( col :  7 row : 8 ) score : 11
+word : kyar anchor( col :  7 row : 8 ) score : 21
+word : yaw anchor( col :  7 row : 8 ) score : 28
+word : kay anchor( col :  7 row : 8 ) score : 30
+word : ay anchor( col :  8 row : 8 ) score : 20
+word : kay anchor( col :  8 row : 8 ) score : 30
+word : ya anchor( col :  9 row : 8 ) score : 22
+word : yak anchor( col :  9 row : 8 ) score : 27
+word : wark anchor( col :  9 row : 8 ) score : 28
+Hasil evaluasi : kay , score : 30 , direction :1 ,i: 8 j: 6
+
+
+

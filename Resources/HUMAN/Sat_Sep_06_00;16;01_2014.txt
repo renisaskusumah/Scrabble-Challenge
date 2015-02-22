@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	box	--	24		3	HUMAN 
+Player 2	aunty	30.658	32		5	GADDAG
+Player 1	tusk	--	9		3	HUMAN 

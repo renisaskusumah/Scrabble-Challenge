@@ -1,0 +1,10 @@
+player word durasi skor tiles
+
+
+Player 1		pass		--			0		0	
+Player 2	cramp	0.327	28		5
+Player 1	pant	--	8		3
+Player 2	mama	3.072	18		3
+Player 1	icy	--	8		2
+Player 2	dagoba	2.889	27		6
+Player 1		pass		--			0		0	

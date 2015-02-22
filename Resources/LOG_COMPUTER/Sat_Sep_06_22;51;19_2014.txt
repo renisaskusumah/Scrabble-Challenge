@@ -1,0 +1,63 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : crintge
+
+word : trice anchor( col :  7 row : 7 ) score : 14 new tiles : trice
+word : genic anchor( col :  7 row : 7 ) score : 20 new tiles : genic
+word : cringe anchor( col :  7 row : 7 ) score : 22 new tiles : cringe
+word : cering anchor( col :  7 row : 7 ) score : 24 new tiles : cering
+Hasil evaluasi : cering , score : 24 , direction : 2 , col : 7 , row : 3
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : yclept anchor( col :  6 row : 3 ) score : 26 new tiles : ylept
+word : yclept anchor( col :  8 row : 3 ) score : 26 new tiles : ylept
+word : gley anchor( col :  6 row : 4 ) score : 8 new tiles : gly
+word : gleety anchor( col :  6 row : 4 ) score : 20 new tiles : glety
+word : typey anchor( col :  6 row : 4 ) score : 26 new tiles : typy
+word : el anchor( col :  8 row : 4 ) score : 2 new tiles : l
+word : tel anchor( col :  8 row : 4 ) score : 3 new tiles : tl
+word : tele anchor( col :  8 row : 4 ) score : 4 new tiles : tle
+word : pelt anchor( col :  8 row : 4 ) score : 6 new tiles : plt
+word : yelp anchor( col :  8 row : 4 ) score : 9 new tiles : ylp
+word : elegy anchor( col :  8 row : 4 ) score : 18 new tiles : legy
+word : gleety anchor( col :  8 row : 4 ) score : 20 new tiles : glety
+word : typey anchor( col :  8 row : 4 ) score : 26 new tiles : typy
+word : peltry anchor( col :  6 row : 5 ) score : 13 new tiles : pelty
+word : greyly anchor( col :  6 row : 5 ) score : 21 new tiles : geyly
+word : yep anchor( col :  6 row : 5 ) score : 25 new tiles : yep
+word : pert anchor( col :  8 row : 5 ) score : 12 new tiles : pet
+word : pertly anchor( col :  8 row : 5 ) score : 19 new tiles : petly
+word : greyly anchor( col :  8 row : 5 ) score : 21 new tiles : geyly
+word : li anchor( col :  6 row : 6 ) score : 3 new tiles : l
+word : plie anchor( col :  6 row : 6 ) score : 8 new tiles : ple
+word : lip anchor( col :  6 row : 6 ) score : 9 new tiles : lp
+word : pily anchor( col :  6 row : 6 ) score : 13 new tiles : ply
+word : piglet anchor( col :  6 row : 6 ) score : 14 new tiles : pglet
+word : piety anchor( col :  6 row : 6 ) score : 14 new tiles : pety
+word : yip anchor( col :  6 row : 6 ) score : 15 new tiles : yp
+word : yipe anchor( col :  6 row : 6 ) score : 16 new tiles : ype
+word : yet anchor( col :  6 row : 6 ) score : 17 new tiles : yet
+word : yep anchor( col :  6 row : 6 ) score : 25 new tiles : yep
+word : til anchor( col :  8 row : 6 ) score : 5 new tiles : tl
+word : tile anchor( col :  8 row : 6 ) score : 6 new tiles : tle
+word : pily anchor( col :  8 row : 6 ) score : 13 new tiles : ply
+word : yip anchor( col :  8 row : 6 ) score : 15 new tiles : yp
+word : yipe anchor( col :  8 row : 6 ) score : 16 new tiles : ype
+word : tyne anchor( col :  6 row : 7 ) score : 7 new tiles : tye
+word : plenty anchor( col :  6 row : 7 ) score : 11 new tiles : plety
+word : pe anchor( col :  6 row : 7 ) score : 16 new tiles : pe
+word : lent anchor( col :  8 row : 7 ) score : 4 new tiles : let
+word : plenty anchor( col :  8 row : 7 ) score : 11 new tiles : plety
+word : leggy anchor( col :  6 row : 8 ) score : 16 new tiles : legy
+word : gley anchor( col :  8 row : 8 ) score : 9 new tiles : ley
+word : eggy anchor( col :  8 row : 8 ) score : 15 new tiles : egy
+word : leggy anchor( col :  8 row : 8 ) score : 16 new tiles : legy
+-------HUMAN CLICK HINT-------
+
+
+

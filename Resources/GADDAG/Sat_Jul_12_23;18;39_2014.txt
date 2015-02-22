@@ -1,0 +1,14 @@
+player word durasi skor tiles
+
+
+Player 1	whams	0.21	34		5	
+Player 2 	hamza	0.743	39		4	
+Player 1	vangs	1.894	46		5	
+Player 2 	wax	1.108	26		2	
+Player 1	justs	1.14	20		4	
+Player 2 	quipu	1.915	30		3	
+Player 1	fuck	0.831	24		3	
+Player 2 	quipus	6.97	32		1	
+Player 1	pyre	4.166	35		4	
+Player 2 	robin	5.018	23		5	
+Player 1	coif	4.452	19		3	

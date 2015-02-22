@@ -1,0 +1,22 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : dams , score : 14 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : swamy , score : 37 , direction : 2 , anchor (8 , 7) , col : 5 , row : 8
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : salt , score : 6 , direction : 1 , col : 12 , row : 5
+
+
+******COMPUTER TURN******
+

@@ -1,0 +1,66 @@
+player word durasi skor tiles
+
+
+Player 1	kev	0.032	20		3	
+Player 2 	feh	1.499	17		2	
+Player 1	wave	6.34	26		3	blank tiles
+Player 2 	bimbo	2.278	27		5	
+Player 1	gimp	0.377	18		3	
+Player 2 	waved	0.513	15		1	
+Player 1	fash	0.43	22		2	
+Player 2 	hern	0.439	6		2	
+Player 1	whin	0.938	20		2	
+Player 2 	mo	1.144	16		1	
+Player 1	whining	1.213	28		3	
+Player 2 	wows	0.561	10		1	
+Player 1	if	0.347	5		1	
+Player 2 	jab	1.401	19		2	
+Player 1	zag	0.898	13		1	
+Player 2 	demo	1.604	11		2	
+Player 1	ax	1.196	12		2	
+Player 2 	snug	21.586	26		3	blank tiles
+Player 1	gimps	0.764	10		1	
+Player 2 	rev	3.082	27		3	
+Player 1	rex	0.694	11		1	
+Player 2 	yip	2.537	22		3	
+Player 1	nu	0.763	4		1	
+Player 2 	yips	1.279	9		1	
+Player 1	tunny	1.987	16		4	
+Player 2 	curd	1.383	7		3	
+Player 1	luny	2.089	25		4	
+Player 2 	tut	1.272	6		2	
+Player 1	cattle	4.814	19		6	
+Player 2 	talc	7.034	12		3	
+Player 1	qaid	4.792	28		3	
+Player 2 	toon	8.146	16		2	
+Player 1	cee	3.971	13		2	
+Player 2 	li	8.167	10		2	
+Player 1	tao	2.833	12		2	
+Player 2 	grue	7.852	10		3	
+Player 1	aa	2.957	5		2	
+Player 2 	oe	6.442	12		2	
+Player 1	oe	1.621	6		3	
+Player 2 	ear	1.706	8		5	
+Player 1	li	0.386	4		4	
+Player 2 	tee	0.103	57		7	
+Player 1	oes	0.195	3		5	
+Player 2 	-	0.027	0		7	
+Player 1	is	0.093	2		6	
+Player 2 	-	0.021	0		7	
+Player 1	is	0.038	52		7	
+Player 2 	-	0.019	0		7	
+Player 1	-	0.023	0		7	
+Player 2 	-	0.032	0		7	
+Player 1	-	0.032	0		7	
+Player 2 	-	0.029	0		7	
+Player 1	-	0.028	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 39.851
+player 1 left tile : 0
+player 1 total skor : 374
+player 1 Final skor : 374
+player 2 durasi : 80.156
+player 2 left tile : 0
+player 2 total skor : 343
+player 2 Final skor : 343

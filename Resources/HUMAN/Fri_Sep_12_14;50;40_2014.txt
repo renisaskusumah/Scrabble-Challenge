@@ -1,0 +1,16 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	soy	--	12		3	HUMAN 
+Player 2	waw	3.3	28		3	GADDAG
+Player 1	has	--	6		1	HUMAN 
+Player 2	skimp	5.206	33		5	GADDAG
+Player 1	worry	--	12		3	HUMAN 
+Player 2	box	4.381	20		3	GADDAG
+Player 1	puds	--	14		3	HUMAN 
+Player 2	gismo	10.406	24		4	GADDAG
+Player 1	bog	--	6		2	HUMAN 
+Player 2	hem	681.807	33		2	NEGASCOUT
+Player 1	debs	--	7		3	HUMAN 
+Player 2	if	44.497	5		3	NEGASCOUT
+Player 1	do	--	3		4	HUMAN 

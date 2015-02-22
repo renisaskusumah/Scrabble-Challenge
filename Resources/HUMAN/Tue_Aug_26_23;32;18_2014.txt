@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	mike	--	18		4	HUMAN 
+Player 2	fan	7.22	25		3	GADDAG
+Player 1	ben	--	5		1	HUMAN 
+Player 2	bends	0.395	16		2	GADDAG

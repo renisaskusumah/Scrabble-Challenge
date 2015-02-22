@@ -1,0 +1,7 @@
+player word durasi skor tiles
+
+
+Player 1	fon	--	12		3
+Player 2	gobo	2.678	26		4
+Player 1	cyst	--	33		4
+Player 2	monuron	2.384	28		3

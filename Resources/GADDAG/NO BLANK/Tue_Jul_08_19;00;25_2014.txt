@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	chrome	0.243	34		6
+Player 2 	zed	2.434	29		3
+Player 1	plows	0.789	18		4
+Player 2 	xu	2.916	22		2
+Player 1	sum	1.522	21		3
+Player 2 	huckle	3.34	30		5
+Player 1	jefe	0.862	28		2
+Player 2 	fordid	5.31	36		6
+Player 1	jefes	1.636	16		1
+Player 2 	how	9.455	32		3
+Player 1	ifs	3.952	18		2
+Player 2 	boon	9.571	38		4
+Player 1	no	1.431	13		1
+Player 2 	nova	6.123	23		4
+Player 1	blond	1.43	16		4
+Player 2 	moa	7.652	18		2
+Player 1	toter	5.837	25		5
+Player 2 	bung	4.167	12		3
+Player 1	up	2.462	22		1
+Player 2 	zig	4.221	15		2
+Player 1	ye	2.697	21		2
+Player 2 	leggy	5.951	20		4
+Player 1	revere	2.977	20		4
+Player 2 	iterate	8.323	21		5
+Player 1	ratan	5.581	17		4
+Player 2 	ti	3.525	14		2
+Player 1	ae	2.907	13		2
+Player 2 	me	2.981	11		1
+Player 1	add	0.873	11		3
+Player 2 	ear	1.481	7		3
+Player 1	ae	0.399	6		5
+Player 2 	cis	0.321	5		4
+Player 1	el	0.084	4		6
+Player 2 	-	0.169	0		4
+Player 1	-	0.045	0		6
+Player 2 	-	0.172	0		4
+Player 1	-	0.043	0		6
+Player 2 	-	0.174	0		4
+Player 1	-	0.049	0		6
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 25 detik 
+player 1 left tile : 1
+player 1 total skor : 303
+player 1 Final skor : 293
+player 2 durasi : 1 menit 10 detik 
+player 2 left tile : 3
+player 2 total skor : 333
+player 2 Final skor : 330

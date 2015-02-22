@@ -1,0 +1,8 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	tomb	--	16		4	HUMAN 
+Player 2	pixy	0.856	53		4	GADDAG
+Player 1	pom	--	7		2	HUMAN 
+Player 2	doc	1.323	15		4	NEGASCOUT
+Player 1	myth	--	14		4	HUMAN 

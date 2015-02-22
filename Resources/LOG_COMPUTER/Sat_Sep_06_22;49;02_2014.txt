@@ -1,0 +1,52 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : FMIHNVN
+
+HUMAN MOVE : fin , score : 12 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : fpqyyue
+
+word : puffin anchor( col :  7 row : 6 ) score : 14 new tiles : puf
+word : puff anchor( col :  6 row : 7 ) score : 12 new tiles : puf
+word : puffy anchor( col :  6 row : 7 ) score : 16 new tiles : pufy
+word : pye anchor( col :  6 row : 7 ) score : 17 new tiles : pye
+word : yep anchor( col :  6 row : 7 ) score : 27 new tiles : yep
+word : puff anchor( col :  8 row : 7 ) score : 12 new tiles : puf
+word : puffy anchor( col :  8 row : 7 ) score : 16 new tiles : pufy
+word : fique anchor( col :  6 row : 8 ) score : 31 new tiles : fque
+word : if anchor( col :  8 row : 8 ) score : 9 new tiles : f
+word : yip anchor( col :  8 row : 8 ) score : 15 new tiles : yp
+word : yipe anchor( col :  8 row : 8 ) score : 16 new tiles : ype
+word : quip anchor( col :  8 row : 8 ) score : 19 new tiles : qup
+word : equip anchor( col :  8 row : 8 ) score : 20 new tiles : equp
+word : fique anchor( col :  8 row : 8 ) score : 31 new tiles : fque
+word : un anchor( col :  6 row : 9 ) score : 2 new tiles : u
+word : fun anchor( col :  6 row : 9 ) score : 14 new tiles : fu
+word : puny anchor( col :  6 row : 9 ) score : 15 new tiles : puy
+word : pe anchor( col :  6 row : 9 ) score : 16 new tiles : pe
+word : puny anchor( col :  8 row : 9 ) score : 15 new tiles : puy
+word : fey anchor( col :  8 row : 9 ) score : 24 new tiles : fey
+word : fey anchor( col :  7 row : 10 ) score : 16 new tiles : fey
+word : quey anchor( col :  7 row : 10 ) score : 23 new tiles : quey
+Hasil evaluasi : fique , score : 31 , direction : 1 , anchor (7 , 10) , col : 8 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+
+word : mm anchor( col :  9 row : 7 ) score : 14 new tiles : mm
+word : mm anchor( col :  10 row : 7 ) score : 14 new tiles : mm
+word : hm anchor( col :  10 row : 7 ) score : 15 new tiles : hm
+word : hmm anchor( col :  10 row : 7 ) score : 18 new tiles : hmm
+word : mm anchor( col :  9 row : 9 ) score : 26 new tiles : mm
+word : hm anchor( col :  9 row : 9 ) score : 32 new tiles : hm
+word : hmm anchor( col :  9 row : 9 ) score : 35 new tiles : hmm
+word : mm anchor( col :  10 row : 9 ) score : 26 new tiles : mm
+word : hm anchor( col :  10 row : 9 ) score : 32 new tiles : hm
+word : hmm anchor( col :  10 row : 9 ) score : 35 new tiles : hmm
+-------HUMAN CLICK HINT-------
+
+
+

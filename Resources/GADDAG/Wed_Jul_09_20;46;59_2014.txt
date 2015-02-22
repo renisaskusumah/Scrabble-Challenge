@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	kex	0.351	26		3	blank tiles
+Player 2 	how	1.053	24		3	
+Player 1	huff	5.344	37		4	blank tiles
+Player 2 	moms	2.689	31		4	
+Player 1	coz	0.622	43		2	
+Player 2 	equip	1.82	22		5	
+Player 1	chuffy	1.186	19		1	
+Player 2 	vox	2.146	13		1	
+Player 1	un	2.477	6		2	
+Player 2 	ebb	3.546	16		3	
+Player 1	up	2.411	21		2	
+Player 2 	jibb	2.383	24		2	
+Player 1	got	5.061	17		3	
+Player 2 	vaw	3.438	25		3	
+Player 1	jibbed	8.411	30		2	
+Player 2 	nuncio	8.154	17		6	
+Player 1	nagger	11.49	41		6	
+Player 2 	ora	5.758	17		3	
+Player 1	aal	8.859	23		3	
+Player 2 	opens	10.468	24		2	
+Player 1	none	10.407	16		4	
+Player 2 	isarithm	12.037	14		6	
+Player 1	oyes	11.627	35		4	
+Player 2 	elated	12.818	27		6	
+Player 1	tilt	12.339	14		4	
+Player 2 	retted	16.182	20		4	
+Player 1	relend	8.526	14		4	
+Player 2 	areae	1.871	61		7	
+Player 1	titi	0.168	4		5	
+Player 2 	-	0.011	0		7	
+Player 1	in	0.078	3		6	
+Player 2 	-	0.011	0		7	
+Player 1	air	0.029	53		7	
+Player 2 	-	0.01	0		7	
+Player 1	-	0.01	0		7	
+Player 2 	-	0.011	0		7	
+Player 1	-	0.011	0		7	
+Player 2 	-	0.011	0		7	
+Player 1	-	0.011	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 89.418
+player 1 left tile : 0
+player 1 total skor : 402
+player 1 Final skor : 402
+player 2 durasi : 84.417
+player 2 left tile : 0
+player 2 total skor : 335
+player 2 Final skor : 335

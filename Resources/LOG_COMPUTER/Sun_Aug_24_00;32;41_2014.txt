@@ -1,0 +1,14 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : dom , score : 10 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : lex , score : 39 , direction : 2 , anchor (8 , 7) , col : 6 , row : 8
+
+
+

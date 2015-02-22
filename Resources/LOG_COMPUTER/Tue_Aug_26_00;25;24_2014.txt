@@ -1,0 +1,77 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+
+Hasil evaluasi : quitch , score : 58 , direction : 2 , col : 7 , row : 3
+
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+tye
+word tye
+skor 10
+
+
+
+-------NEGA--------
+
+eval -69 word eulogy skor 20 depth 1 end 90 child 11
+eval -60 word oily skor 14 depth 1 end 89 child 9
+eval -70 word yeti skor 9 depth 1 end 87 child 7
+eval -83 word tye skor 10 depth 1 end 97 child 10
+eval -76 word yogi skor 15 depth 1 end 89 child 10
+eval -76 word coyly skor 17 depth 1 end 89 child 9
+eval -70 word yogh skor 13 depth 1 end 102 child 8
+eval -77 word oily skor 14 depth 1 end 90 child 10
+eval -71 word hoyle skor 12 depth 1 end 84 child 12
+eval -77 word oily skor 14 depth 1 end 90 child 9
+
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+ugly
+word ugly
+skor 16
+
+
+
+-------NEGA--------
+
+eval -69 word iglu skor 10 depth 1 end 91 child 19
+eval -72 word ugly skor 16 depth 1 end 89 child 15
+eval -62 word yogi skor 9 depth 1 end 85 child 15
+eval -71 word yogi skor 29 depth 1 end 98 child 19
+eval -67 word yogi skor 15 depth 1 end 86 child 17
+eval -66 word logy skor 12 depth 1 end 85 child 15
+eval -69 word yogh skor 13 depth 1 end 88 child 15
+eval -68 word oily skor 14 depth 1 end 87 child 17
+eval -66 word holy skor 11 depth 1 end 85 child 11
+eval -68 word oily skor 14 depth 1 end 87 child 16
+
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+oil
+word oil
+skor 3
+
+
+
+-------NEGA--------
+
+eval -87 word oil skor 3 depth 1 end 87 child 0
+eval -83 word lie skor 5 depth 1 end 96 child 7
+eval -80 word oh skor 6 depth 1 end 93 child 9
+eval -80 word ho skor 6 depth 1 end 93 child 10
+
+
+

@@ -1,0 +1,47 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	mess	--	12		4	HUMAN 
+Player 2	kobo	59.764	31		4	GADDAG
+Player 1	befog	--	15		3	HUMAN 
+Player 2	cycads	20.554	48		6	GADDAG
+Player 1	jus	--	10		2	HUMAN 
+Player 2	pox	3.556	28		2	GADDAG
+Player 1	jug	--	15		2	HUMAN 
+Player 2	duds	5.462	30		4	GADDAG
+Player 1	yok	--	10		2	HUMAN 
+Player 2	naw	8.652	32		3	GADDAG
+Player 1	pay	--	16		1	HUMAN 
+Player 2	linage	8.346	17		5	GADDAG
+Player 1	vig	--	11		2	HUMAN 
+Player 2	mi	6.557	21		2	GADDAG
+Player 1	hot	--	22		3	HUMAN 
+Player 2	dingo	7.17	24		5	GADDAG
+Player 1	hod	--	6		2	HUMAN 
+Player 2	ritz	3.91	26		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ratal	12.381	25		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	vibe	6.817	20		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	wit	9.984	22		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ti	13.35	15		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	lat	14.148	15		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	nom	11.021	11		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	or	7.868	10		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	are	4.589	13		2	GADDAG
+Player 1	hut	--	7		2	HUMAN 
+Player 2	ai	3.373	10		2	GADDAG
+Player 1	elf	--	27		3	HUMAN 
+Player 2	eon	5.537	15		3	GADDAG
+Player 1	lie	--	3		1	HUMAN 
+Player 2	ale	85.91	5		2	NEGASCOUT
+Player 1	neon	--	4		2	HUMAN 
+Player 2	et	4.642	4		3	NEGASCOUT
+Player 1	rale	--	4		3	HUMAN 
+Player 2	zee	3.929	14		4	NEGASCOUT

@@ -1,0 +1,15 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	gun	--	8		3	HUMAN 
+Player 2	vermuth	151.533	19		6	NEGASCOUT
+Player 1	ear	--	6		3	HUMAN 
+Player 2	vermuth	0.108	7		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 4
+player 1 total skor : 14
+player 2 durasi : 2 menit 31 detik 
+player 2 left tile : 0
+player 2 total skor : 26

@@ -1,0 +1,49 @@
+player word durasi skor tiles
+
+
+Player 1	vox	0.074	26		3	
+Player 2 	babe	2.495	30		4	
+Player 1	husk	0.874	32		4	
+Player 2 	ped	3.448	31		3	
+Player 1	soft	1.637	29		4	
+Player 2 	faze	2.84	40		4	
+Player 1	monde	48.401	34		5	blank tiles
+Player 2 	clags	100.164	34		5	
+Player 1	quitch	5.166	53		6	
+Player 2 	revamp	168.576	37		6	blank tiles
+Player 1	nevus	6.822	25		4	
+Player 2 	jurel	6.171	40		4	
+Player 1	tided	15.218	14		5	
+Player 2 	vaw	11.763	24		2	
+Player 1	dyer	7.626	16		4	
+Player 2 	aw	18.918	20		2	
+Player 1	izar	10.923	30		3	
+Player 2 	taxes	14.005	12		1	
+Player 1	to	8.88	15		2	
+Player 2 	rebop	10.144	11		2	
+Player 1	annoy	10.073	34		5	
+Player 2 	retune	10.103	14		5	
+Player 1	organon	10.753	24		6	
+Player 2 	teloi	5.653	10		4	
+Player 1	gid	0.614	10		5	
+Player 2 	ai	0.206	6		5	
+Player 1	fil	0.121	57		7	
+Player 2 	id	0.114	6		6	
+Player 1	-	0.033	0		7	
+Player 2 	ail	0.054	53		7	
+Player 1	-	0.033	0		7	
+Player 2 	-	0.034	0		7	
+Player 1	-	0.034	0		7	
+Player 2 	-	0.033	0		7	
+Player 1	-	0.033	0		7	
+Player 2 	-	0.03	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 127.315
+player 1 left tile : 0
+player 1 total skor : 399
+player 1 Final skor : 399
+player 2 durasi : 354.751
+player 2 left tile : 0
+player 2 total skor : 368
+player 2 Final skor : 368

@@ -1,0 +1,71 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	gassy	0.633	26		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	raj	1.802	19		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	frap	2.716	26		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	sided	8.272	30		5	GADDAG
+Player 1	hep	--	16		2	HUMAN 
+Player 2	capo	5.783	21		3	GADDAG
+Player 1	dow	--	14		1	HUMAN 
+Player 2	gutty	1.418	18		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tux	1.336	20		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	vox	3.059	29		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	picky	1.819	24		2	GADDAG
+Player 1	wet	--	6		2	HUMAN 
+Player 2	ho	7.243	22		2	GADDAG
+Player 1	tod	--	12		1	HUMAN 
+Player 2	zyme	2.506	18		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	en	38.357	19		2	GADDAG
+Player 1	men	--	7		2	HUMAN 
+Player 2	coenzyme	48.403	22		2	GADDAG
+Player 1	tits	--	5		3	HUMAN 
+Player 2	wrest	8.101	36		4	GADDAG
+Player 1	lac	--	5		2	HUMAN 
+Player 2	grab	9.002	22		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	lino	9.826	25		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	bar	11.878	25		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	nene	10.122	17		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	foemen	6.783	12		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	urn	5.561	11		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	or	5.46	8		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	lari	5.961	10		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	lit	4.211	12		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tui	2.672	5		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	eel	2.182	3		2	GADDAG
+Player 1	den	--	4		2	HUMAN 
+Player 2	udo	226.806	10		2	NEGASCOUT
+Player 1	age	--	4		2	HUMAN 
+Player 2	si	17.205	2		3	NEGASCOUT
+Player 1	vau	--	12		4	HUMAN 
+Player 2	vie	6.17	6		5	NEGASCOUT
+Player 1	fee	--	6		6	HUMAN 
+Player 2	if	0.108	6		6	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	on	0.034	3		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 6 menit 1 detik 
+player 1 left tile : 1
+player 1 total skor : 91
+player 2 durasi : 7 menit 22 detik 
+player 2 left tile : 0
+player 2 total skor : 507

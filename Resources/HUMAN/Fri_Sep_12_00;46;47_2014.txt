@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	ply	--	16		3	HUMAN 
+Player 2	xi	12.576	0		0	GADDAG

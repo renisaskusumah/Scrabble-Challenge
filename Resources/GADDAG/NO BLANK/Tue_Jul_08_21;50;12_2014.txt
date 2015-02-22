@@ -1,0 +1,48 @@
+player word durasi skor tiles
+
+
+Player 1	chub	0.068	22		4
+Player 2 	ox	1.781	39		2
+Player 1	cued	0.565	14		3
+Player 2 	zineb	1.802	42		4
+Player 1	jazz	0.551	29		2
+Player 2 	chin	2.876	19		4
+Player 1	if	0.806	13		2
+Player 2 	filings	2.953	69		7
+Player 1	um	1.123	21		2
+Player 2 	fork	4.385	22		3
+Player 1	jazzer	2.278	32		2
+Player 2 	tapa	5.67	18		4
+Player 1	valval	1.348	24		2
+Player 2 	damaged	5.606	28		6
+Player 1	taw	5.052	28		3
+Player 2 	naoi	4.082	18		4
+Player 1	spy	3.433	80		3
+Player 2 	sox	4.293	22		1
+Player 1	twigs	4.098	26		5
+Player 2 	quais	4.997	34		4
+Player 1	enrol	10.738	24		5
+Player 2 	tye	9.979	27		3
+Player 1	rood	10.927	23		3
+Player 2 	lirot	7.862	21		5
+Player 1	delta	11.842	20		5
+Player 2 	vee	9.626	14		2
+Player 1	en	0.339	11		6
+Player 2 	roar	1.827	14		5
+Player 1	er	0.062	54		7
+Player 2 	-	0.112	0		5
+Player 1	-	0.044	0		7
+Player 2 	-	0.115	0		5
+Player 1	-	0.045	0		7
+Player 2 	-	0.115	0		5
+Player 1	-	0.047	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 53.366
+player 1 left tile : 0
+player 1 total skor : 421
+player 1 Final skor : 421
+player 2 durasi : 68.081
+player 2 left tile : 2
+player 2 total skor : 387
+player 2 Final skor : 385

@@ -1,0 +1,11 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : JWINWKF
+
+HUMAN MOVE : wink , score : 22 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : dvgzesu
+

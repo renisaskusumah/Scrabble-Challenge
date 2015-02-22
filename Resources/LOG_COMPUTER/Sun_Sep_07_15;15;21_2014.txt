@@ -1,0 +1,98 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : IFU*JIH
+
+HUMAN MOVE : if , score : 10 , direction : 2 , col : 7 , row : 9
+
+
+******COMPUTER TURN******
+RACK : n*fzeas
+
+word : sank anchor( col :  7 row : 6 ) score : 9 new tiles : sank
+word : zek anchor( col :  7 row : 6 ) score : 17 new tiles : zek
+word : zeks anchor( col :  7 row : 6 ) score : 19 new tiles : zeks
+word : zarf anchor( col :  7 row : 6 ) score : 25 new tiles : zarf
+word : zarfs anchor( col :  7 row : 6 ) score : 26 new tiles : zarfs
+word : an anchor( col :  6 row : 7 ) score : 3 new tiles : an
+word : zanies anchor( col :  6 row : 7 ) score : 15 new tiles : zanes
+word : friz anchor( col :  6 row : 7 ) score : 15 new tiles : frz
+word : frizes anchor( col :  6 row : 7 ) score : 17 new tiles : frzes
+word : zeatin anchor( col :  6 row : 7 ) score : 24 new tiles : zeatn
+word : zeatins anchor( col :  6 row : 7 ) score : 25 new tiles : zeatns
+word : nazifies anchor( col :  6 row : 7 ) score : 70 new tiles : nazifes
+word : fanzines anchor( col :  6 row : 7 ) score : 73 new tiles : fanznes
+word : in anchor( col :  8 row : 7 ) score : 2 new tiles : n
+word : ain anchor( col :  8 row : 7 ) score : 3 new tiles : an
+word : fain anchor( col :  8 row : 7 ) score : 7 new tiles : fan
+word : fascine anchor( col :  8 row : 7 ) score : 13 new tiles : fascne
+word : zein anchor( col :  8 row : 7 ) score : 13 new tiles : zen
+word : zeins anchor( col :  8 row : 7 ) score : 14 new tiles : zens
+word : zeatin anchor( col :  8 row : 7 ) score : 24 new tiles : zeatn
+word : zeatins anchor( col :  8 row : 7 ) score : 25 new tiles : zeatns
+word : fanzines anchor( col :  8 row : 7 ) score : 73 new tiles : fanznes
+word : aff anchor( col :  6 row : 8 ) score : 14 new tiles : af
+word : effs anchor( col :  6 row : 8 ) score : 15 new tiles : efs
+word : zarfs anchor( col :  6 row : 8 ) score : 17 new tiles : zars
+word : zaffre anchor( col :  6 row : 8 ) score : 24 new tiles : zafre
+word : zaffres anchor( col :  6 row : 8 ) score : 25 new tiles : zafres
+word : zaffer anchor( col :  6 row : 8 ) score : 25 new tiles : zafer
+word : zaffers anchor( col :  6 row : 8 ) score : 26 new tiles : zafers
+word : fa anchor( col :  8 row : 8 ) score : 6 new tiles : a
+word : fan anchor( col :  8 row : 8 ) score : 7 new tiles : an
+word : fane anchor( col :  8 row : 8 ) score : 8 new tiles : ane
+word : fanes anchor( col :  8 row : 8 ) score : 9 new tiles : anes
+word : faze anchor( col :  8 row : 8 ) score : 17 new tiles : aze
+word : fazes anchor( col :  8 row : 8 ) score : 18 new tiles : azes
+word : feazes anchor( col :  8 row : 8 ) score : 19 new tiles : eazes
+word : zaffre anchor( col :  8 row : 8 ) score : 24 new tiles : zafre
+word : zaffres anchor( col :  8 row : 8 ) score : 25 new tiles : zafres
+word : zaffre anchor( col :  8 row : 8 ) score : 25 new tiles : zafre
+word : zaffres anchor( col :  8 row : 8 ) score : 26 new tiles : zafres
+word : faze anchor( col :  8 row : 8 ) score : 28 new tiles : faze
+word : fazes anchor( col :  8 row : 8 ) score : 29 new tiles : fazes
+word : ens anchor( col :  7 row : 9 ) score : 11 new tiles : ens
+word : fens anchor( col :  7 row : 9 ) score : 15 new tiles : fens
+word : fanes anchor( col :  7 row : 9 ) score : 16 new tiles : fanes
+word : safes anchor( col :  7 row : 9 ) score : 20 new tiles : safes
+word : fess anchor( col :  7 row : 9 ) score : 20 new tiles : fess
+word : fazes anchor( col :  7 row : 9 ) score : 43 new tiles : fazes
+Hasil evaluasi : fanzines , score : 73 , direction : 1 , anchor (7 , 9) , col : 7 , row : 3
+
+POSSIBLE MOVEMENT : 
+
+
+word : bi anchor( col :  3 row : 6 ) score : 12 new tiles : bi
+word : jib anchor( col :  3 row : 6 ) score : 29 new tiles : jib
+word : jib anchor( col :  4 row : 6 ) score : 29 new tiles : jib
+word : bi anchor( col :  5 row : 6 ) score : 10 new tiles : bi
+word : hi anchor( col :  5 row : 6 ) score : 12 new tiles : hi
+word : win anchor( col :  5 row : 6 ) score : 14 new tiles : wi
+word : jin anchor( col :  5 row : 6 ) score : 26 new tiles : ji
+word : wiz anchor( col :  6 row : 6 ) score : 16 new tiles : wi
+word : whiz anchor( col :  6 row : 6 ) score : 20 new tiles : whi
+word : uh anchor( col :  8 row : 6 ) score : 13 new tiles : uh
+word : bi anchor( col :  9 row : 6 ) score : 10 new tiles : bi
+word : uh anchor( col :  9 row : 6 ) score : 13 new tiles : uh
+word : hub anchor( col :  9 row : 6 ) score : 15 new tiles : hub
+word : jehu anchor( col :  9 row : 6 ) score : 16 new tiles : jhu
+word : bi anchor( col :  10 row : 6 ) score : 10 new tiles : bi
+word : hi anchor( col :  10 row : 6 ) score : 12 new tiles : hi
+word : hub anchor( col :  10 row : 6 ) score : 15 new tiles : hub
+word : jib anchor( col :  10 row : 6 ) score : 26 new tiles : jib
+word : fib anchor( col :  3 row : 8 ) score : 8 new tiles : ib
+word : fuji anchor( col :  3 row : 8 ) score : 14 new tiles : uji
+word : ai anchor( col :  4 row : 8 ) score : 2 new tiles : i
+word : aw anchor( col :  4 row : 8 ) score : 5 new tiles : w
+word : jaw anchor( col :  4 row : 8 ) score : 13 new tiles : jw
+word : haji anchor( col :  4 row : 8 ) score : 14 new tiles : hji
+word : nib anchor( col :  5 row : 8 ) score : 11 new tiles : ib
+word : hi anchor( col :  9 row : 8 ) score : 12 new tiles : hi
+word : jew anchor( col :  9 row : 8 ) score : 13 new tiles : jw
+word : jehu anchor( col :  9 row : 8 ) score : 16 new tiles : jhu
+word : hi anchor( col :  10 row : 8 ) score : 12 new tiles : hi
+word : hub anchor( col :  10 row : 8 ) score : 16 new tiles : hub
+-------HUMAN CLICK HINT-------
+
+
+

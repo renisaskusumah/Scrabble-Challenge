@@ -1,0 +1,38 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	brr	0.114	10		3	GADDAG
+Player 1	fry	--	17		2	HUMAN 
+Player 2	brrr	0.24	6		1	GADDAG
+Player 1	brr	--	9		2	HUMAN 
+Player 2	spy	0.59	21		3	GADDAG
+Player 1	sag	--	8		2	HUMAN 
+Player 2	just	1.326	27		4	GADDAG
+Player 1	jar	--	10		2	HUMAN 
+Player 2	faux	9.48	44		3	GADDAG
+Player 1	war	--	18		2	HUMAN 
+Player 2	pa	1.214	32		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	web	1.954	21		2	GADDAG
+Player 1	low	--	6		2	HUMAN 
+Player 2	lilac	4.071	27		5	GADDAG
+Player 1	log	--	4		2	HUMAN 
+Player 2	keg	3.033	23		3	GADDAG
+Player 1	gem	--	9		2	HUMAN 
+Player 2	him	5.133	32		2	GADDAG
+Player 1	true	--	12		4	HUMAN 
+Player 2	clavi	3.117	22		5	GADDAG
+Player 1	zed	--	26		2	HUMAN 
+Player 2	qats	75.433	32		3	GADDAG
+Player 1	cud	--	12		2	HUMAN 
+Player 2	dove	9.127	25		4	GADDAG
+Player 1	dote	--	7		3	HUMAN 
+Player 2	hons	17.837	39		4	GADDAG
+Player 1	need	--	10		3	HUMAN 
+Player 2	noo	11.501	17		3	GADDAG
+Player 1	kat	--	7		2	HUMAN 
+Player 2	ai	5.102	8		2	GADDAG
+Player 1	nine	--	4		3	HUMAN 
+Player 2	oe	4.383	8		2	GADDAG
+Player 1	dote	--	5		2	HUMAN 

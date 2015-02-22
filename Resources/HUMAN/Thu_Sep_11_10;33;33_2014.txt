@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	vibe	--	18		4	HUMAN 
+Player 2	phyle	1.538	26		4	GADDAG
+Player 1	wiz	--	29		2	HUMAN 
+Player 2	phut	2.024	18		3	GADDAG
+Player 1	ax	--	41		2	HUMAN 
+Player 2	twirl	1.798	10		4	GADDAG
+Player 1	pah	--	8		1	HUMAN 
+Player 2	auk	2.278	27		3	GADDAG
+Player 1	by	--	13		1	HUMAN 
+Player 2	wizen	2.828	17		2	GADDAG

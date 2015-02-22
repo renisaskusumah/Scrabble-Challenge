@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	will	--	14		4	HUMAN 
+Player 2	dicey	4.138	45		5	GADDAG

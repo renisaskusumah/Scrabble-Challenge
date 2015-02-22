@@ -1,0 +1,43 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	game	--	12		4	HUMAN 
+Player 2	voted	7.017	33		5	GADDAG
+Player 1	tag	--	7		2	HUMAN 
+Player 2	jut	5.485	26		2	GADDAG
+Player 1	lunet	--	16		3	HUMAN 
+Player 2	mick	3.703	22		3	GADDAG
+Player 1	love	--	7		2	HUMAN 
+Player 2	doze	1.172	51		4	GADDAG
+Player 1	kilts	--	18		4	HUMAN 
+Player 2	watch	7.861	34		4	GADDAG
+Player 1	mickler	--	16		3	HUMAN 
+Player 2	gem	9.236	22		2	GADDAG
+Player 1	hair	--	7		3	HUMAN 
+Player 2	bids	10.298	37		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	netop	13.032	31		5	GADDAG
+Player 1	bone	--	12		3	HUMAN 
+Player 2	apex	17.752	48		4	GADDAG
+Player 1	ley	--	11		2	HUMAN 
+Player 2	telae	23.801	22		5	GADDAG
+Player 1	fist	--	7		3	HUMAN 
+Player 2	fad	10.393	24		3	GADDAG
+Player 1	his	--	6		2	HUMAN 
+Player 2	unify	11.799	30		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	news	15.094	35		3	GADDAG
+Player 1	none	--	8		3	HUMAN 
+Player 2	aquae	9.423	27		5	GADDAG
+Player 1	ear	--	3		2	HUMAN 
+Player 2	error	309.769	11		5	NEGASCOUT
+Player 1	ora	--	8		5	HUMAN 
+Player 2	unai	0.922	6		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 10 menit 6 detik 
+player 1 left tile : 2
+player 1 total skor : 138
+player 2 durasi : 7 menit 29 detik 
+player 2 left tile : 0
+player 2 total skor : 459

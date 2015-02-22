@@ -1,0 +1,63 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : NBBTHUQ
+
+HUMAN MOVE : bun , score : 10 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : tjtmt*g
+
+word : jam anchor( col :  6 row : 7 ) score : 14 new tiles : jam
+word : ba anchor( col :  8 row : 7 ) score : 3 new tiles : a
+word : bat anchor( col :  8 row : 7 ) score : 4 new tiles : at
+word : batt anchor( col :  8 row : 7 ) score : 5 new tiles : att
+word : bam anchor( col :  8 row : 7 ) score : 6 new tiles : am
+word : tat anchor( col :  8 row : 7 ) score : 10 new tiles : tat
+word : tam anchor( col :  8 row : 7 ) score : 18 new tiles : tam
+word : jam anchor( col :  8 row : 7 ) score : 32 new tiles : jam
+word : stum anchor( col :  6 row : 8 ) score : 9 new tiles : stm
+word : jut anchor( col :  6 row : 8 ) score : 19 new tiles : jt
+word : jutty anchor( col :  6 row : 8 ) score : 20 new tiles : jtty
+word : jump anchor( col :  6 row : 8 ) score : 23 new tiles : jmp
+word : jugum anchor( col :  6 row : 8 ) score : 24 new tiles : jgum
+word : ut anchor( col :  8 row : 8 ) score : 3 new tiles : t
+word : jut anchor( col :  8 row : 8 ) score : 19 new tiles : jt
+word : jutty anchor( col :  8 row : 8 ) score : 20 new tiles : jtty
+word : jump anchor( col :  8 row : 8 ) score : 23 new tiles : jmp
+word : jugum anchor( col :  8 row : 8 ) score : 24 new tiles : jgum
+word : jet anchor( col :  8 row : 8 ) score : 24 new tiles : jet
+word : jam anchor( col :  8 row : 8 ) score : 32 new tiles : jam
+word : ta anchor( col :  6 row : 9 ) score : 4 new tiles : ta
+word : tang anchor( col :  6 row : 9 ) score : 6 new tiles : tag
+word : man anchor( col :  6 row : 9 ) score : 10 new tiles : ma
+word : jin anchor( col :  6 row : 9 ) score : 25 new tiles : ji
+word : ant anchor( col :  8 row : 9 ) score : 2 new tiles : at
+word : tent anchor( col :  8 row : 9 ) score : 5 new tiles : tet
+word : gent anchor( col :  8 row : 9 ) score : 8 new tiles : get
+word : mint anchor( col :  8 row : 9 ) score : 11 new tiles : mit
+word : taj anchor( col :  8 row : 9 ) score : 14 new tiles : taj
+word : ma anchor( col :  8 row : 9 ) score : 14 new tiles : ma
+word : mat anchor( col :  8 row : 9 ) score : 15 new tiles : mat
+word : matt anchor( col :  8 row : 9 ) score : 16 new tiles : matt
+word : mag anchor( col :  8 row : 9 ) score : 16 new tiles : mag
+word : matt anchor( col :  7 row : 10 ) score : 16 new tiles : matt
+word : jag anchor( col :  7 row : 10 ) score : 17 new tiles : jag
+Hasil evaluasi : jam , score : 32 , direction : 2 , anchor (7 , 10) , col : 6 , row : 8
+
+POSSIBLE MOVEMENT : 
+
+
+word : bad anchor( col :  9 row : 7 ) score : 5 new tiles : d
+word : baby anchor( col :  9 row : 7 ) score : 10 new tiles : by
+word : dumb anchor( col :  6 row : 8 ) score : 11 new tiles : db
+word : yum anchor( col :  6 row : 8 ) score : 12 new tiles : y
+word : thumb anchor( col :  6 row : 8 ) score : 16 new tiles : thb
+word : dumb anchor( col :  9 row : 8 ) score : 11 new tiles : db
+word : thumb anchor( col :  9 row : 8 ) score : 16 new tiles : thb
+word : thy anchor( col :  7 row : 10 ) score : 15 new tiles : thy
+-------HUMAN CLICK HINT-------
+
+
+

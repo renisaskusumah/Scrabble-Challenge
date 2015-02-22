@@ -1,0 +1,184 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : MIVTCJI
+
+HUMAN MOVE : tic , score : 10 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : awhalui
+
+word : wat anchor( col :  6 row : 7 ) score : 6 new tiles : wa	Heuristic : 4
+word : wha anchor( col :  6 row : 7 ) score : 10 new tiles : wha	Heuristic : 5.5
+word : wait anchor( col :  6 row : 7 ) score : 7 new tiles : wai	Heuristic : 6.5
+word : withal anchor( col :  6 row : 7 ) score : 12 new tiles : wihal	Heuristic : 8
+word : awa anchor( col :  6 row : 7 ) score : 12 new tiles : awa	Heuristic : 10
+word : wha anchor( col :  6 row : 7 ) score : 15 new tiles : wha	Heuristic : 10.5
+word : aah anchor( col :  6 row : 7 ) score : 22 new tiles : aah	Heuristic : 15.5
+word : ta anchor( col :  8 row : 7 ) score : 2 new tiles : a	Heuristic : -2
+word : hiatal anchor( col :  8 row : 7 ) score : 9 new tiles : hiaal	Heuristic : 3
+word : taw anchor( col :  8 row : 7 ) score : 6 new tiles : aw	Heuristic : 4
+word : withal anchor( col :  8 row : 7 ) score : 12 new tiles : wihal	Heuristic : 8
+word : awa anchor( col :  8 row : 7 ) score : 12 new tiles : awa	Heuristic : 10
+word : wha anchor( col :  8 row : 7 ) score : 15 new tiles : wha	Heuristic : 10.5
+word : wail anchor( col :  6 row : 8 ) score : 9 new tiles : wal	Heuristic : 6
+word : ah anchor( col :  6 row : 8 ) score : 20 new tiles : ah	Heuristic : 13.5
+word : aah anchor( col :  6 row : 8 ) score : 22 new tiles : aah	Heuristic : 15.5
+word : ilia anchor( col :  8 row : 8 ) score : 6 new tiles : ila	Heuristic : 2.5
+word : wail anchor( col :  8 row : 8 ) score : 9 new tiles : wal	Heuristic : 6
+word : lac anchor( col :  6 row : 9 ) score : 7 new tiles : la	Heuristic : 2
+word : laic anchor( col :  6 row : 9 ) score : 8 new tiles : lai	Heuristic : 4.5
+word : laich anchor( col :  6 row : 9 ) score : 12 new tiles : laih	Heuristic : 6
+word : wich anchor( col :  6 row : 9 ) score : 20 new tiles : wih	Heuristic : 13
+word : caw anchor( col :  8 row : 9 ) score : 16 new tiles : aw	Heuristic : 14
+word : tical anchor( col :  7 row : 10 ) score : 8 new tiles : al	Heuristic : 3
+Hasil evaluasi : aah , score : 22 , direction :2 ,i: 6 j: 6 Heuristic: 15.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : MAVKCJI
+
+HUMAN MOVE : him , score : 11 , direction : 1 , col : 9 , row : 8
+
+
+******COMPUTER TURN******
+RACK : wluituq
+
+word : twa anchor( col :  5 row : 6 ) score : 6 new tiles : tw	Heuristic : -12
+word : qua anchor( col :  5 row : 6 ) score : 12 new tiles : qu	Heuristic : 5.5
+word : quilt anchor( col :  5 row : 6 ) score : 21 new tiles : quilt	Heuristic : 15
+word : twat anchor( col :  5 row : 7 ) score : 7 new tiles : tw	Heuristic : -11
+word : wilt anchor( col :  5 row : 7 ) score : 14 new tiles : wilt	Heuristic : -3.5
+word : quilt anchor( col :  5 row : 7 ) score : 21 new tiles : quilt	Heuristic : 15
+word : whim anchor( col :  5 row : 8 ) score : 12 new tiles : w	Heuristic : -4
+word : wilt anchor( col :  5 row : 8 ) score : 21 new tiles : wilt	Heuristic : 3.5
+word : wit anchor( col :  5 row : 8 ) score : 20 new tiles : wit	Heuristic : 3.5
+word : cult anchor( col :  8 row : 9 ) score : 12 new tiles : ult	Heuristic : -5
+word : culti anchor( col :  8 row : 9 ) score : 13 new tiles : ulti	Heuristic : -4.5
+Hasil evaluasi : quilt , score : 21 , direction :2 ,i: 3 j: 5 Heuristic: 15
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : LAVKCJI
+
+HUMAN MOVE : luck , score : 20 , direction : 1 , col : 8 , row : 4
+
+
+******COMPUTER TURN******
+RACK : wubtgeu
+
+word : uke anchor( col :  7 row : 3 ) score : 8 new tiles : ue	Heuristic : -5.5
+word : uke anchor( col :  7 row : 5 ) score : 8 new tiles : ue	Heuristic : -5.5
+word : blae anchor( col :  4 row : 6 ) score : 12 new tiles : be	Heuristic : 2
+word : blae anchor( col :  7 row : 6 ) score : 12 new tiles : be	Heuristic : 2
+word : guttate anchor( col :  4 row : 7 ) score : 13 new tiles : gute	Heuristic : 3.5
+word : tate anchor( col :  8 row : 7 ) score : 8 new tiles : e	Heuristic : -6.5
+word : guttate anchor( col :  8 row : 7 ) score : 13 new tiles : gute	Heuristic : 3.5
+word : cub anchor( col :  8 row : 9 ) score : 17 new tiles : ub	Heuristic : 14
+Hasil evaluasi : cub , score : 17 , direction :1 ,i: 9 j: 7 Heuristic: 14
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : IAVLOJI
+
+HUMAN MOVE : boil , score : 6 , direction : 2 , col : 9 , row : 13
+
+
+******COMPUTER TURN******
+RACK : wtgeufy
+
+word : yeuk anchor( col :  7 row : 3 ) score : 12 new tiles : yeu	Heuristic : 1
+word : tyke anchor( col :  7 row : 3 ) score : 15 new tiles : tye	Heuristic : 4
+word : fyke anchor( col :  7 row : 3 ) score : 18 new tiles : fye	Heuristic : 9
+word : lucky anchor( col :  8 row : 4 ) score : 14 new tiles : y	Heuristic : 8
+word : wyte anchor( col :  8 row : 4 ) score : 25 new tiles : wyte	Heuristic : 19
+word : guy anchor( col :  8 row : 4 ) score : 23 new tiles : guy	Heuristic : 21
+word : uke anchor( col :  7 row : 5 ) score : 8 new tiles : ue	Heuristic : -6
+word : tyke anchor( col :  7 row : 5 ) score : 15 new tiles : tye	Heuristic : 4
+word : fyke anchor( col :  7 row : 5 ) score : 18 new tiles : fye	Heuristic : 9
+word : tela anchor( col :  4 row : 6 ) score : 4 new tiles : te	Heuristic : -10
+word : guttate anchor( col :  4 row : 7 ) score : 14 new tiles : gute	Heuristic : 4
+word : tate anchor( col :  8 row : 7 ) score : 9 new tiles : e	Heuristic : -6
+word : guttate anchor( col :  8 row : 7 ) score : 14 new tiles : gute	Heuristic : 4
+word : cube anchor( col :  10 row : 9 ) score : 8 new tiles : e	Heuristic : -7
+word : we anchor( col :  10 row : 9 ) score : 13 new tiles : we	Heuristic : 3
+word : weft anchor( col :  10 row : 9 ) score : 40 new tiles : weft	Heuristic : 34
+word : to anchor( col :  8 row : 10 ) score : 7 new tiles : t	Heuristic : -1
+word : tow anchor( col :  8 row : 10 ) score : 17 new tiles : tw	Heuristic : 14
+word : towy anchor( col :  8 row : 10 ) score : 25 new tiles : twy	Heuristic : 24
+word : ow anchor( col :  10 row : 10 ) score : 10 new tiles : w	Heuristic : 6
+word : tow anchor( col :  10 row : 10 ) score : 17 new tiles : tw	Heuristic : 14
+word : towy anchor( col :  10 row : 10 ) score : 25 new tiles : twy	Heuristic : 24
+word : few anchor( col :  10 row : 10 ) score : 36 new tiles : few	Heuristic : 29
+word : weft anchor( col :  10 row : 10 ) score : 40 new tiles : weft	Heuristic : 34
+word : twig anchor( col :  8 row : 11 ) score : 9 new tiles : twg	Heuristic : 8
+word : wife anchor( col :  8 row : 11 ) score : 20 new tiles : wfe	Heuristic : 13
+word : it anchor( col :  10 row : 11 ) score : 2 new tiles : t	Heuristic : -6
+word : wit anchor( col :  10 row : 11 ) score : 6 new tiles : wt	Heuristic : 3
+word : wite anchor( col :  10 row : 11 ) score : 14 new tiles : wte	Heuristic : 5
+word : wig anchor( col :  10 row : 11 ) score : 7 new tiles : wg	Heuristic : 6
+word : twig anchor( col :  10 row : 11 ) score : 9 new tiles : twg	Heuristic : 8
+word : wife anchor( col :  10 row : 11 ) score : 20 new tiles : wfe	Heuristic : 13
+word : eft anchor( col :  10 row : 11 ) score : 32 new tiles : eft	Heuristic : 21
+word : weft anchor( col :  10 row : 11 ) score : 40 new tiles : weft	Heuristic : 34
+word : wetly anchor( col :  8 row : 12 ) score : 16 new tiles : wety	Heuristic : 10
+word : gluey anchor( col :  8 row : 12 ) score : 22 new tiles : guey	Heuristic : 14
+word : flutey anchor( col :  8 row : 12 ) score : 32 new tiles : futey	Heuristic : 25
+word : fluty anchor( col :  8 row : 12 ) score : 30 new tiles : futy	Heuristic : 29
+word : welt anchor( col :  10 row : 12 ) score : 8 new tiles : wet	Heuristic : -1
+word : fugle anchor( col :  10 row : 12 ) score : 15 new tiles : fuge	Heuristic : 7
+word : flew anchor( col :  10 row : 12 ) score : 14 new tiles : few	Heuristic : 7
+word : lefty anchor( col :  10 row : 12 ) score : 22 new tiles : efty	Heuristic : 14
+word : flutey anchor( col :  10 row : 12 ) score : 32 new tiles : futey	Heuristic : 25
+word : fluty anchor( col :  10 row : 12 ) score : 30 new tiles : futy	Heuristic : 29
+Hasil evaluasi : weft , score : 40 , direction :2 ,i: 8 j: 10 Heuristic: 34
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : IAVNUJA
+
+HUMAN MOVE : win , score : 7 , direction : 1 , col : 13 , row : 8
+
+
+******COMPUTER TURN******
+RACK : guyo*xw
+
+word : yuk anchor( col :  7 row : 3 ) score : 11 new tiles : yu	Heuristic : 24.5
+word : wok anchor( col :  7 row : 3 ) score : 11 new tiles : wo	Heuristic : 25
+word : gowk anchor( col :  7 row : 3 ) score : 16 new tiles : gow	Heuristic : 33
+word : cluck anchor( col :  3 row : 4 ) score : 10 new tiles : c	Heuristic : -5
+word : unlucky anchor( col :  3 row : 4 ) score : 15 new tiles : uny	Heuristic : 4
+word : cox anchor( col :  3 row : 4 ) score : 19 new tiles : cox	Heuristic : 8
+word : cowy anchor( col :  3 row : 4 ) score : 23 new tiles : cowy	Heuristic : 15.5
+word : lucky anchor( col :  8 row : 4 ) score : 14 new tiles : y	Heuristic : 26.5
+word : guy anchor( col :  8 row : 4 ) score : 23 new tiles : guy	Heuristic : 39.5
+word : oxy anchor( col :  8 row : 4 ) score : 28 new tiles : oxy	Heuristic : 44.5
+word : poi anchor( col :  4 row : 5 ) score : 4 new tiles : po	Heuristic : -11.5
+word : ag anchor( col :  7 row : 5 ) score : 7 new tiles : ag	Heuristic : -5
+word : ago anchor( col :  7 row : 5 ) score : 10 new tiles : ago	Heuristic : -2.5
+word : ax anchor( col :  7 row : 5 ) score : 13 new tiles : ax	Heuristic : 2.5
+word : hula anchor( col :  4 row : 6 ) score : 3 new tiles : hu	Heuristic : -11
+word : boyla anchor( col :  4 row : 6 ) score : 7 new tiles : boy	Heuristic : -5.5
+word : rugola anchor( col :  4 row : 6 ) score : 7 new tiles : rugo	Heuristic : -4.5
+word : outate anchor( col :  4 row : 7 ) score : 10 new tiles : oue	Heuristic : -4.5
+word : soy anchor( col :  4 row : 7 ) score : 8 new tiles : soy	Heuristic : -4.5
+word : sox anchor( col :  4 row : 7 ) score : 12 new tiles : sox	Heuristic : 1
+word : tate anchor( col :  8 row : 7 ) score : 7 new tiles : e	Heuristic : -8
+word : outate anchor( col :  8 row : 7 ) score : 10 new tiles : oue	Heuristic : -4.5

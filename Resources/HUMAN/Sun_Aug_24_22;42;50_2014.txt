@@ -1,0 +1,52 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	quod	0.17	28		4	GADDAG
+Player 1	wop	--	15		2	HUMAN 
+Player 2	-	0.248	0		0	GADDAG
+Player 1	pow	--	11		2	HUMAN 
+Player 2	dozy	0.335	37		2	GADDAG
+Player 1	by	--	7		1	HUMAN 
+Player 2	tub	0.704	12		3	GADDAG
+Player 1	then	--	9		3	HUMAN 
+Player 2	loxed	1.639	30		4	GADDAG
+Player 1	prom	--	16		3	HUMAN 
+Player 2	xu	2.059	14		1	GADDAG
+Player 1	kop	--	9		2	HUMAN 
+Player 2	feck	2.785	19		3	GADDAG
+Player 1	fig	--	9		2	HUMAN 
+Player 2	victim	1.821	24		5	GADDAG
+Player 1	vinyl	--	22		4	HUMAN 
+Player 2	salad	8.821	26		5	GADDAG
+Player 1	van	--	5		2	HUMAN 
+Player 2	rids	7.133	27		3	GADDAG
+Player 1	bug	--	8		2	HUMAN 
+Player 2	guid	3.592	11		2	GADDAG
+Player 1	jail	--	12		3	HUMAN 
+Player 2	zeta	3.603	18		3	GADDAG
+Player 1	jar	--	27		2	HUMAN 
+Player 2	avian	4.111	12		3	GADDAG
+Player 1	those	--	16		4	HUMAN 
+Player 2	state	7.564	30		5	GADDAG
+Player 1	set	--	6		1	HUMAN 
+Player 2	ran	8.282	13		3	GADDAG
+Player 1	art	--	27		3	HUMAN 
+Player 2	no	4.301	13		2	GADDAG
+Player 1	loofa	--	13		4	HUMAN 
+Player 2	age	223.696	11		2	NEGASCOUT
+Player 1	tare	--	4		4	HUMAN 
+Player 2	li	15.803	4		3	NEGASCOUT
+Player 1	in	--	4		5	HUMAN 
+Player 2	li	0.455	3		4	NEGASCOUT
+Player 1	lie	--	3		6	HUMAN 
+Player 2	li	0.193	2		5	NEGASCOUT
+Player 1	id	--	5		7	HUMAN 
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 8 menit 23 detik 
+player 1 left tile : 0
+player 1 total skor : 228
+player 2 durasi : 4 menit 48 detik 
+player 2 left tile : 2
+player 2 total skor : 334

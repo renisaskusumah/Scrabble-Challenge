@@ -1,0 +1,36 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	sop	--	10		3	HUMAN 
+Player 2	pandy	2.991	29		5	GADDAG
+Player 1	joy	--	21		2	HUMAN 
+Player 2	bey	3.062	37		3	GADDAG
+Player 1	dime	--	14		3	HUMAN 
+Player 2	is	0.72	16		1	GADDAG
+Player 1	foe	--	6		2	HUMAN 
+Player 2	coped	0.712	13		2	GADDAG
+Player 1	fud	--	10		2	HUMAN 
+Player 2	crux	1.873	23		3	GADDAG
+Player 1	coz	--	42		2	HUMAN 
+Player 2	foehn	3.404	11		2	GADDAG
+Player 1	ism	--	11		1	HUMAN 
+Player 2	lungs	53.757	20		5	GADDAG
+Player 1	fez	--	15		2	HUMAN 
+Player 2	sh	4.551	19		2	GADDAG
+Player 1	no	--	4		1	HUMAN 
+Player 2	surd	3.221	14		4	GADDAG
+Player 1	vac	--	14		2	HUMAN 
+Player 2	algid	6.958	18		4	GADDAG
+Player 1	kvas	--	11		2	HUMAN 
+Player 2	aa	7.345	24		2	GADDAG
+Player 1	link	--	16		3	HUMAN 
+Player 2	we	7.079	28		2	GADDAG
+Player 1	goral	--	6		4	HUMAN 
+Player 2	intort	7.717	18		5	GADDAG
+Player 1	not	--	6		2	HUMAN 
+Player 2	shea	8.127	21		1	GADDAG
+Player 1	lit	--	4		2	HUMAN 
+Player 2	tutti	7.24	14		5	GADDAG
+Player 1	lobe	--	6		3	HUMAN 
+Player 2	water	5.343	32		4	GADDAG
+Player 1	bore	--	8		3	HUMAN 

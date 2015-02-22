@@ -1,0 +1,54 @@
+player word durasi skor tiles
+
+
+Player 1	upgrew	0.916	30		6	blank tiles
+Player 2 	jury	14.916	29		3	blank tiles
+Player 1	hmm	0.748	20		3	
+Player 2 	pooh	2.026	37		4	
+Player 1	pyx	0.656	19		2	
+Player 2 	kohls	2.756	24		3	
+Player 1	smug	1.938	19		2	
+Player 2 	pyxis	2.777	18		2	
+Player 1	biz	1.54	24		3	
+Player 2 	afrits	4.472	23		6	
+Player 1	arvo	4.64	23		4	
+Player 2 	brief	1.869	28		4	
+Player 1	wow	5.673	22		2	
+Player 2 	tranq	3.074	30		4	
+Player 1	ole	8.015	21		3	
+Player 2 	cacas	4.687	18		4	
+Player 1	bize	8.003	16		1	
+Player 2 	tav	3.695	12		2	
+Player 1	indigo	7.34	21		6	
+Player 2 	land	7.697	16		4	
+Player 1	da	11.653	18		2	
+Player 2 	nodi	6.818	15		2	
+Player 1	aria	9.099	14		2	
+Player 2 	untie	8.239	15		5	
+Player 1	noria	7.698	15		4	
+Player 2 	attune	9.773	19		6	
+Player 1	lie	6.491	14		3	
+Player 2 	ere	0.539	13		5	
+Player 1	pe	0.432	9		4	
+Player 2 	oe	0.099	58		7	
+Player 1	ut	0.189	6		5	
+Player 2 	-	0.006	0		7	
+Player 1	ae	0.103	4		6	
+Player 2 	-	0.007	0		7	
+Player 1	nee	0.025	53		7	
+Player 2 	-	0.006	0		7	
+Player 1	-	0.005	0		7	
+Player 2 	-	0.005	0		7	
+Player 1	-	0.006	0		7	
+Player 2 	-	0.007	0		7	
+Player 1	-	0.006	0		7	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 75.176
+player 1 left tile : 0
+player 1 total skor : 348
+player 1 Final skor : 348
+player 2 durasi : 73.468
+player 2 left tile : 0
+player 2 total skor : 355
+player 2 Final skor : 355

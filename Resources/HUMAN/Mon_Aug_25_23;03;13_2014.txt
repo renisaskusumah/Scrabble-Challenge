@@ -1,0 +1,48 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	kite	--	16		4	HUMAN 
+Player 2	outbid	3.148	21		6	GADDAG
+Player 1	tog	--	8		2	HUMAN 
+Player 2	zips	25.907	32		4	GADDAG
+Player 1	fins	--	9		3	HUMAN 
+Player 2	six	0.859	20		2	GADDAG
+Player 1	got	--	4		2	HUMAN 
+Player 2	vug	1.025	14		2	GADDAG
+Player 1	skited	--	12		1	HUMAN 
+Player 2	bi	2.931	22		2	GADDAG
+Player 1	tend	--	7		3	HUMAN 
+Player 2	molds	2.407	16		4	GADDAG
+Player 1	cord	--	14		3	HUMAN 
+Player 2	goon	3.657	18		2	GADDAG
+Player 1	hurts	--	16		4	HUMAN 
+Player 2	om	2.267	19		2	GADDAG
+Player 1	cords	--	8		1	HUMAN 
+Player 2	towy	2.197	20		3	GADDAG
+Player 1	wry	--	18		2	HUMAN 
+Player 2	pug	1.806	15		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	help	2.15	27		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	helpful	13.131	42		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	noh	0.908	6		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	dev	2.491	15		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	re	2.911	14		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	car	3.866	26		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	laten	8.553	18		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	are	6.141	16		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ana	5.279	14		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gae	2.451	12		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	eve	2.086	11		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	era	2.001	10		2	GADDAG
+Player 1	ya	--	22		2	HUMAN 

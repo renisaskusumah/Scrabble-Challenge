@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	by	0.038	14		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	-	0.137	0		0	GADDAG
+Player 1	pyx	--	26		2	HUMAN 
+Player 2	-	0.151	0		0	GADDAG
+Player 1	pyxes	--	17		2	HUMAN 
+Player 2	eft	0.319	14		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	bys	0.303	8		1	GADDAG

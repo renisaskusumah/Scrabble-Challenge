@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	wing	--	16		4	HUMAN 

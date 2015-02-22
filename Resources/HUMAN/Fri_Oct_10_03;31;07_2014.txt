@@ -1,0 +1,35 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	bulks	26.609	18		5	HUMAN 	18
+Player 2	humbly	7.848	28		6	GADDAG	28
+Player 1	drum	11.373	7		3	HUMAN 	25
+Player 2	fjeld	6.247	32		4	GADDAG	60
+Player 1	brew	5.995	11		3	HUMAN 	36
+Player 2	prez	4.497	30		3	GADDAG	90
+Player 1	pax	5.992	24		2	HUMAN 	60
+Player 2	cwtch	4.372	16		4	GADDAG	106
+Player 1		pass ( 7.107 )		--			0		0	
+Player 2	stievest	33.86	74		7	GADDAG	180
+Player 1		pass ( 13.114 )		--			0		0	
+Player 2	vasty	17.573	38		4	GADDAG	218
+Player 1		pass ( 19.403 )		--			0		0	
+Player 2	kiln	16.627	20		3	GADDAG	238
+Player 1		exchange ( 8.863 )		--			0		0	
+Player 2	lux	16.558	20		2	GADDAG	258
+Player 1		exchange ( 11.783 )		--			0		0	
+Player 2	me	7.156	14		1	GADDAG	272
+Player 1	nog	21.332	4		2	HUMAN 	64
+Player 2	sh	9.15	29		2	GADDAG	301
+Player 1	lid	14.15	8		2	HUMAN 	72
+Player 2	fleg	7.159	16		2	GADDAG	317
+Player 1	drip	9.153	8		3	HUMAN 	80
+Player 2	worn	18.527	19		3	GADDAG	336
+Player 1	nest	6.347	5		3	HUMAN 	85
+Player 2	intern	34.321	21		5	GADDAG	357
+Player 1		exchange ( 6.706 )		--			0		0	
+Player 2	genie	34.361	25		4	GADDAG	382
+Player 1	ace	12.562	5		2	HUMAN 	90
+Player 2	fini	27.906	24		4	GADDAG	406
+Player 1	ide	17.933	8		2	HUMAN 	98
+Player 2	internees	41.565	36		2	GADDAG	442

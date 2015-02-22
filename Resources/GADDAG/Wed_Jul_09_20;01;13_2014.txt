@@ -1,0 +1,48 @@
+player word durasi skor tiles
+
+
+Player 1	zebu	1.906	28		4	blank tiles
+Player 2 	cwms	24.386	32		4	blank tiles
+Player 1	crux	1.462	26		3	
+Player 2 	faxed	4.575	36		4	
+Player 1	quelled	5.186	29		6	
+Player 2 	hunky	3.359	31		4	
+Player 1	demur	4.716	31		4	
+Player 2 	battu	7.766	29		5	
+Player 1	whaup	10.633	32		4	
+Player 2 	finny	3.578	22		4	
+Player 1	gyve	6.378	30		4	
+Player 2 	poi	8.304	29		3	
+Player 1	zoris	12.022	19		3	
+Player 2 	vinyl	3.096	30		4	
+Player 1	stints	8.25	20		6	
+Player 2 	jo	4.422	27		2	
+Player 1	doating	11.46	84		7	
+Player 2 	area	10.03	24		3	
+Player 1	sell	7.831	20		2	
+Player 2 	refel	7.715	16		4	
+Player 1	koan	4.744	13		2	
+Player 2 	cotes	8.812	20		3	
+Player 1	aecia	4.324	18		4	
+Player 2 	ego	9.633	13		3	
+Player 1	oe	0.582	5		5	
+Player 2 	eerie	0.883	66		7	
+Player 1	nit	0.126	5		6	
+Player 2 	-	0.036	0		7	
+Player 1	nit	0.061	54		7	
+Player 2 	-	0.036	0		7	
+Player 1	-	0.036	0		7	
+Player 2 	-	0.038	0		7	
+Player 1	-	0.036	0		7	
+Player 2 	-	0.038	0		7	
+Player 1	-	0.036	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 79.789
+player 1 left tile : 0
+player 1 total skor : 414
+player 1 Final skor : 414
+player 2 durasi : 96.707
+player 2 left tile : 0
+player 2 total skor : 375
+player 2 Final skor : 375

@@ -1,0 +1,128 @@
+word : ef anchor( col :  7 row : 6 ) score : 16
+word : fey anchor( col :  7 row : 6 ) score : 20
+word : pye anchor( col :  7 row : 6 ) score : 21
+word : yelp anchor( col :  6 row : 7 ) score : 9
+word : jole anchor( col :  6 row : 7 ) score : 11
+word : ye anchor( col :  6 row : 7 ) score : 11
+word : pye anchor( col :  6 row : 7 ) score : 14
+word : yep anchor( col :  6 row : 7 ) score : 24
+word : joey anchor( col :  6 row : 7 ) score : 30
+word : ole anchor( col :  8 row : 7 ) score : 3
+word : jole anchor( col :  8 row : 7 ) score : 11
+word : foe anchor( col :  8 row : 7 ) score : 16
+word : foy anchor( col :  8 row : 7 ) score : 28
+word : joy anchor( col :  8 row : 7 ) score : 36
+word : ye anchor( col :  6 row : 8 ) score : 7
+word : peavy anchor( col :  6 row : 8 ) score : 18
+word : ofay anchor( col :  6 row : 8 ) score : 18
+word : jay anchor( col :  6 row : 8 ) score : 25
+word : joey anchor( col :  6 row : 8 ) score : 30
+word : ae anchor( col :  8 row : 8 ) score : 3
+word : ay anchor( col :  8 row : 8 ) score : 9
+word : fay anchor( col :  8 row : 8 ) score : 17
+word : ofay anchor( col :  8 row : 8 ) score : 18
+word : jay anchor( col :  8 row : 8 ) score : 25
+word : foy anchor( col :  8 row : 8 ) score : 28
+word : joy anchor( col :  8 row : 8 ) score : 36
+word : joe anchor( col :  6 row : 9 ) score : 16
+word : jo anchor( col :  6 row : 9 ) score : 29
+word : ye anchor( col :  8 row : 9 ) score : 5
+word : pye anchor( col :  8 row : 9 ) score : 8
+word : yep anchor( col :  8 row : 9 ) score : 14
+word : ye anchor( col :  8 row : 9 ) score : 23
+word : yep anchor( col :  8 row : 9 ) score : 26
+Hasil evaluasi : joy , score : 36 , direction :2 ,i: 6 j: 8
+
+
+
+word : floe anchor( col :  6 row : 7 ) score : 7
+word : flop anchor( col :  6 row : 7 ) score : 9
+word : gloze anchor( col :  6 row : 7 ) score : 15
+word : floe anchor( col :  9 row : 7 ) score : 7
+word : flop anchor( col :  9 row : 7 ) score : 9
+word : gloze anchor( col :  9 row : 7 ) score : 15
+word : pe anchor( col :  9 row : 7 ) score : 15
+word : peg anchor( col :  9 row : 7 ) score : 21
+word : pe anchor( col :  5 row : 8 ) score : 6
+word : peg anchor( col :  5 row : 8 ) score : 7
+word : go anchor( col :  6 row : 8 ) score : 14
+word : aye anchor( col :  9 row : 8 ) score : 6
+word : pe anchor( col :  9 row : 8 ) score : 15
+word : peg anchor( col :  9 row : 8 ) score : 21
+word : seg anchor( col :  5 row : 10 ) score : 4
+word : oe anchor( col :  6 row : 10 ) score : 2
+word : foe anchor( col :  6 row : 10 ) score : 23
+word : fop anchor( col :  6 row : 10 ) score : 25
+Hasil evaluasi : fop , score : 25 , direction :2 ,i: 8 j: 6
+
+
+
+word : enjoy anchor( col :  8 row : 5 ) score : 14
+word : gob anchor( col :  9 row : 6 ) score : 17
+word : ae anchor( col :  10 row : 6 ) score : 4
+word : beg anchor( col :  10 row : 6 ) score : 8
+word : dev anchor( col :  10 row : 6 ) score : 12
+word : gave anchor( col :  10 row : 6 ) score : 14
+word : vive anchor( col :  10 row : 6 ) score : 18
+word : verve anchor( col :  10 row : 6 ) score : 20
+word : feeze anchor( col :  10 row : 6 ) score : 24
+word : ae anchor( col :  11 row : 6 ) score : 4
+word : beg anchor( col :  11 row : 6 ) score : 8
+word : dev anchor( col :  11 row : 6 ) score : 12
+word : give anchor( col :  11 row : 6 ) score : 16
+word : gazes anchor( col :  11 row : 6 ) score : 28
+word : ofay anchor( col :  5 row : 8 ) score : 10
+word : os anchor( col :  5 row : 8 ) score : 10
+word : ego anchor( col :  5 row : 8 ) score : 13
+word : vee anchor( col :  10 row : 8 ) score : 6
+word : zee anchor( col :  10 row : 8 ) score : 12
+word : veggie anchor( col :  10 row : 8 ) score : 20
+word : verve anchor( col :  10 row : 8 ) score : 20
+word : he anchor( col :  11 row : 8 ) score : 3
+word : vase anchor( col :  11 row : 8 ) score : 6
+word : size anchor( col :  11 row : 8 ) score : 12
+word : soys anchor( col :  8 row : 9 ) score : 19
+word : zip anchor( col :  5 row : 10 ) score : 27
+word : layed anchor( col :  7 row : 10 ) score : 11
+word : es anchor( col :  6 row : 11 ) score : 9
+word : eggs anchor( col :  6 row : 11 ) score : 18
+Hasil evaluasi : gazes , score : 28 , direction :2 ,i: 3 j: 11
+
+
+
+word : bams anchor( col :  13 row : 4 ) score : 7
+word : vigs anchor( col :  13 row : 4 ) score : 23
+word : zig anchor( col :  12 row : 5 ) score : 21
+word : es anchor( col :  12 row : 6 ) score : 3
+word : ex anchor( col :  12 row : 6 ) score : 17
+word : egis anchor( col :  10 row : 8 ) score : 10
+word : soys anchor( col :  8 row : 9 ) score : 21
+word : gip anchor( col :  5 row : 10 ) score : 14
+word : gips anchor( col :  5 row : 10 ) score : 23
+word : gips anchor( col :  7 row : 10 ) score : 23
+word : vigs anchor( col :  6 row : 11 ) score : 25
+Hasil evaluasi : vigs , score : 25 , direction :1 ,i: 11 j: 3
+
+
+
+word : silvans anchor( col :  7 row : 4 ) score : 9
+word : vav anchor( col :  6 row : 5 ) score : 16
+word : vavs anchor( col :  6 row : 5 ) score : 17
+word : vavs anchor( col :  8 row : 5 ) score : 17
+word : var anchor( col :  6 row : 6 ) score : 7
+word : varas anchor( col :  6 row : 6 ) score : 9
+word : vestral anchor( col :  6 row : 6 ) score : 15
+word : ar anchor( col :  8 row : 6 ) score : 3
+word : osar anchor( col :  8 row : 6 ) score : 5
+word : tsar anchor( col :  8 row : 6 ) score : 6
+word : sartor anchor( col :  8 row : 6 ) score : 7
+word : var anchor( col :  8 row : 6 ) score : 11
+word : vars anchor( col :  8 row : 6 ) score : 12
+word : varlet anchor( col :  8 row : 6 ) score : 13
+word : varlets anchor( col :  8 row : 6 ) score : 15
+word : tar anchor( col :  6 row : 7 ) score : 3
+word : tarns anchor( col :  6 row : 7 ) score : 4
+word : stern anchor( col :  6 row : 7 ) score : 5
+word : van anchor( col :  6 row : 7 ) score : 5
+word : vans anchor( col :  6 row : 7 ) score : 6
+word : vents anchor( col :  6 row : 7 ) score : 7

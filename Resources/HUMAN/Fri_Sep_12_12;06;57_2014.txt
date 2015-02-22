@@ -1,0 +1,16 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	zing	1.442	28		4	GADDAG
+Player 1	rime	--	10		3	HUMAN 
+Player 2	faxed	4.884	32		4	GADDAG
+Player 1	mar	--	10		2	HUMAN 
+Player 2	nth	1.39	18		3	GADDAG
+Player 1	hint	--	9		3	HUMAN 
+Player 2	vim	10.359	17		2	GADDAG
+Player 1	nog	--	4		2	HUMAN 
+Player 2	dev	5.603	18		3	GADDAG
+Player 1	go	--	8		2	HUMAN 
+Player 2	tho	8.482	32		2	GADDAG
+Player 1	reg	--	5		2	HUMAN 

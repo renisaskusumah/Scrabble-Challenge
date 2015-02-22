@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	see	--	6		3	HUMAN 
+Player 2	pumping	26.881	84		7	GADDAG
+Player 1		pass		--			0		0	
+Player 2	-	181.649	0		6	NEGASCOUT

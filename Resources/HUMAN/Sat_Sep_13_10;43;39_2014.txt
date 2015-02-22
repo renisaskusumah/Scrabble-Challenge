@@ -1,0 +1,24 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	hm	0.192	14		2	GADDAG
+Player 1	mood	--	8		3	HUMAN 
+Player 2	fozy	1.883	39		3	GADDAG
+Player 1	toys	--	14		3	HUMAN 
+Player 2	joy	54.345	31		3	GADDAG
+Player 1	odd	--	7		2	HUMAN 
+Player 2	ply	3.115	8		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	moods	2.022	8		1	GADDAG
+Player 1	wap	--	8		2	HUMAN 
+Player 2	ka	2.246	11		1	GADDAG
+Player 1	sling	--	6		4	HUMAN 
+Player 2	lax	6.661	20		2	GADDAG
+Player 1	lum	--	7		2	HUMAN 
+Player 2	lump	4.033	8		1	GADDAG
+Player 1	taps	--	12		3	HUMAN 
+Player 2	ad	4.43	6		1	GADDAG
+Player 1	teel	--	5		3	HUMAN 
+Player 2	fob	14.25	22		3	GADDAG
+Player 1	sew	--	7		2	HUMAN 

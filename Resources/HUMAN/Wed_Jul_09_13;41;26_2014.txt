@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	gut	--	8		3
+Player 2	wop	0.908	25		3

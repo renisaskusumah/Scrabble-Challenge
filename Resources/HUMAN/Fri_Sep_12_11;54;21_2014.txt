@@ -1,0 +1,14 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	her	--	12		3	HUMAN 
+Player 2	jab	4.635	35		3	GADDAG
+Player 1	ruff	--	18		3	HUMAN 
+Player 2	ankh	9.711	32		4	GADDAG
+Player 1	put	--	11		3	HUMAN 
+Player 2	gamb	8.841	27		4	GADDAG
+Player 1	wasp	--	17		3	HUMAN 
+Player 2	vent	7.647	37		3	GADDAG
+Player 1	zip	--	13		2	HUMAN 
+Player 2	kolo	13.663	23		3	GADDAG
+Player 1	love	--	14		3	HUMAN 

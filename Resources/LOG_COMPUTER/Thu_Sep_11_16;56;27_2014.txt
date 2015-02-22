@@ -1,0 +1,56 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : Y*DZIDY
+
+HUMAN MOVE : dizzy , score : 42 , direction : 1 , col : 12 , row : 7
+
+
+******COMPUTER TURN******
+RACK : sbpfvdh
+
+word : psi anchor( col :  8 row : 6 ) score : 6 new tiles : ps
+word : sib anchor( col :  8 row : 6 ) score : 9 new tiles : sb
+word : bid anchor( col :  8 row : 6 ) score : 11 new tiles : bd
+word : bids anchor( col :  8 row : 6 ) score : 12 new tiles : bds
+word : spiv anchor( col :  8 row : 6 ) score : 16 new tiles : spv
+word : shiv anchor( col :  8 row : 6 ) score : 18 new tiles : shv
+word : bys anchor( col :  11 row : 6 ) score : 8 new tiles : bs
+word : sh anchor( col :  11 row : 6 ) score : 9 new tiles : sh
+word : hyp anchor( col :  11 row : 6 ) score : 11 new tiles : hp
+word : hyps anchor( col :  11 row : 6 ) score : 12 new tiles : hps
+word : is anchor( col :  8 row : 8 ) score : 3 new tiles : s
+word : bis anchor( col :  8 row : 8 ) score : 9 new tiles : bs
+word : pish anchor( col :  8 row : 8 ) score : 13 new tiles : psh
+word : fish anchor( col :  8 row : 8 ) score : 15 new tiles : fsh
+word : fib anchor( col :  8 row : 8 ) score : 15 new tiles : fb
+word : fibs anchor( col :  8 row : 8 ) score : 16 new tiles : fbs
+word : shiv anchor( col :  8 row : 8 ) score : 18 new tiles : shv
+word : bys anchor( col :  11 row : 8 ) score : 8 new tiles : bs
+word : hyp anchor( col :  11 row : 8 ) score : 11 new tiles : hp
+word : hyps anchor( col :  11 row : 8 ) score : 12 new tiles : hps
+word : si anchor( col :  8 row : 6 ) score : 3 new tiles : s
+word : psi anchor( col :  8 row : 6 ) score : 6 new tiles : ps
+word : sib anchor( col :  8 row : 6 ) score : 9 new tiles : sb
+word : bid anchor( col :  8 row : 6 ) score : 11 new tiles : bd
+word : bids anchor( col :  8 row : 6 ) score : 12 new tiles : bds
+word : spiv anchor( col :  8 row : 6 ) score : 16 new tiles : spv
+word : shiv anchor( col :  8 row : 6 ) score : 18 new tiles : shv
+word : bys anchor( col :  11 row : 6 ) score : 8 new tiles : bs
+word : sh anchor( col :  11 row : 6 ) score : 9 new tiles : sh
+word : hyp anchor( col :  11 row : 6 ) score : 11 new tiles : hp
+word : hyps anchor( col :  11 row : 6 ) score : 12 new tiles : hps
+word : is anchor( col :  8 row : 8 ) score : 3 new tiles : s
+word : bis anchor( col :  8 row : 8 ) score : 9 new tiles : bs
+word : pish anchor( col :  8 row : 8 ) score : 13 new tiles : psh
+word : fish anchor( col :  8 row : 8 ) score : 15 new tiles : fsh
+word : fib anchor( col :  8 row : 8 ) score : 15 new tiles : fb
+word : fibs anchor( col :  8 row : 8 ) score : 16 new tiles : fbs
+word : shiv anchor( col :  8 row : 8 ) score : 18 new tiles : shv
+word : bys anchor( col :  11 row : 8 ) score : 8 new tiles : bs
+word : hyp anchor( col :  11 row : 8 ) score : 11 new tiles : hp
+word : hyps anchor( col :  11 row : 8 ) score : 12 new tiles : hps
+Hasil evaluasi : shiv , score : 18 , direction :2 ,i: 5 j: 8
+
+
+

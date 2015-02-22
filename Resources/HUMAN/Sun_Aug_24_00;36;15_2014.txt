@@ -1,0 +1,10 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	lost	--	8		4	HUMAN 
+Player 2	cosh	7.206	23		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	yule	5.295	32		4	GADDAG
+Player 1	feast	--	24		4	HUMAN 
+Player 2	cyst	1.773	18		3	GADDAG
+Player 1	tom	--	9		2	HUMAN 

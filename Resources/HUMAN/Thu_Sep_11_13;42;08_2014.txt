@@ -1,0 +1,20 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	fugs	--	16		4	HUMAN 
+Player 2	jog	4.095	27		2	GADDAG
+Player 1	find	--	8		3	HUMAN 
+Player 2	mho	7.481	25		3	GADDAG
+Player 1	moms	--	16		3	HUMAN 
+Player 2	tufa	14.847	26		3	GADDAG
+Player 1	sulk	--	10		3	HUMAN 
+Player 2	bevy	8.847	29		4	GADDAG
+Player 1	vase	--	14		3	HUMAN 
+Player 2	axal	16.538	39		4	GADDAG
+Player 1	zoom	--	30		3	HUMAN 
+Player 2	depths	18.547	36		6	GADDAG
+Player 1	prop	--	16		3	HUMAN 
+Player 2	goat	23.652	23		3	GADDAG
+Player 1	veg	--	14		2	HUMAN 
+Player 2	wet	286.544	20		3	GADDAG
+Player 1	gun	--	4		2	HUMAN 

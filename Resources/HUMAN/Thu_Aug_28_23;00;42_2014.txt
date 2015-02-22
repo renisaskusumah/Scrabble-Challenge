@@ -1,0 +1,62 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	mob	--	14		3	HUMAN 
+Player 2	pah	2.269	28		3	GADDAG
+Player 1	hog	--	9		1	HUMAN 
+Player 2	bug	2.161	22		3	GADDAG
+Player 1	box	--	31		2	HUMAN 
+Player 2	yawn	27.571	24		4	GADDAG
+Player 1	pup	--	7		1	HUMAN 
+Player 2	marques	47.266	91		7	GADDAG
+Player 1	hank	--	22		3	HUMAN 
+Player 2	largando	6.948	76		7	GADDAG
+Player 1	don	--	5		2	HUMAN 
+Player 2	flow	4.43	33		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	eyry	4.173	35		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	dagos	4.931	34		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	crore	6.362	29		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jive	2.894	25		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	cot	8.517	23		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jota	4.016	22		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	favus	2.538	24		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	teed	11.145	29		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gamas	8.638	23		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	zest	7.333	22		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	re	8.366	24		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	derma	10.697	21		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	bo	7.982	13		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	lea	8.443	17		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	eon	3.391	11		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	dei	1.14	4		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	si	42.679	2		1	NEGASCOUT
+Player 1	tel	--	6		2	HUMAN 
+Player 2	it	18.409	4		2	NEGASCOUT
+Player 1	lunt	--	13		6	HUMAN 
+Player 2	ill	0.532	3		3	NEGASCOUT
+Player 1	nu	--	4		7	HUMAN 
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 5 menit 0 detik 
+player 1 left tile : 0
+player 1 total skor : 111
+player 2 durasi : 4 menit 1 detik 
+player 2 left tile : 4
+player 2 total skor : 639

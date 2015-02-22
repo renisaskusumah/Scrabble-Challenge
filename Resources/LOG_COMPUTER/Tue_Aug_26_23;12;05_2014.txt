@@ -1,0 +1,63 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : OZTMBTG
+
+HUMAN MOVE : tomb , score : 16 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : ixpcgyk
+
+Hasil evaluasi : pixy , score : 53 , direction : 2 , anchor (8 , 7) , col : 6 , row : 8
+
+POSSIBLE MOVEMENT : 
+pity ( col : 5 row: 7 ) score : 9
+xi ( col : 6 row: 6 ) score : 19
+typic ( col : 7 row: 7 ) score : 15
+pixy ( col : 8 row: 6 ) score : 53
+pox ( col : 6 row: 8 ) score : 23
+gimpy ( col : 5 row: 9 ) score : 25
+mix ( col : 7 row: 9 ) score : 28
+gib ( col : 5 row: 10 ) score : 6
+by ( col : 7 row: 10 ) score : 7
+pyic ( col : 8 row: 8 ) score : 32
+
+
+******HUMAN RESULT******
+RACK : OZMBHTG
+
+HUMAN MOVE : pom , score : 7 , direction : 1 , col : 11 , row : 6
+
+
+******COMPUTER TURN******
+RACK : cgkrd
+
+
+/*-----HASIL NEGA----*/
+doc
+word doc
+skor 15
+
+
+
+-------NEGA--------
+
+eval -42 word doc skor 15 depth 1 end 75 child 2
+eval -30 word cox skor 15 depth 1 end 58 child 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : ZBHTG
+
+HUMAN MOVE : myth , score : 14 , direction : 1 , col : 11 , row : 9
+
+
+******COMPUTER TURN******
+RACK : gkr
+

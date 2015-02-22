@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	rad	--	8		3	HUMAN 
+Player 2	pax	0.366	23		2	GADDAG
+Player 1	hapax	--	17		2	HUMAN 

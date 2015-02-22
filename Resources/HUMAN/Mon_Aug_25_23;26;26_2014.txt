@@ -1,0 +1,45 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	sane	--	8		4	HUMAN 
+Player 2	vox	0.861	44		3	GADDAG
+Player 1	vail	--	7		3	HUMAN 
+Player 2	web	1.676	35		3	GADDAG
+Player 1	lums	--	7		3	HUMAN 
+Player 2	mover	54.717	35		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	hap	79.303	40		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	koine	95.078	41		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	nonguilt	16.42	62		7	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jew	2.393	24		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	chay	3.457	18		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	globed	2.573	18		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	zing	10.659	24		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	bronzing	8.487	40		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	raff	12.737	20		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	pe	20.651	26		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	coda	19.248	19		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	daunts	20.013	38		6	GADDAG
+Player 1		pass		--			0		0	
+Player 1		pass		--			0		0	
+Player 2	aristo	30.467	30		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	rawer	31.658	34		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	note	24.24	15		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tail	23.001	14		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	diet	15.621	16		4	GADDAG
+Player 1	per	--	5		1	HUMAN 

@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	yucky	0.079	42		5
+Player 2 	corny	4.002	20		4
+Player 1	whoofs	2.743	30		5
+Player 2 	oars	4.799	20		3
+Player 1	pygmy	0.582	16		3
+Player 2 	buggy	2.906	24		4
+Player 1	fro	1.999	28		3
+Player 2 	sums	1.298	15		3
+Player 1	jiff	1.763	33		2
+Player 2 	fets	3.537	23		2
+Player 1	guv	1.799	11		2
+Player 2 	souk	2.439	14		2
+Player 1	vox	3.785	21		2
+Player 2 	end	1.873	13		3
+Player 1	ten	3.992	17		2
+Player 2 	azon	2.705	33		4
+Player 1	blazon	1.296	17		3
+Player 2 	viol	3.602	15		4
+Player 1	oil	3.061	12		2
+Player 2 	bindi	2.751	10		3
+Player 1	whid	1.665	19		3
+Player 2 	dipt	3.284	13		4
+Player 1	antra	9.575	18		5
+Player 2 	area	10.114	15		4
+Player 1	aria	8.998	14		4
+Player 2 	qat	7.745	24		2
+Player 1	rei	9.266	12		3
+Player 2 	it	10.394	11		2
+Player 1	air	1.183	6		4
+Player 2 	eel	1.747	10		5
+Player 1	ef	0.267	5		5
+Player 2 	oe	0.114	2		6
+Player 1	-	0.117	0		5
+Player 2 	-	0.046	0		6
+Player 1	-	0.113	0		5
+Player 2 	-	0.045	0		6
+Player 1	-	0.11	0		5
+Player 2 	-	0.076	0		6
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 0 menit 43 detik 
+player 1 left tile : 2
+player 1 total skor : 301
+player 1 Final skor : 299
+player 2 durasi : 0 menit 55 detik 
+player 2 left tile : 1
+player 2 total skor : 262
+player 2 Final skor : 261

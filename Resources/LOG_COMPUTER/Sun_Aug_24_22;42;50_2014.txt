@@ -1,0 +1,285 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  L L Y C L V X
+New Tiles :  W P W H L R K
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : quod , score : 28 , direction : 2 , col : 7 , row : 6
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wop , score : 15 , direction : 1 , col : 9 , row : 8
+
+
+******COMPUTER TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : pow , score : 11 , direction : 2 , col : 8 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : dozy , score : 37 , direction : 1 , anchor (9 , 9) , col : 9 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : by , score : 7 , direction : 2 , col : 10 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : tub , score : 12 , direction : 2 , anchor (10 , 7) , col : 5 , row : 10
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : then , score : 9 , direction : 1 , col : 14 , row : 5
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : loxed , score : 30 , direction : 2 , anchor (12 , 4) , col : 2 , row : 12
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : prom , score : 16 , direction : 1 , col : 14 , row : 3
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : xu , score : 14 , direction : 1 , anchor (13 , 4) , col : 4 , row : 12
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : kop , score : 9 , direction : 2 , col : 10 , row : 4
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : feck , score : 19 , direction : 1 , anchor (9 , 1) , col : 1 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : fig , score : 9 , direction : 2 , col : 7 , row : 4
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : victim , score : 24 , direction : 1 , anchor (8 , 2) , col : 2 , row : 3
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : vinyl , score : 22 , direction : 2 , col : 3 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : salad , score : 26 , direction : 2 , anchor (14 , 5) , col : 5 , row : 14
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : van , score : 5 , direction : 1 , col : 4 , row : 4
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : rids , score : 27 , direction : 2 , anchor (4 , 1) , col : 1 , row : 4
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : bug , score : 8 , direction : 1 , col : 13 , row : 8
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : guid , score : 11 , direction : 1 , anchor (9 , 6) , col : 6 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : jail , score : 12 , direction : 1 , col : 4 , row : 6
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : zeta , score : 18 , direction : 2 , anchor (9 , 10) , col : 9 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : jar , score : 27 , direction : 2 , col : 0 , row : 9
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : avian , score : 12 , direction : 2 , anchor (1 , 3) , col : 3 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : those , score : 16 , direction : 1 , col : 14 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : state , score : 30 , direction : 1 , anchor (9 , 13) , col : 13 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : set , score : 6 , direction : 2 , col : 12 , row : 14
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ran , score : 13 , direction : 1 , anchor (11 , 14) , col : 14 , row : 11
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : art , score : 27 , direction : 2 , col : 14 , row : 15
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : no , score : 13 , direction : 2 , anchor (14 , 3) , col : 2 , row : 14
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : loofa , score : 13 , direction : 1 , col : 10 , row : 12
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+age
+word age
+skor 11
+
+
+
+-------NEGA--------
+
+eval -100 word age skor 11 depth 1 end 334 child 9
+eval -100 word eau skor 8 depth 1 end 333 child 6
+eval -93 word ae skor 2 depth 1 end 318 child 5
+eval -96 word ae skor 4 depth 1 end 320 child 9
+eval -100 word ale skor 5 depth 1 end 322 child 12
+eval -100 word ae skor 10 depth 1 end 319 child 4
+eval -99 word oe skor 2 depth 1 end 328 child 5
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tare , score : 4 , direction : 2 , col : 6 , row : 6
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+li
+word li
+skor 4
+
+
+
+-------NEGA--------
+
+eval -102 word eel skor 3 depth 1 end 332 child 11
+eval -104 word li skor 4 depth 1 end 331 child 6
+eval -104 word oe skor 2 depth 1 end 328 child 5
+eval -104 word oe skor 2 depth 1 end 329 child 6
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : in , score : 4 , direction : 1 , col : 7 , row : 13
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ion , score : 3 , direction : 2 , anchor (6 , 11) , col : 11 , row : 6
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : lie , score : 3 , direction : 2 , col : 5 , row : 15
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : el , score : 2 , direction : 1 , anchor (13 , 7) , col : 7 , row : 13
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : id , score : 5 , direction : 1 , col : 15 , row : 9
+
+

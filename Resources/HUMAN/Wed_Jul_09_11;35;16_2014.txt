@@ -1,0 +1,7 @@
+player word durasi skor tiles
+
+
+Player 1	lav	--	0		3
+Player 2	phlox	10.693	43		5
+Player 1	hub	--	4		2
+Player 2	bey	7.933	29		3

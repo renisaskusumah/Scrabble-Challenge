@@ -1,0 +1,12 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : sytmxds
+
+Hasil evaluasi : xysts , score : 46 , direction : 2 , col : 7 , row : 3
+
+
+
+POSSIBLE MOVEMENT : 
+
+

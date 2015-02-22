@@ -1,0 +1,57 @@
+player word durasi skor tiles
+
+
+Player 1	huger	0.127	26		5	
+Player 2 	jig	0.91	27		2	
+Player 1	few	1.346	28		3	
+Player 2 	mem	1.123	23		3	
+Player 1	hung	1.039	13		3	
+Player 2 	wen	0.253	6		1	
+Player 1	strew	2.492	25		5	
+Player 2 	fez	0.313	30		2	
+Player 1	sad	3.565	17		3	
+Player 2 	ax	0.369	9		1	
+Player 1	hungrier	45.319	22		4	blank tiles
+Player 2 	vivid	9.938	30		4	blank tiles
+Player 1	ulvas	5.679	20		4	
+Player 2 	in	0.812	6		1	
+Player 1	ut	0.979	2		1	
+Player 2 	brr	0.758	7		2	
+Player 1	brrr	1.133	6		1	
+Player 2 	pinch	2.029	32		4	
+Player 1	pluck	2.734	18		4	
+Player 2 	alba	5.53	18		4	
+Player 1	toad	7.383	25		4	
+Player 2 	nylon	3.312	27		3	
+Player 1	ditsy	7.689	34		5	
+Player 2 	get	5.134	16		3	
+Player 1	aplite	12.38	32		6	
+Player 2 	xi	2.888	26		1	
+Player 1	oidia	3.715	16		4	
+Player 2 	aqua	2.515	13		3	
+Player 1	aquae	4.235	16		1	
+Player 2 	oe	3.856	12		2	
+Player 1	aw	2.371	10		2	
+Player 2 	oe	1.15	8		4	
+Player 1	remise	1.176	10		4	
+Player 2 	et	0.295	7		5	
+Player 1	or	0.297	6		5	
+Player 2 	go	0.145	5		6	
+Player 1	eon	0.155	55		7	
+Player 2 	ado	0.081	54		7	
+Player 1	-	0.068	0		7	
+Player 2 	-	0.068	0		7	
+Player 1	-	0.067	0		7	
+Player 2 	-	0.07	0		7	
+Player 1	-	0.072	0		7	
+Player 2 	-	0.077	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 104.021
+player 1 left tile : 0
+player 1 total skor : 381
+player 1 Final skor : 381
+player 2 durasi : 41.626
+player 2 left tile : 0
+player 2 total skor : 356
+player 2 Final skor : 356

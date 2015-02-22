@@ -1,0 +1,16 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : alqdot*
+
+word : la anchor( col :  7 row : 7 ) score : 4 new tiles : la	Heuristic : 15.5
+word : tola anchor( col :  7 row : 7 ) score : 8 new tiles : tola	Heuristic : 20
+word : lad anchor( col :  7 row : 7 ) score : 8 new tiles : lad	Heuristic : 20.5
+word : qat anchor( col :  7 row : 7 ) score : 24 new tiles : qat	Heuristic : 47
+Hasil evaluasi : qat , score : 24 , direction : 2 , col : 7 , row : 6
+
+
+
+POSSIBLE MOVEMENT : 
+
+

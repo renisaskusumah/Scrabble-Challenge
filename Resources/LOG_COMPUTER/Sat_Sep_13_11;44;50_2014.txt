@@ -1,0 +1,159 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : STUCFTV
+
+HUMAN MOVE : cut , score : 10 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+RACK : stucjql
+
+word : scut anchor( col :  7 row : 6 ) score : 6 new tiles : sut    Heuristic : -13
+word : sulu anchor( col :  8 row : 6 ) score : 6 new tiles : slu    Heuristic : -12
+word : cultus anchor( col :  8 row : 6 ) score : 10 new tiles : cults    Heuristic : -5.5
+word : scut anchor( col :  8 row : 6 ) score : 10 new tiles : sct    Heuristic : -8.5
+word : cut anchor( col :  8 row : 6 ) score : 9 new tiles : ct    Heuristic : -3
+word : cuts anchor( col :  8 row : 6 ) score : 10 new tiles : cts    Heuristic : -8.5
+word : cult anchor( col :  8 row : 6 ) score : 10 new tiles : clt    Heuristic : 0
+word : cults anchor( col :  8 row : 6 ) score : 11 new tiles : clts    Heuristic : -5.5
+word : cultus anchor( col :  8 row : 6 ) score : 12 new tiles : cltus    Heuristic : -3.5
+word : jus anchor( col :  8 row : 6 ) score : 19 new tiles : js    Heuristic : 2
+word : just anchor( col :  8 row : 6 ) score : 20 new tiles : jst    Heuristic : 4
+word : jut anchor( col :  8 row : 6 ) score : 19 new tiles : jt    Heuristic : 9.5
+word : juts anchor( col :  8 row : 6 ) score : 20 new tiles : jts    Heuristic : 4
+word : slut anchor( col :  8 row : 6 ) score : 6 new tiles : slt    Heuristic : -12
+word : sulu anchor( col :  8 row : 6 ) score : 5 new tiles : sul    Heuristic : -13
+word : ulu anchor( col :  8 row : 6 ) score : 4 new tiles : ul    Heuristic : -7.5
+word : ulus anchor( col :  8 row : 6 ) score : 6 new tiles : uls    Heuristic : -12
+word : lust anchor( col :  8 row : 6 ) score : 6 new tiles : lst    Heuristic : -12
+word : us anchor( col :  9 row : 6 ) score : 4 new tiles : us    Heuristic : -16
+word : ut anchor( col :  9 row : 6 ) score : 4 new tiles : ut    Heuristic : -8.5
+word : uts anchor( col :  9 row : 6 ) score : 5 new tiles : uts    Heuristic : -14
+word : jus anchor( col :  9 row : 6 ) score : 13 new tiles : jus    Heuristic : -3
+word : just anchor( col :  9 row : 6 ) score : 13 new tiles : jus    Heuristic : -3
+word : lust anchor( col :  9 row : 6 ) score : 6 new tiles : lus    Heuristic : -12
+word : tut anchor( col :  9 row : 6 ) score : 5 new tiles : tu    Heuristic : -7.5
+word : tuts anchor( col :  9 row : 6 ) score : 6 new tiles : tus    Heuristic : -13
+word : scut anchor( col :  9 row : 6 ) score : 12 new tiles : scu    Heuristic : -6.5
+word : cut anchor( col :  9 row : 6 ) score : 11 new tiles : cu    Heuristic : -1
+word : cuts anchor( col :  9 row : 6 ) score : 12 new tiles : cus    Heuristic : -6.5
+word : jut anchor( col :  9 row : 6 ) score : 26 new tiles : ju    Heuristic : 16.5
+word : juts anchor( col :  9 row : 6 ) score : 27 new tiles : jus    Heuristic : 11
+word : slut anchor( col :  9 row : 6 ) score : 6 new tiles : slu    Heuristic : -12
+word : ut anchor( col :  9 row : 6 ) score : 2 new tiles : u    Heuristic : -11.5
+word : uts anchor( col :  9 row : 6 ) score : 3 new tiles : us    Heuristic : -17
+word : cult anchor( col :  9 row : 6 ) score : 8 new tiles : cul    Heuristic : -2
+word : cults anchor( col :  9 row : 6 ) score : 9 new tiles : culs    Heuristic : -7.5
+word : scut anchor( col :  6 row : 7 ) score : 6 new tiles : s    Heuristic : -15
+word : uts anchor( col :  6 row : 7 ) score : 10 new tiles : uts    Heuristic : -9
+word : cuts anchor( col :  6 row : 7 ) score : 13 new tiles : cuts    Heuristic : -4.5
+word : juts anchor( col :  6 row : 7 ) score : 18 new tiles : juts    Heuristic : 3
+word : cults anchor( col :  6 row : 7 ) score : 14 new tiles : cults    Heuristic : -1.5
+word : us anchor( col :  6 row : 7 ) score : 9 new tiles : us    Heuristic : -11
+word : jus anchor( col :  6 row : 7 ) score : 17 new tiles : jus    Heuristic : 1
+word : just anchor( col :  6 row : 7 ) score : 19 new tiles : just    Heuristic : 4
+word : lust anchor( col :  6 row : 7 ) score : 12 new tiles : lust    Heuristic : -5
+word : scut anchor( col :  6 row : 7 ) score : 15 new tiles : scut    Heuristic : -2.5
+word : slut anchor( col :  6 row : 7 ) score : 11 new tiles : slut    Heuristic : -6
+word : cuts anchor( col :  10 row : 7 ) score : 6 new tiles : s    Heuristic : -15
+word : uts anchor( col :  10 row : 7 ) score : 9 new tiles : uts    Heuristic : -10
+word : cuts anchor( col :  10 row : 7 ) score : 18 new tiles : cuts    Heuristic : 0.5
+word : juts anchor( col :  10 row : 7 ) score : 28 new tiles : juts    Heuristic : 13
+word : cults anchor( col :  10 row : 7 ) score : 20 new tiles : cults    Heuristic : 4.5
+word : us anchor( col :  10 row : 7 ) score : 8 new tiles : us    Heuristic : -12
+word : jus anchor( col :  10 row : 7 ) score : 16 new tiles : jus    Heuristic : 0
+word : just anchor( col :  10 row : 7 ) score : 17 new tiles : just    Heuristic : 2
+word : lust anchor( col :  10 row : 7 ) score : 10 new tiles : lust    Heuristic : -7
+word : scut anchor( col :  10 row : 7 ) score : 18 new tiles : scut    Heuristic : 0.5
+word : slut anchor( col :  10 row : 7 ) score : 14 new tiles : slut    Heuristic : -3
+word : cut anchor( col :  7 row : 8 ) score : 5 new tiles : ut    Heuristic : -7.5
+word : cuts anchor( col :  7 row : 8 ) score : 6 new tiles : uts    Heuristic : -13
+word : cult anchor( col :  7 row : 8 ) score : 6 new tiles : ult    Heuristic : -4.5
+word : cults anchor( col :  7 row : 8 ) score : 8 new tiles : ults    Heuristic : -9
+word : us anchor( col :  8 row : 8 ) score : 3 new tiles : s    Heuristic : -18
+word : ut anchor( col :  8 row : 8 ) score : 3 new tiles : t    Heuristic : -10.5
+word : uts anchor( col :  8 row : 8 ) score : 4 new tiles : ts    Heuristic : -16
+word : ulu anchor( col :  8 row : 8 ) score : 4 new tiles : lu    Heuristic : -7.5
+word : ulus anchor( col :  8 row : 8 ) score : 5 new tiles : lus    Heuristic : -13
+word : tut anchor( col :  9 row : 8 ) score : 5 new tiles : ut    Heuristic : -7.5
+word : tuts anchor( col :  9 row : 8 ) score : 6 new tiles : uts    Heuristic : -13
+Hasil evaluasi : jut , score : 26 , direction :2 ,i: 5 j: 9 Heuristic: 16.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : SKTUFTV
+
+HUMAN MOVE : cut , score : 5 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : stcqlmy
+
+word : smut anchor( col :  7 row : 6 ) score : 22 new tiles : smt    Heuristic : 4
+word : scut anchor( col :  7 row : 6 ) score : 6 new tiles : s    Heuristic : -15
+word : mu anchor( col :  8 row : 6 ) score : 14 new tiles : m    Heuristic : 1.5
+word : mus anchor( col :  8 row : 6 ) score : 15 new tiles : ms    Heuristic : -4
+word : must anchor( col :  8 row : 6 ) score : 16 new tiles : mst    Heuristic : -2
+word : musty anchor( col :  8 row : 6 ) score : 24 new tiles : msty    Heuristic : 9
+word : muscly anchor( col :  8 row : 6 ) score : 24 new tiles : mscly    Heuristic : 11.5
+word : mut anchor( col :  8 row : 6 ) score : 15 new tiles : mt    Heuristic : 3.5
+word : muts anchor( col :  8 row : 6 ) score : 16 new tiles : mts    Heuristic : -2
+word : mulct anchor( col :  8 row : 6 ) score : 20 new tiles : mlct    Heuristic : 12
+word : mulcts anchor( col :  8 row : 6 ) score : 21 new tiles : mlcts    Heuristic : 6.5
+word : mus anchor( col :  8 row : 6 ) score : 19 new tiles : ms    Heuristic : 0
+word : mut anchor( col :  8 row : 6 ) score : 19 new tiles : mt    Heuristic : 7.5
+word : us anchor( col :  10 row : 6 ) score : 2 new tiles : s    Heuristic : -19
+word : ut anchor( col :  10 row : 6 ) score : 2 new tiles : t    Heuristic : -11.5
+word : uts anchor( col :  10 row : 6 ) score : 3 new tiles : ts    Heuristic : -17
+word : um anchor( col :  10 row : 6 ) score : 4 new tiles : m    Heuristic : -8.5
+word : scut anchor( col :  6 row : 7 ) score : 6 new tiles : s    Heuristic : -15
+word : cuts anchor( col :  10 row : 7 ) score : 6 new tiles : s    Heuristic : -15
+word : cutty anchor( col :  10 row : 7 ) score : 14 new tiles : ty    Heuristic : 3.5
+word : sty anchor( col :  10 row : 7 ) score : 12 new tiles : sty    Heuristic : -5
+word : sly anchor( col :  10 row : 7 ) score : 12 new tiles : sly    Heuristic : -4
+word : sum anchor( col :  6 row : 8 ) score : 16 new tiles : sm    Heuristic : -3
+word : stum anchor( col :  6 row : 8 ) score : 17 new tiles : stm    Heuristic : -1
+word : scut anchor( col :  6 row : 8 ) score : 13 new tiles : sct    Heuristic : -5.5
+word : scum anchor( col :  6 row : 8 ) score : 21 new tiles : scm    Heuristic : 3.5
+word : cut anchor( col :  6 row : 8 ) score : 12 new tiles : ct    Heuristic : 0
+word : cuts anchor( col :  6 row : 8 ) score : 24 new tiles : cts    Heuristic : 5.5
+word : cum anchor( col :  6 row : 8 ) score : 20 new tiles : cm    Heuristic : 9
+word : slut anchor( col :  6 row : 8 ) score : 9 new tiles : slt    Heuristic : -9
+word : slum anchor( col :  6 row : 8 ) score : 17 new tiles : slm    Heuristic : 0
+word : clumsy anchor( col :  6 row : 8 ) score : 35 new tiles : clmsy    Heuristic : 22.5
+word : lum anchor( col :  6 row : 8 ) score : 16 new tiles : lm    Heuristic : 5.5
+word : lums anchor( col :  6 row : 8 ) score : 28 new tiles : lms    Heuristic : 11
+word : smut anchor( col :  6 row : 8 ) score : 13 new tiles : smt    Heuristic : -5
+word : mu anchor( col :  6 row : 8 ) score : 7 new tiles : m    Heuristic : -5.5
+word : mus anchor( col :  6 row : 8 ) score : 12 new tiles : ms    Heuristic : -7
+word : mut anchor( col :  6 row : 8 ) score : 12 new tiles : mt    Heuristic : 0.5
+word : muts anchor( col :  6 row : 8 ) score : 24 new tiles : mts    Heuristic : 6
+word : yum anchor( col :  6 row : 8 ) score : 22 new tiles : ym    Heuristic : 12.5
+word : us anchor( col :  8 row : 8 ) score : 6 new tiles : s    Heuristic : -15
+word : ut anchor( col :  8 row : 8 ) score : 6 new tiles : t    Heuristic : -7.5
+word : uts anchor( col :  8 row : 8 ) score : 18 new tiles : ts    Heuristic : -2
+word : um anchor( col :  8 row : 8 ) score : 14 new tiles : m    Heuristic : 1.5
+word : us anchor( col :  8 row : 8 ) score : 6 new tiles : s    Heuristic : -15
+word : ut anchor( col :  8 row : 8 ) score : 6 new tiles : t    Heuristic : -7.5
+word : um anchor( col :  8 row : 8 ) score : 14 new tiles : m    Heuristic : 1.5
+word : sty anchor( col :  9 row : 8 ) score : 17 new tiles : sty    Heuristic : 0
+word : sly anchor( col :  9 row : 8 ) score : 17 new tiles : sly    Heuristic : 1
+word : juts anchor( col :  9 row : 8 ) score : 11 new tiles : s    Heuristic : -10
+word : jutty anchor( col :  9 row : 8 ) score : 23 new tiles : ty    Heuristic : 12.5
+word : cyst anchor( col :  6 row : 9 ) score : 17 new tiles : cys    Heuristic : 0.5
+word : sty anchor( col :  6 row : 9 ) score : 6 new tiles : sy    Heuristic : -12
+word : cyst anchor( col :  7 row : 10 ) score : 15 new tiles : cyst    Heuristic : -0.5
+word : sty anchor( col :  7 row : 10 ) score : 12 new tiles : sty    Heuristic : -5
+word : sly anchor( col :  7 row : 10 ) score : 12 new tiles : sly    Heuristic : -4
+Hasil evaluasi : clumsy , score : 35 , direction :1 ,i: 8 j: 5 Heuristic: 22.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+

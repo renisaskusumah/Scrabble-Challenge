@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	ex	--	18		2	HUMAN 
+Player 2	bop	3.66	22		3	GADDAG
+Player 1	beat	--	5		2	HUMAN 

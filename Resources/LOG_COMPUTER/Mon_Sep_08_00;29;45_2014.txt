@@ -1,0 +1,41 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : LIUORDX
+
+HUMAN MOVE : rod , score : 8 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : kaqcidt
+
+word : at anchor( col :  7 row : 6 ) score : 8 new tiles : at
+word : kat anchor( col :  7 row : 6 ) score : 13 new tiles : kat
+word : qat anchor( col :  7 row : 6 ) score : 18 new tiles : qat
+word : krait anchor( col :  6 row : 7 ) score : 9 new tiles : kait
+word : cark anchor( col :  6 row : 7 ) score : 10 new tiles : cak
+word : track anchor( col :  6 row : 7 ) score : 11 new tiles : tack
+word : ka anchor( col :  6 row : 7 ) score : 13 new tiles : ka
+word : kadi anchor( col :  6 row : 7 ) score : 26 new tiles : kadi
+word : qat anchor( col :  6 row : 7 ) score : 28 new tiles : qat
+word : ark anchor( col :  8 row : 7 ) score : 7 new tiles : ak
+word : cark anchor( col :  8 row : 7 ) score : 10 new tiles : cak
+word : track anchor( col :  8 row : 7 ) score : 11 new tiles : tack
+word : dakoit anchor( col :  6 row : 8 ) score : 17 new tiles : dakit
+word : kadi anchor( col :  6 row : 8 ) score : 26 new tiles : kadi
+word : qat anchor( col :  6 row : 8 ) score : 28 new tiles : qat
+word : oka anchor( col :  8 row : 8 ) score : 12 new tiles : ka
+word : koa anchor( col :  8 row : 8 ) score : 13 new tiles : ka
+word : dock anchor( col :  8 row : 8 ) score : 16 new tiles : dck
+word : dakoit anchor( col :  8 row : 8 ) score : 17 new tiles : dakit
+word : dak anchor( col :  8 row : 8 ) score : 18 new tiles : dak
+word : kadi anchor( col :  6 row : 9 ) score : 19 new tiles : kai
+word : didact anchor( col :  6 row : 9 ) score : 20 new tiles : diact
+word : kadi anchor( col :  6 row : 9 ) score : 26 new tiles : kadi
+word : da anchor( col :  8 row : 9 ) score : 3 new tiles : a
+word : didact anchor( col :  8 row : 9 ) score : 20 new tiles : diact
+Hasil evaluasi : qat , score : 28 , direction : 2 , anchor (7 , 10) , col : 6 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+

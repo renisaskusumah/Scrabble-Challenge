@@ -1,0 +1,66 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : lbmokpq
+
+Hasil evaluasi : kob , score : 18 , direction : 2 , col : 7 , row : 5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : lmpqtro
+
+Hasil evaluasi : mop , score : 24 , direction : 2 , anchor (8 , 6) , col : 6 , row : 8
+
+POSSIBLE MOVEMENT : 
+pork ( col : 4 row: 5 ) score : 12
+kop ( col : 7 row: 5 ) score : 15
+mop ( col : 6 row: 6 ) score : 13
+pom ( col : 6 row: 6 ) score : 13
+mop ( col : 8 row: 6 ) score : 24
+tom ( col : 4 row: 7 ) score : 8
+bop ( col : 7 row: 7 ) score : 7
+mop ( col : 6 row: 8 ) score : 23
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : LBFHLPN
+
+HUMAN MOVE : pom , score : 10 , direction : 1 , col : 9 , row : 6
+
+
+******COMPUTER TURN******
+RACK : lqtrgfs
+
+
+/*-----HASIL NEGA----*/
+mops
+word mops
+skor 8
+
+
+
+-------NEGA--------
+
+eval -25 word poms skor 8 depth 1 end 48 child 5
+eval -18 word bolts skor 8 depth 1 end 56 child 9
+eval -28 word mops skor 8 depth 1 end 52 child 4
+
+
+
+******HUMAN RESULT******
+RACK : LBFHLN
+
+HUMAN MOVE : bob , score : 7 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+RACK : lqtrgf
+

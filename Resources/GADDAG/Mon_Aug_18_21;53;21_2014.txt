@@ -1,0 +1,22 @@
+player word durasi skor tiles
+
+
+Player 1	chital	0.63	30		6	
+Player 2 	jota	4.152	27		3	
+Player 1	far	0.947	23		2	
+Player 2 	ick	0.494	14		2	
+Player 1	pubic	1.065	12		4	
+Player 2 	brit	1.987	22		4	
+Player 1	yow	0.753	44		3	
+Player 2 	libri	2.955	18		4	
+Player 1	putz	0.762	30		2	
+Player 2 	oxid	1.421	25		4	
+Player 1	quey	15.748	42		4	blank tiles
+Player 2 	wud	1.134	40		3	
+Player 1	stum	41.629	25		4	blank tiles
+Player 2 	hm	1.648	18		2	
+Player 1	jag	5.233	18		2	
+Player 2 	folk	6.245	19		3	
+Player 1	flong	3.458	20		4	
+Player 2 	aver	9.259	17		4	
+Player 1	ohms	4.535	33		2	

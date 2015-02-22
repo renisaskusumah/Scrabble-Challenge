@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	bam	--	14		3
+Player 2	whim	1.214	30		4
+Player 1	wiz	--	14		2
+Player 2	tram	0.773	7		2

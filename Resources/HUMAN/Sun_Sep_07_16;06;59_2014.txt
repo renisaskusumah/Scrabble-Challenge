@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	xenia	0.373	40		5	GADDAG
+Player 1	lid	--	7		2	HUMAN 
+Player 2	eutaxy	2.356	32		5	GADDAG
+Player 1	yes	--	6		2	HUMAN 
+Player 2	howk	1.778	50		4	GADDAG
+Player 1	ham	--	8		2	HUMAN 
+Player 2	if	2.245	20		2	GADDAG

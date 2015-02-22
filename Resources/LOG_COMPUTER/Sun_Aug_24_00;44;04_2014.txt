@@ -1,0 +1,10 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : gone , score : 6 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+

@@ -1,0 +1,55 @@
+player word durasi skor tiles
+
+
+Player 1	xerus	2.255	38		5	blank tiles
+Player 2 	faqir	1.802	37		4	
+Player 1	primacy	2.741	32		6	
+Player 2 	jib	0.928	24		2	
+Player 1	boche	2.066	40		5	
+Player 2 	fugs	1.114	23		3	
+Player 1	kelpy	17.935	44		4	blank tiles
+Player 2 	vis	2.776	25		3	
+Player 1	coz	3.668	34		2	
+Player 2 	hm	2.265	22		1	
+Player 1	reglow	3.075	24		5	
+Player 2 	hug	2.046	20		2	
+Player 1	tongue	5.636	30		6	
+Player 2 	word	4.565	31		4	
+Player 1	it	3.174	15		2	
+Player 2 	isolead	7.436	87		7	
+Player 1	pit	1.088	9		2	
+Player 2 	van	4.897	22		3	
+Player 1	rod	2.725	14		2	
+Player 2 	auntie	5.203	27		6	
+Player 1	grow	1.266	8		1	
+Player 2 	nova	6.944	23		3	
+Player 1	cozen	3.633	16		2	
+Player 2 	ana	4.496	13		3	
+Player 1	rattled	6.761	72		7	
+Player 2 	ai	3.383	11		2	
+Player 1	es	0.313	9		5	
+Player 2 	he	0.931	7		3	
+Player 1	nee	0.165	54		7	
+Player 2 	vise	0.5	7		4	
+Player 1	-	0.087	0		7	
+Player 2 	eat	0.287	3		5	
+Player 1	-	0.086	0		7	
+Player 2 	in	0.156	2		6	
+Player 1	-	0.083	0		7	
+Player 2 	it	0.105	52		7	
+Player 1	-	0.085	0		7	
+Player 2 	-	0.083	0		7	
+Player 1	-	0.082	0		7	
+Player 2 	-	0.084	0		7	
+Player 1	-	0.083	0		7	
+Player 2 	-	0.087	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 57.007
+player 1 left tile : 0
+player 1 total skor : 439
+player 1 Final skor : 439
+player 2 durasi : 50.088
+player 2 left tile : 0
+player 2 total skor : 436
+player 2 Final skor : 436

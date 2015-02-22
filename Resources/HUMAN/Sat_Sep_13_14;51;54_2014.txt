@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	me	--	8		2	HUMAN 
+Player 2	zek	1.219	31		2	GADDAG

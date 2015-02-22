@@ -1,0 +1,30 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	maze	--	28		4	HUMAN 
+Player 2	bey	1.624	28		3	GADDAG
+Player 1	mazes	--	17		1	HUMAN 
+Player 2	wived	0.969	24		4	GADDAG
+Player 1	paw	--	8		2	HUMAN 
+Player 2	mind	0.716	23		3	GADDAG
+Player 1	bird	--	14		3	HUMAN 
+Player 2	barn	1.504	24		3	GADDAG
+Player 1	fuggy	--	36		5	HUMAN 
+Player 2	puns	3.615	31		4	GADDAG
+Player 1	kaf	--	29		3	HUMAN 
+Player 2	tuque	3.633	30		4	GADDAG
+Player 1	fowl	--	22		3	HUMAN 
+Player 2	joe	79.517	36		3	GADDAG
+Player 1	gun	--	12		3	HUMAN 
+Player 2	zit	3.842	17		2	GADDAG
+Player 1	loot	--	16		4	HUMAN 
+Player 2	rant	4.821	17		4	GADDAG
+Player 1	stop	--	18		1	HUMAN 
+Player 2	odorant	5.39	18		3	GADDAG
+Player 1	van	--	12		3	HUMAN 
+Player 2	dicta	6.613	29		5	GADDAG
+Player 1	rex	--	37		3	HUMAN 
+Player 2	shill	4.723	34		5	GADDAG
+Player 1	agria	--	14		4	HUMAN 
+Player 2	oca	5.854	33		3	GADDAG
+Player 1	orate	--	12		4	HUMAN 

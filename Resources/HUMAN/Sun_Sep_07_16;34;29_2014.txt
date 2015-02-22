@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	het	--	12		3	HUMAN 
+Player 2	kef	1.074	33		3	GADDAG

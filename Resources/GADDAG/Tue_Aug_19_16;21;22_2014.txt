@@ -1,0 +1,10 @@
+player word durasi skor tiles
+
+
+Player 1	privy	2.509	32		5	blank tiles
+Player 2 	jibbs	0.73	21		4	
+Player 1	oxy	9.071	26		3	blank tiles
+Player 2 	pocky	2.309	32		4	
+Player 1	due	5.073	34		3	
+Player 2 	we	7.605	28		2	
+Player 1	chid	2.85	27		4	

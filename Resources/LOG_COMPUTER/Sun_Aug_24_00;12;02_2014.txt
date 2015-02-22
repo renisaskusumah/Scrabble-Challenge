@@ -1,0 +1,194 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : can , score : 10 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : flecks , score : 36 , direction : 1 , anchor (7 , 10) , col : 10 , row : 2
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : friz , score : 30 , direction : 2 , col : 2 , row : 14
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : azo , score : 24 , direction : 1 , anchor (1 , 13) , col : 13 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : cut , score : 5 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : bah , score : 24 , direction : 1 , anchor (6 , 8) , col : 8 , row : 6
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wat , score : 14 , direction : 2 , col : 9 , row : 8
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : yager , score : 45 , direction : 1 , anchor (3 , 14) , col : 14 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : jeux , score : 18 , direction : 2 , col : 4 , row : 13
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : tranq , score : 38 , direction : 1 , anchor (7 , 11) , col : 11 , row : 7
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : dyed , score : 26 , direction : 2 , anchor (10 , 5) , col : 3 , row : 10
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  H V P
+New Tiles :  T L L
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : via , score : 26 , direction : 2 , anchor (11 , 3) , col : 1 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gamb , score : 15 , direction : 2 , anchor (9 , 10) , col : 10 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : moved , score : 34 , direction : 1 , anchor (10 , 1) , col : 1 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : sup , score : 25 , direction : 2 , anchor (12 , 11) , col : 11 , row : 12
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : haded , score : 29 , direction : 1 , anchor (8 , 6) , col : 6 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : tew , score : 16 , direction : 2 , anchor (11 , 5) , col : 5 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : xi , score : 9 , direction : 1 , anchor (5 , 12) , col : 12 , row : 4
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : pi , score : 20 , direction : 2 , anchor (13 , 12) , col : 12 , row : 13
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : lavs , score : 16 , direction : 2 , anchor (14 , 12) , col : 9 , row : 14
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : arts , score : 21 , direction : 1 , anchor (9 , 14) , col : 14 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : irone , score : 20 , direction : 2 , anchor (10 , 10) , col : 8 , row : 10
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ire , score : 13 , direction : 1 , anchor (12 , 2) , col : 2 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : unmoved , score : 13 , direction : 1 , anchor (8 , 1) , col : 1 , row : 7
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : dona , score : 11 , direction : 2 , anchor (12 , 7) , col : 6 , row : 12
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : oe , score : 10 , direction : 1 , anchor (8 , 2) , col : 2 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : in , score : 11 , direction : 2 , anchor (13 , 9) , col : 9 , row : 13
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : re , score : 9 , direction : 2 , anchor (8 , 12) , col : 11 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : et , score : 7 , direction : 2 , anchor (1 , 12) , col : 11 , row : 1
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : no , score : 6 , direction : 1 , anchor (8 , 3) , col : 3 , row : 7
+
+
+
+******COMPUTER TURN******
+

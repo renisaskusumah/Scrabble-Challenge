@@ -1,0 +1,19 @@
+player word durasi skor tiles
+
+
+Player 1	haler	0.21	24		5	
+Player 2 	hiked	1.983	26		4	
+Player 1	quoth	215.441	37		5	blank tiles
+Player 2 	culex	1.77	36		4	
+Player 1	gurry	2.869	19		5	
+Player 2 	cusp	1.547	22		4	
+Player 1	fud	1.291	19		2	
+Player 2 	swop	2.108	26		4	
+Player 1	jury	1.366	28		4	
+Player 2 	jowl	1.705	28		2	
+Player 1	ef	1.936	34		2	
+Player 2 	zill	1.894	26		3	
+Player 1	sim	2.925	27		3	
+Player 2 	bub	1.066	12		2	
+Player 1	dom	2.288	25		3	
+Player 2 	virls	3.105	57		5	

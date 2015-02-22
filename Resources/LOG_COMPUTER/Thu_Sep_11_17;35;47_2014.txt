@@ -1,0 +1,37 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : ZNGSIBS
+
+HUMAN MOVE : big , score : 12 , direction : 2 , col : 7 , row : 9
+
+
+******COMPUTER TURN******
+RACK : nngsibr
+
+word : snib anchor( col :  6 row : 6 ) score : 7 new tiles : sni	Heuristic : 0.5
+word : nibs anchor( col :  6 row : 6 ) score : 8 new tiles : nis	Heuristic : 1.5
+word : nib anchor( col :  6 row : 6 ) score : 6 new tiles : ni	Heuristic : 6
+word : gib anchor( col :  6 row : 6 ) score : 7 new tiles : gi	Heuristic : 6.5
+word : bib anchor( col :  6 row : 6 ) score : 8 new tiles : bi	Heuristic : 9
+word : nibs anchor( col :  8 row : 6 ) score : 8 new tiles : nis	Heuristic : 1.5
+word : gibs anchor( col :  8 row : 6 ) score : 9 new tiles : gis	Heuristic : 2
+word : bibs anchor( col :  8 row : 6 ) score : 10 new tiles : bis	Heuristic : 4.5
+word : bin anchor( col :  8 row : 6 ) score : 6 new tiles : in	Heuristic : 6
+word : big anchor( col :  8 row : 6 ) score : 7 new tiles : ig	Heuristic : 6.5
+word : bib anchor( col :  8 row : 6 ) score : 8 new tiles : ib	Heuristic : 9
+word : bring anchor( col :  8 row : 6 ) score : 9 new tiles : ring	Heuristic : 11.5
+word : gin anchor( col :  8 row : 6 ) score : 12 new tiles : gin	Heuristic : 15
+word : bin anchor( col :  8 row : 6 ) score : 13 new tiles : bin	Heuristic : 17.5
+word : brin anchor( col :  8 row : 6 ) score : 14 new tiles : brin	Heuristic : 18
+word : snib anchor( col :  6 row : 7 ) score : 6 new tiles : snb	Heuristic : 5.5
+word : brining anchor( col :  6 row : 7 ) score : 13 new tiles : brinng	Heuristic : 20.5
+word : in anchor( col :  8 row : 7 ) score : 2 new tiles : n	Heuristic : 3.5
+word : brining anchor( col :  8 row : 7 ) score : 13 new tiles : brinng	Heuristic : 20.5
+word : sin anchor( col :  6 row : 8 ) score : 6 new tiles : sin	Heuristic : -0.5
+word : ring anchor( col :  6 row : 8 ) score : 6 new tiles : rin	Heuristic : 5.5
+word : brin anchor( col :  6 row : 8 ) score : 9 new tiles : brin	Heuristic : 13
+word : sign anchor( col :  8 row : 8 ) score : 7 new tiles : sin	Heuristic : 0.5
+word : rings anchor( col :  8 row : 8 ) score : 8 new tiles : rins	Heuristic : 1
+word : brings anchor( col :  8 row : 8 ) score : 11 new tiles : brins	Heuristic : 8.5
+word : biggin anchor( col :  7 row : 9 ) score : 11 new tiles : gin	Heuristic : 14

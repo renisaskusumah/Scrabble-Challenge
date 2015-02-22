@@ -1,0 +1,19 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	quitch	2.269	58		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tye	42.594	10		2	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	ugly	49.002	16		5	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	oil	6.696	3		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 33 detik 
+player 1 left tile : 7
+player 1 total skor : 0
+player 2 durasi : 1 menit 39 detik 
+player 2 left tile : 0
+player 2 total skor : 87

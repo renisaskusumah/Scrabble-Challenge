@@ -1,0 +1,48 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : mtsxti*
+
+word : ism anchor( col :  7 row : 7 ) score : 10 new tiles : ism
+word : smit anchor( col :  7 row : 7 ) score : 12 new tiles : smit
+word : sixmo anchor( col :  7 row : 7 ) score : 26 new tiles : sixmo
+word : mixt anchor( col :  7 row : 7 ) score : 26 new tiles : mixt
+word : mixes anchor( col :  7 row : 7 ) score : 28 new tiles : mixes
+word : mastix anchor( col :  7 row : 7 ) score : 30 new tiles : mastix
+word : maxis anchor( col :  7 row : 7 ) score : 32 new tiles : maxis
+word : mastix anchor( col :  7 row : 7 ) score : 34 new tiles : mastix
+word : xysti anchor( col :  7 row : 7 ) score : 38 new tiles : xysti
+word : mastix anchor( col :  7 row : 7 ) score : 44 new tiles : mastix
+Hasil evaluasi : mastix , score : 44 , direction : 2 , col : 7 , row : 6
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : mm anchor( col :  6 row : 6 ) score : 9 new tiles : m
+word : mm anchor( col :  8 row : 6 ) score : 9 new tiles : m
+word : ma anchor( col :  6 row : 7 ) score : 3 new tiles : m
+word : maw anchor( col :  6 row : 7 ) score : 7 new tiles : mw
+word : maws anchor( col :  6 row : 7 ) score : 8 new tiles : mws
+word : swamp anchor( col :  6 row : 7 ) score : 11 new tiles : swmp
+word : am anchor( col :  8 row : 7 ) score : 3 new tiles : m
+word : swam anchor( col :  8 row : 7 ) score : 8 new tiles : swm
+word : swamp anchor( col :  8 row : 7 ) score : 11 new tiles : swmp
+word : psst anchor( col :  6 row : 8 ) score : 10 new tiles : pst
+word : psst anchor( col :  8 row : 8 ) score : 8 new tiles : pst
+word : psst anchor( col :  8 row : 8 ) score : 10 new tiles : pst
+word : mi anchor( col :  6 row : 10 ) score : 4 new tiles : m
+word : smit anchor( col :  6 row : 10 ) score : 6 new tiles : smt
+word : mig anchor( col :  6 row : 10 ) score : 6 new tiles : mg
+word : migs anchor( col :  6 row : 10 ) score : 7 new tiles : mgs
+word : migg anchor( col :  6 row : 10 ) score : 8 new tiles : mgg
+word : miggs anchor( col :  6 row : 10 ) score : 18 new tiles : mggs
+word : wimps anchor( col :  6 row : 10 ) score : 24 new tiles : wmps
+word : swim anchor( col :  8 row : 10 ) score : 9 new tiles : swm
+word : wimp anchor( col :  8 row : 10 ) score : 11 new tiles : wmp
+word : wimps anchor( col :  8 row : 10 ) score : 24 new tiles : wmps
+-------HUMAN CLICK HINT-------
+
+
+

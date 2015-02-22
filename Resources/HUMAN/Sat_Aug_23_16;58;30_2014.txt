@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	per	--	10		3
+Player 2	feh	2.954	30		3
+Player 1	pen	--	5		1
+Player 2	foyer	12.449	38		5
+Player 1		pass		--			0		0	
+Player 2	hyper	0.493	19		3
+Player 1	hmm	--	20		2
+Player 2	yeuk	31.043	31		3
+Player 1	tic	--	20		3
+Player 2	squid	3.435	46		5

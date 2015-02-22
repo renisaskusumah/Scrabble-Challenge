@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	so	--	4		2	HUMAN 
+Player 2	twenty	2.326	31		6	GADDAG

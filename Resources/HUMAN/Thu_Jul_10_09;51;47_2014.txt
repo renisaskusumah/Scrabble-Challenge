@@ -1,0 +1,9 @@
+player word durasi skor tiles
+
+
+Player 1	go	--	6		2
+Player 2	xi	0.517	34		2
+Player 1		pass		--			0		0	
+Player 2	rick	0.312	20		3
+Player 1		pass		--			0		0	
+Player 2	wap	8.425	31		3

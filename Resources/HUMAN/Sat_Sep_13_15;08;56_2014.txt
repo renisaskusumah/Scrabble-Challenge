@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 1		pass		--			0		0	
+Player 1	sin	--	6		3	HUMAN 
+Player 2	flip	0.711	9		3	GADDAG

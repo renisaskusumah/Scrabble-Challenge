@@ -1,0 +1,18 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	hey	--	18		3	HUMAN 
+Player 2	zed	0.858	35		3	GADDAG
+Player 1	dewy	--	15		2	HUMAN 
+Player 2	quey	1.145	36		3	GADDAG
+Player 1	puff	--	15		3	HUMAN 
+Player 2	whiz	0.872	19		3	GADDAG
+Player 1	puffs	--	14		1	HUMAN 
+Player 2	humbug	1.665	28		5	GADDAG
+Player 1	putzed	--	18		3	HUMAN 
+Player 2	maxi	4.807	36		4	GADDAG
+Player 1	gel	--	14		3	HUMAN 
+Player 2	obscener	8.131	63		7	GADDAG
+Player 1	van	--	6		2	HUMAN 
+Player 2	col	167.18	37		3	GADDAG
+Player 1	goops	--	18		4	HUMAN 

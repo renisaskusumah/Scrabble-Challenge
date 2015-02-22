@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	can	--	4		3
+Player 2	nutant	6.155	12		6

@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	month	0.117	28		5	
+Player 2 	zoom	1.881	30		4	
+Player 1	snaw	2.907	31		3	
+Player 2 	they	1.879	30		3	
+Player 1	bawl	2.424	31		4	
+Player 2 	mop	1.202	21		1	
+Player 1	ex	1.909	22		2	
+Player 2 	futz	0.85	18		3	
+Player 1	judged	1.667	32		5	
+Player 2 	gyve	0.62	15		3	
+Player 1	fad	3.242	29		3	
+Player 2 	quill	1.939	46		3	
+Player 1	phobia	83.141	44		6	blank tiles
+Player 2 	kvas	46.068	34		4	blank tiles
+Player 1	galax	9.441	26		3	
+Player 2 	futzed	5.733	19		2	
+Player 1	allonges	10.89	63		7	
+Player 2 	caca	4.031	20		2	
+Player 1	os	7.95	28		2	
+Player 2 	runt	4.001	8		4	
+Player 1	varna	8.057	19		3	
+Player 2 	nitre	7.305	15		5	
+Player 1	taos	7.432	20		4	
+Player 2 	terrene	15.686	61		7	
+Player 1	riot	2.953	13		2	
+Player 2 	ere	1.632	12		5	
+Player 1	un	0.796	6		3	
+Player 2 	ai	0.073	3		6	
+Player 1	egg	0.399	5		4	
+Player 2 	in	0.031	52		7	
+Player 1	it	0.157	2		5	
+Player 2 	-	0.021	0		7	
+Player 1	ai	0.072	2		6	
+Player 2 	-	0.011	0		7	
+Player 1	-	0.032	0		6	
+Player 2 	-	0.012	0		7	
+Player 1	-	0.027	0		6	
+Player 2 	-	0.011	0		7	
+Player 1	-	0.028	0		6	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 143.641
+player 1 left tile : 1
+player 1 total skor : 401
+player 1 Final skor : 400
+player 2 durasi : 92.986
+player 2 left tile : 0
+player 2 total skor : 384
+player 2 Final skor : 384

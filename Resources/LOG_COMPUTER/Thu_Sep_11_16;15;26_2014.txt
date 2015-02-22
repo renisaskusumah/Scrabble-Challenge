@@ -1,0 +1,1812 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : SIEZ*NR
+
+HUMAN MOVE : size , score : 26 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+RACK : kipggqt
+
+word : kip anchor( col :  7 row : 6 ) score : 26 new tiles : kip	Heuristic : 7
+word : kip anchor( col :  8 row : 6 ) score : 26 new tiles : kip	Heuristic : 7
+word : pi anchor( col :  10 row : 6 ) score : 8 new tiles : pi	Heuristic : -14.5
+word : pig anchor( col :  10 row : 6 ) score : 12 new tiles : pig	Heuristic : -7
+word : pike anchor( col :  10 row : 6 ) score : 20 new tiles : pik	Heuristic : 1
+word : kit anchor( col :  7 row : 8 ) score : 18 new tiles : kit	Heuristic : -2.5
+word : it anchor( col :  8 row : 8 ) score : 8 new tiles : it	Heuristic : -16
+word : kit anchor( col :  8 row : 8 ) score : 18 new tiles : kit	Heuristic : -2.5
+word : kip anchor( col :  8 row : 8 ) score : 17 new tiles : kp	Heuristic : -0.5
+word : zip anchor( col :  9 row : 8 ) score : 20 new tiles : ip	Heuristic : -2.5
+word : ti anchor( col :  10 row : 8 ) score : 4 new tiles : ti	Heuristic : -20
+word : tip anchor( col :  10 row : 8 ) score : 10 new tiles : tip	Heuristic : -11.5
+word : kep anchor( col :  10 row : 8 ) score : 9 new tiles : kp	Heuristic : -8.5
+word : kept anchor( col :  10 row : 8 ) score : 10 new tiles : kpt	Heuristic : -6.5
+Hasil evaluasi : kip , score : 26 , direction :1 ,i: 6 j: 6 Heuristic: 7
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : JOG**NR
+
+HUMAN MOVE : zoom , score : 11 , direction : 2 , col : 9 , row : 11
+
+
+******COMPUTER TURN******
+RACK : ggqtbex
+
+word : egis anchor( col :  7 row : 5 ) score : 5 new tiles : eg	Heuristic : -19.5
+word : gist anchor( col :  7 row : 5 ) score : 5 new tiles : gt	Heuristic : -12.5
+word : bis anchor( col :  7 row : 5 ) score : 5 new tiles : b	Heuristic : -12.5
+word : xis anchor( col :  7 row : 5 ) score : 10 new tiles : x	Heuristic : -7.5
+word : be anchor( col :  10 row : 6 ) score : 8 new tiles : be	Heuristic : -15.5
+word : beg anchor( col :  10 row : 6 ) score : 12 new tiles : beg	Heuristic : -8
+word : gist anchor( col :  7 row : 8 ) score : 5 new tiles : gt	Heuristic : -12.5
+word : exist anchor( col :  7 row : 8 ) score : 12 new tiles : ext	Heuristic : -10.5
+word : go anchor( col :  8 row : 8 ) score : 13 new tiles : g	Heuristic : -5.5
+word : got anchor( col :  8 row : 8 ) score : 16 new tiles : gt	Heuristic : -1.5
+word : gox anchor( col :  8 row : 8 ) score : 30 new tiles : gx	Heuristic : 16
+word : got anchor( col :  10 row : 8 ) score : 16 new tiles : gt	Heuristic : -1.5
+word : ox anchor( col :  10 row : 8 ) score : 18 new tiles : x	Heuristic : 0.5
+word : gox anchor( col :  10 row : 8 ) score : 30 new tiles : gx	Heuristic : 16
+word : go anchor( col :  8 row : 9 ) score : 3 new tiles : g	Heuristic : -15.5
+word : begot anchor( col :  8 row : 9 ) score : 8 new tiles : begt	Heuristic : -11
+word : gogo anchor( col :  8 row : 9 ) score : 5 new tiles : ggo	Heuristic : -10.5
+word : gob anchor( col :  8 row : 9 ) score : 6 new tiles : gb	Heuristic : -8
+word : gox anchor( col :  8 row : 9 ) score : 11 new tiles : gx	Heuristic : -3
+word : box anchor( col :  8 row : 9 ) score : 12 new tiles : bx	Heuristic : -1
+word : tog anchor( col :  10 row : 9 ) score : 4 new tiles : tg	Heuristic : -13.5
+word : bog anchor( col :  10 row : 9 ) score : 6 new tiles : bg	Heuristic : -8
+word : gox anchor( col :  10 row : 9 ) score : 11 new tiles : gx	Heuristic : -3
+word : box anchor( col :  10 row : 9 ) score : 12 new tiles : bx	Heuristic : -1
+word : em anchor( col :  8 row : 10 ) score : 4 new tiles : e	Heuristic : -24
+word : gem anchor( col :  8 row : 10 ) score : 6 new tiles : ge	Heuristic : -18.5
+word : get anchor( col :  8 row : 10 ) score : 11 new tiles : get	Heuristic : -12.5
+word : be anchor( col :  8 row : 10 ) score : 12 new tiles : be	Heuristic : -11.5
+word : beg anchor( col :  8 row : 10 ) score : 14 new tiles : beg	Heuristic : -6
+word : me anchor( col :  10 row : 10 ) score : 8 new tiles : e	Heuristic : -20
+word : met anchor( col :  10 row : 10 ) score : 10 new tiles : et	Heuristic : -17
+word : egg anchor( col :  10 row : 10 ) score : 18 new tiles : egg	Heuristic : -3.5
+word : ex anchor( col :  10 row : 10 ) score : 26 new tiles : ex	Heuristic : 2.5
+Hasil evaluasi : gox , score : 30 , direction :1 ,i: 8 j: 8 Heuristic: 16
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : JSGHTNR
+
+HUMAN MOVE : this , score : 7 , direction : 2 , col : 7 , row : 8
+
+
+******COMPUTER TURN******
+RACK : gqtbeop
+
+word : petto anchor( col :  6 row : 4 ) score : 14 new tiles : peto	Heuristic : -5
+word : bott anchor( col :  6 row : 4 ) score : 12 new tiles : bot	Heuristic : 1
+word : petto anchor( col :  8 row : 4 ) score : 7 new tiles : peto	Heuristic : -12
+word : bott anchor( col :  8 row : 4 ) score : 6 new tiles : bot	Heuristic : -5
+word : expo anchor( col :  10 row : 9 ) score : 38 new tiles : po	Heuristic : 24
+word : gem anchor( col :  8 row : 10 ) score : 6 new tiles : ge	Heuristic : -13
+word : gemot anchor( col :  8 row : 10 ) score : 16 new tiles : geot	Heuristic : -2.5
+word : temp anchor( col :  8 row : 10 ) score : 16 new tiles : tep	Heuristic : -2.5
+word : tempo anchor( col :  8 row : 10 ) score : 18 new tiles : tepo	Heuristic : -1
+word : tomb anchor( col :  8 row : 10 ) score : 16 new tiles : tob	Heuristic : 5
+word : tomb anchor( col :  10 row : 10 ) score : 16 new tiles : tob	Heuristic : 5
+word : expo anchor( col :  10 row : 10 ) score : 38 new tiles : po	Heuristic : 24
+Hasil evaluasi : expo , score : 38 , direction :2 ,i: 7 j: 10 Heuristic: 24
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : JSGABNR
+
+HUMAN MOVE : morn , score : 6 , direction : 1 , col : 13 , row : 10
+
+
+******COMPUTER TURN******
+RACK : gqtbewt
+
+word : get anchor( col :  6 row : 4 ) score : 4 new tiles : ge	Heuristic : -21.5
+word : bet anchor( col :  6 row : 4 ) score : 5 new tiles : be	Heuristic : -19
+word : wet anchor( col :  6 row : 4 ) score : 6 new tiles : we	Heuristic : -17.5
+word : we anchor( col :  6 row : 4 ) score : 7 new tiles : we	Heuristic : -16.5
+word : teg anchor( col :  8 row : 4 ) score : 4 new tiles : eg	Heuristic : -21.5
+word : tew anchor( col :  8 row : 4 ) score : 6 new tiles : ew	Heuristic : -17.5
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : -21.5
+word : tret anchor( col :  11 row : 9 ) score : 13 new tiles : tet	Heuristic : -11
+word : et anchor( col :  12 row : 9 ) score : 6 new tiles : et	Heuristic : -19
+word : gent anchor( col :  12 row : 9 ) score : 7 new tiles : get	Heuristic : -15
+word : bent anchor( col :  12 row : 9 ) score : 9 new tiles : bet	Heuristic : -11.5
+word : went anchor( col :  12 row : 9 ) score : 11 new tiles : wet	Heuristic : -9
+word : erg anchor( col :  11 row : 11 ) score : 13 new tiles : eg	Heuristic : -12.5
+word : tret anchor( col :  11 row : 11 ) score : 13 new tiles : tet	Heuristic : -11
+word : et anchor( col :  12 row : 11 ) score : 4 new tiles : et	Heuristic : -21
+word : gent anchor( col :  12 row : 11 ) score : 7 new tiles : get	Heuristic : -15
+word : bent anchor( col :  12 row : 11 ) score : 9 new tiles : bet	Heuristic : -11.5
+word : went anchor( col :  12 row : 11 ) score : 11 new tiles : wet	Heuristic : -9
+word : newt anchor( col :  12 row : 11 ) score : 14 new tiles : ewt	Heuristic : -6
+Hasil evaluasi : newt , score : 14 , direction :2 ,i: 10 j: 12 Heuristic: -6
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : JSGABVY
+
+HUMAN MOVE : tabs , score : 12 , direction : 1 , col : 11 , row : 4
+
+
+******COMPUTER TURN******
+RACK : gqbtwyo
+
+word : toga anchor( col :  8 row : 3 ) score : 6 new tiles : tog	Heuristic : -18
+word : yoga anchor( col :  8 row : 3 ) score : 9 new tiles : yog	Heuristic : -13
+word : go anchor( col :  9 row : 3 ) score : 6 new tiles : go	Heuristic : -19
+word : goby anchor( col :  9 row : 3 ) score : 18 new tiles : goy	Heuristic : -4
+word : ow anchor( col :  10 row : 3 ) score : 12 new tiles : ow	Heuristic : -11
+word : bow anchor( col :  10 row : 3 ) score : 9 new tiles : bow	Heuristic : -9.5
+word : yob anchor( col :  9 row : 5 ) score : 33 new tiles : yob	Heuristic : 12.5
+word : yow anchor( col :  9 row : 5 ) score : 34 new tiles : yow	Heuristic : 14
+word : yob anchor( col :  10 row : 5 ) score : 33 new tiles : yob	Heuristic : 12.5
+word : yow anchor( col :  10 row : 5 ) score : 34 new tiles : yow	Heuristic : 14
+word : try anchor( col :  11 row : 11 ) score : 27 new tiles : ty	Heuristic : 3.5
+word : et anchor( col :  13 row : 11 ) score : 2 new tiles : t	Heuristic : -24.5
+word : two anchor( col :  11 row : 12 ) score : 6 new tiles : to	Heuristic : -21
+word : bo anchor( col :  11 row : 12 ) score : 8 new tiles : bo	Heuristic : -15.5
+word : towy anchor( col :  11 row : 12 ) score : 10 new tiles : toy	Heuristic : -14
+word : wow anchor( col :  11 row : 12 ) score : 9 new tiles : wo	Heuristic : -14
+word : towy anchor( col :  13 row : 12 ) score : 10 new tiles : toy	Heuristic : -14
+word : bot anchor( col :  11 row : 13 ) score : 12 new tiles : bot	Heuristic : -10.5
+word : bott anchor( col :  13 row : 13 ) score : 12 new tiles : bot	Heuristic : -10.5
+Hasil evaluasi : yow , score : 34 , direction :1 ,i: 5 j: 9 Heuristic: 14
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : jug anchor( col :  8 row : 3 ) score : 13 new tiles : jug
+word : try anchor( col :  11 row : 11 ) score : 27 new tiles : ty
+word : et anchor( col :  13 row : 11 ) score : 2 new tiles : t
+word : jut anchor( col :  11 row : 13 ) score : 10 new tiles : ju
+word : jutty anchor( col :  11 row : 13 ) score : 62 new tiles : juty
+word : jutty anchor( col :  13 row : 13 ) score : 62 new tiles : juty
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : JUGTVVY
+
+HUMAN MOVE : jutty , score : 62 , direction : 1 , col : 14 , row : 13
+
+
+******COMPUTER TURN******
+RACK : gqbtrin
+
+word : ba anchor( col :  8 row : 3 ) score : 4 new tiles : b	Heuristic : -10
+word : ribby anchor( col :  9 row : 3 ) score : 14 new tiles : rib	Heuristic : -2
+word : sizer anchor( col :  11 row : 7 ) score : 15 new tiles : r	Heuristic : -4
+word : et anchor( col :  13 row : 11 ) score : 2 new tiles : t	Heuristic : -15.5
+word : ti anchor( col :  10 row : 14 ) score : 8 new tiles : ti	Heuristic : -11
+word : bug anchor( col :  10 row : 14 ) score : 6 new tiles : bg	Heuristic : -5
+word : ti anchor( col :  11 row : 14 ) score : 8 new tiles : ti	Heuristic : -11
+Hasil evaluasi : ribby , score : 14 , direction :2 ,i: 1 j: 9 Heuristic: -2
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : OLGFVVN
+
+HUMAN MOVE : frog , score : 10 , direction : 1 , col : 12 , row : 1
+
+
+******COMPUTER TURN******
+RACK : gqtncci
+
+word : in anchor( col :  10 row : 2 ) score : 4 new tiles : n	Heuristic : -16
+word : gig anchor( col :  11 row : 2 ) score : 10 new tiles : ig	Heuristic : -9
+word : et anchor( col :  13 row : 11 ) score : 2 new tiles : t	Heuristic : -17.5
+word : ti anchor( col :  10 row : 14 ) score : 8 new tiles : ti	Heuristic : -13
+word : tug anchor( col :  10 row : 14 ) score : 4 new tiles : tg	Heuristic : -12.5
+word : cut anchor( col :  10 row : 14 ) score : 5 new tiles : ct	Heuristic : -10
+word : ti anchor( col :  11 row : 14 ) score : 8 new tiles : ti	Heuristic : -13
+Hasil evaluasi : gig , score : 10 , direction :2 ,i: 1 j: 11 Heuristic: -9
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  L D V V
+New Tiles :  R A A L
+
+
+******COMPUTER TURN******
+RACK : qtnccld
+
+word : it anchor( col :  12 row : 2 ) score : 4 new tiles : t	Heuristic : -17
+word : yowl anchor( col :  12 row : 5 ) score : 10 new tiles : l	Heuristic : -10
+word : sized anchor( col :  11 row : 7 ) score : 17 new tiles : d	Heuristic : -4
+word : et anchor( col :  13 row : 11 ) score : 2 new tiles : t	Heuristic : -19
+word : el anchor( col :  13 row : 11 ) score : 2 new tiles : l	Heuristic : -18
+word : nu anchor( col :  10 row : 12 ) score : 2 new tiles : n	Heuristic : -19.5
+word : ut anchor( col :  10 row : 14 ) score : 2 new tiles : t	Heuristic : -19
+word : nut anchor( col :  10 row : 14 ) score : 3 new tiles : nt	Heuristic : -17.5
+word : cut anchor( col :  10 row : 14 ) score : 5 new tiles : ct	Heuristic : -11.5
+word : cud anchor( col :  10 row : 14 ) score : 6 new tiles : cd	Heuristic : -10.5
+Hasil evaluasi : sized , score : 17 , direction :1 ,i: 7 j: 7 Heuristic: -4
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : lanai anchor( col :  8 row : 2 ) score : 13 new tiles : lana
+word : it anchor( col :  12 row : 2 ) score : 4 new tiles : t
+word : inia anchor( col :  12 row : 2 ) score : 10 new tiles : na
+word : lathis anchor( col :  7 row : 3 ) score : 10 new tiles : la
+word : gam anchor( col :  12 row : 3 ) score : 6 new tiles : am
+word : yowl anchor( col :  12 row : 5 ) score : 10 new tiles : l
+word : al anchor( col :  12 row : 5 ) score : 12 new tiles : al
+word : alt anchor( col :  12 row : 5 ) score : 14 new tiles : alt
+word : am anchor( col :  11 row : 6 ) score : 14 new tiles : am
+word : ama anchor( col :  11 row : 6 ) score : 15 new tiles : ama
+word : em anchor( col :  13 row : 11 ) score : 4 new tiles : m
+word : maw anchor( col :  10 row : 12 ) score : 14 new tiles : ma
+word : maw anchor( col :  11 row : 12 ) score : 14 new tiles : ma
+word : awa anchor( col :  13 row : 12 ) score : 13 new tiles : aa
+word : ma anchor( col :  10 row : 14 ) score : 12 new tiles : ma
+word : ma anchor( col :  11 row : 14 ) score : 12 new tiles : ma
+word : ya anchor( col :  13 row : 14 ) score : 5 new tiles : a
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : MRTAALN
+
+HUMAN MOVE : lathis , score : 10 , direction : 2 , col : 7 , row : 8
+
+
+******COMPUTER TURN******
+RACK : qtncclt
+
+word : it anchor( col :  12 row : 2 ) score : 4 new tiles : t	Heuristic : -17
+word : ta anchor( col :  6 row : 3 ) score : 2 new tiles : t	Heuristic : -19
+word : al anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : -15.5
+word : yowl anchor( col :  12 row : 5 ) score : 10 new tiles : l	Heuristic : -12.5
+word : et anchor( col :  13 row : 11 ) score : 2 new tiles : t	Heuristic : -19
+word : nu anchor( col :  10 row : 12 ) score : 2 new tiles : n	Heuristic : -22
+word : ut anchor( col :  10 row : 14 ) score : 2 new tiles : t	Heuristic : -19
+word : nut anchor( col :  10 row : 14 ) score : 3 new tiles : nt	Heuristic : -17.5
+word : cut anchor( col :  10 row : 14 ) score : 5 new tiles : ct	Heuristic : -11.5
+Hasil evaluasi : cut , score : 5 , direction :2 ,i: 12 j: 10 Heuristic: -11.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : MRTASUN
+
+HUMAN MOVE : gran , score : 6 , direction : 1 , col : 15 , row : 3
+
+
+******COMPUTER TURN******
+RACK : qncltvn
+
+word : qat anchor( col :  13 row : 2 ) score : 12 new tiles : qt	Heuristic : -1
+word : na anchor( col :  6 row : 3 ) score : 2 new tiles : n	Heuristic : -21
+word : al anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : -17.5
+word : an anchor( col :  13 row : 4 ) score : 2 new tiles : n	Heuristic : -21
+word : can anchor( col :  13 row : 4 ) score : 5 new tiles : cn	Heuristic : -16.5
+word : cant anchor( col :  13 row : 4 ) score : 8 new tiles : cnt	Heuristic : -12.5
+word : clan anchor( col :  13 row : 4 ) score : 12 new tiles : cln	Heuristic : -7.5
+word : qat anchor( col :  13 row : 4 ) score : 12 new tiles : qt	Heuristic : -1
+word : yowl anchor( col :  12 row : 5 ) score : 10 new tiles : l	Heuristic : -14.5
+word : en anchor( col :  13 row : 11 ) score : 2 new tiles : n	Heuristic : -21
+Hasil evaluasi : qat , score : 12 , direction :2 ,i: 2 j: 13 Heuristic: -1
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : MITDSUV
+
+HUMAN MOVE : mil , score : 6 , direction : 1 , col : 8 , row : 2
+
+
+******COMPUTER TURN******
+RACK : nclvnof
+
+word : no anchor( col :  5 row : 1 ) score : 10 new tiles : no	Heuristic : -2.5
+word : col anchor( col :  5 row : 1 ) score : 15 new tiles : col	Heuristic : 2.5
+word : col anchor( col :  6 row : 1 ) score : 15 new tiles : col	Heuristic : 2.5
+word : no anchor( col :  5 row : 3 ) score : 6 new tiles : no	Heuristic : -6.5
+word : nona anchor( col :  5 row : 3 ) score : 10 new tiles : non	Heuristic : -2
+word : nona anchor( col :  6 row : 3 ) score : 10 new tiles : non	Heuristic : -2
+word : vin anchor( col :  6 row : 3 ) score : 8 new tiles : vn	Heuristic : 2.5
+word : alb anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : -6.5
+word : la anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : -6.5
+word : to anchor( col :  14 row : 4 ) score : 4 new tiles : o	Heuristic : -12
+word : yowl anchor( col :  12 row : 5 ) score : 10 new tiles : l	Heuristic : -3.5
+word : lo anchor( col :  12 row : 5 ) score : 13 new tiles : lo	Heuristic : -1
+word : en anchor( col :  13 row : 11 ) score : 2 new tiles : n	Heuristic : -10
+word : foy anchor( col :  13 row : 11 ) score : 19 new tiles : fo	Heuristic : 6
+word : wo anchor( col :  13 row : 12 ) score : 10 new tiles : o	Heuristic : -6
+word : foy anchor( col :  13 row : 12 ) score : 19 new tiles : fo	Heuristic : 6
+word : no anchor( col :  9 row : 14 ) score : 12 new tiles : no	Heuristic : -0.5
+word : clot anchor( col :  9 row : 14 ) score : 27 new tiles : clo	Heuristic : 14.5
+word : to anchor( col :  11 row : 14 ) score : 6 new tiles : o	Heuristic : -10
+Hasil evaluasi : clot , score : 27 , direction :1 ,i: 14 j: 7 Heuristic: 14.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : RATDSUV
+
+HUMAN MOVE : mud , score : 6 , direction : 2 , col : 5 , row : 5
+
+
+******COMPUTER TURN******
+RACK : nvnfehe
+
+word : hi anchor( col :  6 row : 1 ) score : 5 new tiles : h	Heuristic : -2
+word : feu anchor( col :  4 row : 3 ) score : 12 new tiles : fe	Heuristic : 8
+word : end anchor( col :  4 row : 4 ) score : 8 new tiles : en	Heuristic : 4.5
+word : fen anchor( col :  4 row : 4 ) score : 16 new tiles : fen	Heuristic : 15.5
+word : vend anchor( col :  4 row : 4 ) score : 16 new tiles : ven	Heuristic : 19
+word : et anchor( col :  12 row : 4 ) score : 4 new tiles : e	Heuristic : -3
+word : ree anchor( col :  12 row : 4 ) score : 15 new tiles : ee	Heuristic : 2
+word : reef anchor( col :  12 row : 4 ) score : 23 new tiles : eef	Heuristic : 13
+word : yowe anchor( col :  12 row : 5 ) score : 10 new tiles : e	Heuristic : 3
+word : reef anchor( col :  12 row : 5 ) score : 23 new tiles : eef	Heuristic : 13
+word : ef anchor( col :  12 row : 5 ) score : 19 new tiles : ef	Heuristic : 15
+word : en anchor( col :  11 row : 6 ) score : 10 new tiles : en	Heuristic : 6.5
+word : eve anchor( col :  11 row : 6 ) score : 17 new tiles : eve	Heuristic : 10.5
+word : ef anchor( col :  11 row : 6 ) score : 16 new tiles : ef	Heuristic : 12
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 0
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 0
+word : ern anchor( col :  11 row : 9 ) score : 15 new tiles : en	Heuristic : 11.5
+word : ern anchor( col :  11 row : 11 ) score : 15 new tiles : en	Heuristic : 11.5
+word : en anchor( col :  13 row : 11 ) score : 2 new tiles : n	Heuristic : -2
+word : fey anchor( col :  13 row : 11 ) score : 19 new tiles : fe	Heuristic : 15
+word : fey anchor( col :  13 row : 12 ) score : 19 new tiles : fe	Heuristic : 15
+word : ye anchor( col :  13 row : 14 ) score : 5 new tiles : e	Heuristic : -2
+Hasil evaluasi : vend , score : 16 , direction :1 ,i: 4 j: 2 Heuristic: 19
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : RATRSSV
+
+HUMAN MOVE : tears , score : 12 , direction : 2 , col : 3 , row : 8
+
+
+******COMPUTER TURN******
+RACK : nfheaeo
+
+word : hi anchor( col :  6 row : 1 ) score : 5 new tiles : h	Heuristic : 4.5
+word : tau anchor( col :  4 row : 3 ) score : 5 new tiles : a	Heuristic : 7
+word : an anchor( col :  4 row : 3 ) score : 5 new tiles : a	Heuristic : 7
+word : ane anchor( col :  4 row : 3 ) score : 8 new tiles : ae	Heuristic : 11.5
+word : et anchor( col :  12 row : 4 ) score : 4 new tiles : e	Heuristic : 9.5
+word : ree anchor( col :  12 row : 4 ) score : 15 new tiles : ee	Heuristic : 15.5
+word : reef anchor( col :  12 row : 4 ) score : 23 new tiles : eef	Heuristic : 25.5
+word : ta anchor( col :  14 row : 4 ) score : 4 new tiles : a	Heuristic : 6
+word : eta anchor( col :  14 row : 4 ) score : 7 new tiles : ea	Heuristic : 10.5
+word : none anchor( col :  14 row : 4 ) score : 6 new tiles : one	Heuristic : 11.5
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e	Heuristic : 9.5
+word : ane anchor( col :  4 row : 5 ) score : 8 new tiles : ae	Heuristic : 11.5
+word : yowe anchor( col :  12 row : 5 ) score : 10 new tiles : e	Heuristic : 15.5
+word : ree anchor( col :  12 row : 5 ) score : 15 new tiles : ee	Heuristic : 15.5
+word : reef anchor( col :  12 row : 5 ) score : 23 new tiles : eef	Heuristic : 25.5
+word : fro anchor( col :  2 row : 6 ) score : 10 new tiles : fo	Heuristic : 14.5
+word : eon anchor( col :  2 row : 6 ) score : 10 new tiles : eon	Heuristic : 15.5
+word : oaf anchor( col :  2 row : 6 ) score : 16 new tiles : oaf	Heuristic : 20.5
+word : ern anchor( col :  4 row : 6 ) score : 4 new tiles : en	Heuristic : 7
+word : fern anchor( col :  4 row : 6 ) score : 8 new tiles : fen	Heuristic : 11
+word : fare anchor( col :  4 row : 6 ) score : 8 new tiles : fae	Heuristic : 13.5
+word : fore anchor( col :  4 row : 6 ) score : 8 new tiles : foe	Heuristic : 16
+word : en anchor( col :  11 row : 6 ) score : 10 new tiles : en	Heuristic : 13
+word : ef anchor( col :  11 row : 6 ) score : 16 new tiles : ef	Heuristic : 21.5
+word : en anchor( col :  2 row : 7 ) score : 3 new tiles : en	Heuristic : 6
+word : efs anchor( col :  2 row : 7 ) score : 6 new tiles : ef	Heuristic : 11.5
+word : hose anchor( col :  2 row : 7 ) score : 7 new tiles : hoe	Heuristic : 12.5
+word : aeon anchor( col :  2 row : 7 ) score : 11 new tiles : aeon	Heuristic : 14.5
+word : ef anchor( col :  2 row : 7 ) score : 11 new tiles : ef	Heuristic : 16.5
+word : oaf anchor( col :  2 row : 7 ) score : 16 new tiles : oaf	Heuristic : 20.5
+word : sh anchor( col :  4 row : 7 ) score : 5 new tiles : h	Heuristic : 4.5
+word : ash anchor( col :  4 row : 7 ) score : 6 new tiles : ah	Heuristic : 5.5
+word : fash anchor( col :  4 row : 7 ) score : 10 new tiles : fah	Heuristic : 9.5
+word : hose anchor( col :  4 row : 7 ) score : 7 new tiles : hoe	Heuristic : 12.5
+word : eh anchor( col :  4 row : 7 ) score : 12 new tiles : eh	Heuristic : 15
+word : haen anchor( col :  4 row : 7 ) score : 19 new tiles : haen	Heuristic : 19.5
+word : hone anchor( col :  4 row : 7 ) score : 19 new tiles : hone	Heuristic : 22
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 12.5
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 12.5
+word : ern anchor( col :  11 row : 9 ) score : 15 new tiles : en	Heuristic : 18
+word : era anchor( col :  11 row : 9 ) score : 15 new tiles : ea	Heuristic : 18.5
+word : ern anchor( col :  11 row : 11 ) score : 15 new tiles : en	Heuristic : 18
+word : era anchor( col :  11 row : 11 ) score : 15 new tiles : ea	Heuristic : 18.5
+word : en anchor( col :  13 row : 11 ) score : 2 new tiles : n	Heuristic : 1.5
+word : ef anchor( col :  13 row : 11 ) score : 5 new tiles : f	Heuristic : 7
+word : fey anchor( col :  13 row : 11 ) score : 19 new tiles : fe	Heuristic : 24.5
+word : caw anchor( col :  11 row : 12 ) score : 10 new tiles : a	Heuristic : 12
+word : at anchor( col :  11 row : 12 ) score : 10 new tiles : a	Heuristic : 12
+word : wo anchor( col :  13 row : 12 ) score : 10 new tiles : o	Heuristic : 14.5
+word : fey anchor( col :  13 row : 12 ) score : 19 new tiles : fe	Heuristic : 24.5
+word : ye anchor( col :  13 row : 14 ) score : 5 new tiles : e	Heuristic : 10.5
+word : eye anchor( col :  13 row : 14 ) score : 11 new tiles : ee	Heuristic : 11.5
+word : hoya anchor( col :  13 row : 14 ) score : 20 new tiles : hoa	Heuristic : 22
+Hasil evaluasi : reef , score : 23 , direction :2 ,i: 3 j: 12 Heuristic: 25.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : UIMRISV
+
+HUMAN MOVE : vims , score : 27 , direction : 1 , col : 4 , row : 7
+
+
+******COMPUTER TURN******
+RACK : nhaolie
+
+word : lav anchor( col :  2 row : 3 ) score : 14 new tiles : la	Heuristic : 18
+word : leva anchor( col :  2 row : 3 ) score : 18 new tiles : lea	Heuristic : 19
+word : ta anchor( col :  4 row : 3 ) score : 5 new tiles : a	Heuristic : 10
+word : alb anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : 11
+word : la anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : 11
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a	Heuristic : 10
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a	Heuristic : 10
+word : nah anchor( col :  14 row : 4 ) score : 9 new tiles : ah	Heuristic : 11.5
+word : nail anchor( col :  14 row : 4 ) score : 7 new tiles : ail	Heuristic : 12.5
+word : leva anchor( col :  2 row : 5 ) score : 18 new tiles : lea	Heuristic : 19
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a	Heuristic : 9
+word : ani anchor( col :  4 row : 5 ) score : 8 new tiles : ai	Heuristic : 12.5
+word : harl anchor( col :  1 row : 6 ) score : 18 new tiles : hal	Heuristic : 19.5
+word : horn anchor( col :  1 row : 6 ) score : 18 new tiles : hon	Heuristic : 20.5
+word : hora anchor( col :  1 row : 6 ) score : 18 new tiles : hoa	Heuristic : 23
+word : harl anchor( col :  2 row : 6 ) score : 18 new tiles : hal	Heuristic : 19.5
+word : horn anchor( col :  2 row : 6 ) score : 18 new tiles : hon	Heuristic : 20.5
+word : hora anchor( col :  2 row : 6 ) score : 18 new tiles : hoa	Heuristic : 23
+word : horn anchor( col :  4 row : 6 ) score : 18 new tiles : hon	Heuristic : 20.5
+word : hora anchor( col :  4 row : 6 ) score : 18 new tiles : hoa	Heuristic : 23
+word : aff anchor( col :  11 row : 6 ) score : 12 new tiles : af	Heuristic : 17
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a	Heuristic : 10
+word : ani anchor( col :  13 row : 6 ) score : 8 new tiles : ani	Heuristic : 12
+word : anil anchor( col :  13 row : 6 ) score : 11 new tiles : anil	Heuristic : 14
+word : na anchor( col :  1 row : 8 ) score : 10 new tiles : na	Heuristic : 12.5
+word : no anchor( col :  1 row : 8 ) score : 10 new tiles : no	Heuristic : 15
+word : hail anchor( col :  1 row : 8 ) score : 15 new tiles : hal	Heuristic : 16.5
+word : na anchor( col :  2 row : 8 ) score : 10 new tiles : na	Heuristic : 12.5
+word : no anchor( col :  2 row : 8 ) score : 10 new tiles : no	Heuristic : 15
+word : mho anchor( col :  2 row : 8 ) score : 12 new tiles : ho	Heuristic : 17
+word : manhole anchor( col :  2 row : 8 ) score : 26 new tiles : anhole	Heuristic : 24.5
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 9
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 9
+word : ern anchor( col :  11 row : 9 ) score : 15 new tiles : en	Heuristic : 14.5
+word : era anchor( col :  11 row : 9 ) score : 15 new tiles : ea	Heuristic : 15
+word : eel anchor( col :  11 row : 11 ) score : 10 new tiles : el	Heuristic : 11
+word : ern anchor( col :  11 row : 11 ) score : 15 new tiles : en	Heuristic : 14.5
+word : era anchor( col :  11 row : 11 ) score : 15 new tiles : ea	Heuristic : 15
+word : en anchor( col :  13 row : 11 ) score : 2 new tiles : n	Heuristic : 4.5
+word : eh anchor( col :  13 row : 11 ) score : 5 new tiles : h	Heuristic : 7.5
+word : eel anchor( col :  13 row : 11 ) score : 10 new tiles : el	Heuristic : 11
+word : hoy anchor( col :  13 row : 11 ) score : 19 new tiles : ho	Heuristic : 24
+word : caw anchor( col :  11 row : 12 ) score : 10 new tiles : a	Heuristic : 15
+word : at anchor( col :  11 row : 12 ) score : 10 new tiles : a	Heuristic : 15
+word : wo anchor( col :  13 row : 12 ) score : 10 new tiles : o	Heuristic : 17.5
+word : ho anchor( col :  13 row : 12 ) score : 19 new tiles : ho	Heuristic : 24
+word : lac anchor( col :  7 row : 13 ) score : 5 new tiles : la	Heuristic : 9
+word : hic anchor( col :  7 row : 13 ) score : 8 new tiles : hi	Heuristic : 12
+word : ya anchor( col :  13 row : 14 ) score : 5 new tiles : a	Heuristic : 10
+word : hoya anchor( col :  13 row : 14 ) score : 20 new tiles : hoa	Heuristic : 25
+Hasil evaluasi : hoya , score : 20 , direction :2 ,i: 11 j: 13 Heuristic: 25
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : URORISA
+
+HUMAN MOVE : mars , score : 7 , direction : 2 , col : 2 , row : 11
+
+
+******COMPUTER TURN******
+RACK : nlieuld
+
+word : li anchor( col :  6 row : 1 ) score : 2 new tiles : l	Heuristic : 5
+word : lev anchor( col :  2 row : 3 ) score : 14 new tiles : le	Heuristic : 12
+word : luv anchor( col :  2 row : 3 ) score : 14 new tiles : lu	Heuristic : 19
+word : al anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : 10
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e	Heuristic : -1
+word : nil anchor( col :  1 row : 6 ) score : 5 new tiles : nl	Heuristic : 5.5
+word : nide anchor( col :  1 row : 6 ) score : 14 new tiles : nde	Heuristic : 9.5
+word : dui anchor( col :  1 row : 6 ) score : 8 new tiles : du	Heuristic : 11
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e	Heuristic : -3
+word : eff anchor( col :  11 row : 6 ) score : 12 new tiles : ef	Heuristic : 7
+word : we anchor( col :  11 row : 6 ) score : 12 new tiles : e	Heuristic : 7
+word : na anchor( col :  1 row : 8 ) score : 4 new tiles : n	Heuristic : 4.5
+word : da anchor( col :  1 row : 8 ) score : 6 new tiles : d	Heuristic : 7
+word : line anchor( col :  1 row : 8 ) score : 12 new tiles : lne	Heuristic : 9.5
+word : ire anchor( col :  1 row : 9 ) score : 5 new tiles : ie	Heuristic : -1.5
+word : ired anchor( col :  1 row : 9 ) score : 7 new tiles : ied	Heuristic : 1.5
+word : urn anchor( col :  1 row : 9 ) score : 5 new tiles : un	Heuristic : 7.5
+word : urd anchor( col :  1 row : 9 ) score : 6 new tiles : ud	Heuristic : 9
+word : drill anchor( col :  1 row : 9 ) score : 12 new tiles : dill	Heuristic : 13.5
+word : ern anchor( col :  3 row : 9 ) score : 5 new tiles : en	Heuristic : 0.5
+word : urn anchor( col :  3 row : 9 ) score : 5 new tiles : un	Heuristic : 7.5
+word : drill anchor( col :  3 row : 9 ) score : 12 new tiles : dill	Heuristic : 13.5
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 2
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 2
+word : is anchor( col :  1 row : 10 ) score : 2 new tiles : i	Heuristic : 1.5
+word : isle anchor( col :  1 row : 10 ) score : 8 new tiles : ile	Heuristic : 4.5
+word : isled anchor( col :  1 row : 10 ) score : 12 new tiles : iled	Heuristic : 9.5
+word : idle anchor( col :  1 row : 10 ) score : 12 new tiles : idle	Heuristic : 9.5
+word : snide anchor( col :  3 row : 10 ) score : 12 new tiles : nide	Heuristic : 7
+word : isled anchor( col :  3 row : 10 ) score : 12 new tiles : iled	Heuristic : 9.5
+word : slid anchor( col :  3 row : 10 ) score : 10 new tiles : lid	Heuristic : 12.5
+word : ne anchor( col :  2 row : 11 ) score : 9 new tiles : ne	Heuristic : 4.5
+word : lend anchor( col :  2 row : 11 ) score : 17 new tiles : lend	Heuristic : 12.5
+word : leud anchor( col :  2 row : 11 ) score : 17 new tiles : leud	Heuristic : 17
+word : won anchor( col :  14 row : 12 ) score : 6 new tiles : n	Heuristic : 6.5
+word : an anchor( col :  14 row : 14 ) score : 6 new tiles : n	Heuristic : 6.5
+word : al anchor( col :  14 row : 14 ) score : 6 new tiles : l	Heuristic : 9
+word : ad anchor( col :  14 row : 14 ) score : 9 new tiles : d	Heuristic : 10
+Hasil evaluasi : luv , score : 14 , direction :2 ,i: 2 j: 2 Heuristic: 19
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : UROOIDE
+
+HUMAN MOVE : rosed , score : 12 , direction : 1 , col : 5 , row : 10
+
+
+******COMPUTER TURN******
+RACK : nieldie
+
+word : li anchor( col :  6 row : 1 ) score : 2 new tiles : l	Heuristic : -0.5
+word : ne anchor( col :  1 row : 2 ) score : 6 new tiles : ne	Heuristic : 5.5
+word : de anchor( col :  1 row : 2 ) score : 8 new tiles : de	Heuristic : 8
+word : den anchor( col :  1 row : 2 ) score : 13 new tiles : den	Heuristic : 10.5
+word : nut anchor( col :  1 row : 3 ) score : 3 new tiles : n	Heuristic : -1
+word : en anchor( col :  1 row : 3 ) score : 7 new tiles : en	Heuristic : 6.5
+word : den anchor( col :  1 row : 3 ) score : 13 new tiles : den	Heuristic : 10.5
+word : al anchor( col :  8 row : 3 ) score : 7 new tiles : l	Heuristic : 4.5
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e	Heuristic : 6
+word : nil anchor( col :  1 row : 6 ) score : 5 new tiles : nl	Heuristic : 0
+word : lei anchor( col :  1 row : 6 ) score : 5 new tiles : le	Heuristic : 6
+word : dei anchor( col :  1 row : 6 ) score : 8 new tiles : de	Heuristic : 8
+word : deil anchor( col :  1 row : 6 ) score : 11 new tiles : del	Heuristic : 10
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e	Heuristic : 4
+word : eff anchor( col :  11 row : 6 ) score : 12 new tiles : ef	Heuristic : 14
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e	Heuristic : 14
+word : na anchor( col :  1 row : 8 ) score : 4 new tiles : n	Heuristic : 0
+word : da anchor( col :  1 row : 8 ) score : 6 new tiles : d	Heuristic : 2.5
+word : deil anchor( col :  1 row : 8 ) score : 11 new tiles : del	Heuristic : 10
+word : eon anchor( col :  1 row : 9 ) score : 9 new tiles : en	Heuristic : 8.5
+word : eel anchor( col :  3 row : 9 ) score : 8 new tiles : el	Heuristic : 9
+word : in anchor( col :  4 row : 9 ) score : 7 new tiles : in	Heuristic : 8
+word : id anchor( col :  4 row : 9 ) score : 10 new tiles : id	Heuristic : 11.5
+word : idle anchor( col :  4 row : 9 ) score : 12 new tiles : idle	Heuristic : 16
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 9
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e	Heuristic : 9
+word : ne anchor( col :  1 row : 11 ) score : 11 new tiles : ne	Heuristic : 10.5
+word : eel anchor( col :  1 row : 11 ) score : 19 new tiles : eel	Heuristic : 17
+word : den anchor( col :  1 row : 11 ) score : 22 new tiles : den	Heuristic : 19.5
+word : dene anchor( col :  1 row : 11 ) score : 27 new tiles : dene	Heuristic : 21.5
+word : dele anchor( col :  1 row : 11 ) score : 27 new tiles : dele	Heuristic : 23
+word : ne anchor( col :  2 row : 11 ) score : 11 new tiles : ne	Heuristic : 10.5
+word : de anchor( col :  2 row : 11 ) score : 13 new tiles : de	Heuristic : 13
+word : den anchor( col :  2 row : 11 ) score : 22 new tiles : den	Heuristic : 19.5
+word : dene anchor( col :  2 row : 11 ) score : 27 new tiles : dene	Heuristic : 21.5
+word : dele anchor( col :  2 row : 11 ) score : 27 new tiles : dele	Heuristic : 23
+word : en anchor( col :  3 row : 11 ) score : 15 new tiles : en	Heuristic : 14.5
+word : den anchor( col :  3 row : 11 ) score : 22 new tiles : den	Heuristic : 19.5
+word : dene anchor( col :  3 row : 11 ) score : 27 new tiles : dene	Heuristic : 21.5
+word : dele anchor( col :  3 row : 11 ) score : 27 new tiles : dele	Heuristic : 23
+word : ne anchor( col :  4 row : 11 ) score : 11 new tiles : ne	Heuristic : 10.5
+word : dene anchor( col :  4 row : 11 ) score : 27 new tiles : dene	Heuristic : 21.5
+word : dele anchor( col :  4 row : 11 ) score : 27 new tiles : dele	Heuristic : 23
+word : won anchor( col :  14 row : 12 ) score : 6 new tiles : n	Heuristic : 2
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e	Heuristic : 8
+word : an anchor( col :  14 row : 14 ) score : 6 new tiles : n	Heuristic : 2
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i	Heuristic : 9.5
+Hasil evaluasi : dele , score : 27 , direction :1 ,i: 11 j: 1 Heuristic: 23
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : UEEOIEA
+
+HUMAN MOVE : idea , score : 5 , direction : 2 , col : 4 , row : 13
+
+
+******COMPUTER TURN******
+RACK : niinean
+
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ne anchor( col :  1 row : 2 ) score : 6 new tiles : ne
+word : en anchor( col :  1 row : 2 ) score : 7 new tiles : en
+word : nut anchor( col :  1 row : 3 ) score : 3 new tiles : n
+word : en anchor( col :  1 row : 3 ) score : 7 new tiles : en
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nannie anchor( col :  14 row : 4 ) score : 21 new tiles : annie
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : inia anchor( col :  1 row : 6 ) score : 8 new tiles : ina
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : an anchor( col :  13 row : 6 ) score : 7 new tiles : an
+word : ani anchor( col :  13 row : 6 ) score : 8 new tiles : ani
+word : na anchor( col :  1 row : 8 ) score : 4 new tiles : n
+word : ain anchor( col :  1 row : 8 ) score : 5 new tiles : an
+word : inia anchor( col :  1 row : 8 ) score : 8 new tiles : ina
+word : rei anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : rein anchor( col :  3 row : 9 ) score : 9 new tiles : en
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 9 new tiles : en
+word : ain anchor( col :  5 row : 9 ) score : 9 new tiles : ain
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : elan anchor( col :  3 row : 12 ) score : 6 new tiles : an
+word : an anchor( col :  5 row : 12 ) score : 2 new tiles : n
+word : ani anchor( col :  5 row : 12 ) score : 4 new tiles : ni
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : ne anchor( col :  5 row : 12 ) score : 6 new tiles : ne
+word : won anchor( col :  14 row : 12 ) score : 6 new tiles : n
+word : an anchor( col :  14 row : 14 ) score : 6 new tiles : n
+word : al anchor( col :  1 row : 2 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : na anchor( col :  1 row : 1 ) score : 4 new tiles : n
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 9 new tiles : en
+word : inn anchor( col :  5 row : 9 ) score : 9 new tiles : inn
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : ne anchor( col :  5 row : 13 ) score : 8 new tiles : ne
+word : ne anchor( col :  5 row : 13 ) score : 8 new tiles : ne
+word : ane anchor( col :  6 row : 12 ) score : 4 new tiles : e
+word : oe anchor( col :  6 row : 12 ) score : 7 new tiles : oe
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : ne anchor( col :  6 row : 8 ) score : 3 new tiles : e
+word : on anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : one anchor( col :  7 row : 11 ) score : 4 new tiles : ne
+word : in anchor( col :  7 row : 11 ) score : 6 new tiles : in
+word : inn anchor( col :  7 row : 11 ) score : 7 new tiles : inn
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : nine anchor( col :  14 row : 7 ) score : 18 new tiles : nine
+word : er anchor( col :  0 row : 9 ) score : 2 new tiles : e
+word : an anchor( col :  2 row : 13 ) score : 2 new tiles : n
+word : ani anchor( col :  2 row : 13 ) score : 3 new tiles : ni
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : nae anchor( col :  14 row : 5 ) score : 3 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : inn anchor( col :  5 row : 9 ) score : 5 new tiles : nn
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 9 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : inn anchor( col :  5 row : 9 ) score : 5 new tiles : nn
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 9 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ae anchor( col :  13 row : 7 ) score : 2 new tiles : e
+word : ae anchor( col :  13 row : 7 ) score : 2 new tiles : e
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ne anchor( col :  14 row : 7 ) score : 6 new tiles : e
+word : ai anchor( col :  12 row : 8 ) score : 3 new tiles : a
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : ain anchor( col :  14 row : 8 ) score : 6 new tiles : an
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : en anchor( col :  2 row : 13 ) score : 2 new tiles : e
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  6 row : 13 ) score : 10 new tiles : oe
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : na anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : nine anchor( col :  6 row : 11 ) score : 4 new tiles : ni
+word : inia anchor( col :  7 row : 11 ) score : 5 new tiles : ini
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : ain anchor( col :  14 row : 8 ) score : 6 new tiles : an
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : an anchor( col :  6 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  6 row : 11 ) score : 10 new tiles : ani
+word : an anchor( col :  7 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  7 row : 11 ) score : 10 new tiles : ani
+word : ar anchor( col :  0 row : 9 ) score : 2 new tiles : a
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : an anchor( col :  1 row : 2 ) score : 4 new tiles : a
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : nae anchor( col :  14 row : 5 ) score : 3 new tiles : e
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : ne anchor( col :  5 row : 13 ) score : 8 new tiles : ne
+word : ne anchor( col :  5 row : 13 ) score : 8 new tiles : ne
+word : ae anchor( col :  2 row : 13 ) score : 2 new tiles : e
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : ne anchor( col :  5 row : 13 ) score : 8 new tiles : ne
+word : ne anchor( col :  5 row : 13 ) score : 8 new tiles : ne
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  6 row : 13 ) score : 10 new tiles : oe
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : ne anchor( col :  6 row : 11 ) score : 4 new tiles : ne
+word : ne anchor( col :  7 row : 11 ) score : 6 new tiles : ne
+word : er anchor( col :  0 row : 9 ) score : 2 new tiles : e
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : an anchor( col :  6 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  6 row : 11 ) score : 10 new tiles : ani
+word : an anchor( col :  7 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  7 row : 11 ) score : 10 new tiles : ani
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : nae anchor( col :  14 row : 5 ) score : 3 new tiles : e
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : nannie anchor( col :  14 row : 5 ) score : 18 new tiles : nnie
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 9 new tiles : en
+word : inn anchor( col :  5 row : 9 ) score : 9 new tiles : inn
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ane anchor( col :  6 row : 12 ) score : 4 new tiles : e
+word : oe anchor( col :  6 row : 12 ) score : 7 new tiles : oe
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : ne anchor( col :  13 row : 8 ) score : 4 new tiles : ne
+word : ne anchor( col :  13 row : 8 ) score : 6 new tiles : ne
+word : ne anchor( col :  6 row : 8 ) score : 3 new tiles : e
+word : on anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : one anchor( col :  7 row : 11 ) score : 4 new tiles : ne
+word : in anchor( col :  7 row : 11 ) score : 6 new tiles : in
+word : inn anchor( col :  7 row : 11 ) score : 7 new tiles : inn
+word : er anchor( col :  0 row : 9 ) score : 2 new tiles : e
+word : an anchor( col :  2 row : 13 ) score : 2 new tiles : n
+word : ani anchor( col :  2 row : 13 ) score : 3 new tiles : ni
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 6 new tiles : a
+word : ae anchor( col :  13 row : 8 ) score : 6 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : oe anchor( col :  13 row : 8 ) score : 2 new tiles : o
+word : oe anchor( col :  13 row : 8 ) score : 6 new tiles : oe
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ai anchor( col :  14 row : 14 ) score : 6 new tiles : i
+word : ne anchor( col :  6 row : 13 ) score : 2 new tiles : e
+word : one anchor( col :  6 row : 13 ) score : 3 new tiles : oe
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : on anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : in anchor( col :  7 row : 11 ) score : 6 new tiles : in
+word : ai anchor( col :  2 row : 13 ) score : 2 new tiles : i
+word : ain anchor( col :  2 row : 13 ) score : 3 new tiles : in
+word : ai anchor( col :  2 row : 13 ) score : 2 new tiles : i
+word : ain anchor( col :  2 row : 13 ) score : 3 new tiles : in
+word : ai anchor( col :  2 row : 13 ) score : 2 new tiles : i
+word : ain anchor( col :  2 row : 13 ) score : 3 new tiles : in
+word : ai anchor( col :  2 row : 13 ) score : 2 new tiles : i
+word : ain anchor( col :  2 row : 13 ) score : 3 new tiles : in
+word : ai anchor( col :  2 row : 13 ) score : 2 new tiles : i
+word : ain anchor( col :  2 row : 13 ) score : 3 new tiles : in
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 5 new tiles : e
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : al anchor( col :  1 row : 2 ) score : 2 new tiles : a
+word : na anchor( col :  1 row : 2 ) score : 6 new tiles : na
+word : an anchor( col :  1 row : 2 ) score : 7 new tiles : an
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : an anchor( col :  5 row : 12 ) score : 2 new tiles : n
+word : ani anchor( col :  5 row : 12 ) score : 4 new tiles : ni
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : na anchor( col :  5 row : 12 ) score : 6 new tiles : na
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : nae anchor( col :  14 row : 5 ) score : 3 new tiles : e
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ae anchor( col :  13 row : 7 ) score : 2 new tiles : e
+word : ae anchor( col :  13 row : 7 ) score : 2 new tiles : e
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ne anchor( col :  14 row : 7 ) score : 6 new tiles : e
+word : ai anchor( col :  12 row : 8 ) score : 3 new tiles : a
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : ain anchor( col :  14 row : 8 ) score : 6 new tiles : an
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : en anchor( col :  2 row : 13 ) score : 2 new tiles : e
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  6 row : 13 ) score : 10 new tiles : oe
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : na anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : nine anchor( col :  6 row : 11 ) score : 4 new tiles : ni
+word : inia anchor( col :  7 row : 11 ) score : 5 new tiles : ini
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : ain anchor( col :  14 row : 8 ) score : 6 new tiles : an
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : an anchor( col :  6 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  6 row : 11 ) score : 10 new tiles : ani
+word : an anchor( col :  7 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  7 row : 11 ) score : 10 new tiles : ani
+word : ar anchor( col :  0 row : 9 ) score : 2 new tiles : a
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : aff anchor( col :  11 row : 6 ) score : 12 new tiles : af
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : inn anchor( col :  5 row : 9 ) score : 5 new tiles : nn
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 9 new tiles : inn
+word : an anchor( col :  5 row : 12 ) score : 2 new tiles : n
+word : ani anchor( col :  5 row : 12 ) score : 4 new tiles : ni
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : an anchor( col :  5 row : 12 ) score : 2 new tiles : n
+word : ani anchor( col :  5 row : 12 ) score : 4 new tiles : ni
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ne anchor( col :  5 row : 13 ) score : 4 new tiles : e
+word : ne anchor( col :  5 row : 13 ) score : 4 new tiles : e
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : an anchor( col :  13 row : 7 ) score : 2 new tiles : n
+word : ani anchor( col :  13 row : 7 ) score : 3 new tiles : ni
+word : an anchor( col :  13 row : 7 ) score : 2 new tiles : n
+word : ani anchor( col :  13 row : 7 ) score : 3 new tiles : ni
+word : an anchor( col :  13 row : 7 ) score : 2 new tiles : n
+word : ani anchor( col :  13 row : 7 ) score : 3 new tiles : ni
+word : ne anchor( col :  14 row : 7 ) score : 6 new tiles : e
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : an anchor( col :  2 row : 13 ) score : 2 new tiles : n
+word : ani anchor( col :  2 row : 13 ) score : 3 new tiles : ni
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 9 new tiles : en
+word : inn anchor( col :  5 row : 9 ) score : 9 new tiles : inn
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 8 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : ane anchor( col :  6 row : 12 ) score : 4 new tiles : e
+word : oe anchor( col :  6 row : 12 ) score : 7 new tiles : oe
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : ne anchor( col :  6 row : 8 ) score : 3 new tiles : e
+word : on anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : one anchor( col :  7 row : 11 ) score : 4 new tiles : ne
+word : in anchor( col :  7 row : 11 ) score : 6 new tiles : in
+word : inn anchor( col :  7 row : 11 ) score : 7 new tiles : inn
+word : nannie anchor( col :  14 row : 5 ) score : 18 new tiles : nnie
+word : ai anchor( col :  13 row : 7 ) score : 2 new tiles : i
+word : ain anchor( col :  13 row : 7 ) score : 3 new tiles : in
+word : ai anchor( col :  13 row : 7 ) score : 2 new tiles : i
+word : ain anchor( col :  13 row : 7 ) score : 3 new tiles : in
+word : ai anchor( col :  13 row : 7 ) score : 2 new tiles : i
+word : ain anchor( col :  13 row : 7 ) score : 3 new tiles : in
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : ne anchor( col :  14 row : 7 ) score : 14 new tiles : ne
+word : in anchor( col :  12 row : 8 ) score : 3 new tiles : i
+word : inn anchor( col :  14 row : 8 ) score : 4 new tiles : in
+word : ne anchor( col :  14 row : 8 ) score : 14 new tiles : ne
+word : er anchor( col :  0 row : 9 ) score : 2 new tiles : e
+word : ai anchor( col :  2 row : 13 ) score : 2 new tiles : i
+word : ain anchor( col :  2 row : 13 ) score : 3 new tiles : in
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : aff anchor( col :  11 row : 6 ) score : 12 new tiles : af
+word : ef anchor( col :  11 row : 6 ) score : 12 new tiles : e
+word : fa anchor( col :  13 row : 6 ) score : 5 new tiles : a
+word : ae anchor( col :  13 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : al anchor( col :  1 row : 2 ) score : 2 new tiles : a
+word : na anchor( col :  1 row : 2 ) score : 6 new tiles : na
+word : an anchor( col :  1 row : 2 ) score : 7 new tiles : an
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 5 new tiles : a
+word : an anchor( col :  5 row : 12 ) score : 2 new tiles : n
+word : ani anchor( col :  5 row : 12 ) score : 4 new tiles : ni
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : na anchor( col :  5 row : 12 ) score : 6 new tiles : na
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 5 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : nae anchor( col :  14 row : 5 ) score : 3 new tiles : e
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ae anchor( col :  13 row : 7 ) score : 2 new tiles : e
+word : ae anchor( col :  13 row : 7 ) score : 2 new tiles : e
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : ne anchor( col :  14 row : 7 ) score : 6 new tiles : e
+word : ai anchor( col :  12 row : 8 ) score : 3 new tiles : a
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : ain anchor( col :  14 row : 8 ) score : 6 new tiles : an
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : en anchor( col :  2 row : 13 ) score : 2 new tiles : e
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  6 row : 13 ) score : 10 new tiles : oe
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : na anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : nine anchor( col :  6 row : 11 ) score : 4 new tiles : ni
+word : inia anchor( col :  7 row : 11 ) score : 5 new tiles : ini
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : ain anchor( col :  14 row : 8 ) score : 6 new tiles : an
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : an anchor( col :  6 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  6 row : 11 ) score : 10 new tiles : ani
+word : an anchor( col :  7 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  7 row : 11 ) score : 10 new tiles : ani
+word : ar anchor( col :  0 row : 9 ) score : 2 new tiles : a
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : al anchor( col :  1 row : 2 ) score : 2 new tiles : a
+word : na anchor( col :  1 row : 2 ) score : 6 new tiles : na
+word : an anchor( col :  1 row : 2 ) score : 7 new tiles : an
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : an anchor( col :  5 row : 12 ) score : 2 new tiles : n
+word : ani anchor( col :  5 row : 12 ) score : 4 new tiles : ni
+word : anna anchor( col :  5 row : 12 ) score : 5 new tiles : nna
+word : na anchor( col :  5 row : 12 ) score : 6 new tiles : na
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : el anchor( col :  1 row : 2 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : na anchor( col :  5 row : 13 ) score : 8 new tiles : na
+word : nae anchor( col :  14 row : 5 ) score : 3 new tiles : e
+word : rein anchor( col :  5 row : 9 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 9 ) score : 10 new tiles : in
+word : inn anchor( col :  5 row : 9 ) score : 11 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  2 row : 13 ) score : 2 new tiles : e
+word : in anchor( col :  14 row : 8 ) score : 2 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  5 row : 13 ) score : 10 new tiles : oe
+word : oe anchor( col :  6 row : 13 ) score : 10 new tiles : oe
+word : in anchor( col :  14 row : 8 ) score : 2 new tiles : n
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : na anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : nine anchor( col :  6 row : 11 ) score : 4 new tiles : ni
+word : inia anchor( col :  7 row : 11 ) score : 5 new tiles : ini
+word : na anchor( col :  14 row : 7 ) score : 6 new tiles : a
+word : an anchor( col :  14 row : 7 ) score : 14 new tiles : an
+word : ani anchor( col :  14 row : 7 ) score : 17 new tiles : ani
+word : ai anchor( col :  12 row : 8 ) score : 3 new tiles : a
+word : in anchor( col :  14 row : 8 ) score : 2 new tiles : n
+word : ain anchor( col :  14 row : 8 ) score : 4 new tiles : an
+word : an anchor( col :  14 row : 8 ) score : 14 new tiles : an
+word : ani anchor( col :  14 row : 8 ) score : 17 new tiles : ani
+word : in anchor( col :  6 row : 8 ) score : 3 new tiles : n
+word : an anchor( col :  6 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  6 row : 11 ) score : 10 new tiles : ani
+word : an anchor( col :  7 row : 11 ) score : 9 new tiles : an
+word : ani anchor( col :  7 row : 11 ) score : 10 new tiles : ani
+word : ar anchor( col :  0 row : 9 ) score : 2 new tiles : a
+word : ai anchor( col :  6 row : 1 ) score : 2 new tiles : a
+word : ae anchor( col :  1 row : 2 ) score : 6 new tiles : ae
+word : out anchor( col :  1 row : 3 ) score : 3 new tiles : o
+word : eta anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : na anchor( col :  14 row : 4 ) score : 5 new tiles : a
+word : nae anchor( col :  14 row : 4 ) score : 6 new tiles : ae
+word : aa anchor( col :  4 row : 5 ) score : 4 new tiles : a
+word : nae anchor( col :  4 row : 5 ) score : 7 new tiles : ae
+word : ai anchor( col :  1 row : 6 ) score : 2 new tiles : a
+word : re anchor( col :  4 row : 6 ) score : 2 new tiles : e
+word : nae anchor( col :  4 row : 6 ) score : 7 new tiles : ae
+word : aa anchor( col :  13 row : 7 ) score : 2 new tiles : a
+word : re anchor( col :  3 row : 9 ) score : 6 new tiles : e
+word : ope anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : er anchor( col :  11 row : 9 ) score : 7 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : odea anchor( col :  1 row : 12 ) score : 10 new tiles : ea
+word : aa anchor( col :  5 row : 12 ) score : 2 new tiles : a
+word : ae anchor( col :  5 row : 12 ) score : 6 new tiles : ae
+word : woe anchor( col :  14 row : 12 ) score : 6 new tiles : e
+word : aa anchor( col :  14 row : 14 ) score : 6 new tiles : a
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : an anchor( col :  13 row : 7 ) score : 2 new tiles : n
+word : ani anchor( col :  13 row : 7 ) score : 3 new tiles : ni
+word : an anchor( col :  13 row : 7 ) score : 2 new tiles : n
+word : ani anchor( col :  13 row : 7 ) score : 3 new tiles : ni
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : nine anchor( col :  14 row : 6 ) score : 18 new tiles : nine
+word : in anchor( col :  5 row : 9 ) score : 4 new tiles : n
+word : rein anchor( col :  5 row : 9 ) score : 9 new tiles : en
+word : inn anchor( col :  5 row : 9 ) score : 9 new tiles : inn
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  4 row : 5 ) score : 4 new tiles : e
+word : nee anchor( col :  4 row : 5 ) score : 7 new tiles : ee
+word : ae anchor( col :  13 row : 7 ) score : 2 new tiles : e
+word : ode anchor( col :  1 row : 12 ) score : 4 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  5 row : 12 ) score : 2 new tiles : e
+word : ae anchor( col :  14 row : 14 ) score : 6 new tiles : e
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 15 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : inn anchor( col :  14 row : 7 ) score : 21 new tiles : inn
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 21 new tiles : inn
+word : ai anchor( col :  5 row : 12 ) score : 2 new tiles : i
+word : ain anchor( col :  5 row : 12 ) score : 4 new tiles : in
+word : in anchor( col :  5 row : 12 ) score : 6 new tiles : in
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : inn anchor( col :  14 row : 7 ) score : 21 new tiles : inn
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 21 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : inn anchor( col :  14 row : 7 ) score : 21 new tiles : inn
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 21 new tiles : inn
+word : en anchor( col :  5 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : inn anchor( col :  14 row : 7 ) score : 21 new tiles : inn
+word : fan anchor( col :  14 row : 6 ) score : 6 new tiles : n
+word : in anchor( col :  14 row : 6 ) score : 8 new tiles : in
+word : inn anchor( col :  14 row : 6 ) score : 21 new tiles : inn
+word : ane anchor( col :  6 row : 12 ) score : 4 new tiles : e
+word : oe anchor( col :  6 row : 12 ) score : 7 new tiles : oe
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : en anchor( col :  6 row : 13 ) score : 4 new tiles : n
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : en anchor( col :  14 row : 7 ) score : 6 new tiles : n
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : ne anchor( col :  14 row : 7 ) score : 6 new tiles : e
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  14 row : 8 ) score : 4 new tiles : n
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : in anchor( col :  5 row : 8 ) score : 5 new tiles : in
+word : ne anchor( col :  6 row : 8 ) score : 3 new tiles : e
+word : on anchor( col :  7 row : 11 ) score : 3 new tiles : n
+word : one anchor( col :  7 row : 11 ) score : 4 new tiles : ne
+word : in anchor( col :  7 row : 11 ) score : 6 new tiles : in
+word : inn anchor( col :  7 row : 11 ) score : 7 new tiles : inn
+word : er anchor( col :  0 row : 9 ) score : 2 new tiles : e
+word : an anchor( col :  2 row : 13 ) score : 2 new tiles : n
+word : ani anchor( col :  2 row : 13 ) score : 3 new tiles : ni

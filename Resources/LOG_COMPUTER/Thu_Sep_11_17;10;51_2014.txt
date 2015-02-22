@@ -1,0 +1,15 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : AJEA*MG
+
+HUMAN MOVE : maze , score : 10 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : nsea*eo
+
+word : ens anchor( col :  7 row : 6 ) score : 20 new tiles : ens
+word : cense anchor( col :  7 row : 6 ) score : 22 new tiles : cense
+word : mensae anchor( col :  7 row : 6 ) score : 23 new tiles : mensae
+word : enolase anchor( col :  7 row : 6 ) score : 75 new tiles : enolase

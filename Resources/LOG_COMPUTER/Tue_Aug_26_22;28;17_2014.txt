@@ -1,0 +1,16 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  T M X C F
+New Tiles :  D W L X L
+
+
+******COMPUTER TURN******
+RACK : hhrdryq
+
+Hasil evaluasi : dry , score : 14 , direction : 2 , col : 7 , row : 6
+
+
+
+POSSIBLE MOVEMENT : 

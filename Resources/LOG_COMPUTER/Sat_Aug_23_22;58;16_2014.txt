@@ -1,0 +1,37 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : win , score : 12 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : hefty , score : 38 , direction : 1 , anchor (7 , 10) , col : 10 , row : 3
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : hot , score : 12 , direction : 2 , col : 3 , row : 13
+
+
+******COMPUTER TURN******
+
+
+-------NEGA--------
+
+eval 5 word wry skor 9 depth 1 end 80 child 18
+eval -16 word mix skor 23 depth 1 end 82 child 18
+eval -12 word shot skor 7 depth 1 end 93 child 16
+eval -12 word sex skor 19 depth 1 end 88 child 12
+eval -12 word sox skor 19 depth 1 end 98 child 11
+eval -16 word fry skor 9 depth 1 end 69 child 13
+eval -16 word try skor 10 depth 1 end 70 child 16
+eval -14 word sty skor 12 depth 1 end 72 child 13
+eval -14 word hots skor 7 depth 1 end 93 child 16
+
+
+

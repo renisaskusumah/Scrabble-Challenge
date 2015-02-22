@@ -1,0 +1,17 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	buy	--	16		3	HUMAN 
+Player 2	icky	1.243	25		4	GADDAG
+Player 1	cage	--	9		3	HUMAN 
+Player 2	blight	113.245	24		6	NEGASCOUT
+Player 1	bise	--	12		6	HUMAN 
+Player 2	em	0.024	11		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 51 detik 
+player 1 left tile : 1
+player 1 total skor : 37
+player 2 durasi : 1 menit 54 detik 
+player 2 left tile : 0
+player 2 total skor : 60

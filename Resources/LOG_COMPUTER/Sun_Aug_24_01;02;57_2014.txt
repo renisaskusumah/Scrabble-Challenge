@@ -1,0 +1,208 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : war , score : 10 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gift , score : 23 , direction : 1 , anchor (7 , 10) , col : 10 , row : 4
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : yin , score : 25 , direction : 1 , anchor (7 , 11) , col : 11 , row : 7
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : hired , score : 38 , direction : 1 , anchor (5 , 9) , col : 9 , row : 5
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : kayo , score : 46 , direction : 1 , anchor (6 , 8) , col : 8 , row : 6
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : nurl , score : 10 , direction : 1 , anchor (8 , 12) , col : 12 , row : 8
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : von , score : 21 , direction : 1 , anchor (4 , 11) , col : 11 , row : 3
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ritz , score : 18 , direction : 1 , anchor (9 , 7) , col : 7 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : phi , score : 22 , direction : 1 , anchor (9 , 6) , col : 6 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gnu , score : 14 , direction : 1 , anchor (10 , 5) , col : 5 , row : 10
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : gowd , score : 9 , direction : 2 , anchor (4 , 12) , col : 10 , row : 4
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : render , score : 18 , direction : 1 , anchor (3 , 13) , col : 13 , row : 1
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : nevi , score : 25 , direction : 1 , anchor (5 , 14) , col : 14 , row : 5
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : bead , score : 28 , direction : 1 , anchor (9 , 13) , col : 13 , row : 9
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : cubs , score : 32 , direction : 2 , anchor (13 , 13) , col : 10 , row : 13
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : mow , score : 30 , direction : 1 , anchor (2 , 12) , col : 12 , row : 2
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : cotes , score : 25 , direction : 2 , anchor (13 , 5) , col : 1 , row : 13
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ghis , score : 20 , direction : 2 , anchor (10 , 8) , col : 5 , row : 10
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : edict , score : 16 , direction : 1 , anchor (14 , 10) , col : 10 , row : 10
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : trots , score : 21 , direction : 2 , anchor (14 , 9) , col : 7 , row : 14
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : qat , score : 24 , direction : 1 , anchor (12 , 3) , col : 3 , row : 11
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : loo , score : 10 , direction : 1 , anchor (12 , 2) , col : 2 , row : 12
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : eta , score : 14 , direction : 1 , anchor (10 , 14) , col : 14 , row : 10
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : gip , score : 11 , direction : 2 , col : 12 , row : 12
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : el , score : 9 , direction : 1 , anchor (1 , 14) , col : 14 , row : 1
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : mac , score : 13 , direction : 1 , col : 14 , row : 1
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ag , score : 6 , direction : 1 , anchor (11 , 9) , col : 9 , row : 11
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : ex , score : 9 , direction : 1 , col : 15 , row : 4
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ire , score : 4 , direction : 2 , anchor (6 , 12) , col : 12 , row : 6
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : er , score : 2 , direction : 1 , col : 15 , row : 8
+
+
+******COMPUTER TURN******
+
+-------HUMAN CLICK HINT-------
+
+
+
+******COMPUTER TURN******
+
+******COMPUTER TURN******
+

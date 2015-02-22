@@ -1,0 +1,188 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : TQ*CGFB
+
+HUMAN MOVE : beg , score : 10 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : sfmxumu
+
+word : sub anchor( col :  6 row : 7 ) score : 5 new tiles : su
+word : fub anchor( col :  6 row : 7 ) score : 8 new tiles : fu
+word : fubs anchor( col :  6 row : 7 ) score : 9 new tiles : fus
+word : fubs anchor( col :  8 row : 7 ) score : 9 new tiles : fus
+word : bumf anchor( col :  8 row : 7 ) score : 11 new tiles : umf
+word : bumfs anchor( col :  8 row : 7 ) score : 13 new tiles : umfs
+word : us anchor( col :  6 row : 8 ) score : 4 new tiles : us
+word : fuse anchor( col :  6 row : 8 ) score : 8 new tiles : fus
+word : museum anchor( col :  6 row : 8 ) score : 12 new tiles : musum
+word : feme anchor( col :  6 row : 8 ) score : 15 new tiles : fme
+word : fems anchor( col :  6 row : 8 ) score : 16 new tiles : fms
+word : es anchor( col :  8 row : 8 ) score : 3 new tiles : s
+word : fumes anchor( col :  8 row : 8 ) score : 14 new tiles : fums
+word : fem anchor( col :  8 row : 8 ) score : 15 new tiles : fm
+word : fems anchor( col :  8 row : 8 ) score : 16 new tiles : fms
+word : ex anchor( col :  8 row : 8 ) score : 17 new tiles : x
+word : sex anchor( col :  8 row : 8 ) score : 19 new tiles : sx
+word : fug anchor( col :  6 row : 9 ) score : 15 new tiles : fu
+word : fugs anchor( col :  6 row : 9 ) score : 16 new tiles : fus
+word : fugus anchor( col :  6 row : 9 ) score : 19 new tiles : fuus
+word : fugs anchor( col :  8 row : 9 ) score : 16 new tiles : fus
+word : fugus anchor( col :  8 row : 9 ) score : 19 new tiles : fuus
+word : mums anchor( col :  7 row : 10 ) score : 23 new tiles : mums
+word : mumus anchor( col :  7 row : 10 ) score : 25 new tiles : mumus
+Hasil evaluasi : mumus , score : 25 , direction : 1 , anchor (7 , 10) , col : 10 , row : 3
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : TQ*CVFW
+
+HUMAN MOVE : my , score : 3 , direction : 2 , col : 5 , row : 12
+
+
+******COMPUTER TURN******
+RACK : fxlnztd
+
+word : fee anchor( col :  6 row : 8 ) score : 9 new tiles : fe
+word : felt anchor( col :  6 row : 8 ) score : 12 new tiles : flt
+word : fend anchor( col :  6 row : 8 ) score : 13 new tiles : fnd
+word : fez anchor( col :  6 row : 8 ) score : 29 new tiles : fz
+word : ef anchor( col :  8 row : 8 ) score : 9 new tiles : f
+word : left anchor( col :  8 row : 8 ) score : 12 new tiles : lft
+word : deft anchor( col :  8 row : 8 ) score : 14 new tiles : dft
+word : ex anchor( col :  8 row : 8 ) score : 17 new tiles : x
+word : lex anchor( col :  8 row : 8 ) score : 19 new tiles : lx
+word : flex anchor( col :  8 row : 8 ) score : 23 new tiles : flx
+word : fez anchor( col :  8 row : 8 ) score : 29 new tiles : fz
+word : flu anchor( col :  4 row : 9 ) score : 6 new tiles : fl
+Hasil evaluasi : fez , score : 29 , direction : 1 , anchor (5 , 12) , col : 8 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+
+word : cwm anchor( col :  3 row : 9 ) score : 10 new tiles : cw
+-------HUMAN CLICK HINT-------
+
+
+
+******COMPUTER TURN******
+RACK : xlntdap
+
+word : la anchor( col :  3 row : 9 ) score : 6 new tiles : la
+word : plan anchor( col :  3 row : 9 ) score : 18 new tiles : plan
+word : lax anchor( col :  3 row : 9 ) score : 23 new tiles : lax
+word : pax anchor( col :  3 row : 9 ) score : 25 new tiles : pax
+word : ax anchor( col :  4 row : 9 ) score : 22 new tiles : ax
+word : lax anchor( col :  4 row : 9 ) score : 23 new tiles : lax
+word : pax anchor( col :  4 row : 9 ) score : 25 new tiles : pax
+word : amyl anchor( col :  5 row : 9 ) score : 11 new tiles : al
+word : la anchor( col :  3 row : 11 ) score : 12 new tiles : la
+word : platy anchor( col :  3 row : 11 ) score : 30 new tiles : plat
+word : an anchor( col :  4 row : 11 ) score : 22 new tiles : an
+word : plat anchor( col :  4 row : 11 ) score : 30 new tiles : plat
+word : amyl anchor( col :  5 row : 12 ) score : 11 new tiles : al
+Hasil evaluasi : plat , score : 30 , direction : 1 , anchor (5 , 12) , col : 11 , row : 1
+
+POSSIBLE MOVEMENT : 
+
+
+word : tut anchor( col :  4 row : 9 ) score : 3 new tiles : t
+word : cut anchor( col :  4 row : 9 ) score : 5 new tiles : c
+word : mat anchor( col :  3 row : 12 ) score : 5 new tiles : t
+word : mart anchor( col :  3 row : 12 ) score : 6 new tiles : rt
+word : marc anchor( col :  3 row : 12 ) score : 8 new tiles : rc
+word : maw anchor( col :  3 row : 12 ) score : 8 new tiles : w
+-------HUMAN CLICK HINT-------
+
+
+
+******COMPUTER TURN******
+RACK : xndeiya
+
+word : neb anchor( col :  6 row : 7 ) score : 10 new tiles : ne
+word : deb anchor( col :  6 row : 7 ) score : 11 new tiles : de
+word : na anchor( col :  3 row : 9 ) score : 7 new tiles : na
+word : da anchor( col :  3 row : 9 ) score : 8 new tiles : da
+word : dean anchor( col :  3 row : 9 ) score : 17 new tiles : dean
+word : yea anchor( col :  3 row : 9 ) score : 19 new tiles : yea
+word : yean anchor( col :  3 row : 9 ) score : 23 new tiles : yean
+word : an anchor( col :  4 row : 9 ) score : 10 new tiles : an
+word : dean anchor( col :  4 row : 9 ) score : 17 new tiles : dean
+word : yean anchor( col :  4 row : 9 ) score : 23 new tiles : yean
+word : emyd anchor( col :  5 row : 9 ) score : 12 new tiles : ed
+word : yep anchor( col :  1 row : 10 ) score : 16 new tiles : ye
+word : yipe anchor( col :  1 row : 10 ) score : 17 new tiles : yie
+word : apex anchor( col :  1 row : 10 ) score : 26 new tiles : aex
+word : ai anchor( col :  1 row : 12 ) score : 12 new tiles : ai
+word : ain anchor( col :  1 row : 12 ) score : 19 new tiles : ain
+word : aid anchor( col :  1 row : 12 ) score : 22 new tiles : aid
+word : apex anchor( col :  1 row : 12 ) score : 26 new tiles : aex
+word : pyx anchor( col :  1 row : 12 ) score : 30 new tiles : yx
+word : ai anchor( col :  2 row : 12 ) score : 12 new tiles : ai
+word : ain anchor( col :  2 row : 12 ) score : 19 new tiles : ain
+word : aid anchor( col :  2 row : 12 ) score : 22 new tiles : aid
+word : ay anchor( col :  2 row : 12 ) score : 22 new tiles : ay
+word : in anchor( col :  3 row : 12 ) score : 13 new tiles : in
+word : ain anchor( col :  3 row : 12 ) score : 19 new tiles : ain
+word : aid anchor( col :  3 row : 12 ) score : 22 new tiles : aid
+word : ay anchor( col :  3 row : 12 ) score : 22 new tiles : ay
+word : na anchor( col :  4 row : 12 ) score : 10 new tiles : na
+word : da anchor( col :  4 row : 12 ) score : 12 new tiles : da
+word : ya anchor( col :  4 row : 12 ) score : 16 new tiles : ya
+word : myna anchor( col :  5 row : 12 ) score : 11 new tiles : na
+word : emyd anchor( col :  5 row : 12 ) score : 12 new tiles : ed
+Hasil evaluasi : pyx , score : 30 , direction : 2 , anchor (5 , 12) , col : 11 , row : 1
+
+POSSIBLE MOVEMENT : 
+
+
+word : tut anchor( col :  4 row : 9 ) score : 3 new tiles : t
+word : cut anchor( col :  4 row : 9 ) score : 5 new tiles : c
+word : mat anchor( col :  3 row : 12 ) score : 5 new tiles : t
+word : mart anchor( col :  3 row : 12 ) score : 6 new tiles : rt
+word : marc anchor( col :  3 row : 12 ) score : 8 new tiles : rc
+word : maw anchor( col :  3 row : 12 ) score : 8 new tiles : w
+-------HUMAN CLICK HINT-------
+
+
+
+******COMPUTER TURN******
+RACK : ndeiagj
+
+word : neb anchor( col :  6 row : 7 ) score : 10 new tiles : ne
+word : deb anchor( col :  6 row : 7 ) score : 11 new tiles : de
+word : jib anchor( col :  6 row : 7 ) score : 17 new tiles : ji
+word : na anchor( col :  3 row : 9 ) score : 7 new tiles : na
+word : nag anchor( col :  3 row : 9 ) score : 13 new tiles : nag
+word : dag anchor( col :  3 row : 9 ) score : 14 new tiles : dag
+word : dean anchor( col :  3 row : 9 ) score : 17 new tiles : dean
+word : jean anchor( col :  3 row : 9 ) score : 35 new tiles : jean
+word : an anchor( col :  4 row : 9 ) score : 10 new tiles : an
+word : dean anchor( col :  4 row : 9 ) score : 17 new tiles : dean
+word : jean anchor( col :  4 row : 9 ) score : 35 new tiles : jean
+word : yin anchor( col :  2 row : 12 ) score : 21 new tiles : in
+word : yid anchor( col :  2 row : 12 ) score : 24 new tiles : id
+word : lei anchor( col :  2 row : 12 ) score : 25 new tiles : ei
+word : yin anchor( col :  3 row : 12 ) score : 21 new tiles : in
+word : yid anchor( col :  3 row : 12 ) score : 24 new tiles : id
+word : na anchor( col :  4 row : 12 ) score : 10 new tiles : na
+word : da anchor( col :  4 row : 12 ) score : 12 new tiles : da
+word : myna anchor( col :  5 row : 12 ) score : 11 new tiles : na
+word : emyd anchor( col :  5 row : 12 ) score : 12 new tiles : ed
+word : xenia anchor( col :  2 row : 13 ) score : 14 new tiles : enia
+word : lei anchor( col :  2 row : 13 ) score : 25 new tiles : ei
+Hasil evaluasi : jean , score : 35 , direction : 1 , anchor (1 , 14) , col : 9 , row : 1
+
+POSSIBLE MOVEMENT : 
+
+
+word : re anchor( col :  2 row : 8 ) score : 3 new tiles : r
+word : we anchor( col :  2 row : 8 ) score : 9 new tiles : w
+-------HUMAN CLICK HINT-------
+
+
+

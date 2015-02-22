@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	by	--	14		2	HUMAN 
+Player 2		2.841	22		2	NEGASCOUT
+Player 1	byte	--	8		2	HUMAN 
+Player 2		0.916	7		3	NEGASCOUT
+Player 1	ex	--	9		3	HUMAN 
+Player 2		0.412	13		4	NEGASCOUT

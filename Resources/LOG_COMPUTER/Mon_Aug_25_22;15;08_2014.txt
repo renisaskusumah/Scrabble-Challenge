@@ -1,0 +1,246 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  F P Q D N Y
+New Tiles :  A D R C O S
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : hmm , score : 20 , direction : 2 , col : 7 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : mad , score : 10 , direction : 1 , col : 10 , row : 9
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : mads , score : 7 , direction : 1 , anchor (10 , 9) , col : 9 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : sold , score : 10 , direction : 2 , col : 10 , row : 13
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : lez , score : 24 , direction : 1 , anchor (11 , 11) , col : 11 , row : 10
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : hm , score : 11 , direction : 1 , col : 8 , row : 8
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ba , score : 16 , direction : 2 , anchor (6 , 7) , col : 6 , row : 6
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  C P R C L S
+New Tiles :  N V T C P R
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : jotas , score : 62 , direction : 1 , anchor (10 , 13) , col : 13 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : rah , score : 6 , direction : 1 , col : 8 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : zeal , score : 26 , direction : 2 , anchor (12 , 14) , col : 11 , row : 12
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  N V T C P P S
+New Tiles :  E O N Q N T V
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : fro , score : 27 , direction : 1 , anchor (9 , 14) , col : 14 , row : 7
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : nob , score : 7 , direction : 1 , col : 7 , row : 6
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : did , score : 19 , direction : 1 , anchor (4 , 5) , col : 5 , row : 3
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : pein , score : 12 , direction : 2 , col : 4 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : feet , score : 16 , direction : 2 , anchor (11 , 10) , col : 10 , row : 11
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wap , score : 16 , direction : 1 , col : 5 , row : 3
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : xyst , score : 37 , direction : 2 , anchor (1 , 3) , col : 1 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tad , score : 4 , direction : 2 , col : 9 , row : 10
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : xysti , score : 17 , direction : 2 , anchor (1 , 5) , col : 1 , row : 1
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : swaps , score : 10 , direction : 1 , col : 6 , row : 3
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : octyl , score : 24 , direction : 2 , anchor (2 , 5) , col : 5 , row : 2
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : gland , score : 11 , direction : 2 , col : 3 , row : 6
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : swang , score : 26 , direction : 1 , anchor (2 , 10) , col : 10 , row : 2
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wab , score : 16 , direction : 2 , col : 3 , row : 13
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : vie , score : 19 , direction : 1 , anchor (7 , 13) , col : 13 , row : 5
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : cab , score : 14 , direction : 1 , col : 4 , row : 12
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : ta , score : 10 , direction : 1 , anchor (4 , 9) , col : 9 , row : 4
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tank , score : 8 , direction : 1 , col : 13 , row : 7
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : agio , score : 15 , direction : 1 , anchor (4 , 11) , col : 11 , row : 3
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : pink , score : 11 , direction : 2 , col : 12 , row : 8
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : rip , score : 10 , direction : 1 , anchor (11 , 4) , col : 4 , row : 10
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tin , score : 7 , direction : 1 , col : 14 , row : 5
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : nu , score : 4 , direction : 1 , anchor (13 , 6) , col : 6 , row : 12
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  E R Q O R V
+New Tiles :  E E R Q E E
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : guru , score : 7 , direction : 1 , anchor (4 , 1) , col : 1 , row : 3
+
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : retine , score : 10 , direction : 1 , col : 15 , row : 5
+
+
+******COMPUTER TURN******
+

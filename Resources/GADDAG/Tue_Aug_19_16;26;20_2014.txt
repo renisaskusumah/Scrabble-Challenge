@@ -1,0 +1,21 @@
+player word durasi skor tiles
+
+
+Player 1	joy	0.2	26		3	
+Player 2 	kop	0.253	17		2	
+Player 1	-	0.605	0		0	
+Player 2 	-	0.216	0		0	
+Player 1	-	0.537	0		0	
+Player 2 	-	0.226	0		0	
+Player 1	-	0.527	0		0	
+Player 2 	-	0.217	0		0	
+winner : Player 1
+left tile (letter bag): 81
+player 1 durasi : 1.869
+player 1 left tile : 7
+player 1 total skor : 26
+player 1 Final skor : 2
+player 2 durasi : 0.912
+player 2 left tile : 7
+player 2 total skor : 17
+player 2 Final skor : -16

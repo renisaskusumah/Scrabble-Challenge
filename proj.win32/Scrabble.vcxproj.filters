@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\res">
+      <UniqueIdentifier>{dca6710c-7da5-415a-853f-1f599435fd99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MenuScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gaddag.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Papan.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AiMenuScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameAiScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameHumanScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RackTile.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TileOnBoard.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoadingScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BasicTiles.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AiPlayer.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Strategy.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Negascout.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameAlgorithm.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Heuristic.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EndGameScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelpScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AboutScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MenuScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gaddag.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AiMenuScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameAiScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameHumanScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RackTile.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TileOnBoard.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoadingScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Negascout.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EndGameScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelpScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AboutScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\bg.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\board_2L.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\board_2w.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\board_3L.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\board_3w.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\board_center.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\board_tile.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\board_tile_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\possWord.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\pause_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\pause_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\start_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\start_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\rack.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\exchange_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\exchange_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\scoreboard.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\score_bg.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\letter_bag.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\ai_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\ai_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\play_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\play_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\title.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\AI_1.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\AI_2.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\AI_4.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\back_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\back_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\p1_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\p1_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\p2_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\p2_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\vs_label.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\test_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\test_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\exit_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\score.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\A_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\B_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\C_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\D_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\E_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\F_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\G_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\H_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\I_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\J_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\K_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\L_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\M_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\O_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\P_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Q_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\R_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\S_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\T_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\U_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\V_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\W_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\X_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Y_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Z_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\A.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\B.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\C.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\D.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\E.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\F.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\G.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\H.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\I.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\J.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\K.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\L.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\M.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\N.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\O.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\P.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Q.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\R.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\S.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\T.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\U.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\V.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\W.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\X.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Y.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Z.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\execute_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\pass_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\hint_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\box.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\loading.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\tracker.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\execute_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\N_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\end_game.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\cancel_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\cancel_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\exchange_box.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\exchange_btn_box.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\exchange_hover_box.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\AI_3.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\hint_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\blank_box.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\blank_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\A_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\B_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\C_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\D_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\E_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\F_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\G_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\H_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\hint_bg.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\I_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\J_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\K_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\L_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\M_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\N_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\O_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\P_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Q_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\R_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\S_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\T_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\U_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\V_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\W_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\X_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Y_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\Z_blank.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\grid_helper.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\about_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\about_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\help_btn.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\help_hover.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\about.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\help.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\game_tracker.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="scrabble.ico" />
+    <Image Include="..\Resources\paused.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\play_btn_small.png">
+      <Filter>Classes</Filter>
+    </Image>
+    <Image Include="..\Resources\thingking_sprite.png">
+      <Filter>Classes</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Classes\ospd.txt">
+      <Filter>Classes</Filter>
+    </Text>
+    <Text Include="mytest.txt">
+      <Filter>Classes</Filter>
+    </Text>
+    <Text Include="..\Resources\sowpods.txt">
+      <Filter>Classes</Filter>
+    </Text>
+    <Text Include="..\Resources\CSW12.txt">
+      <Filter>Classes</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Scrabble.rc" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,99 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : gtfbcjy
+
+word : by anchor( col :  7 row : 7 ) score : 14 new tiles : by
+Hasil evaluasi : by , score : 14 , direction : 2 , col : 7 , row : 7
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : gtfcjcg
+
+POSSIBLE MOVEMENT : 
+
+
+word : sty anchor( col :  6 row : 8 ) score : 7 new tiles : st
+word : bys anchor( col :  6 row : 8 ) score : 12 new tiles : bs
+word : sky anchor( col :  6 row : 8 ) score : 15 new tiles : sk
+word : pyx anchor( col :  6 row : 8 ) score : 26 new tiles : px
+word : bys anchor( col :  8 row : 8 ) score : 12 new tiles : bs
+word : xyst anchor( col :  8 row : 8 ) score : 23 new tiles : xst
+word : pyx anchor( col :  8 row : 8 ) score : 26 new tiles : px
+word : tsk anchor( col :  7 row : 9 ) score : 15 new tiles : tsk
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : TBSVKPX
+
+HUMAN MOVE : pyx , score : 26 , direction : 1 , col : 9 , row : 8
+
+
+******COMPUTER TURN******
+RACK : gtfcjcg
+
+POSSIBLE MOVEMENT : 
+
+
+word : be anchor( col :  8 row : 7 ) score : 13 new tiles : e
+word : bet anchor( col :  8 row : 7 ) score : 14 new tiles : et
+word : bets anchor( col :  8 row : 7 ) score : 15 new tiles : ets
+word : bevy anchor( col :  8 row : 7 ) score : 21 new tiles : evy
+word : vex anchor( col :  8 row : 7 ) score : 21 new tiles : ve
+word : vext anchor( col :  8 row : 7 ) score : 22 new tiles : vet
+word : kex anchor( col :  8 row : 7 ) score : 23 new tiles : ke
+word : pyxes anchor( col :  9 row : 8 ) score : 17 new tiles : es
+word : byte anchor( col :  6 row : 9 ) score : 15 new tiles : byte
+word : bytes anchor( col :  6 row : 9 ) score : 24 new tiles : bytes
+word : kytes anchor( col :  6 row : 9 ) score : 26 new tiles : kytes
+word : tykes anchor( col :  6 row : 9 ) score : 34 new tiles : tykes
+word : es anchor( col :  7 row : 9 ) score : 14 new tiles : es
+word : bytes anchor( col :  7 row : 9 ) score : 24 new tiles : bytes
+word : kytes anchor( col :  7 row : 9 ) score : 26 new tiles : kytes
+word : tykes anchor( col :  7 row : 9 ) score : 34 new tiles : tykes
+word : sext anchor( col :  8 row : 9 ) score : 16 new tiles : set
+word : vext anchor( col :  8 row : 9 ) score : 22 new tiles : vet
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : TBSVKYE
+
+HUMAN MOVE : pyxes , score : 17 , direction : 1 , col : 11 , row : 8
+
+
+******COMPUTER TURN******
+RACK : gtfcjcg
+
+word : gee anchor( col :  9 row : 7 ) score : 3 new tiles : ge
+word : get anchor( col :  9 row : 7 ) score : 6 new tiles : gt
+word : teg anchor( col :  9 row : 7 ) score : 8 new tiles : tg
+word : jet anchor( col :  9 row : 7 ) score : 12 new tiles : jt
+word : teg anchor( col :  9 row : 9 ) score : 8 new tiles : tg
+word : egg anchor( col :  9 row : 9 ) score : 9 new tiles : gg
+word : jet anchor( col :  9 row : 9 ) score : 12 new tiles : jt
+word : ef anchor( col :  9 row : 9 ) score : 13 new tiles : f
+word : eft anchor( col :  9 row : 9 ) score : 14 new tiles : ft
+Hasil evaluasi : eft , score : 14 , direction : 2 , anchor (10 , 9) , col : 8 , row : 9
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : gcjcgsd
+
+word : deft anchor( col :  9 row : 7 ) score : 8 new tiles : d
+word : bys anchor( col :  7 row : 9 ) score : 8 new tiles : s
+word : efts anchor( col :  9 row : 11 ) score : 7 new tiles : s
+Hasil evaluasi : bys , score : 8 , direction : 2 , anchor (9 , 11) , col : 7 , row : 7
+
+POSSIBLE MOVEMENT : 
+
+

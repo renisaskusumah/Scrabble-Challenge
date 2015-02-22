@@ -1,0 +1,30 @@
+player word durasi skor tiles
+
+
+Player 1	fucus	0.688	26		5	blank tiles
+Player 2 	xi	9.112	33		2	blank tiles
+Player 1	coz	1.226	34		2	
+Player 2 	frisk	0.751	10		3	
+Player 1	we	1.075	14		2	
+Player 2 	dun	0.824	13		2	
+Player 1	vow	1.217	25		3	
+Player 2 	tref	0.499	7		2	
+Player 1	frisks	0.457	11		1	
+Player 2 	vowed	1.122	16		2	
+Player 1	em	0.382	7		1	
+Player 2 	-	0.318	0		0	
+Player 1	-	0.327	0		0	
+Player 2 	-	0.324	0		0	
+Player 1	-	0.338	0		0	
+Player 2 	-	0.339	0		0	
+Player 1	-	0.33	0		0	
+winner : Player 1
+left tile (letter bag): 61
+player 1 durasi : 6.04
+player 1 left tile : 7
+player 1 total skor : 117
+player 1 Final skor : 95
+player 2 durasi : 13.289
+player 2 left tile : 7
+player 2 total skor : 79
+player 2 Final skor : 59

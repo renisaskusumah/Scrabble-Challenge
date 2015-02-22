@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	fur	--	12		3	HUMAN 
+Player 2	rackful	24.6	87		7	GADDAG

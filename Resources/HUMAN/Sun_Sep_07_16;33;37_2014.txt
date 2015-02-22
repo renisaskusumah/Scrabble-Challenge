@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	kif	0.078	20		3	GADDAG
+Player 1	fog	--	7		2	HUMAN 
+Player 2	jig	0.696	26		2	GADDAG

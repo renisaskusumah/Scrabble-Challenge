@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	die	--	8		3	HUMAN 
+Player 2		6.313	23		4	NEGASCOUT

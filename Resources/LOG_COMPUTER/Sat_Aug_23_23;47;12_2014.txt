@@ -1,0 +1,35 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+
+Hasil evaluasi : why , score : 24 , direction : 2 , col : 7 , row : 5
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : jutty , score : 23 , direction : 1 , anchor (6 , 7) , col : 7 , row : 3
+
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+wud
+word wud
+skor 11
+
+
+
+-------NEGA--------
+
+eval -37 word wud skor 11 depth 1 end 74 child 14
+eval -20 word wud skor 7 depth 1 end 67 child 9
+eval -23 word put skor 11 depth 1 end 73 child 13
+eval -36 word hup skor 9 depth 1 end 65 child 10
+eval -12 word tup skor 11 depth 1 end 63 child 11
+eval -35 word tup skor 6 depth 1 end 72 child 12
+
+
+

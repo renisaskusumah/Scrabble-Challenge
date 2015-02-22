@@ -1,0 +1,22 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  V H H * V Z
+New Tiles :  O U H P G U
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : quin , score : 26 , direction : 2 , col : 7 , row : 4
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : pan , score : 5 , direction : 1 , col : 8 , row : 7
+
+
+******COMPUTER TURN******
+

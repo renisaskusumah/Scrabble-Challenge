@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	draw	--	16		4	HUMAN 
+Player 2	wych	1.834	30		3	GADDAG
+Player 1	cube	--	10		3	HUMAN 
+Player 2	tub	2.765	26		3	GADDAG
+Player 1	hat	--	6		2	HUMAN 
+Player 2	boggy	3.823	24		4	GADDAG

@@ -1,0 +1,8 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	-	0.07	0		0	GADDAG
+Player 1	we	--	10		2	HUMAN 
+Player 2	sex	0.339	19		2	GADDAG
+Player 1	sals	--	4		3	HUMAN 

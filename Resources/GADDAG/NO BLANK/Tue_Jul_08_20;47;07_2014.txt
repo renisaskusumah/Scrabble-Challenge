@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	knurl	0.128	28		5
+Player 2 	jay	1.085	27		3
+Player 1	precinct	4.591	71		7
+Player 2 	zany	2.203	20		3
+Player 1	buzz	2.765	48		2
+Player 2 	imp	0.851	14		2
+Player 1	fawn	2.306	20		3
+Player 2 	tav	0.789	14		2
+Player 1	lez	2.424	24		2
+Player 2 	flab	2.658	17		3
+Player 1	khan	0.931	13		2
+Player 2 	jays	0.788	15		1
+Player 1	um	0.746	8		1
+Player 2 	xi	1.381	33		2
+Player 1	imping	1.765	22		3
+Player 2 	jag	2.067	13		2
+Player 1	blah	0.771	14		3
+Player 2 	edit	4.311	22		4
+Player 1	vend	2.115	24		4
+Player 2 	steads	11.15	33		6
+Player 1	wing	2.602	29		4
+Player 2 	ods	8.594	23		2
+Player 1	rode	6.631	25		4
+Player 2 	runt	8.437	18		3
+Player 1	qat	6.72	28		3
+Player 2 	ore	4.026	15		2
+Player 1	reedits	7.108	14		4
+Player 2 	ret	7.186	11		2
+Player 1	aga	3.314	22		2
+Player 2 	route	5.171	14		4
+Player 1	el	0.909	9		3
+Player 2 	it	0.234	4		5
+Player 1	ore	0.399	3		4
+Player 2 	or	0.095	2		6
+Player 1	-	0.187	0		4
+Player 2 	-	0.037	0		6
+Player 1	-	0.19	0		4
+Player 2 	-	0.036	0		6
+Player 1	-	0.193	0		4
+Player 2 	-	0.039	0		6
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 46.795
+player 1 left tile : 3
+player 1 total skor : 402
+player 1 Final skor : 399
+player 2 durasi : 61.138
+player 2 left tile : 1
+player 2 total skor : 295
+player 2 Final skor : 294

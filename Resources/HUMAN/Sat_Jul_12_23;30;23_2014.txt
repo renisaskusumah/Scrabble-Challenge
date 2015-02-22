@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	bun	--	10		3
+Player 2	women	2.551	30		5

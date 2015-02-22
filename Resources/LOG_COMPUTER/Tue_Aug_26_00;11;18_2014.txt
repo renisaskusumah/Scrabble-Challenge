@@ -1,0 +1,66 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : violin , score : 20 , direction : 1 , col : 13 , row : 7
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+sox
+word sox
+skor 36
+
+
+
+-------NEGA--------
+
+eval 2 word oxids skor 23 depth 1 end 29 child 15
+eval -7 word doux skor 28 depth 1 end 45 child 12
+eval 1 word sou skor 8 depth 1 end 23 child 12
+eval -5 word xu skor 22 depth 1 end 37 child 13
+eval 12 word violins skor 10 depth 1 end 42 child 11
+eval -14 word sox skor 36 depth 1 end 52 child 13
+eval 3 word vox skor 13 depth 1 end 28 child 11
+eval 5 word dot skor 11 depth 1 end 32 child 11
+eval -11 word luvs skor 14 depth 1 end 47 child 14
+eval -10 word tux skor 16 depth 1 end 27 child 7
+eval -11 word divots skor 20 depth 1 end 44 child 18
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : oak , score : 17 , direction : 2 , col : 9 , row : 10
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+tux
+word tux
+skor 10
+
+
+
+-------NEGA--------
+
+eval 5 word dit skor 10 depth 1 end 51 child 13
+eval 14 word duit skor 5 depth 1 end 37 child 14
+eval 6 word dunt skor 10 depth 1 end 42 child 13
+eval -12 word da skor 10 depth 1 end 56 child 12
+eval -1 word duo skor 11 depth 1 end 49 child 9
+eval 3 word od skor 3 depth 1 end 52 child 14
+eval -12 word tux skor 10 depth 1 end 47 child 13
+eval 1 word xu skor 9 depth 1 end 51 child 12
+eval -2 word ut skor 11 depth 1 end 50 child 13
+
+
+
+******COMPUTER TURN******
+

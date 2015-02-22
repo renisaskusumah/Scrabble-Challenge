@@ -1,0 +1,59 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : lowcehu
+
+word : col anchor( col :  7 row : 7 ) score : 10 new tiles : col
+word : cole anchor( col :  7 row : 7 ) score : 12 new tiles : cole
+word : whole anchor( col :  7 row : 7 ) score : 22 new tiles : whole
+word : welch anchor( col :  7 row : 7 ) score : 26 new tiles : welch
+word : louche anchor( col :  7 row : 7 ) score : 30 new tiles : louche
+word : welch anchor( col :  7 row : 7 ) score : 34 new tiles : welch
+Hasil evaluasi : welch , score : 34 , direction : 2 , col : 7 , row : 7
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : twa anchor( col :  6 row : 7 ) score : 6 new tiles : ta
+word : twas anchor( col :  6 row : 7 ) score : 7 new tiles : tas
+word : swam anchor( col :  6 row : 7 ) score : 9 new tiles : sam
+word : ma anchor( col :  6 row : 7 ) score : 12 new tiles : ma
+word : summa anchor( col :  6 row : 7 ) score : 17 new tiles : summa
+word : man anchor( col :  6 row : 7 ) score : 17 new tiles : man
+word : tam anchor( col :  6 row : 7 ) score : 21 new tiles : tam
+word : awn anchor( col :  8 row : 7 ) score : 6 new tiles : an
+word : mawn anchor( col :  8 row : 7 ) score : 9 new tiles : man
+word : wammus anchor( col :  8 row : 7 ) score : 14 new tiles : ammus
+word : unmet anchor( col :  6 row : 8 ) score : 11 new tiles : unmt
+word : untame anchor( col :  6 row : 8 ) score : 12 new tiles : untam
+word : maumet anchor( col :  6 row : 8 ) score : 14 new tiles : maumt
+word : maumets anchor( col :  6 row : 8 ) score : 15 new tiles : maumts
+word : am anchor( col :  6 row : 8 ) score : 19 new tiles : am
+word : tam anchor( col :  6 row : 8 ) score : 21 new tiles : tam
+word : em anchor( col :  8 row : 8 ) score : 7 new tiles : m
+word : stem anchor( col :  8 row : 8 ) score : 10 new tiles : stm
+word : stemma anchor( col :  8 row : 8 ) score : 14 new tiles : stmma
+word : mems anchor( col :  8 row : 8 ) score : 14 new tiles : mms
+word : maumets anchor( col :  8 row : 8 ) score : 15 new tiles : maumts
+word : ma anchor( col :  8 row : 8 ) score : 16 new tiles : ma
+word : slam anchor( col :  6 row : 9 ) score : 12 new tiles : sam
+word : smalt anchor( col :  6 row : 9 ) score : 13 new tiles : smat
+word : malts anchor( col :  6 row : 9 ) score : 15 new tiles : mats
+word : malms anchor( col :  6 row : 9 ) score : 17 new tiles : mams
+word : malm anchor( col :  8 row : 9 ) score : 14 new tiles : mam
+word : malms anchor( col :  8 row : 9 ) score : 17 new tiles : mams
+word : sanctum anchor( col :  6 row : 10 ) score : 22 new tiles : santum
+word : sanctum anchor( col :  8 row : 10 ) score : 22 new tiles : santum
+word : must anchor( col :  6 row : 11 ) score : 20 new tiles : must
+word : hm anchor( col :  8 row : 11 ) score : 7 new tiles : m
+word : hmm anchor( col :  8 row : 11 ) score : 10 new tiles : mm
+word : hants anchor( col :  8 row : 11 ) score : 16 new tiles : ants
+word : haunts anchor( col :  8 row : 11 ) score : 18 new tiles : aunts
+word : human anchor( col :  8 row : 11 ) score : 20 new tiles : uman
+word : humans anchor( col :  8 row : 11 ) score : 22 new tiles : umans
+-------HUMAN CLICK HINT-------
+
+
+

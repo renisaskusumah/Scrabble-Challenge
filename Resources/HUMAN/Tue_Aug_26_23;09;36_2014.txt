@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	kob	0.072	18		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	mop	1.231	24		3	GADDAG
+Player 1	pom	--	10		1	HUMAN 
+Player 2	mops	11.547	8		1	NEGASCOUT
+Player 1	bob	--	7		2	HUMAN 
+Player 2	mops	0.347	0		1	NEGASCOUT

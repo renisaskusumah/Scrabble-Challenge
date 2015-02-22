@@ -1,0 +1,45 @@
+player word durasi skor tiles
+
+
+Player 1	mine	--	12		4
+Player 2	zinc	0.702	35		3
+Player 1	pi	--	14		1
+Player 2	jimp	0.589	33		4
+Player 1		pass		--			0		0	
+Player 2	buy	18.716	23		3
+Player 1	brr	--	5		2
+Player 2	zincic	1.802	21		2
+Player 1	fix	--	13		2
+Player 2	tong	1.889	24		4
+Player 1	knars	--	28		4
+Player 2	kev	2.715	20		2
+Player 1	awl	--	18		3
+Player 2	bent	2.865	16		3
+Player 1	ow	--	16		1
+Player 2	fuds	2.519	18		4
+Player 1	fag	--	7		2
+Player 2	quids	5.082	56		5
+Player 1	cion	--	30		2
+Player 2	shod	5.325	32		4
+Player 1	gurged	--	32		5
+Player 2	hi	7.918	13		1
+Player 1	virtu	--	16		4
+Player 2	erne	14.41	12		4
+Player 1	yow	--	26		3
+Player 2	la	12.732	11		2
+Player 1	my	--	14		1
+Player 2	titi	8.198	9		4
+Player 1	oe	--	14		2
+Player 2	lo	11.67	11		2
+Player 1	aa	--	6		2
+Player 2	aerate	13.554	25		6
+Player 1	ane	--	14		3
+Player 2	el	0.1	60		7
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 7 menit 32 detik 
+player 1 left tile : 4
+player 1 total skor : 265
+player 2 durasi : 1 menit 41 detik 
+player 2 left tile : 0
+player 2 total skor : 419

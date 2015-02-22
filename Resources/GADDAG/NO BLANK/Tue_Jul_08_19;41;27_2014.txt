@@ -1,0 +1,57 @@
+player word durasi skor tiles
+
+
+Player 1	chads	1.445	28		5
+Player 2 	wrack	5.196	32		4
+Player 1	zings	2.737	25		4
+Player 2 	jo	2.684	23		2
+Player 1	filmy	2.584	26		4
+Player 2 	pyx	0.52	15		2
+Player 1	golds	13.624	29		5
+Player 2 	wools	11.883	24		4
+Player 1	ghi	6.596	22		3
+Player 2 	hm	0.554	14		1
+Player 1	mob	7.315	20		2
+Player 2 	vow	0.596	9		1
+Player 1	lab	8.984	18		3
+Player 2 	oxy	0.77	13		1
+Player 1	turgor	16.24	22		5
+Player 2 	dom	0.728	6		1
+Player 1	pong	8.583	18		3
+Player 2 	ut	0.622	2		1
+Player 1	ace	23.017	15		2
+Player 2 	yurt	2.061	8		3
+Player 1	oft	15.703	23		3
+Player 2 	quids	5.828	25		5
+Player 1	no	20.418	12		2
+Player 2 	vat	16.901	16		2
+Player 1	quirt	23.4	15		4
+Player 2 	tinnier	24.697	18		6
+Player 1	etna	50.014	18		4
+Player 2 	pongee	9.775	15		2
+Player 1	ba	9.289	12		1
+Player 2 	aa	8.282	8		2
+Player 1	ae	4.44	8		3
+Player 2 	gib	1.695	7		3
+Player 1	vine	1.077	7		5
+Player 2 	ti	0.982	6		4
+Player 1	dee	0.218	54		7
+Player 2 	er	0.407	5		5
+Player 1	-	0.007	0		7
+Player 2 	ree	0.158	53		7
+Player 1	-	0.007	0		7
+Player 2 	-	0.007	0		7
+Player 1	-	0.007	0		7
+Player 2 	-	0.007	0		7
+Player 1	-	0.007	0		7
+Player 2 	-	0.008	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 3 menit 28 detik 
+player 1 left tile : 0
+player 1 total skor : 372
+player 1 Final skor : 372
+player 2 durasi : 1 menit 23 detik 
+player 2 left tile : 0
+player 2 total skor : 299
+player 2 Final skor : 299

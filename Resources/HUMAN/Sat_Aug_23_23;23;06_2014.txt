@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	quin	0.311	26		4	GADDAG
+Player 1	pan	--	5		2	HUMAN 

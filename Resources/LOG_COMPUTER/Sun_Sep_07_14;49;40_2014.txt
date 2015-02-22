@@ -1,0 +1,55 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : jhfmqrs
+
+word : sh anchor( col :  7 row : 7 ) score : 10 new tiles : sh
+word : hm anchor( col :  7 row : 7 ) score : 14 new tiles : hm
+Hasil evaluasi : hm , score : 14 , direction : 2 , col : 7 , row : 7
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : *ELZADK
+
+HUMAN MOVE : my , score : 3 , direction : 1 , col : 9 , row : 8
+
+
+******COMPUTER TURN******
+RACK : jfqrsgs
+
+word : sh anchor( col :  6 row : 7 ) score : 5 new tiles : s
+Hasil evaluasi : sh , score : 5 , direction : 1 , anchor (8 , 9) , col : 7 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+
+word : lea anchor( col :  6 row : 6 ) score : 7 new tiles : lea
+word : kea anchor( col :  6 row : 6 ) score : 11 new tiles : kea
+word : akela anchor( col :  6 row : 6 ) score : 14 new tiles : akela
+word : laze anchor( col :  6 row : 6 ) score : 17 new tiles : laze
+word : daze anchor( col :  6 row : 6 ) score : 18 new tiles : daze
+word : zek anchor( col :  6 row : 6 ) score : 22 new tiles : zek
+word : lea anchor( col :  5 row : 7 ) score : 9 new tiles : lea
+word : deash anchor( col :  5 row : 7 ) score : 11 new tiles : dea
+word : kasha anchor( col :  5 row : 7 ) score : 17 new tiles : kaa
+word : zeal anchor( col :  5 row : 7 ) score : 39 new tiles : zeal
+word : adz anchor( col :  5 row : 7 ) score : 39 new tiles : adz
+word : adze anchor( col :  5 row : 7 ) score : 40 new tiles : adze
+word : sha anchor( col :  8 row : 7 ) score : 11 new tiles : a
+word : kasha anchor( col :  8 row : 7 ) score : 17 new tiles : kaa
+word : ka anchor( col :  8 row : 7 ) score : 21 new tiles : ka
+word : ae anchor( col :  8 row : 9 ) score : 9 new tiles : ae
+word : ale anchor( col :  8 row : 9 ) score : 10 new tiles : ale
+word : alae anchor( col :  8 row : 9 ) score : 11 new tiles : alae
+word : ad anchor( col :  8 row : 9 ) score : 12 new tiles : ad
+word : adz anchor( col :  8 row : 9 ) score : 22 new tiles : adz
+word : adze anchor( col :  8 row : 9 ) score : 23 new tiles : adze
+word : akela anchor( col :  8 row : 9 ) score : 24 new tiles : akela
+-------HUMAN CLICK HINT-------
+
+
+

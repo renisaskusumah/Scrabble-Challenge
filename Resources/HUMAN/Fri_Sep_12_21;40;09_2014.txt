@@ -1,0 +1,56 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	fishy	46.281	34		5	GADDAG
+Player 1	sit	--	5		2	HUMAN 
+Player 2	kex	22.186	32		3	GADDAG
+Player 1	myth	--	12		3	HUMAN 
+Player 2	myths	1.672	13		1	GADDAG
+Player 1	hip	--	14		2	HUMAN 
+Player 2	-	2.049	0		0	GADDAG
+Player 1	cwm	--	22		3	HUMAN 
+Player 2	-	2.346	0		0	GADDAG
+Player 1		pass		--			0		0	
+Player 2	-	2.351	0		0	GADDAG
+Player 1	pose	--	6		3	HUMAN 
+Player 2	brr	3.208	24		3	GADDAG
+Player 1	kin	--	8		2	HUMAN 
+Player 2	fid	2.978	12		2	GADDAG
+Player 1	few	--	15		2	HUMAN 
+Player 2	stop	2.952	8		2	GADDAG
+Player 1	ten	--	3		1	HUMAN 
+Player 2	zinc	6.007	30		3	GADDAG
+Player 1	sun	--	6		2	HUMAN 
+Player 2	brr	3.348	18		2	GADDAG
+Player 1	nods	--	6		3	HUMAN 
+Player 2	vug	7.035	20		3	GADDAG
+Player 1	lis	--	9		2	HUMAN 
+Player 2	umm	9.047	12		1	GADDAG
+Player 1	wry	--	11		2	HUMAN 
+Player 2	cullis	6.813	8		3	GADDAG
+Player 1	coot	--	7		3	HUMAN 
+Player 2	qat	23.952	32		2	GADDAG
+Player 1	noil	--	6		3	HUMAN 
+Player 2	daven	23.375	27		4	GADDAG
+Player 1	gain	--	10		3	HUMAN 
+Player 2	drylot	38.469	36		5	GADDAG
+Player 1	jog	--	22		2	HUMAN 
+Player 2	eelier	26.716	26		5	GADDAG
+Player 1	jog	--	12		2	HUMAN 
+Player 2	awa	17.497	16		2	GADDAG
+Player 1	nee	--	6		2	HUMAN 
+Player 2	ae	218.518	10		2	NEGASCOUT
+Player 1	ear	--	5		4	HUMAN 
+Player 2	pie	10.475	14		4	NEGASCOUT
+Player 1	eel	--	3		5	HUMAN 
+Player 2	nae	4.247	9		6	NEGASCOUT
+Player 1	aa	--	8		7	HUMAN 
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 0
+player 1 total skor : 196
+player 2 durasi : 7 menit 52 detik 
+player 2 left tile : 1
+player 2 total skor : 381

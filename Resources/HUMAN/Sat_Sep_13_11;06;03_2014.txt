@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	fee	--	10		3	HUMAN 
+Player 2	zip	8.165	39		3	GADDAG

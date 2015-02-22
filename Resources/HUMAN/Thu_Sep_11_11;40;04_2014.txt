@@ -1,0 +1,43 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	awkward	--	86		7	HUMAN 
+Player 2	qat	6.126	23		2	GADDAG
+Player 1	glazed	--	36		5	HUMAN 
+Player 2	vacua	9.522	20		4	GADDAG
+Player 1	schav	--	18		4	HUMAN 
+Player 2	fubsy	12.01	29		4	GADDAG
+Player 1	jabs	--	32		4	HUMAN 
+Player 2	nom	21.5	27		3	GADDAG
+Player 1	fuggy	--	29		4	HUMAN 
+Player 2	ox	25.188	39		2	GADDAG
+Player 1	guru	--	10		3	HUMAN 
+Player 2	tirl	13.345	33		4	GADDAG
+Player 1	hi	--	15		2	HUMAN 
+Player 2	moan	24.276	29		4	GADDAG
+Player 1	hid	--	18		3	HUMAN 
+Player 2	psst	10.667	31		4	GADDAG
+Player 1	de	--	36		2	HUMAN 
+Player 2	rob	20.629	16		2	GADDAG
+Player 1	flint	--	12		4	HUMAN 
+Player 2	inro	21.694	14		4	GADDAG
+Player 1	eh	--	14		1	HUMAN 
+Player 2	ark	32.061	13		2	GADDAG
+Player 1	indamins	--	11		3	HUMAN 
+Player 2	lanai	29.352	17		5	GADDAG
+Player 1	poi	--	16		3	HUMAN 
+Player 2	tee	38.299	8		2	GADDAG
+Player 1	bar	--	11		1	HUMAN 
+Player 2	tet	1631.89	12		4	NEGASCOUT
+Player 1	oe	--	11		3	HUMAN 
+Player 2	ope	30.575	5		5	NEGASCOUT
+Player 1	er	--	8		4	HUMAN 
+Player 2	oe	1.076	6		7	NEGASCOUT
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 10 menit 50 detik 
+player 1 left tile : 3
+player 1 total skor : 363
+player 2 durasi : 32 menit 2 detik 
+player 2 left tile : 0
+player 2 total skor : 322

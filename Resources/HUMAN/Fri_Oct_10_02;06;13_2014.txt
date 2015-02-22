@@ -1,0 +1,15 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	her	13.54	12		3	HUMAN 	12
+Player 2	boxy	2.275	41		4	GADDAG	41
+Player 1		exchange ( 4.272 )		--			0		0	
+Player 2	wych	0.437	30		3	GADDAG	71
+Player 1		exchange ( 5.375 )		--			0		0	
+Player 2	bez	0.283	14		2	GADDAG	85
+Player 1	hold	37.634	14		3	HUMAN 	26
+Player 2	jell	0.651	22		3	GADDAG	107
+Player 1		pass ( 1.792 )		--			0		0	
+Player 2	aff	0.67	26		3	GADDAG	133
+Player 1		exchange ( 4.397 )		--			0		0	
+Player 2	grand	1.386	22		4	GADDAG	155

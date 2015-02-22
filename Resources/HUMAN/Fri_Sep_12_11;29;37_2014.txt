@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	wry	--	18		3	HUMAN 
+Player 2	benzoyl	48.979	40		6	GADDAG
+Player 1	funs	--	14		3	HUMAN 
+Player 2	vaw	9.853	27		3	GADDAG
+Player 1	lung	--	7		3	HUMAN 
+Player 2	bulgy	10.798	22		4	GADDAG
+Player 1	bin	--	6		2	HUMAN 
+Player 2	myth	6.706	24		3	GADDAG
+Player 1	gun	--	4		2	HUMAN 
+Player 2		2.957	9		3	NEGASCOUT

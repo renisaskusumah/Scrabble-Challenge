@@ -1,0 +1,32 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	dick	--	22		4	HUMAN 
+Player 2	mixt	0.423	24		3	GADDAG
+Player 1	city	--	16		3	HUMAN 
+Player 2	wombs	2.308	39		5	GADDAG
+Player 1	wab	--	8		2	HUMAN 
+Player 2	radio	7.481	26		4	GADDAG
+Player 1	bowl	--	9		2	HUMAN 
+Player 2	lipid	4.136	24		4	GADDAG
+Player 1	quod	--	28		2	HUMAN 
+Player 2	party	5.26	45		5	GADDAG
+Player 1	jam	--	23		2	HUMAN 
+Player 2	nth	1.784	12		2	GADDAG
+Player 1	yet	--	6		2	HUMAN 
+Player 2	egg	1.543	10		2	GADDAG
+Player 1	cunt	--	7		3	HUMAN 
+Player 2	tart	38.533	11		3	GADDAG
+Player 1	laud	--	13		3	HUMAN 
+Player 2	wabs	2.222	10		1	GADDAG
+Player 1	vigil	--	9		4	HUMAN 
+Player 2	rebs	7.608	29		3	GADDAG
+Player 1	overtart	--	20		4	HUMAN 
+Player 2	oh	5.677	15		2	GADDAG
+Player 1	zig	--	23		2	HUMAN 
+Player 2	our	7.578	14		2	GADDAG
+Player 1	neat	--	12		2	HUMAN 
+Player 2	ritz	7.483	14		3	GADDAG
+Player 1	faena	--	33		5	HUMAN 
+Player 2	loins	11.643	22		5	GADDAG
+Player 1	avo	--	18		2	HUMAN 

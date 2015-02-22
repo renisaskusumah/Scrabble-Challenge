@@ -1,0 +1,18 @@
+player word durasi skor tiles
+
+
+Player 1	jiffy	1.967	50		5	blank tiles
+Player 2 	prof	6.319	24		4	
+Player 1	john	0.492	14		2	
+Player 2 	kists	6.473	58		5	
+Player 1	pudgy	1.135	15		4	
+Player 2 	busty	5.281	24		4	
+Player 1	kob	2.003	18		2	
+Player 2 	phial	5.581	20		4	
+Player 1	quiz	1.918	42		3	
+Player 2 	quoit	4.061	28		4	
+Player 1	silvex	5.605	39		6	
+Player 2 	won	4.016	28		3	
+Player 1	coward	9.953	38		6	
+Player 2 	vale	10.716	38		4	
+Player 1	merlot	18.053	22		4	

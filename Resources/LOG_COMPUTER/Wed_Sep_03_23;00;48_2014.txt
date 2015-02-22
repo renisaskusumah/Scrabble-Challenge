@@ -1,0 +1,35 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : EWYKXEA
+
+HUMAN MOVE : wake , score : 22 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : oqaspyz
+
+Hasil evaluasi : spaz , score : 40 , direction : 1 , anchor (7 , 6) , col : 6 , row : 5
+
+POSSIBLE MOVEMENT : 
+spaz ( col : 5 row: 6 ) score : 40
+yawps ( col : 5 row: 7 ) score : 13
+zap ( col : 6 row: 6 ) score : 39
+waspy ( col : 7 row: 7 ) score : 17
+soya ( col : 8 row: 6 ) score : 32
+spaz ( col : 5 row: 8 ) score : 28
+zaps ( col : 6 row: 8 ) score : 28
+yapoks ( col : 3 row: 9 ) score : 21
+sepoy ( col : 6 row: 10 ) score : 20
+soapy ( col : 7 row: 11 ) score : 35
+
+
+******HUMAN RESULT******
+RACK : EPYRXHA
+
+HUMAN MOVE : key , score : 18 , direction : 1 , col : 10 , row : 9
+
+
+******COMPUTER TURN******
+RACK : oqyn*gi
+

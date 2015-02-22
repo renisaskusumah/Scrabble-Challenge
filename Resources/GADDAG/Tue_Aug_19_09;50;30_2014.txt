@@ -1,0 +1,11 @@
+player word durasi skor tiles
+
+
+Player 1	gutty	0.222	26		5	
+Player 2 	xu	2.088	36		2	
+Player 1	gurry	1.092	29		5	
+Player 2 	murr	1.782	18		2	
+Player 1	wych	0.61	15		3	
+Player 2 	hm	0.687	21		1	
+Player 1	nu	0.77	8		1	
+Player 2 	-	0.543	0		0	

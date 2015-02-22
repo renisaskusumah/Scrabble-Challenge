@@ -1,0 +1,42 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	zoeas	0.482	48		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	grosz	3.34	30		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	whack	7.157	40		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	hypes	11.691	54		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tivy	4.231	41		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	voe	9.858	19		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	wo	8.617	18		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jeu	7.538	28		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tuft	5.212	20		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	mog	6.519	19		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jutes	13.516	24		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	naif	8.703	25		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	pinball	59.504	75		7	GADDAG
+Player 1	tag	--	8		2	HUMAN 
+Player 2	coloni	9.43	27		5	GADDAG
+Player 1	tail	--	8		3	HUMAN 
+Player 2	braid	11.585	26		5	GADDAG
+Player 1	men	--	8		2	HUMAN 
+Player 2	odd	11.379	22		3	GADDAG
+Player 1	fan	--	6		1	HUMAN 
+Player 2	inner	9.877	21		5	GADDAG
+Player 1	dor	--	4		1	HUMAN 
+Player 2	ae	3.344	10		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	era	4.654	17		3	GADDAG
+Player 1	ar	--	2		1	HUMAN 

@@ -1,0 +1,27 @@
+player word durasi skor tiles
+
+
+Player 1	tsk	0.086	14		3	
+Player 2 	-	0.203	0		0	
+Player 1	vodka	1.246	15		4	
+Player 2 	jog	0.472	11		2	
+Player 1	gilds	1.502	29		5	
+Player 2 	virls	1.085	13		4	
+Player 1	fly	1.077	13		2	
+Player 2 	ax	0.474	9		1	
+Player 1	-	0.674	0		0	
+Player 2 	-	0.61	0		0	
+Player 1	-	0.646	0		0	
+Player 2 	-	0.591	0		0	
+Player 1	-	0.648	0		0	
+Player 2 	-	0.593	0		0	
+winner : Player 1
+left tile (letter bag): 65
+player 1 durasi : 5.879
+player 1 left tile : 7
+player 1 total skor : 71
+player 1 Final skor : 53
+player 2 durasi : 4.028
+player 2 left tile : 7
+player 2 total skor : 33
+player 2 Final skor : 15

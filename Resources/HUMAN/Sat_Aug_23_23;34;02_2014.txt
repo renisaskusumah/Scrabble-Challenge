@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	gloom	0.247	22		5	GADDAG
+Player 1	mo	--	4		1	HUMAN 
+Player 2	-	171.347	0		4	NEGASCOUT

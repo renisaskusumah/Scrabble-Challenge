@@ -1,0 +1,49 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : TELB*GN
+
+HUMAN MOVE : belt , score : 12 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : telbvnj
+
+word : bleb anchor( col :  6 row : 7 ) score : 8 new tiles : ble
+word : be anchor( col :  8 row : 7 ) score : 4 new tiles : e
+word : bet anchor( col :  8 row : 7 ) score : 5 new tiles : et
+word : belt anchor( col :  8 row : 7 ) score : 6 new tiles : elt
+word : bleb anchor( col :  8 row : 7 ) score : 8 new tiles : leb
+word : tel anchor( col :  8 row : 7 ) score : 12 new tiles : tel
+word : blet anchor( col :  8 row : 7 ) score : 15 new tiles : blet
+word : bet anchor( col :  8 row : 7 ) score : 16 new tiles : bet
+word : vet anchor( col :  8 row : 7 ) score : 18 new tiles : vet
+word : jet anchor( col :  8 row : 7 ) score : 26 new tiles : jet
+word : betel anchor( col :  6 row : 8 ) score : 9 new tiles : betl
+word : jete anchor( col :  6 row : 8 ) score : 12 new tiles : jet
+word : jebel anchor( col :  6 row : 8 ) score : 18 new tiles : jebl
+word : jete anchor( col :  6 row : 8 ) score : 20 new tiles : jte
+word : jebel anchor( col :  6 row : 8 ) score : 25 new tiles : jbel
+word : et anchor( col :  8 row : 8 ) score : 3 new tiles : t
+word : leet anchor( col :  8 row : 8 ) score : 6 new tiles : let
+word : beet anchor( col :  8 row : 8 ) score : 8 new tiles : bet
+word : bet anchor( col :  8 row : 8 ) score : 9 new tiles : bt
+word : betel anchor( col :  8 row : 8 ) score : 11 new tiles : btel
+word : vet anchor( col :  8 row : 8 ) score : 11 new tiles : vt
+word : jet anchor( col :  8 row : 8 ) score : 19 new tiles : jt
+word : jete anchor( col :  8 row : 8 ) score : 20 new tiles : jte
+word : jebel anchor( col :  8 row : 8 ) score : 25 new tiles : jbel
+word : jet anchor( col :  8 row : 8 ) score : 26 new tiles : jet
+word : tel anchor( col :  6 row : 9 ) score : 5 new tiles : te
+word : tell anchor( col :  6 row : 9 ) score : 6 new tiles : tel
+word : bel anchor( col :  6 row : 9 ) score : 11 new tiles : be
+word : belt anchor( col :  6 row : 9 ) score : 12 new tiles : bet
+word : jell anchor( col :  6 row : 9 ) score : 27 new tiles : jel
+word : belt anchor( col :  8 row : 9 ) score : 12 new tiles : bet
+word : lev anchor( col :  8 row : 9 ) score : 14 new tiles : ev
+word : jell anchor( col :  8 row : 9 ) score : 27 new tiles : jel
+word : net anchor( col :  6 row : 10 ) score : 8 new tiles : net
+word : blet anchor( col :  6 row : 10 ) score : 12 new tiles : ble
+word : blent anchor( col :  6 row : 10 ) score : 14 new tiles : blen
+word : nett anchor( col :  8 row : 10 ) score : 4 new tiles : net
+word : tent anchor( col :  8 row : 10 ) score : 8 new tiles : ent

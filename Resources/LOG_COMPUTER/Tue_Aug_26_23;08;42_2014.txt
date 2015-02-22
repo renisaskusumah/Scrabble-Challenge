@@ -1,0 +1,32 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : DDURAUH
+
+HUMAN MOVE : rad , score : 8 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+RACK : ddtxphp
+
+Hasil evaluasi : pax , score : 23 , direction : 2 , anchor (8 , 6) , col : 6 , row : 8
+
+POSSIBLE MOVEMENT : 
+pax ( col : 8 row: 6 ) score : 23
+trad ( col : 6 row: 7 ) score : 5
+pht ( col : 6 row: 5 ) score : 17
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : DAUYQUH
+
+HUMAN MOVE : hapax , score : 17 , direction : 2 , col : 8 , row : 9
+
+
+******COMPUTER TURN******
+RACK : ddthpyf
+

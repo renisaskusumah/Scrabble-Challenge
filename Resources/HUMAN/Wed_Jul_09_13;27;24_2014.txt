@@ -1,0 +1,7 @@
+player word durasi skor tiles
+
+
+Player 1	best	--	10		4
+Player 2	bombings	43.585	68		7
+Player 1	its	--	11		3
+Player 2	reed	11.719	20		3

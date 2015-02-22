@@ -1,0 +1,502 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : qlscabm
+
+word : slab anchor( col :  7 row : 7 ) score : 12 new tiles : slab
+word : clam anchor( col :  7 row : 7 ) score : 16 new tiles : clam
+word : clams anchor( col :  7 row : 7 ) score : 18 new tiles : clams
+word : lambs anchor( col :  7 row : 7 ) score : 20 new tiles : lambs
+word : calms anchor( col :  7 row : 7 ) score : 24 new tiles : calms
+Hasil evaluasi : calms , score : 24 , direction : 2 , col : 7 , row : 3
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qbrrjoa
+
+word : or anchor( col :  6 row : 3 ) score : 5 new tiles : or
+word : orca anchor( col :  6 row : 3 ) score : 6 new tiles : ora
+word : crab anchor( col :  8 row : 3 ) score : 8 new tiles : rab
+word : cobra anchor( col :  8 row : 3 ) score : 18 new tiles : obra
+word : arroba anchor( col :  6 row : 4 ) score : 16 new tiles : arrob
+word : raj anchor( col :  6 row : 4 ) score : 22 new tiles : raj
+word : jab anchor( col :  8 row : 4 ) score : 12 new tiles : jb
+word : arbor anchor( col :  8 row : 4 ) score : 14 new tiles : rbor
+word : arroba anchor( col :  8 row : 4 ) score : 16 new tiles : rroba
+word : ajar anchor( col :  8 row : 4 ) score : 22 new tiles : jar
+word : jar anchor( col :  6 row : 5 ) score : 13 new tiles : jar
+word : bolar anchor( col :  6 row : 5 ) score : 15 new tiles : boar
+word : alb anchor( col :  8 row : 5 ) score : 5 new tiles : ab
+word : lob anchor( col :  8 row : 5 ) score : 11 new tiles : ob
+word : lobar anchor( col :  8 row : 5 ) score : 13 new tiles : obar
+word : bolar anchor( col :  8 row : 5 ) score : 15 new tiles : boar
+word : arm anchor( col :  6 row : 6 ) score : 6 new tiles : ar
+word : bar anchor( col :  6 row : 6 ) score : 9 new tiles : bar
+word : joram anchor( col :  6 row : 6 ) score : 15 new tiles : jora
+word : jamb anchor( col :  8 row : 6 ) score : 19 new tiles : jab
+word : orb anchor( col :  6 row : 7 ) score : 6 new tiles : orb
+word : jobs anchor( col :  6 row : 7 ) score : 13 new tiles : job
+word : so anchor( col :  8 row : 7 ) score : 2 new tiles : o
+word : sob anchor( col :  8 row : 7 ) score : 5 new tiles : ob
+word : sorb anchor( col :  8 row : 7 ) score : 6 new tiles : orb
+word : soja anchor( col :  8 row : 7 ) score : 11 new tiles : oja
+Hasil evaluasi : raj , score : 22 , direction : 1 , anchor (7 , 8) , col : 4 , row : 4
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qbrorwh
+
+word : bo anchor( col :  4 row : 3 ) score : 10 new tiles : bo
+word : rob anchor( col :  4 row : 3 ) score : 16 new tiles : rob
+word : who anchor( col :  4 row : 3 ) score : 20 new tiles : who
+word : hob anchor( col :  4 row : 3 ) score : 22 new tiles : hob
+word : rob anchor( col :  5 row : 3 ) score : 16 new tiles : rob
+word : hob anchor( col :  5 row : 3 ) score : 22 new tiles : hob
+word : crow anchor( col :  8 row : 3 ) score : 9 new tiles : row
+word : chow anchor( col :  8 row : 3 ) score : 12 new tiles : how
+word : rajah anchor( col :  8 row : 4 ) score : 15 new tiles : h
+word : ho anchor( col :  8 row : 4 ) score : 22 new tiles : ho
+word : orb anchor( col :  4 row : 5 ) score : 5 new tiles : ob
+word : brrr anchor( col :  4 row : 5 ) score : 6 new tiles : brr
+word : brow anchor( col :  4 row : 5 ) score : 9 new tiles : bow
+word : wab anchor( col :  5 row : 5 ) score : 14 new tiles : wb
+word : abhor anchor( col :  5 row : 5 ) score : 16 new tiles : bhor
+word : braw anchor( col :  5 row : 5 ) score : 17 new tiles : brw
+word : haw anchor( col :  5 row : 5 ) score : 17 new tiles : hw
+word : lo anchor( col :  8 row : 5 ) score : 2 new tiles : o
+word : lob anchor( col :  8 row : 5 ) score : 11 new tiles : ob
+word : low anchor( col :  8 row : 5 ) score : 14 new tiles : ow
+word : ho anchor( col :  8 row : 5 ) score : 22 new tiles : ho
+word : worm anchor( col :  6 row : 6 ) score : 10 new tiles : wor
+word : womb anchor( col :  6 row : 6 ) score : 15 new tiles : wob
+word : rhomb anchor( col :  6 row : 6 ) score : 16 new tiles : rhob
+word : ho anchor( col :  6 row : 6 ) score : 22 new tiles : ho
+word : hob anchor( col :  6 row : 6 ) score : 28 new tiles : hob
+word : how anchor( col :  6 row : 6 ) score : 30 new tiles : how
+word : womb anchor( col :  8 row : 6 ) score : 15 new tiles : wob
+word : rhomb anchor( col :  8 row : 6 ) score : 16 new tiles : rhob
+word : oh anchor( col :  8 row : 6 ) score : 16 new tiles : oh
+word : orb anchor( col :  6 row : 7 ) score : 6 new tiles : orb
+word : hobs anchor( col :  6 row : 7 ) score : 9 new tiles : hob
+word : brow anchor( col :  6 row : 7 ) score : 13 new tiles : brow
+word : ho anchor( col :  6 row : 7 ) score : 22 new tiles : ho
+word : hob anchor( col :  6 row : 7 ) score : 28 new tiles : hob
+word : how anchor( col :  6 row : 7 ) score : 30 new tiles : how
+word : so anchor( col :  8 row : 7 ) score : 2 new tiles : o
+word : sob anchor( col :  8 row : 7 ) score : 5 new tiles : ob
+word : sorb anchor( col :  8 row : 7 ) score : 6 new tiles : orb
+word : sow anchor( col :  8 row : 7 ) score : 6 new tiles : ow
+word : swob anchor( col :  8 row : 7 ) score : 9 new tiles : wob
+word : show anchor( col :  8 row : 7 ) score : 10 new tiles : how
+word : ow anchor( col :  8 row : 7 ) score : 11 new tiles : ow
+word : oh anchor( col :  8 row : 7 ) score : 16 new tiles : oh
+Hasil evaluasi : how , score : 30 , direction : 2 , anchor (7 , 8) , col : 6 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qbrrfls
+
+word : brr anchor( col :  4 row : 3 ) score : 5 new tiles : br
+word : brrr anchor( col :  4 row : 3 ) score : 6 new tiles : brr
+word : brr anchor( col :  4 row : 3 ) score : 6 new tiles : brr
+word : ba anchor( col :  5 row : 3 ) score : 4 new tiles : b
+word : bar anchor( col :  5 row : 3 ) score : 7 new tiles : br
+word : bras anchor( col :  5 row : 3 ) score : 8 new tiles : brs
+word : far anchor( col :  5 row : 3 ) score : 8 new tiles : fr
+word : flab anchor( col :  5 row : 3 ) score : 15 new tiles : flb
+word : rajas anchor( col :  8 row : 4 ) score : 12 new tiles : s
+word : brr anchor( col :  4 row : 5 ) score : 5 new tiles : br
+word : brrr anchor( col :  4 row : 5 ) score : 6 new tiles : brr
+word : lab anchor( col :  5 row : 5 ) score : 11 new tiles : lb
+word : flab anchor( col :  5 row : 5 ) score : 15 new tiles : flb
+word : bos anchor( col :  5 row : 7 ) score : 5 new tiles : b
+word : boss anchor( col :  5 row : 7 ) score : 6 new tiles : bs
+word : foss anchor( col :  5 row : 7 ) score : 7 new tiles : fs
+word : floss anchor( col :  5 row : 7 ) score : 8 new tiles : fls
+word : boss anchor( col :  8 row : 7 ) score : 6 new tiles : bs
+word : foss anchor( col :  8 row : 7 ) score : 7 new tiles : fs
+word : floss anchor( col :  8 row : 7 ) score : 8 new tiles : fls
+word : howf anchor( col :  6 row : 9 ) score : 13 new tiles : f
+word : howfs anchor( col :  6 row : 9 ) score : 14 new tiles : fs
+Hasil evaluasi : flab , score : 15 , direction : 2 , anchor (6 , 9) , col : 2 , row : 5
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qrrsyrv
+
+word : cry anchor( col :  8 row : 3 ) score : 8 new tiles : ry
+word : rajas anchor( col :  8 row : 4 ) score : 12 new tiles : s
+word : rosy anchor( col :  5 row : 7 ) score : 7 new tiles : ry
+word : rosy anchor( col :  8 row : 7 ) score : 7 new tiles : ry
+word : hows anchor( col :  6 row : 9 ) score : 10 new tiles : s
+Hasil evaluasi : rajas , score : 12 , direction : 1 , anchor (6 , 9) , col : 4 , row : 4
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qrryrvf
+
+word : rosy anchor( col :  5 row : 7 ) score : 7 new tiles : ry
+word : rosy anchor( col :  8 row : 7 ) score : 7 new tiles : ry
+word : fry anchor( col :  6 row : 9 ) score : 22 new tiles : fry
+Hasil evaluasi : fry , score : 22 , direction : 1 , anchor (6 , 9) , col : 9 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qrrvbss
+
+word : bos anchor( col :  5 row : 7 ) score : 5 new tiles : b
+word : boss anchor( col :  5 row : 7 ) score : 6 new tiles : bs
+word : boss anchor( col :  8 row : 7 ) score : 6 new tiles : bs
+word : brr anchor( col :  8 row : 8 ) score : 18 new tiles : brr
+word : howfs anchor( col :  6 row : 10 ) score : 14 new tiles : s
+word : bys anchor( col :  8 row : 10 ) score : 11 new tiles : bs
+Hasil evaluasi : brr , score : 18 , direction : 1 , anchor (8 , 10) , col : 8 , row : 8
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qvssych
+
+word : sos anchor( col :  5 row : 7 ) score : 3 new tiles : s
+word : cos anchor( col :  5 row : 7 ) score : 5 new tiles : c
+word : scry anchor( col :  10 row : 7 ) score : 9 new tiles : scy
+word : cry anchor( col :  10 row : 9 ) score : 8 new tiles : cy
+word : scry anchor( col :  10 row : 9 ) score : 9 new tiles : scy
+word : howfs anchor( col :  6 row : 10 ) score : 14 new tiles : s
+word : sh anchor( col :  8 row : 10 ) score : 13 new tiles : sh
+word : shy anchor( col :  8 row : 10 ) score : 26 new tiles : shy
+Hasil evaluasi : shy , score : 26 , direction : 1 , anchor (8 , 10) , col : 10 , row : 8
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qvscaam
+
+word : aff anchor( col :  4 row : 2 ) score : 5 new tiles : af
+word : fa anchor( col :  6 row : 2 ) score : 6 new tiles : a
+word : aa anchor( col :  6 row : 2 ) score : 9 new tiles : aa
+word : ma anchor( col :  6 row : 2 ) score : 11 new tiles : ma
+word : vasa anchor( col :  4 row : 3 ) score : 18 new tiles : vasa
+word : casa anchor( col :  8 row : 3 ) score : 8 new tiles : asa
+word : caca anchor( col :  8 row : 3 ) score : 10 new tiles : aca
+word : cacas anchor( col :  8 row : 3 ) score : 20 new tiles : acas
+word : hmm anchor( col :  8 row : 6 ) score : 13 new tiles : m
+word : avos anchor( col :  5 row : 7 ) score : 7 new tiles : av
+word : samosa anchor( col :  5 row : 7 ) score : 18 new tiles : sama
+word : samosa anchor( col :  8 row : 7 ) score : 18 new tiles : sama
+word : aa anchor( col :  9 row : 7 ) score : 6 new tiles : aa
+word : aas anchor( col :  9 row : 7 ) score : 8 new tiles : aas
+word : maar anchor( col :  9 row : 7 ) score : 12 new tiles : maa
+word : aa anchor( col :  10 row : 7 ) score : 6 new tiles : aa
+word : aas anchor( col :  10 row : 7 ) score : 8 new tiles : aas
+word : ava anchor( col :  10 row : 7 ) score : 12 new tiles : ava
+word : marvy anchor( col :  10 row : 7 ) score : 13 new tiles : mav
+word : vaw anchor( col :  5 row : 8 ) score : 9 new tiles : va
+word : macaw anchor( col :  5 row : 8 ) score : 15 new tiles : maca
+word : ava anchor( col :  10 row : 9 ) score : 12 new tiles : ava
+word : amas anchor( col :  10 row : 9 ) score : 14 new tiles : amas
+word : vacs anchor( col :  6 row : 10 ) score : 32 new tiles : vacs
+word : ras anchor( col :  7 row : 10 ) score : 14 new tiles : as
+word : ram anchor( col :  7 row : 10 ) score : 18 new tiles : am
+word : rams anchor( col :  7 row : 10 ) score : 19 new tiles : ams
+word : aa anchor( col :  9 row : 11 ) score : 12 new tiles : aa
+word : aas anchor( col :  9 row : 11 ) score : 16 new tiles : aas
+word : ma anchor( col :  9 row : 11 ) score : 16 new tiles : ma
+word : mas anchor( col :  9 row : 11 ) score : 22 new tiles : mas
+word : mac anchor( col :  9 row : 11 ) score : 26 new tiles : mac
+word : macs anchor( col :  9 row : 11 ) score : 28 new tiles : macs
+word : aa anchor( col :  10 row : 11 ) score : 12 new tiles : aa
+word : aas anchor( col :  10 row : 11 ) score : 16 new tiles : aas
+word : ma anchor( col :  10 row : 11 ) score : 16 new tiles : ma
+word : mas anchor( col :  10 row : 11 ) score : 22 new tiles : mas
+word : mac anchor( col :  10 row : 11 ) score : 26 new tiles : mac
+word : macs anchor( col :  10 row : 11 ) score : 28 new tiles : macs
+Hasil evaluasi : vacs , score : 32 , direction : 1 , anchor (10 , 11) , col : 10 , row : 3
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qamplkw
+
+word : ka anchor( col :  4 row : 2 ) score : 10 new tiles : ka
+word : fa anchor( col :  6 row : 2 ) score : 6 new tiles : a
+word : ma anchor( col :  6 row : 2 ) score : 11 new tiles : ma
+word : ka anchor( col :  6 row : 2 ) score : 13 new tiles : ka
+word : pa anchor( col :  4 row : 3 ) score : 12 new tiles : pa
+word : cam anchor( col :  8 row : 3 ) score : 9 new tiles : am
+word : camp anchor( col :  8 row : 3 ) score : 12 new tiles : amp
+word : hmm anchor( col :  8 row : 6 ) score : 13 new tiles : m
+word : mos anchor( col :  5 row : 7 ) score : 5 new tiles : m
+word : kos anchor( col :  5 row : 7 ) score : 7 new tiles : k
+word : makos anchor( col :  5 row : 7 ) score : 14 new tiles : mak
+word : ma anchor( col :  5 row : 7 ) score : 14 new tiles : ma
+word : ka anchor( col :  5 row : 7 ) score : 18 new tiles : ka
+word : ma anchor( col :  9 row : 7 ) score : 5 new tiles : ma
+word : war anchor( col :  9 row : 7 ) score : 6 new tiles : wa
+word : am anchor( col :  10 row : 7 ) score : 9 new tiles : am
+word : amp anchor( col :  10 row : 7 ) score : 12 new tiles : amp
+word : ma anchor( col :  5 row : 8 ) score : 8 new tiles : ma
+word : waw anchor( col :  5 row : 8 ) score : 9 new tiles : wa
+word : ma anchor( col :  5 row : 8 ) score : 14 new tiles : ma
+word : ka anchor( col :  5 row : 8 ) score : 18 new tiles : ka
+word : la anchor( col :  3 row : 9 ) score : 6 new tiles : la
+word : aal anchor( col :  4 row : 9 ) score : 3 new tiles : al
+word : ma anchor( col :  4 row : 9 ) score : 4 new tiles : m
+word : am anchor( col :  4 row : 9 ) score : 5 new tiles : am
+word : lam anchor( col :  4 row : 9 ) score : 6 new tiles : lam
+word : kapa anchor( col :  4 row : 9 ) score : 10 new tiles : kap
+word : kalpa anchor( col :  4 row : 9 ) score : 11 new tiles : kalp
+word : am anchor( col :  10 row : 9 ) score : 10 new tiles : am
+word : amp anchor( col :  10 row : 9 ) score : 13 new tiles : amp
+word : vamp anchor( col :  3 row : 11 ) score : 22 new tiles : amp
+word : aa anchor( col :  4 row : 11 ) score : 2 new tiles : a
+word : aal anchor( col :  4 row : 11 ) score : 3 new tiles : al
+word : am anchor( col :  4 row : 11 ) score : 4 new tiles : m
+word : pam anchor( col :  4 row : 11 ) score : 7 new tiles : pm
+word : kalam anchor( col :  4 row : 11 ) score : 11 new tiles : kalm
+word : walk anchor( col :  4 row : 11 ) score : 11 new tiles : wlk
+word : cam anchor( col :  5 row : 11 ) score : 7 new tiles : am
+word : camp anchor( col :  5 row : 11 ) score : 16 new tiles : amp
+word : calk anchor( col :  5 row : 11 ) score : 20 new tiles : alk
+word : ma anchor( col :  9 row : 11 ) score : 16 new tiles : ma
+word : map anchor( col :  9 row : 11 ) score : 26 new tiles : map
+word : maw anchor( col :  9 row : 11 ) score : 28 new tiles : maw
+word : ma anchor( col :  10 row : 11 ) score : 16 new tiles : ma
+word : map anchor( col :  10 row : 11 ) score : 26 new tiles : map
+word : maw anchor( col :  10 row : 11 ) score : 28 new tiles : maw
+Hasil evaluasi : maw , score : 28 , direction : 1 , anchor (10 , 11) , col : 11 , row : 9
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : qplkgtv
+
+word : kos anchor( col :  5 row : 7 ) score : 7 new tiles : k
+word : pa anchor( col :  4 row : 9 ) score : 4 new tiles : p
+word : pal anchor( col :  4 row : 9 ) score : 5 new tiles : pl
+word : plat anchor( col :  4 row : 9 ) score : 6 new tiles : plt
+word : lav anchor( col :  4 row : 9 ) score : 6 new tiles : lv
+word : ka anchor( col :  4 row : 9 ) score : 6 new tiles : k
+word : kat anchor( col :  4 row : 9 ) score : 7 new tiles : kt
+word : talk anchor( col :  4 row : 9 ) score : 8 new tiles : tlk
+word : lap anchor( col :  4 row : 11 ) score : 5 new tiles : lp
+word : gap anchor( col :  4 row : 11 ) score : 6 new tiles : gp
+word : talk anchor( col :  4 row : 11 ) score : 8 new tiles : tlk
+word : qat anchor( col :  4 row : 11 ) score : 12 new tiles : qt
+word : yap anchor( col :  10 row : 12 ) score : 8 new tiles : p
+word : yak anchor( col :  10 row : 12 ) score : 10 new tiles : k
+Hasil evaluasi : qat , score : 12 , direction : 2 , anchor (11 , 12) , col : 9 , row : 4
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : plkgvou
+
+word : golf anchor( col :  4 row : 2 ) score : 16 new tiles : gol
+word : pouf anchor( col :  4 row : 2 ) score : 18 new tiles : pou
+word : cop anchor( col :  8 row : 3 ) score : 9 new tiles : op
+word : coup anchor( col :  8 row : 3 ) score : 10 new tiles : oup
+word : lo anchor( col :  8 row : 5 ) score : 4 new tiles : o
+word : lop anchor( col :  8 row : 5 ) score : 13 new tiles : op
+word : pol anchor( col :  5 row : 7 ) score : 10 new tiles : pol
+word : kolos anchor( col :  5 row : 7 ) score : 14 new tiles : kol
+word : go anchor( col :  9 row : 7 ) score : 4 new tiles : go
+word : pur anchor( col :  9 row : 7 ) score : 5 new tiles : pu
+word : op anchor( col :  10 row : 7 ) score : 9 new tiles : op
+word : ow anchor( col :  5 row : 8 ) score : 5 new tiles : o
+word : royal anchor( col :  10 row : 9 ) score : 8 new tiles : ol
+word : vug anchor( col :  3 row : 11 ) score : 18 new tiles : ug
+word : cop anchor( col :  5 row : 11 ) score : 9 new tiles : op
+word : coup anchor( col :  5 row : 11 ) score : 16 new tiles : oup
+word : pol anchor( col :  10 row : 12 ) score : 23 new tiles : pol
+word : kop anchor( col :  10 row : 12 ) score : 33 new tiles : kop
+word : pol anchor( col :  11 row : 12 ) score : 23 new tiles : pol
+word : kop anchor( col :  11 row : 12 ) score : 33 new tiles : kop
+Hasil evaluasi : kop , score : 33 , direction : 1 , anchor (11 , 12) , col : 12 , row : 10
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : lgvurod
+
+word : gul anchor( col :  4 row : 2 ) score : 16 new tiles : gul
+word : do anchor( col :  4 row : 3 ) score : 10 new tiles : do
+word : cur anchor( col :  8 row : 3 ) score : 7 new tiles : ur
+word : curl anchor( col :  8 row : 3 ) score : 8 new tiles : url
+word : curd anchor( col :  8 row : 3 ) score : 9 new tiles : urd
+word : could anchor( col :  8 row : 3 ) score : 18 new tiles : ould
+word : lo anchor( col :  8 row : 5 ) score : 4 new tiles : o
+word : log anchor( col :  8 row : 5 ) score : 10 new tiles : og
+word : log anchor( col :  5 row : 7 ) score : 7 new tiles : log
+word : duros anchor( col :  5 row : 7 ) score : 8 new tiles : dur
+word : do anchor( col :  5 row : 7 ) score : 12 new tiles : do
+word : lour anchor( col :  9 row : 7 ) score : 6 new tiles : lou
+word : dour anchor( col :  9 row : 7 ) score : 9 new tiles : dou
+word : old anchor( col :  10 row : 7 ) score : 7 new tiles : old
+word : od anchor( col :  10 row : 7 ) score : 7 new tiles : od
+word : ow anchor( col :  5 row : 8 ) score : 5 new tiles : o
+word : do anchor( col :  5 row : 8 ) score : 12 new tiles : do
+word : brrr anchor( col :  11 row : 8 ) score : 6 new tiles : r
+word : our anchor( col :  11 row : 8 ) score : 10 new tiles : our
+word : lour anchor( col :  11 row : 8 ) score : 11 new tiles : lour
+word : gourd anchor( col :  11 row : 8 ) score : 14 new tiles : gourd
+word : vug anchor( col :  3 row : 11 ) score : 18 new tiles : ug
+word : col anchor( col :  5 row : 11 ) score : 7 new tiles : ol
+word : cold anchor( col :  5 row : 11 ) score : 13 new tiles : old
+word : wog anchor( col :  11 row : 13 ) score : 7 new tiles : g
+Hasil evaluasi : vug , score : 18 , direction : 2 , anchor (12 , 13) , col : 10 , row : 3
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : AXLZIGG
+
+HUMAN MOVE : if , score : 5 , direction : 1 , col : 6 , row : 2
+
+
+******COMPUTER TURN******
+RACK : lvroddi
+
+word : virl anchor( col :  4 row : 1 ) score : 18 new tiles : virl
+word : rif anchor( col :  3 row : 2 ) score : 6 new tiles : r
+word : or anchor( col :  3 row : 2 ) score : 9 new tiles : or
+word : col anchor( col :  8 row : 3 ) score : 7 new tiles : ol
+word : cold anchor( col :  8 row : 3 ) score : 9 new tiles : old
+word : lo anchor( col :  8 row : 5 ) score : 4 new tiles : o
+word : lord anchor( col :  8 row : 5 ) score : 9 new tiles : ord
+word : lid anchor( col :  8 row : 5 ) score : 10 new tiles : id
+word : lido anchor( col :  8 row : 5 ) score : 11 new tiles : ido
+word : lo anchor( col :  5 row : 7 ) score : 4 new tiles : lo
+word : dildos anchor( col :  5 row : 7 ) score : 9 new tiles : dild
+word : did anchor( col :  5 row : 7 ) score : 9 new tiles : did
+word : do anchor( col :  5 row : 7 ) score : 12 new tiles : do
+word : dorr anchor( col :  9 row : 7 ) score : 9 new tiles : dor
+word : old anchor( col :  10 row : 7 ) score : 7 new tiles : old
+word : od anchor( col :  10 row : 7 ) score : 7 new tiles : od
+word : odd anchor( col :  10 row : 7 ) score : 9 new tiles : odd
+word : ow anchor( col :  5 row : 8 ) score : 5 new tiles : o
+word : do anchor( col :  5 row : 8 ) score : 12 new tiles : do
+word : brrr anchor( col :  11 row : 8 ) score : 6 new tiles : r
+word : or anchor( col :  11 row : 8 ) score : 9 new tiles : or
+word : lord anchor( col :  11 row : 8 ) score : 12 new tiles : lord
+word : virl anchor( col :  11 row : 8 ) score : 14 new tiles : virl
+word : rut anchor( col :  2 row : 11 ) score : 3 new tiles : r
+word : lout anchor( col :  2 row : 11 ) score : 4 new tiles : lo
+word : log anchor( col :  2 row : 12 ) score : 8 new tiles : lo
+word : dog anchor( col :  2 row : 12 ) score : 10 new tiles : do
+word : vig anchor( col :  2 row : 12 ) score : 14 new tiles : vi
+word : oil anchor( col :  11 row : 13 ) score : 16 new tiles : oil
+word : oil anchor( col :  12 row : 13 ) score : 16 new tiles : oil
+Hasil evaluasi : virl , score : 18 , direction : 1 , anchor (12 , 13) , col : 1 , row : 1
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : oddeeut
+
+word : voe anchor( col :  1 row : 2 ) score : 6 new tiles : oe
+word : vote anchor( col :  1 row : 2 ) score : 7 new tiles : ote
+word : voted anchor( col :  1 row : 2 ) score : 13 new tiles : oted
+word : id anchor( col :  2 row : 2 ) score : 6 new tiles : d
+word : el anchor( col :  4 row : 3 ) score : 6 new tiles : e
+word : de anchor( col :  4 row : 3 ) score : 12 new tiles : de
+word : due anchor( col :  4 row : 3 ) score : 14 new tiles : due
+word : cod anchor( col :  8 row : 3 ) score : 8 new tiles : od
+word : code anchor( col :  8 row : 3 ) score : 9 new tiles : ode
+word : coded anchor( col :  8 row : 3 ) score : 20 new tiles : oded
+word : de anchor( col :  4 row : 5 ) score : 8 new tiles : de
+word : lo anchor( col :  8 row : 5 ) score : 4 new tiles : o
+word : lode anchor( col :  8 row : 5 ) score : 11 new tiles : ode
+word : dodos anchor( col :  5 row : 7 ) score : 9 new tiles : dod
+word : do anchor( col :  5 row : 7 ) score : 12 new tiles : do
+word : oe anchor( col :  9 row : 7 ) score : 6 new tiles : oe
+word : doer anchor( col :  9 row : 7 ) score : 9 new tiles : doe
+word : od anchor( col :  10 row : 7 ) score : 7 new tiles : od
+word : odd anchor( col :  10 row : 7 ) score : 9 new tiles : odd
+word : eddo anchor( col :  10 row : 7 ) score : 10 new tiles : eddo
+word : odder anchor( col :  10 row : 7 ) score : 14 new tiles : odde
+word : ow anchor( col :  5 row : 8 ) score : 5 new tiles : o
+word : do anchor( col :  5 row : 8 ) score : 12 new tiles : do
+word : out anchor( col :  2 row : 11 ) score : 3 new tiles : o
+word : tout anchor( col :  2 row : 11 ) score : 4 new tiles : to
+word : dog anchor( col :  2 row : 12 ) score : 10 new tiles : do
+word : oe anchor( col :  11 row : 13 ) score : 12 new tiles : oe
+word : ted anchor( col :  11 row : 13 ) score : 18 new tiles : ted
+word : oe anchor( col :  12 row : 13 ) score : 12 new tiles : oe
+word : ted anchor( col :  12 row : 13 ) score : 18 new tiles : ted
+Hasil evaluasi : coded , score : 20 , direction : 1 , anchor (12 , 13) , col : 3 , row : 7
+
+POSSIBLE MOVEMENT : 
+
+
+******COMPUTER TURN******
+RACK : eutdnpn
+
+word : vet anchor( col :  1 row : 2 ) score : 6 new tiles : et
+word : vent anchor( col :  1 row : 2 ) score : 7 new tiles : ent
+word : vend anchor( col :  1 row : 2 ) score : 8 new tiles : end
+word : neif anchor( col :  2 row : 2 ) score : 20 new tiles : ne
+word : neif anchor( col :  3 row : 2 ) score : 20 new tiles : ne
+word : duos anchor( col :  8 row : 2 ) score : 6 new tiles : du
+word : udos anchor( col :  8 row : 2 ) score : 7 new tiles : ud
+word : epos anchor( col :  8 row : 2 ) score : 9 new tiles : ep
+word : ted anchor( col :  9 row : 2 ) score : 6 new tiles : te
+word : ped anchor( col :  9 row : 2 ) score : 12 new tiles : pe
+word : tee anchor( col :  10 row : 2 ) score : 3 new tiles : te
+word : teed anchor( col :  10 row : 2 ) score : 10 new tiles : ted
+word : deep anchor( col :  10 row : 2 ) score : 14 new tiles : dep
+word : upend anchor( col :  10 row : 2 ) score : 16 new tiles : upnd
+word : ted anchor( col :  11 row : 2 ) score : 5 new tiles : te
+word : ped anchor( col :  11 row : 2 ) score : 9 new tiles : pe
+word : due anchor( col :  4 row : 3 ) score : 14 new tiles : due
+word : ted anchor( col :  10 row : 4 ) score : 15 new tiles : ted
+word : tend anchor( col :  10 row : 4 ) score : 17 new tiles : tend
+word : ted anchor( col :  11 row : 4 ) score : 15 new tiles : ted
+word : tend anchor( col :  11 row : 4 ) score : 17 new tiles : tend
+word : de anchor( col :  4 row : 5 ) score : 8 new tiles : de
+word : leu anchor( col :  8 row : 5 ) score : 8 new tiles : eu
+word : leud anchor( col :  8 row : 5 ) score : 10 new tiles : eud
+word : letup anchor( col :  8 row : 5 ) score : 12 new tiles : etup
+word : lept anchor( col :  8 row : 5 ) score : 15 new tiles : ept
+word : duos anchor( col :  5 row : 7 ) score : 5 new tiles : du
+word : punt anchor( col :  5 row : 7 ) score : 9 new tiles : punt
+word : pe anchor( col :  9 row : 7 ) score : 5 new tiles : pe
+word : et anchor( col :  10 row : 7 ) score : 5 new tiles : et
+word : end anchor( col :  10 row : 7 ) score : 7 new tiles : end
+word : tut anchor( col :  2 row : 11 ) score : 3 new tiles : t
+word : put anchor( col :  2 row : 11 ) score : 5 new tiles : p
+word : teg anchor( col :  2 row : 12 ) score : 8 new tiles : te
+word : peg anchor( col :  2 row : 12 ) score : 12 new tiles : pe
+word : ted anchor( col :  11 row : 13 ) score : 18 new tiles : ted
+word : pet anchor( col :  11 row : 13 ) score : 22 new tiles : pet
+word : ped anchor( col :  11 row : 13 ) score : 24 new tiles : ped
+word : ted anchor( col :  12 row : 13 ) score : 18 new tiles : ted
+word : pet anchor( col :  12 row : 13 ) score : 22 new tiles : pet
+word : ped anchor( col :  12 row : 13 ) score : 24 new tiles : ped
+Hasil evaluasi : ped , score : 24 , direction : 1 , anchor (12 , 13) , col : 13 , row : 11
+
+POSSIBLE MOVEMENT : 
+
+

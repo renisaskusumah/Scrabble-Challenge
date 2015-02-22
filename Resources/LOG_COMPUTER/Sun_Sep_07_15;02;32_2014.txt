@@ -1,0 +1,21 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : hmvabmh
+
+word : ah anchor( col :  7 row : 7 ) score : 10 new tiles : ah
+word : bah anchor( col :  7 row : 7 ) score : 16 new tiles : bah
+word : hah anchor( col :  7 row : 7 ) score : 18 new tiles : hah
+word : hmm anchor( col :  7 row : 7 ) score : 20 new tiles : hmm
+Hasil evaluasi : hmm , score : 20 , direction : 2 , col : 7 , row : 7
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : sh anchor( col :  6 row : 7 ) score : 5 new tiles : s
+-------HUMAN CLICK HINT-------
+
+
+

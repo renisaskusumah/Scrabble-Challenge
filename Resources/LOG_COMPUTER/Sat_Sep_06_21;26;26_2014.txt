@@ -1,0 +1,83 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : BYJKXFA
+
+HUMAN MOVE : bay , score : 16 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : eylsqhr
+
+word : re anchor( col :  6 row : 7 ) score : 5 new tiles : re
+word : rebs anchor( col :  6 row : 7 ) score : 6 new tiles : res
+word : her anchor( col :  6 row : 7 ) score : 9 new tiles : her
+word : herby anchor( col :  6 row : 7 ) score : 13 new tiles : hery
+word : be anchor( col :  8 row : 7 ) score : 4 new tiles : e
+word : bey anchor( col :  8 row : 7 ) score : 8 new tiles : ey
+word : beys anchor( col :  8 row : 7 ) score : 9 new tiles : eys
+word : beryl anchor( col :  8 row : 7 ) score : 11 new tiles : eryl
+word : beryls anchor( col :  8 row : 7 ) score : 12 new tiles : eryls
+word : herby anchor( col :  8 row : 7 ) score : 13 new tiles : hery
+word : ye anchor( col :  8 row : 7 ) score : 13 new tiles : ye
+word : lye anchor( col :  8 row : 7 ) score : 14 new tiles : lye
+word : slyer anchor( col :  8 row : 7 ) score : 20 new tiles : slyer
+word : shyer anchor( col :  8 row : 7 ) score : 23 new tiles : shyer
+word : yeh anchor( col :  8 row : 7 ) score : 30 new tiles : yeh
+word : ye anchor( col :  6 row : 8 ) score : 7 new tiles : ye
+word : yeas anchor( col :  6 row : 8 ) score : 9 new tiles : yes
+word : yeah anchor( col :  6 row : 8 ) score : 15 new tiles : yeh
+word : yah anchor( col :  6 row : 8 ) score : 17 new tiles : yh
+word : shay anchor( col :  6 row : 8 ) score : 18 new tiles : shy
+word : hayer anchor( col :  6 row : 8 ) score : 19 new tiles : hyer
+word : hayers anchor( col :  6 row : 8 ) score : 20 new tiles : hyers
+word : ae anchor( col :  8 row : 8 ) score : 3 new tiles : e
+word : sae anchor( col :  8 row : 8 ) score : 5 new tiles : se
+word : hae anchor( col :  8 row : 8 ) score : 11 new tiles : he
+word : haes anchor( col :  8 row : 8 ) score : 12 new tiles : hes
+word : relay anchor( col :  8 row : 8 ) score : 13 new tiles : rely
+word : relays anchor( col :  8 row : 8 ) score : 14 new tiles : relys
+word : hay anchor( col :  8 row : 8 ) score : 17 new tiles : hy
+word : shay anchor( col :  8 row : 8 ) score : 18 new tiles : shy
+word : hayer anchor( col :  8 row : 8 ) score : 19 new tiles : hyer
+word : hayers anchor( col :  8 row : 8 ) score : 20 new tiles : hyers
+word : ley anchor( col :  8 row : 8 ) score : 24 new tiles : ley
+word : hey anchor( col :  8 row : 8 ) score : 30 new tiles : hey
+word : ley anchor( col :  6 row : 9 ) score : 8 new tiles : le
+word : leys anchor( col :  6 row : 9 ) score : 9 new tiles : les
+word : hey anchor( col :  6 row : 9 ) score : 17 new tiles : he
+word : eyry anchor( col :  6 row : 9 ) score : 18 new tiles : ery
+word : shyly anchor( col :  6 row : 9 ) score : 22 new tiles : shyl
+word : shyly anchor( col :  6 row : 9 ) score : 24 new tiles : shly
+word : ye anchor( col :  8 row : 9 ) score : 5 new tiles : e
+word : lye anchor( col :  8 row : 9 ) score : 6 new tiles : le
+word : slyer anchor( col :  8 row : 9 ) score : 12 new tiles : sler
+word : shyer anchor( col :  8 row : 9 ) score : 15 new tiles : sher
+word : yeh anchor( col :  8 row : 9 ) score : 17 new tiles : eh
+word : shyly anchor( col :  8 row : 9 ) score : 24 new tiles : shly
+word : yes anchor( col :  8 row : 9 ) score : 24 new tiles : yes
+word : yeh anchor( col :  8 row : 9 ) score : 27 new tiles : yeh
+word : es anchor( col :  7 row : 10 ) score : 11 new tiles : es
+word : yes anchor( col :  7 row : 10 ) score : 15 new tiles : yes
+word : lyes anchor( col :  7 row : 10 ) score : 23 new tiles : lyes
+word : lyres anchor( col :  7 row : 10 ) score : 25 new tiles : lyres
+word : shyer anchor( col :  7 row : 10 ) score : 31 new tiles : shyer
+Hasil evaluasi : shyer , score : 31 , direction : 1 , anchor (7 , 10) , col : 10 , row : 7
+
+POSSIBLE MOVEMENT : 
+
+
+word : java anchor( col :  6 row : 8 ) score : 25 new tiles : jva
+word : jaw anchor( col :  6 row : 8 ) score : 25 new tiles : jw
+word : aw anchor( col :  8 row : 8 ) score : 9 new tiles : w
+word : vaw anchor( col :  8 row : 8 ) score : 17 new tiles : vw
+word : jaw anchor( col :  8 row : 8 ) score : 25 new tiles : jw
+word : vex anchor( col :  10 row : 9 ) score : 13 new tiles : vx
+word : kex anchor( col :  10 row : 9 ) score : 14 new tiles : kx
+word : kev anchor( col :  10 row : 11 ) score : 10 new tiles : kv
+word : jew anchor( col :  10 row : 11 ) score : 13 new tiles : jw
+word : kex anchor( col :  10 row : 11 ) score : 14 new tiles : kx
+-------HUMAN CLICK HINT-------
+
+
+

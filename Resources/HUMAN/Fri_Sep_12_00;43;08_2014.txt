@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	ivy	--	18		3	HUMAN 
+Player 2	yuk	0.779	11		0	GADDAG

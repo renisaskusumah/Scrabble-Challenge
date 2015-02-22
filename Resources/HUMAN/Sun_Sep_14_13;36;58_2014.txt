@@ -1,0 +1,20 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	ribs	--	12		4	HUMAN 
+Player 2	florists	20.316	65		7	GADDAG
+Player 1	mop	--	14		2	HUMAN 
+Player 2		1.761	0		6	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2		1.529	0		6	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2		1.515	0		6	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 5
+player 1 total skor : 26
+player 2 durasi : 0 menit 23 detik 
+player 2 left tile : 1
+player 2 total skor : 65
+Player 1		pass		--			0		0	

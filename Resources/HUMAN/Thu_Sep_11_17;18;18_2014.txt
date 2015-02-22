@@ -1,0 +1,15 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	by	3.538	14		2	GADDAG
+Player 1	why	--	12		2	HUMAN 
+Player 2		269.888	82		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 5
+player 1 total skor : 12
+player 2 durasi : 4 menit 32 detik 
+player 2 left tile : 0
+player 2 total skor : 96

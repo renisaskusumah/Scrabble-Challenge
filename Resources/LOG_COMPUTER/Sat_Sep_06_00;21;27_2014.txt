@@ -1,0 +1,45 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  M T P S R L N
+New Tiles :  S P N D R F R
+
+
+******COMPUTER TURN******
+RACK : mw*bbhw
+
+word : cwm anchor( col :  7 row : 7 ) score : 14 new tiles : cwm
+word : wham anchor( col :  7 row : 7 ) score : 22 new tiles : wham
+word : whew anchor( col :  7 row : 7 ) score : 24 new tiles : whew
+Hasil evaluasi : whew , score : 24 , direction : 2 , col : 7 , row : 4
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : SPNDRFR
+
+HUMAN MOVE : spend , score : 11 , direction : 1 , col : 10 , row : 6
+
+
+******COMPUTER TURN******
+RACK : mbbzqen
+
+word : me anchor( col :  6 row : 4 ) score : 8 new tiles : me
+word : we anchor( col :  8 row : 4 ) score : 5 new tiles : e
+word : web anchor( col :  8 row : 4 ) score : 8 new tiles : eb
+word : me anchor( col :  8 row : 4 ) score : 9 new tiles : me
+word : me anchor( col :  5 row : 5 ) score : 10 new tiles : me
+word : em anchor( col :  5 row : 5 ) score : 11 new tiles : em
+word : ebb anchor( col :  5 row : 5 ) score : 14 new tiles : ebb
+word : he anchor( col :  8 row : 5 ) score : 7 new tiles : e
+word : med anchor( col :  9 row : 5 ) score : 8 new tiles : me
+word : zed anchor( col :  9 row : 5 ) score : 15 new tiles : ze
+word : sen anchor( col :  5 row : 7 ) score : 3 new tiles : en
+word : we anchor( col :  8 row : 7 ) score : 7 new tiles : e
+word : neb anchor( col :  8 row : 7 ) score : 13 new tiles : eb
+word : em anchor( col :  9 row : 7 ) score : 7 new tiles : em
+word : ebb anchor( col :  9 row : 7 ) score : 13 new tiles : ebb

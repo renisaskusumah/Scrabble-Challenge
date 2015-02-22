@@ -1,0 +1,49 @@
+player word durasi skor tiles
+
+
+Player 1	fix	0.101	26		3
+Player 2 	fez	1.095	35		2
+Player 1	refile	0.926	32		4
+Player 2 	pech	0.629	17		3
+Player 1	envy	0.748	30		4
+Player 2 	brim	2.467	19		4
+Player 1	deny	1.362	28		4
+Player 2 	toga	6.816	17		4
+Player 1	japans	3.285	75		6
+Player 2 	gaby	1.452	16		2
+Player 1	thunk	2.256	44		5
+Player 2 	wo	1.078	9		1
+Player 1	ruth	3.225	14		3
+Player 2 	curve	3.081	26		4
+Player 1	quads	3.626	43		5
+Player 2 	mo	9.259	27		2
+Player 1	old	4.91	19		3
+Player 2 	litu	7.306	15		4
+Player 1	writ	5.948	18		4
+Player 2 	no	7.835	14		2
+Player 1	dailies	7.202	24		5
+Player 2 	lintier	8.716	64		7
+Player 1	asea	6.843	18		4
+Player 2 	oe	3.23	14		2
+Player 1	ag	3.124	11		3
+Player 2 	oe	0.958	11		4
+Player 1	cate	0.508	8		5
+Player 2 	ago	0.2	4		5
+Player 1	alee	0.089	55		7
+Player 2 	oat	0.084	3		6
+Player 1	-	0.018	0		7
+Player 2 	-	0.033	0		6
+Player 1	-	0.018	0		7
+Player 2 	-	0.033	0		6
+Player 1	-	0.019	0		7
+Player 2 	-	0.036	0		6
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 0 menit 37 detik 
+player 1 left tile : 0
+player 1 total skor : 445
+player 1 Final skor : 445
+player 2 durasi : 0 menit 48 detik 
+player 2 left tile : 1
+player 2 total skor : 291
+player 2 Final skor : 290

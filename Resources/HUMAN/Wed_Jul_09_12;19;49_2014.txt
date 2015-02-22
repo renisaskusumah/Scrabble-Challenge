@@ -1,0 +1,4 @@
+player word durasi skor tiles
+
+
+Player 1	hush	--	10		4

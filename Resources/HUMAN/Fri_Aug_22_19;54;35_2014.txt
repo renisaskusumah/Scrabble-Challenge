@@ -1,0 +1,25 @@
+player word durasi skor tiles
+
+
+Player 1		pass		--			0		0	
+Player 1		pass		--			0		0	
+Player 2	azoth	0.462	42		5
+Player 1	saw	--	6		2
+Player 2	gloze	4.099	26		4
+Player 1	gram	--	14		3
+Player 2	oxy	4.066	34		3
+Player 1	bot	--	16		2
+Player 2	hup	4.704	33		3
+Player 1		pass		--			0		0	
+Player 2	coyly	11.566	42		4
+Player 1	paw	--	16		2
+Player 2	groom	7.607	39		4
+Player 1	brow	--	9		3
+Player 2	ads	131.925	27		3
+Player 1	pled	--	27		4
+Player 2	staring	20.659	86		7
+Player 1	voice	--	17		5
+Player 2	in	12.137	24		2
+Player 1		pass		--			0		0	
+Player 1		pass		--			0		0	
+Player 2	ideogram	23.567	24		4

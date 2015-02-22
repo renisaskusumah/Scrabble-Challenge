@@ -1,0 +1,261 @@
+word : rep anchor( col :  7 row : 6 ) score : 8
+word : pe anchor( col :  8 row : 6 ) score : 16
+word : per anchor( col :  8 row : 6 ) score : 17
+word : zee anchor( col :  8 row : 6 ) score : 23
+word : jeez anchor( col :  8 row : 6 ) score : 29
+word : jeez anchor( col :  8 row : 6 ) score : 31
+word : pe anchor( col :  9 row : 6 ) score : 16
+word : per anchor( col :  9 row : 6 ) score : 17
+word : prez anchor( col :  9 row : 6 ) score : 35
+word : pe anchor( col :  7 row : 8 ) score : 11
+word : per anchor( col :  7 row : 8 ) score : 16
+word : prex anchor( col :  7 row : 8 ) score : 43
+word : ex anchor( col :  8 row : 8 ) score : 38
+word : rex anchor( col :  8 row : 8 ) score : 40
+word : prex anchor( col :  8 row : 8 ) score : 43
+word : re anchor( col :  9 row : 8 ) score : 8
+word : rex anchor( col :  9 row : 8 ) score : 16
+word : prez anchor( col :  9 row : 8 ) score : 35
+word : rep anchor( col :  7 row : 6 ) score : 8
+word : pe anchor( col :  8 row : 6 ) score : 16
+word : per anchor( col :  8 row : 6 ) score : 17
+word : zee anchor( col :  8 row : 6 ) score : 23
+word : jeez anchor( col :  8 row : 6 ) score : 29
+word : jeez anchor( col :  8 row : 6 ) score : 31
+word : pe anchor( col :  9 row : 6 ) score : 16
+word : per anchor( col :  9 row : 6 ) score : 17
+word : prez anchor( col :  9 row : 6 ) score : 35
+word : pe anchor( col :  7 row : 8 ) score : 11
+word : per anchor( col :  7 row : 8 ) score : 16
+word : prex anchor( col :  7 row : 8 ) score : 43
+word : ex anchor( col :  8 row : 8 ) score : 38
+word : rex anchor( col :  8 row : 8 ) score : 40
+word : prex anchor( col :  8 row : 8 ) score : 43
+word : re anchor( col :  9 row : 8 ) score : 8
+word : rex anchor( col :  9 row : 8 ) score : 16
+word : prez anchor( col :  9 row : 8 ) score : 35
+******HUMAN RESULT******
+
+
+
+HUMAN MOVE : per , score : 10 , direction : 1 , col : 10 , row : 7
+word : hyp anchor( col :  7 row : 6 ) score : 11
+word : hype anchor( col :  7 row : 6 ) score : 12
+word : hyper anchor( col :  7 row : 6 ) score : 13
+word : re anchor( col :  8 row : 6 ) score : 8
+word : ref anchor( col :  8 row : 6 ) score : 12
+word : he anchor( col :  8 row : 6 ) score : 20
+word : her anchor( col :  8 row : 6 ) score : 21
+word : hey anchor( col :  8 row : 6 ) score : 24
+word : re anchor( col :  9 row : 6 ) score : 8
+word : ref anchor( col :  9 row : 6 ) score : 12
+word : he anchor( col :  9 row : 6 ) score : 20
+word : her anchor( col :  9 row : 6 ) score : 21
+word : hey anchor( col :  9 row : 6 ) score : 24
+word : ferry anchor( col :  9 row : 6 ) score : 27
+word : hyper anchor( col :  6 row : 7 ) score : 13
+word : perry anchor( col :  10 row : 7 ) score : 14
+word : re anchor( col :  7 row : 8 ) score : 7
+word : ref anchor( col :  7 row : 8 ) score : 24
+word : feh anchor( col :  7 row : 8 ) score : 30
+word : er anchor( col :  8 row : 8 ) score : 10
+word : fer anchor( col :  8 row : 8 ) score : 18
+word : ef anchor( col :  8 row : 8 ) score : 22
+word : ref anchor( col :  8 row : 8 ) score : 24
+word : feh anchor( col :  8 row : 8 ) score : 30
+word : re anchor( col :  9 row : 8 ) score : 8
+word : ref anchor( col :  9 row : 8 ) score : 12
+word : fer anchor( col :  9 row : 8 ) score : 21
+word : feh anchor( col :  9 row : 8 ) score : 24
+word : ferry anchor( col :  9 row : 8 ) score : 27
+Hasil evaluasi : feh , score : 30 , direction :1 ,i: 8 j: 6
+
+
+
+word : pert anchor( col :  10 row : 7 ) score : 6
+word : pent anchor( col :  7 row : 10 ) score : 6
+word : pert anchor( col :  10 row : 7 ) score : 6
+word : pent anchor( col :  7 row : 10 ) score : 6
+******HUMAN RESULT******
+
+
+
+HUMAN MOVE : pen , score : 5 , direction : 2 , col : 7 , row : 10
+word : fro anchor( col :  7 row : 6 ) score : 11
+word : hero anchor( col :  7 row : 6 ) score : 12
+word : foy anchor( col :  7 row : 6 ) score : 34
+word : foyer anchor( col :  7 row : 6 ) score : 38
+word : of anchor( col :  8 row : 6 ) score : 26
+word : faery anchor( col :  8 row : 6 ) score : 32
+word : ferly anchor( col :  8 row : 6 ) score : 33
+word : foy anchor( col :  8 row : 6 ) score : 34
+word : foyer anchor( col :  8 row : 6 ) score : 38
+word : fa anchor( col :  9 row : 6 ) score : 22
+word : far anchor( col :  9 row : 6 ) score : 23
+word : fare anchor( col :  9 row : 6 ) score : 24
+word : fay anchor( col :  9 row : 6 ) score : 26
+word : faery anchor( col :  9 row : 6 ) score : 32
+word : ferly anchor( col :  9 row : 6 ) score : 33
+word : foyer anchor( col :  9 row : 6 ) score : 38
+word : riper anchor( col :  6 row : 7 ) score : 10
+word : ropery anchor( col :  6 row : 7 ) score : 14
+word : perry anchor( col :  10 row : 7 ) score : 14
+word : percher anchor( col :  10 row : 7 ) score : 15
+word : fiery anchor( col :  10 row : 7 ) score : 25
+word : hefty anchor( col :  10 row : 7 ) score : 31
+word : errs anchor( col :  9 row : 8 ) score : 14
+word : fryers anchor( col :  9 row : 8 ) score : 28
+word : ran anchor( col :  6 row : 9 ) score : 8
+word : fan anchor( col :  6 row : 9 ) score : 17
+word : rehem anchor( col :  8 row : 9 ) score : 10
+word : herd anchor( col :  7 row : 10 ) score : 17
+word : defy anchor( col :  7 row : 10 ) score : 23
+word : fresh anchor( col :  7 row : 10 ) score : 25
+word : hefty anchor( col :  7 row : 10 ) score : 31
+Hasil evaluasi : foyer , score : 38 , direction :1 ,i: 6 j: 6
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  Z J X T R C
+New Tiles :  M L L X Z M
+
+
+word : her anchor( col :  9 row : 5 ) score : 14
+word : dyer anchor( col :  9 row : 5 ) score : 16
+word : hyper anchor( col :  9 row : 5 ) score : 19
+Hasil evaluasi : hyper , score : 19 , direction :2 ,i: 3 j: 9
+
+
+
+word : hm anchor( col :  10 row : 3 ) score : 7
+word : hmm anchor( col :  10 row : 3 ) score : 20
+word : my anchor( col :  8 row : 4 ) score : 7
+word : copen anchor( col :  7 row : 5 ) score : 8
+-------HUMAN CLICK HINT-------
+
+
+
+word : mm anchor( col :  10 row : 2 ) score : 18
+word : mm anchor( col :  11 row : 2 ) score : 18
+word : my anchor( col :  8 row : 4 ) score : 7
+word : mm anchor( col :  11 row : 4 ) score : 12
+word : copen anchor( col :  7 row : 5 ) score : 8
+******HUMAN RESULT******
+
+
+
+HUMAN MOVE : hmm , score : 20 , direction : 1 , col : 12 , row : 3
+word : ae anchor( col :  10 row : 2 ) score : 8
+word : hen anchor( col :  10 row : 2 ) score : 11
+word : med anchor( col :  10 row : 2 ) score : 13
+word : mend anchor( col :  10 row : 2 ) score : 15
+word : eme anchor( col :  10 row : 2 ) score : 16
+word : ad anchor( col :  11 row : 2 ) score : 7
+word : and anchor( col :  11 row : 2 ) score : 9
+word : end anchor( col :  11 row : 2 ) score : 12
+word : eke anchor( col :  11 row : 2 ) score : 16
+word : lindy anchor( col :  8 row : 4 ) score : 8
+word : kiddy anchor( col :  8 row : 4 ) score : 12
+word : dye anchor( col :  8 row : 4 ) score : 22
+word : dyeing anchor( col :  8 row : 4 ) score : 30
+word : yield anchor( col :  10 row : 4 ) score : 28
+word : dyeing anchor( col :  10 row : 4 ) score : 30
+word : yeuk anchor( col :  10 row : 4 ) score : 31
+word : dyeing anchor( col :  11 row : 4 ) score : 30
+word : yeuk anchor( col :  11 row : 4 ) score : 31
+word : kadi anchor( col :  6 row : 5 ) score : 17
+word : ski anchor( col :  6 row : 5 ) score : 21
+word : dike anchor( col :  6 row : 5 ) score : 24
+word : kindle anchor( col :  6 row : 5 ) score : 25
+word : un anchor( col :  7 row : 5 ) score : 6
+word : unopened anchor( col :  7 row : 5 ) score : 11
+word : pa anchor( col :  10 row : 5 ) score : 4
+word : pad anchor( col :  10 row : 5 ) score : 6
+word : padi anchor( col :  10 row : 5 ) score : 7
+word : paned anchor( col :  10 row : 5 ) score : 12
+word : pekin anchor( col :  10 row : 5 ) score : 15
+word : poked anchor( col :  10 row : 5 ) score : 16
+word : mair anchor( col :  10 row : 5 ) score : 22
+word : irked anchor( col :  10 row : 5 ) score : 24
+word : foyers anchor( col :  11 row : 6 ) score : 10
+word : mids anchor( col :  11 row : 6 ) score : 16
+word : ski anchor( col :  11 row : 6 ) score : 21
+word : skid anchor( col :  11 row : 6 ) score : 23
+word : skied anchor( col :  11 row : 6 ) score : 24
+word : pereia anchor( col :  10 row : 7 ) score : 10
+word : pereion anchor( col :  10 row : 7 ) score : 11
+word : irk anchor( col :  10 row : 7 ) score : 21
+word : irked anchor( col :  10 row : 7 ) score : 24
+word : ricked anchor( col :  10 row : 7 ) score : 26
+word : dean anchor( col :  6 row : 9 ) score : 10
+word : fique anchor( col :  6 row : 9 ) score : 19
+word : kinds anchor( col :  7 row : 10 ) score : 23
+Hasil evaluasi : yeuk , score : 31 , direction :1 ,i: 4 j: 9
+
+
+
+word : ti anchor( col :  10 row : 2 ) score : 6
+word : ti anchor( col :  6 row : 5 ) score : 9
+word : tic anchor( col :  6 row : 5 ) score : 20
+word : xi anchor( col :  6 row : 5 ) score : 30
+word : tic anchor( col :  7 row : 5 ) score : 20
+word : mut anchor( col :  11 row : 5 ) score : 4
+word : kit anchor( col :  12 row : 5 ) score : 8
+word : kilt anchor( col :  12 row : 5 ) score : 9
+word : ritz anchor( col :  10 row : 7 ) score : 19
+word : fit anchor( col :  6 row : 9 ) score : 8
+word : fill anchor( col :  6 row : 9 ) score : 9
+word : fix anchor( col :  6 row : 9 ) score : 15
+word : fixt anchor( col :  6 row : 9 ) score : 16
+word : fiz anchor( col :  6 row : 9 ) score : 17
+-------HUMAN CLICK HINT-------
+
+
+
+word : ti anchor( col :  10 row : 2 ) score : 6
+word : ti anchor( col :  5 row : 4 ) score : 6
+word : xi anchor( col :  5 row : 4 ) score : 20
+word : mut anchor( col :  11 row : 5 ) score : 4
+word : kit anchor( col :  12 row : 5 ) score : 8
+word : kilt anchor( col :  12 row : 5 ) score : 9
+word : ritz anchor( col :  10 row : 7 ) score : 19
+word : fit anchor( col :  6 row : 9 ) score : 8
+word : fill anchor( col :  6 row : 9 ) score : 9
+word : fix anchor( col :  6 row : 9 ) score : 15
+word : fixt anchor( col :  6 row : 9 ) score : 16
+word : fiz anchor( col :  6 row : 9 ) score : 17
+******HUMAN RESULT******
+
+
+
+HUMAN MOVE : tic , score : 20 , direction : 1 , col : 8 , row : 5
+word : dime anchor( col :  10 row : 2 ) score : 7
+word : nidi anchor( col :  5 row : 4 ) score : 12
+word : quin anchor( col :  5 row : 4 ) score : 34
+word : yeuks anchor( col :  13 row : 4 ) score : 11
+word : ids anchor( col :  13 row : 4 ) score : 15
+word : dins anchor( col :  13 row : 4 ) score : 21
+word : squid anchor( col :  13 row : 4 ) score : 46
+word : quin anchor( col :  4 row : 5 ) score : 38
+word : mud anchor( col :  11 row : 5 ) score : 5
+word : muds anchor( col :  11 row : 5 ) score : 17
+word : kid anchor( col :  12 row : 5 ) score : 10
+word : kids anchor( col :  12 row : 5 ) score : 11
+word : kinds anchor( col :  12 row : 5 ) score : 12
+word : foyers anchor( col :  11 row : 6 ) score : 11
+word : muds anchor( col :  11 row : 6 ) score : 17
+word : squid anchor( col :  11 row : 6 ) score : 36
+word : rid anchor( col :  10 row : 7 ) score : 10
+word : rids anchor( col :  10 row : 7 ) score : 11
+word : rinds anchor( col :  10 row : 7 ) score : 18
+word : fid anchor( col :  6 row : 9 ) score : 9
+word : fids anchor( col :  6 row : 9 ) score : 10
+word : finds anchor( col :  6 row : 9 ) score : 12
+word : ids anchor( col :  7 row : 10 ) score : 13
+word : quids anchor( col :  7 row : 10 ) score : 39
+Hasil evaluasi : squid , score : 46 , direction :2 ,i: 4 j: 13
+
+
+

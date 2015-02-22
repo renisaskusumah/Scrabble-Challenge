@@ -1,0 +1,40 @@
+word : la anchor( col :  7 row : 6 ) score : 8
+word : hyla anchor( col :  7 row : 6 ) score : 16
+word : blah anchor( col :  7 row : 6 ) score : 28
+word : yah anchor( col :  7 row : 6 ) score : 31
+word : ay anchor( col :  8 row : 6 ) score : 23
+word : lay anchor( col :  8 row : 6 ) score : 25
+word : bay anchor( col :  8 row : 6 ) score : 29
+word : hay anchor( col :  8 row : 6 ) score : 31
+word : ya anchor( col :  9 row : 6 ) score : 27
+word : yah anchor( col :  9 row : 6 ) score : 31
+word : hexyl anchor( col :  10 row : 7 ) score : 19
+word : la anchor( col :  7 row : 8 ) score : 8
+word : hyla anchor( col :  7 row : 8 ) score : 16
+word : blah anchor( col :  7 row : 8 ) score : 28
+word : yah anchor( col :  7 row : 8 ) score : 31
+word : al anchor( col :  8 row : 8 ) score : 11
+word : bal anchor( col :  8 row : 8 ) score : 17
+word : ah anchor( col :  8 row : 8 ) score : 23
+word : blah anchor( col :  8 row : 8 ) score : 28
+word : yah anchor( col :  8 row : 8 ) score : 31
+word : luau anchor( col :  9 row : 8 ) score : 17
+word : hula anchor( col :  9 row : 8 ) score : 29
+word : hub anchor( col :  9 row : 8 ) score : 30
+Hasil evaluasi : yah , score : 31 , direction :1 ,i: 6 j: 6
+
+
+
+word : pul anchor( col :  7 row : 8 ) score : 14
+word : nu anchor( col :  8 row : 8 ) score : 19
+word : nub anchor( col :  8 row : 8 ) score : 22
+word : pul anchor( col :  8 row : 8 ) score : 28
+word : pub anchor( col :  8 row : 8 ) score : 30
+word : nu anchor( col :  9 row : 8 ) score : 19
+word : nub anchor( col :  9 row : 8 ) score : 22
+word : pul anchor( col :  9 row : 8 ) score : 28
+word : pub anchor( col :  9 row : 8 ) score : 30
+Hasil evaluasi : pub , score : 30 , direction :1 ,i: 8 j: 8
+
+
+

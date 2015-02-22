@@ -1,0 +1,25 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	ninth	0.117	24		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	job	0.893	32		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	biz	0.407	24		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	fon	0.418	6		1	GADDAG
+Player 1	hard	--	8		3	HUMAN 
+Player 2	awn	0.634	10		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tranq	12.119	35		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ad	3.727	22		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	xi	2.132	27		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gaur	5.466	22		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	thug	3.958	16		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	yar	6.417	36		3	GADDAG

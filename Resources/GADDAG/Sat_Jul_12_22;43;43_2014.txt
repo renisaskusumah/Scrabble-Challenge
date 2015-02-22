@@ -1,0 +1,49 @@
+player word durasi skor tiles
+
+
+Player 1	snooled	5.745	68		7	blank tiles
+Player 2 	fixed	35.542	42		5	blank tiles
+Player 1	hexyl	2.53	34		3	
+Player 2 	mosso	7.323	38		5	
+Player 1	jay	3.47	38		3	
+Player 2 	maw	1.269	8		1	
+Player 1	culm	2.548	22		3	
+Player 2 	tsk	1.063	48		3	
+Player 1	prof	1.064	10		2	
+Player 2 	brr	2.112	17		3	
+Player 1	whew	2.136	31		3	
+Player 2 	inert	4.55	14		4	
+Player 1	fillips	5.023	22		6	
+Player 2 	betted	4.5	30		6	
+Player 1	virucide	4.854	31		6	
+Player 2 	queue	4.581	42		5	
+Player 1	egging	4.671	20		5	
+Player 2 	gazed	6.53	32		4	
+Player 1	zill	12.499	24		1	
+Player 2 	avow	7.728	20		3	
+Player 1	rotor	10.865	13		5	
+Player 2 	inane	10.858	26		5	
+Player 1	ten	9.409	14		3	
+Player 2 	ava	1.199	12		4	
+Player 1	anoa	0.546	11		6	
+Player 2 	abetted	0.248	11		5	
+Player 1	hie	0.041	57		7	
+Player 2 	li	0.097	5		6	
+Player 1	-	0.022	0		7	
+Player 2 	re	0.042	54		7	
+Player 1	-	0.022	0		7	
+Player 2 	-	0.022	0		7	
+Player 1	-	0.023	0		7	
+Player 2 	-	0.023	0		7	
+Player 1	-	0.023	0		7	
+Player 2 	-	0.025	0		7	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 65.491
+player 1 left tile : 0
+player 1 total skor : 395
+player 1 Final skor : 395
+player 2 durasi : 87.712
+player 2 left tile : 0
+player 2 total skor : 399
+player 2 Final skor : 399

@@ -1,0 +1,60 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	yep	--	16		3	HUMAN 
+Player 2	by	1.068	27		2	GADDAG
+Player 1	pad	--	10		2	HUMAN 
+Player 2	warp	0.688	26		3	GADDAG
+Player 1	pint	--	10		3	HUMAN 
+Player 2	tzar	3.8	33		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	warped	3.454	13		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	awned	6.693	17		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	reg	34.156	14		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	sh	27.081	21		2	GADDAG
+Player 1	ha	--	5		1	HUMAN 
+Player 2	gled	4.73	28		4	GADDAG
+Player 1	big	--	6		2	HUMAN 
+Player 2	djin	3.587	33		4	GADDAG
+Player 1	bloc	--	18		3	HUMAN 
+Player 2	rets	7.33	20		2	GADDAG
+Player 1	ta	--	4		1	HUMAN 
+Player 2	sequin	6.731	51		6	GADDAG
+Player 1	vas	--	10		2	HUMAN 
+Player 2	morn	10.576	19		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	raffia	8.725	28		5	GADDAG
+Player 1	ere	--	3		2	HUMAN 
+Player 2	aloft	10.3	18		4	GADDAG
+Player 1	me	--	12		1	HUMAN 
+Player 2	res	11.958	24		2	GADDAG
+Player 1	gat	--	8		2	HUMAN 
+Player 2	sutra	12.593	16		5	GADDAG
+Player 1	kat	--	14		2	HUMAN 
+Player 2	ae	3.104	8		1	GADDAG
+Player 1	coxae	--	31		3	HUMAN 
+Player 2	oe	3.272	13		2	GADDAG
+Player 1	nun	--	3		2	HUMAN 
+Player 2	olio	360.284	9		3	NEGASCOUT
+Player 1	oleos	--	10		4	HUMAN 
+Player 2	li	2.618	4		4	NEGASCOUT
+Player 1	duit	--	8		5	HUMAN 
+Player 2	id	0.481	3		5	NEGASCOUT
+Player 1	meet	--	8		6	HUMAN 
+Player 2	id	0.166	0		5	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	id	0.144	0		5	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	id	0.136	0		5	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 6 menit 15 detik 
+player 1 left tile : 1
+player 1 total skor : 176
+player 2 durasi : 8 menit 33 detik 
+player 2 left tile : 2
+player 2 total skor : 425
+Player 1		pass		--			0		0	

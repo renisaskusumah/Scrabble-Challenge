@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	exact	--	24		5	HUMAN 
+Player 2	zits	2.502	29		4	GADDAG

@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	born	--	12		4	HUMAN 
+Player 2	graves	34.943	24		6	GADDAG

@@ -1,0 +1,94 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  B F K F M Z Y
+New Tiles :  W N R N U G U
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : mixt , score : 26 , direction : 2 , col : 7 , row : 7
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  W N R N U G U
+New Tiles :  H N Q W R W F
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : zip , score : 27 , direction : 1 , anchor (6 , 8) , col : 8 , row : 6
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  H N Q W R W F
+New Tiles :  G R E Y S K H
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : pump , score : 17 , direction : 2 , anchor (8 , 7) , col : 5 , row : 8
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  G R E Y S K H
+New Tiles :  N B U C I Y A
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : un , score : 21 , direction : 2 , anchor (7 , 6) , col : 5 , row : 7
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  N B U C I Y A
+New Tiles :  W E N E T O S
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : fatten , score : 18 , direction : 1 , anchor (6 , 10) , col : 10 , row : 4
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  W E N E T O S
+New Tiles :  R R N U A N N
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : bib , score : 28 , direction : 1 , anchor (4 , 9) , col : 9 , row : 3
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  R R N U A N N
+New Tiles :  W C D J S R *
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : verges , score : 40 , direction : 2 , anchor (10 , 10) , col : 5 , row : 10
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : red , score : 3 , direction : 1 , col : 13 , row : 7
+
+
+******COMPUTER TURN******
+

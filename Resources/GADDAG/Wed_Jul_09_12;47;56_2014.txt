@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	wiz	0.073	30		3	
+Player 2 	jow	0.964	29		2	
+Player 1	vox	0.381	38		2	
+Player 2 	herl	9.143	23		4	blank tiles
+Player 1	holes	26.232	41		5	blank tiles
+Player 2 	veldts	0.394	28		4	
+Player 1	hoked	1.762	36		4	
+Player 2 	me	1.554	21		2	
+Player 1	my	1.08	18		2	
+Player 2 	zill	1.218	13		3	
+Player 1	lift	1.49	15		3	
+Player 2 	wizen	1.667	17		2	
+Player 1	buggy	1.739	28		5	
+Player 2 	gob	1.847	28		3	
+Player 1	odds	1.249	23		2	
+Player 2 	wynn	0.773	11		3	
+Player 1	myrtle	5.797	33		4	
+Player 2 	durr	2.801	10		4	
+Player 1	conto	8.47	25		5	
+Player 2 	eft	4.904	24		3	
+Player 1	suiter	12.041	29		6	
+Player 2 	ana	4.646	16		3	
+Player 1	ai	3.163	10		2	
+Player 2 	pepo	5.468	16		3	
+Player 1	cog	4.964	19		2	
+Player 2 	ran	6.017	14		2	
+Player 1	goa	2.95	10		2	
+Player 2 	ae	4.115	10		2	
+Player 1	eau	2.564	9		3	
+Player 2 	ain	1.588	8		4	
+Player 1	ai	0.389	7		5	
+Player 2 	ai	0.155	2		5	
+Player 1	el	0.096	2		6	
+Player 2 	re	0.081	2		6	
+Player 1	-	0.047	0		6	
+Player 2 	-	0.044	0		6	
+Player 1	-	0.046	0		6	
+Player 2 	-	0.046	0		6	
+Player 1	-	0.055	0		6	
+Player 2 	-	0.047	0		6	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 74.588
+player 1 left tile : 1
+player 1 total skor : 373
+player 1 Final skor : 372
+player 2 durasi : 47.472
+player 2 left tile : 1
+player 2 total skor : 272
+player 2 Final skor : 262

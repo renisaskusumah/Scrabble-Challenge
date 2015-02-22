@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	bond	--	14		4	HUMAN 
+Player 2	foxy	0.632	29		3	GADDAG
+Player 1	ted	--	4		2	HUMAN 

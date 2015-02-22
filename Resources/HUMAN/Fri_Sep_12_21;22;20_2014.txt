@@ -1,0 +1,43 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	joy	--	26		3	HUMAN 
+Player 2	lox	4.718	45		3	GADDAG
+Player 1	hay	--	17		2	HUMAN 
+Player 2	lawn	2.917	19		3	GADDAG
+Player 1	hank	--	16		3	HUMAN 
+Player 2	duct	6.295	38		4	GADDAG
+Player 1	gid	--	6		2	HUMAN 
+Player 2	my	4.142	30		2	GADDAG
+Player 1	bong	--	12		3	HUMAN 
+Player 2	big	6.737	25		3	GADDAG
+Player 1	bolt	--	6		3	HUMAN 
+Player 2	lids	18.322	30		4	GADDAG
+Player 1	pelt	--	12		3	HUMAN 
+Player 2	ceca	20.776	26		3	GADDAG
+Player 1	luge	--	5		3	HUMAN 
+Player 2	frap	17.347	28		4	GADDAG
+Player 1	pined	--	10		4	HUMAN 
+Player 2	queer	19.485	32		4	GADDAG
+Player 1	fee	--	7		2	HUMAN 
+Player 2	ewer	31.995	23		4	GADDAG
+Player 1	fun	--	6		2	HUMAN 
+Player 2	servo	30.056	32		5	GADDAG
+Player 1	see	--	3		2	HUMAN 
+Player 2	danio	38.941	27		5	GADDAG
+Player 1	sans	--	5		3	HUMAN 
+Player 2	auto	59.391	18		3	GADDAG
+Player 1	mars	--	12		3	HUMAN 
+Player 2	anent	50.943	19		4	GADDAG
+Player 1	tit	--	5		2	HUMAN 
+Player 2	ai	119.422	14		5	NEGASCOUT
+Player 1	zoo	--	12		4	HUMAN 
+Player 2	bolter	6.648	14		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 3
+player 1 total skor : 160
+player 2 durasi : 7 menit 9 detik 
+player 2 left tile : 0
+player 2 total skor : 420

@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	mouth	0.18	26		5
+Player 2 	thrown	0.455	24		5
+Player 1	-	0.407	0		0
+Player 2 	ex	0.597	22		2
+Player 1	feh	0.406	9		1
+Player 2 	yam	0.941	29		3
+Player 1	van	1.334	18		3
+Player 2 	fez	0.954	44		2
+Player 1	fawn	1.313	20		3
+Player 2 	tyke	0.629	33		3
+Player 1	ben	1.397	9		3
+Player 2 	dow	0.736	22		3
+Player 1	bice	2.41	16		3
+Player 2 	qat	1.136	34		3
+Player 1	snort	3.709	40		5
+Player 2 	clued	2.149	28		5
+Player 1	standup	5.471	26		7
+Player 2 	java	4.195	28		2
+Player 1	add	5.28	18		1
+Player 2 	gasps	7.107	39		5
+Player 1	pia	5.816	12		2
+Player 2 	lez	5.694	12		2
+Player 1	rear	7.049	18		3
+Player 2 	ego	8.163	12		3
+Player 1	oar	5.84	11		2
+Player 2 	odour	8.37	16		4
+Player 1	oe	3.592	8		2
+Player 2 	gig	9.084	19		2
+Player 1	toe	4.642	13		3
+Player 2 	keel	7.393	10		3
+Player 1	si	0.347	3		4
+Player 2 	en	0.589	7		4
+Player 1	-	0.194	0		4
+Player 2 	bal	0.238	5		5
+Player 1	-	0.208	0		4
+Player 2 	-	0.104	0		5
+Player 1	-	0.189	0		4
+Player 2 	-	0.111	0		5
+Player 1	-	0.189	0		4
+Player 2 	-	0.106	0		5
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 42 detik 
+player 1 left tile : 3
+player 1 total skor : 247
+player 1 Final skor : 244
+player 2 durasi : 0 menit 51 detik 
+player 2 left tile : 2
+player 2 total skor : 384
+player 2 Final skor : 382

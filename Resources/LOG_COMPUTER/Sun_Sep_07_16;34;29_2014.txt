@@ -1,0 +1,47 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : XEHTG*S
+
+HUMAN MOVE : het , score : 12 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : fehkmnm
+
+word : kef anchor( col :  7 row : 6 ) score : 22 new tiles : kef
+word : feh anchor( col :  6 row : 7 ) score : 9 new tiles : fe
+word : feh anchor( col :  6 row : 7 ) score : 31 new tiles : feh
+word : he anchor( col :  8 row : 7 ) score : 5 new tiles : e
+word : heh anchor( col :  8 row : 7 ) score : 9 new tiles : eh
+word : hmm anchor( col :  8 row : 7 ) score : 10 new tiles : mm
+word : feh anchor( col :  8 row : 7 ) score : 31 new tiles : feh
+word : kef anchor( col :  8 row : 7 ) score : 33 new tiles : kef
+word : fee anchor( col :  6 row : 8 ) score : 11 new tiles : fe
+word : feh anchor( col :  6 row : 8 ) score : 17 new tiles : fh
+word : femme anchor( col :  6 row : 8 ) score : 19 new tiles : fmme
+word : kef anchor( col :  6 row : 8 ) score : 19 new tiles : kf
+word : eh anchor( col :  6 row : 8 ) score : 23 new tiles : eh
+word : feh anchor( col :  6 row : 8 ) score : 31 new tiles : feh
+word : ef anchor( col :  8 row : 8 ) score : 9 new tiles : f
+word : keef anchor( col :  8 row : 8 ) score : 16 new tiles : kef
+word : kef anchor( col :  8 row : 8 ) score : 19 new tiles : kf
+word : ef anchor( col :  8 row : 8 ) score : 23 new tiles : ef
+word : kef anchor( col :  8 row : 8 ) score : 33 new tiles : kef
+word : ef anchor( col :  6 row : 9 ) score : 8 new tiles : ef
+word : heft anchor( col :  6 row : 9 ) score : 12 new tiles : hef
+word : he anchor( col :  6 row : 9 ) score : 14 new tiles : he
+word : khet anchor( col :  6 row : 9 ) score : 19 new tiles : khe
+word : he anchor( col :  6 row : 9 ) score : 20 new tiles : he
+word : hem anchor( col :  6 row : 9 ) score : 23 new tiles : hem
+word : ten anchor( col :  8 row : 9 ) score : 5 new tiles : en
+word : eth anchor( col :  8 row : 9 ) score : 6 new tiles : eh
+word : meth anchor( col :  8 row : 9 ) score : 15 new tiles : meh
+word : eh anchor( col :  7 row : 10 ) score : 15 new tiles : eh
+word : feh anchor( col :  7 row : 10 ) score : 19 new tiles : feh
+word : hmm anchor( col :  7 row : 10 ) score : 20 new tiles : hmm
+Hasil evaluasi : kef , score : 33 , direction : 2 , anchor (7 , 10) , col : 6 , row : 8
+
+POSSIBLE MOVEMENT : 
+
+

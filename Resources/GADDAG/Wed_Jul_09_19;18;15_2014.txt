@@ -1,0 +1,61 @@
+player word durasi skor tiles
+
+
+Player 1	xu	0.04	18		2	
+Player 2 	pommy	14.682	32		5	blank tiles
+Player 1	shy	1.016	26		3	
+Player 2 	bod	3.455	31		3	
+Player 1	hasty	2.405	43		5	
+Player 2 	sob	7.346	26		3	
+Player 1	sculpt	1.226	18		5	
+Player 2 	scud	2.759	32		4	
+Player 1	vuggy	1.067	26		4	
+Player 2 	jug	1.292	22		2	
+Player 1	viol	2.23	23		3	
+Player 2 	wop	1.289	8		1	
+Player 1	awn	17.954	20		3	blank tiles
+Player 2 	nu	1.341	4		1	
+Player 1	if	1.122	5		1	
+Player 2 	zag	4.119	28		2	
+Player 1	-	0.955	0		0	
+Player 2 	vet	4.535	22		2	
+Player 1	kef	0.976	10		1	
+Player 2 	ti	2.946	12		2	
+Player 1	of	2.313	16		2	
+Player 2 	rob	3.776	10		2	
+Player 1	rod	2.674	24		3	
+Player 2 	el	3.63	14		2	
+Player 1	tranq	3.939	28		4	
+Player 2 	ti	3.954	10		2	
+Player 1	rod	6.86	18		3	
+Player 2 	ka	5.768	16		1	
+Player 1	ala	8.421	13		3	
+Player 2 	an	5.647	12		2	
+Player 1	tela	7.502	17		4	
+Player 2 	inner	8.552	12		5	
+Player 1	ai	3.303	10		2	
+Player 2 	reline	5.486	9		3	
+Player 1	pine	1.586	8		3	
+Player 2 	ear	0.401	6		4	
+Player 1	et	0.437	4		4	
+Player 2 	ti	0.2	3		5	
+Player 1	eel	0.231	4		6	
+Player 2 	it	0.117	2		6	
+Player 1	tie	0.078	53		7	
+Player 2 	is	0.075	52		7	
+Player 1	-	0.058	0		7	
+Player 2 	-	0.058	0		7	
+Player 1	-	0.059	0		7	
+Player 2 	-	0.058	0		7	
+Player 1	-	0.06	0		7	
+Player 2 	-	0.061	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 66.512
+player 1 left tile : 0
+player 1 total skor : 384
+player 1 Final skor : 384
+player 2 durasi : 81.547
+player 2 left tile : 0
+player 2 total skor : 363
+player 2 Final skor : 363

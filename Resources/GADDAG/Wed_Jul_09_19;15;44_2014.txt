@@ -1,0 +1,56 @@
+player word durasi skor tiles
+
+
+Player 1	befleas	5.524	80		7	blank tiles
+Player 2 	weary	22.956	43		5	blank tiles
+Player 1	ward	2.588	31		4	
+Player 2 	yak	0.253	15		1	
+Player 1	bug	0.789	10		2	
+Player 2 	sax	0.705	16		2	
+Player 1	jew	0.853	21		2	
+Player 2 	kaph	0.403	16		2	
+Player 1	jay	1.399	26		2	
+Player 2 	faint	1.739	33		5	
+Player 1	pup	1.42	16		2	
+Player 2 	nizam	1.835	34		5	
+Player 1	dim	0.669	9		2	
+Player 2 	verb	1.441	24		4	
+Player 1	cis	1.206	19		2	
+Player 2 	peg	1.032	16		2	
+Player 1	sh	1.264	18		2	
+Player 2 	qat	1.715	18		3	
+Player 1	zori	5.084	43		2	
+Player 2 	tav	3.091	23		3	
+Player 1	dud	1.9	12		2	
+Player 2 	cog	3.693	21		3	
+Player 1	verbid	2.046	14		2	
+Player 2 	hullo	4.23	19		4	
+Player 1	its	3.782	19		3	
+Player 2 	no	3.785	16		2	
+Player 1	cee	7.039	13		2	
+Player 2 	oe	2.227	10		2	
+Player 1	noel	1.252	4		2	
+Player 2 	oorie	3.961	11		5	
+Player 1	ti	3.895	10		2	
+Player 2 	ion	6.137	9		2	
+Player 1	tirl	0.525	6		5	
+Player 2 	eerie	1.032	9		6	
+Player 1	nor	0.096	3		6	
+Player 2 	li	0.052	54		7	
+Player 1	net	0.062	53		7	
+Player 2 	-	0.046	0		7	
+Player 1	-	0.047	0		7	
+Player 2 	-	0.046	0		7	
+Player 1	-	0.046	0		7	
+Player 2 	-	0.047	0		7	
+Player 1	-	0.046	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 41.532
+player 1 left tile : 0
+player 1 total skor : 407
+player 1 Final skor : 407
+player 2 durasi : 60.426
+player 2 left tile : 0
+player 2 total skor : 387
+player 2 Final skor : 387

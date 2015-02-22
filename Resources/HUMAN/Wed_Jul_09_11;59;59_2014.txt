@@ -1,0 +1,4 @@
+player word durasi skor tiles
+
+
+Player 1	have	--	12		4

@@ -1,0 +1,55 @@
+player word durasi skor tiles
+
+
+Player 1	swishy	2.398	36		6	blank tiles
+Player 2 	pyx	0.489	15		2	
+Player 1	wispy	3.015	29		4	
+Player 2 	tsk	0.59	13		2	
+Player 1	hoed	38.607	25		3	blank tiles
+Player 2 	poxed	1.503	16		2	
+Player 1	tsks	0.814	8		1	
+Player 2 	dings	2.154	20		5	
+Player 1	bi	1.054	7		1	
+Player 2 	vugh	1.136	22		3	
+Player 1	fet	2.481	18		3	
+Player 2 	debt	0.653	7		2	
+Player 1	big	3.468	16		2	
+Player 2 	zit	1.725	22		2	
+Player 1	sign	3.43	14		3	
+Player 2 	hic	0.934	8		1	
+Player 1	five	6.271	24		4	
+Player 2 	end	2.015	18		3	
+Player 1	armor	6.435	23		5	
+Player 2 	jot	1.099	20		2	
+Player 1	on	6.44	19		2	
+Player 2 	mi	1.217	4		1	
+Player 1	tillage	8.05	25		6	
+Player 2 	fret	3.614	14		3	
+Player 1	oracle	13.314	26		6	
+Player 2 	qat	7.852	32		2	
+Player 1	do	12.227	17		1	
+Player 2 	urinal	7.793	14		5	
+Player 1	nee	12.055	12		3	
+Player 2 	ora	4.234	14		2	
+Player 1	roue	7.655	15		4	
+Player 2 	uke	2.631	12		3	
+Player 1	olea	0.359	54		7	
+Player 2 	ai	0.676	8		5	
+Player 1	-	0.056	0		7	
+Player 2 	aa	0.174	56		7	
+Player 1	-	0.057	0		7	
+Player 2 	-	0.055	0		7	
+Player 1	-	0.071	0		7	
+Player 2 	-	0.046	0		7	
+Player 1	-	0.046	0		7	
+Player 2 	-	0.046	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 128.303
+player 1 left tile : 0
+player 1 total skor : 368
+player 1 Final skor : 368
+player 2 durasi : 40.636
+player 2 left tile : 0
+player 2 total skor : 315
+player 2 Final skor : 315

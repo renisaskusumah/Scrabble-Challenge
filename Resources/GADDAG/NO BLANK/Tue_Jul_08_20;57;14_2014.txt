@@ -1,0 +1,50 @@
+player word durasi skor tiles
+
+
+Player 1	gawk	0.144	24		4
+Player 2 	jamb	0.892	21		3
+Player 1	jambing	1.912	19		3
+Player 2 	wow	2.173	20		2
+Player 1	quip	1.61	30		4
+Player 2 	nix	1.688	22		2
+Player 1	vugg	0.823	19		2
+Player 2 	kif	2.804	10		2
+Player 1	fiz	1.634	35		2
+Player 2 	acme	5.681	27		4
+Player 1	biz	2.814	14		2
+Player 2 	tepid	6.107	33		5
+Player 1	vig	1.222	14		2
+Player 2 	rushy	5.047	30		5
+Player 1	acmes	2.203	9		2
+Player 2 	shiny	9.384	29		5
+Player 1	add	7.046	15		3
+Player 2 	daftest	9.525	30		6
+Player 1	tour	15.392	19		4
+Player 2 	ranter	13.824	24		6
+Player 1	tines	13.402	24		5
+Player 2 	oe	11.615	19		2
+Player 1	relearn	15.195	80		7
+Player 2 	llano	11.359	13		5
+Player 1	voe	4.521	11		2
+Player 2 	linin	0.852	9		4
+Player 1	aa	1.432	10		4
+Player 2 	go	0.242	7		5
+Player 1	em	0.256	6		5
+Player 2 	noo	0.107	53		7
+Player 1	ree	0.117	53		7
+Player 2 	-	0.033	0		7
+Player 1	-	0.033	0		7
+Player 2 	-	0.033	0		7
+Player 1	-	0.033	0		7
+Player 2 	-	0.034	0		7
+Player 1	-	0.04	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 69.829
+player 1 left tile : 0
+player 1 total skor : 382
+player 1 Final skor : 382
+player 2 durasi : 81.4
+player 2 left tile : 0
+player 2 total skor : 347
+player 2 Final skor : 347

@@ -1,0 +1,1705 @@
+******HUMAN TURN******
+
+word : fez anchor( col :  6 row : 7 ) score : 15
+word : fiz anchor( col :  6 row : 7 ) score : 25
+word : fizzy anchor( col :  6 row : 7 ) score : 29
+word : zee anchor( col :  8 row : 7 ) score : 12
+word : fizz anchor( col :  8 row : 7 ) score : 25
+word : fizzy anchor( col :  8 row : 7 ) score : 29
+word : eme anchor( col :  6 row : 8 ) score : 8
+word : fem anchor( col :  6 row : 8 ) score : 12
+word : zyme anchor( col :  6 row : 8 ) score : 21
+word : feeze anchor( col :  6 row : 8 ) score : 28
+word : fez anchor( col :  6 row : 8 ) score : 29
+word : em anchor( col :  8 row : 8 ) score : 7
+word : fem anchor( col :  8 row : 8 ) score : 15
+word : feme anchor( col :  8 row : 8 ) score : 16
+word : feeze anchor( col :  8 row : 8 ) score : 22
+word : zee anchor( col :  8 row : 8 ) score : 23
+word : feeze anchor( col :  8 row : 8 ) score : 28
+word : fez anchor( col :  8 row : 8 ) score : 29
+word : me anchor( col :  6 row : 9 ) score : 4
+word : em anchor( col :  6 row : 9 ) score : 7
+word : fem anchor( col :  6 row : 9 ) score : 11
+word : zyme anchor( col :  6 row : 9 ) score : 26
+word : feeze anchor( col :  6 row : 9 ) score : 27
+word : zee anchor( col :  6 row : 9 ) score : 32
+word : feeze anchor( col :  6 row : 9 ) score : 37
+word : em anchor( col :  8 row : 9 ) score : 4
+word : fem anchor( col :  8 row : 9 ) score : 8
+word : feme anchor( col :  8 row : 9 ) score : 11
+word : feeze anchor( col :  8 row : 9 ) score : 37
+word : fez anchor( col :  6 row : 7 ) score : 15
+word : fiz anchor( col :  6 row : 7 ) score : 25
+word : fizzy anchor( col :  6 row : 7 ) score : 29
+word : zee anchor( col :  8 row : 7 ) score : 12
+word : fizz anchor( col :  8 row : 7 ) score : 25
+word : fizzy anchor( col :  8 row : 7 ) score : 29
+word : eme anchor( col :  6 row : 8 ) score : 8
+word : fem anchor( col :  6 row : 8 ) score : 12
+word : zyme anchor( col :  6 row : 8 ) score : 21
+word : feeze anchor( col :  6 row : 8 ) score : 28
+word : fez anchor( col :  6 row : 8 ) score : 29
+word : em anchor( col :  8 row : 8 ) score : 7
+word : fem anchor( col :  8 row : 8 ) score : 15
+word : feme anchor( col :  8 row : 8 ) score : 16
+word : feeze anchor( col :  8 row : 8 ) score : 22
+word : zee anchor( col :  8 row : 8 ) score : 23
+word : feeze anchor( col :  8 row : 8 ) score : 28
+word : fez anchor( col :  8 row : 8 ) score : 29
+word : me anchor( col :  6 row : 9 ) score : 4
+word : em anchor( col :  6 row : 9 ) score : 7
+word : fem anchor( col :  6 row : 9 ) score : 11
+word : zyme anchor( col :  6 row : 9 ) score : 26
+word : feeze anchor( col :  6 row : 9 ) score : 27
+word : zee anchor( col :  6 row : 9 ) score : 32
+word : feeze anchor( col :  6 row : 9 ) score : 37
+word : em anchor( col :  8 row : 9 ) score : 4
+word : fem anchor( col :  8 row : 9 ) score : 8
+word : feme anchor( col :  8 row : 9 ) score : 11
+word : feeze anchor( col :  8 row : 9 ) score : 37
+******HUMAN RESULT******
+
+
+HUMAN MOVE : zee , score : 24 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+word : mauve anchor( col :  6 row : 8 ) score : 14
+word : cecum anchor( col :  6 row : 8 ) score : 17
+word : jeu anchor( col :  6 row : 8 ) score : 19
+word : cecum anchor( col :  8 row : 8 ) score : 17
+word : jeu anchor( col :  8 row : 8 ) score : 19
+word : mauve anchor( col :  6 row : 9 ) score : 12
+word : cecum anchor( col :  6 row : 9 ) score : 13
+word : caecum anchor( col :  6 row : 9 ) score : 20
+word : cecum anchor( col :  8 row : 9 ) score : 13
+word : caecum anchor( col :  8 row : 9 ) score : 20
+Hasil evaluasi : caecum , score : 20 , direction :1 ,i: 9 j: 5
+
+
+
+word : fuzee anchor( col :  7 row : 6 ) score : 17
+word : fiz anchor( col :  6 row : 7 ) score : 15
+word : zig anchor( col :  8 row : 7 ) score : 13
+word : icy anchor( col :  5 row : 8 ) score : 8
+word : fuci anchor( col :  5 row : 8 ) score : 9
+word : mag anchor( col :  6 row : 8 ) score : 16
+word : magi anchor( col :  6 row : 8 ) score : 17
+word : may anchor( col :  6 row : 8 ) score : 18
+word : ya anchor( col :  6 row : 8 ) score : 18
+word : yam anchor( col :  6 row : 8 ) score : 21
+word : mu anchor( col :  9 row : 8 ) score : 12
+word : mug anchor( col :  9 row : 8 ) score : 14
+word : mi anchor( col :  10 row : 8 ) score : 10
+word : mig anchor( col :  10 row : 8 ) score : 14
+word : immy anchor( col :  10 row : 8 ) score : 22
+word : gummy anchor( col :  10 row : 8 ) score : 26
+word : fuci anchor( col :  5 row : 10 ) score : 9
+word : am anchor( col :  6 row : 10 ) score : 4
+word : yam anchor( col :  6 row : 10 ) score : 21
+word : cum anchor( col :  8 row : 10 ) score : 7
+word : cuif anchor( col :  8 row : 10 ) score : 13
+word : mi anchor( col :  9 row : 10 ) score : 20
+word : mig anchor( col :  9 row : 10 ) score : 24
+word : my anchor( col :  9 row : 10 ) score : 32
+word : mi anchor( col :  10 row : 10 ) score : 20
+word : mig anchor( col :  10 row : 10 ) score : 24
+word : my anchor( col :  10 row : 10 ) score : 26
+word : my anchor( col :  10 row : 10 ) score : 32
+-------HUMAN CLICK HINT-------
+
+
+
+word : fuzee anchor( col :  7 row : 6 ) score : 17
+word : zig anchor( col :  8 row : 7 ) score : 13
+word : mu anchor( col :  9 row : 8 ) score : 12
+word : mug anchor( col :  9 row : 8 ) score : 14
+word : mi anchor( col :  10 row : 8 ) score : 10
+word : mig anchor( col :  10 row : 8 ) score : 14
+word : immy anchor( col :  10 row : 8 ) score : 22
+word : gummy anchor( col :  10 row : 8 ) score : 26
+word : cum anchor( col :  5 row : 10 ) score : 11
+word : cuif anchor( col :  5 row : 10 ) score : 13
+word : cum anchor( col :  8 row : 10 ) score : 7
+word : cuif anchor( col :  8 row : 10 ) score : 13
+word : mi anchor( col :  9 row : 10 ) score : 20
+word : mig anchor( col :  9 row : 10 ) score : 24
+word : my anchor( col :  9 row : 10 ) score : 32
+word : mi anchor( col :  10 row : 10 ) score : 20
+word : mig anchor( col :  10 row : 10 ) score : 24
+word : my anchor( col :  10 row : 10 ) score : 26
+word : my anchor( col :  10 row : 10 ) score : 32
+******HUMAN RESULT******
+
+
+HUMAN MOVE : yam , score : 21 , direction : 2 , col : 6 , row : 11
+
+
+******COMPUTER TURN******
+
+word : vac anchor( col :  5 row : 8 ) score : 14
+word : fuji anchor( col :  9 row : 8 ) score : 14
+word : jauk anchor( col :  9 row : 8 ) score : 15
+word : aw anchor( col :  10 row : 8 ) score : 9
+word : jam anchor( col :  10 row : 8 ) score : 12
+word : kami anchor( col :  10 row : 8 ) score : 20
+word : caw anchor( col :  5 row : 10 ) score : 12
+word : caw anchor( col :  8 row : 10 ) score : 8
+word : fuji anchor( col :  9 row : 10 ) score : 14
+word : jauk anchor( col :  9 row : 10 ) score : 15
+word : if anchor( col :  10 row : 10 ) score : 18
+word : kami anchor( col :  10 row : 10 ) score : 20
+Hasil evaluasi : kami , score : 20 , direction :2 ,i: 7 j: 10
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  F U G * I
+New Tiles :  D Q U G I
+
+
+******COMPUTER TURN******
+
+word : aw anchor( col :  11 row : 8 ) score : 5
+word : fub anchor( col :  9 row : 10 ) score : 17
+word : if anchor( col :  11 row : 10 ) score : 5
+Hasil evaluasi : fub , score : 17 , direction :2 ,i: 8 j: 9
+
+
+
+word : ti anchor( col :  11 row : 6 ) score : 9
+word : dit anchor( col :  11 row : 6 ) score : 10
+word : dig anchor( col :  11 row : 6 ) score : 12
+word : quit anchor( col :  11 row : 6 ) score : 19
+word : quid anchor( col :  11 row : 6 ) score : 21
+word : ti anchor( col :  12 row : 6 ) score : 9
+word : quid anchor( col :  12 row : 6 ) score : 15
+word : fat anchor( col :  11 row : 8 ) score : 8
+word : fad anchor( col :  11 row : 8 ) score : 10
+word : duit anchor( col :  11 row : 8 ) score : 11
+word : quit anchor( col :  11 row : 8 ) score : 19
+word : quid anchor( col :  11 row : 8 ) score : 21
+word : dit anchor( col :  12 row : 8 ) score : 5
+word : did anchor( col :  12 row : 8 ) score : 6
+word : digit anchor( col :  12 row : 8 ) score : 8
+word : cut anchor( col :  5 row : 10 ) score : 9
+word : cud anchor( col :  5 row : 10 ) score : 10
+word : bit anchor( col :  11 row : 10 ) score : 5
+word : bid anchor( col :  11 row : 10 ) score : 6
+word : ti anchor( col :  11 row : 10 ) score : 9
+word : tui anchor( col :  11 row : 10 ) score : 11
+word : tug anchor( col :  11 row : 10 ) score : 13
+word : dit anchor( col :  11 row : 10 ) score : 14
+word : dig anchor( col :  11 row : 10 ) score : 16
+word : guid anchor( col :  11 row : 10 ) score : 18
+word : ti anchor( col :  11 row : 6 ) score : 9
+word : dit anchor( col :  11 row : 6 ) score : 10
+word : dig anchor( col :  11 row : 6 ) score : 12
+word : quit anchor( col :  11 row : 6 ) score : 19
+word : quid anchor( col :  11 row : 6 ) score : 21
+word : ti anchor( col :  12 row : 6 ) score : 9
+word : quid anchor( col :  12 row : 6 ) score : 15
+word : fat anchor( col :  11 row : 8 ) score : 8
+word : fad anchor( col :  11 row : 8 ) score : 10
+word : duit anchor( col :  11 row : 8 ) score : 11
+word : quit anchor( col :  11 row : 8 ) score : 19
+word : quid anchor( col :  11 row : 8 ) score : 21
+word : dit anchor( col :  12 row : 8 ) score : 5
+word : did anchor( col :  12 row : 8 ) score : 6
+word : digit anchor( col :  12 row : 8 ) score : 8
+word : cut anchor( col :  5 row : 10 ) score : 9
+word : cud anchor( col :  5 row : 10 ) score : 10
+word : bit anchor( col :  11 row : 10 ) score : 5
+word : bid anchor( col :  11 row : 10 ) score : 6
+word : ti anchor( col :  11 row : 10 ) score : 9
+word : tui anchor( col :  11 row : 10 ) score : 11
+word : tug anchor( col :  11 row : 10 ) score : 13
+word : dit anchor( col :  11 row : 10 ) score : 14
+word : dig anchor( col :  11 row : 10 ) score : 16
+word : guid anchor( col :  11 row : 10 ) score : 18
+******HUMAN RESULT******
+
+
+HUMAN MOVE : kid , score : 9 , direction : 1 , col : 13 , row : 7
+
+
+******COMPUTER TURN******
+
+word : ba anchor( col :  11 row : 6 ) score : 13
+word : bad anchor( col :  11 row : 6 ) score : 15
+word : ba anchor( col :  12 row : 6 ) score : 13
+word : bad anchor( col :  12 row : 6 ) score : 15
+word : vac anchor( col :  5 row : 8 ) score : 14
+word : fad anchor( col :  11 row : 8 ) score : 10
+word : id anchor( col :  11 row : 8 ) score : 10
+word : avid anchor( col :  11 row : 8 ) score : 15
+word : aw anchor( col :  12 row : 8 ) score : 10
+word : caw anchor( col :  5 row : 10 ) score : 12
+word : bid anchor( col :  11 row : 10 ) score : 6
+word : bib anchor( col :  11 row : 10 ) score : 7
+word : da anchor( col :  11 row : 10 ) score : 12
+word : daw anchor( col :  11 row : 10 ) score : 20
+word : bawd anchor( col :  11 row : 10 ) score : 27
+Hasil evaluasi : bawd , score : 27 , direction :2 ,i: 10 j: 11
+
+
+
+word : ti anchor( col :  11 row : 6 ) score : 9
+word : tip anchor( col :  11 row : 6 ) score : 12
+word : pi anchor( col :  11 row : 6 ) score : 13
+word : pit anchor( col :  11 row : 6 ) score : 14
+word : pig anchor( col :  11 row : 6 ) score : 15
+word : ti anchor( col :  12 row : 6 ) score : 9
+word : tip anchor( col :  12 row : 6 ) score : 12
+word : pi anchor( col :  12 row : 6 ) score : 13
+word : pit anchor( col :  12 row : 6 ) score : 14
+word : pig anchor( col :  12 row : 6 ) score : 15
+word : fat anchor( col :  11 row : 8 ) score : 8
+word : it anchor( col :  11 row : 8 ) score : 8
+word : pit anchor( col :  11 row : 8 ) score : 11
+word : wit anchor( col :  11 row : 8 ) score : 12
+word : quit anchor( col :  11 row : 8 ) score : 19
+word : dup anchor( col :  12 row : 8 ) score : 7
+word : cut anchor( col :  5 row : 10 ) score : 9
+word : cup anchor( col :  5 row : 10 ) score : 11
+word : at anchor( col :  12 row : 11 ) score : 4
+word : tug anchor( col :  13 row : 11 ) score : 4
+word : pug anchor( col :  13 row : 11 ) score : 6
+word : wig anchor( col :  13 row : 11 ) score : 7
+word : twig anchor( col :  13 row : 11 ) score : 10
+word : twig anchor( col :  10 row : 12 ) score : 8
+word : ti anchor( col :  10 row : 12 ) score : 13
+word : pud anchor( col :  10 row : 13 ) score : 12
+word : wud anchor( col :  10 row : 13 ) score : 15
+word : quid anchor( col :  10 row : 13 ) score : 16
+word : ti anchor( col :  11 row : 6 ) score : 9
+word : tip anchor( col :  11 row : 6 ) score : 12
+word : pi anchor( col :  11 row : 6 ) score : 13
+word : pit anchor( col :  11 row : 6 ) score : 14
+word : pig anchor( col :  11 row : 6 ) score : 15
+word : ti anchor( col :  12 row : 6 ) score : 9
+word : tip anchor( col :  12 row : 6 ) score : 12
+word : pi anchor( col :  12 row : 6 ) score : 13
+word : pit anchor( col :  12 row : 6 ) score : 14
+word : pig anchor( col :  12 row : 6 ) score : 15
+word : fat anchor( col :  11 row : 8 ) score : 8
+word : it anchor( col :  11 row : 8 ) score : 8
+word : pit anchor( col :  11 row : 8 ) score : 11
+word : wit anchor( col :  11 row : 8 ) score : 12
+word : quit anchor( col :  11 row : 8 ) score : 19
+word : dup anchor( col :  12 row : 8 ) score : 7
+word : cut anchor( col :  5 row : 10 ) score : 9
+word : cup anchor( col :  5 row : 10 ) score : 11
+word : at anchor( col :  12 row : 11 ) score : 4
+word : tug anchor( col :  13 row : 11 ) score : 4
+word : pug anchor( col :  13 row : 11 ) score : 6
+word : wig anchor( col :  13 row : 11 ) score : 7
+word : twig anchor( col :  13 row : 11 ) score : 10
+word : twig anchor( col :  10 row : 12 ) score : 8
+word : ti anchor( col :  10 row : 12 ) score : 13
+word : pud anchor( col :  10 row : 13 ) score : 12
+word : wud anchor( col :  10 row : 13 ) score : 15
+word : quid anchor( col :  10 row : 13 ) score : 16
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wig , score : 14 , direction : 1 , col : 14 , row : 12
+
+
+******COMPUTER TURN******
+
+word : fuzee anchor( col :  7 row : 6 ) score : 16
+word : xi anchor( col :  11 row : 6 ) score : 19
+word : fix anchor( col :  11 row : 6 ) score : 26
+word : ad anchor( col :  12 row : 6 ) score : 4
+word : ax anchor( col :  12 row : 6 ) score : 10
+word : xi anchor( col :  12 row : 6 ) score : 19
+word : kids anchor( col :  13 row : 7 ) score : 8
+word : vac anchor( col :  5 row : 8 ) score : 12
+word : fad anchor( col :  11 row : 8 ) score : 10
+word : fade anchor( col :  11 row : 8 ) score : 12
+word : avid anchor( col :  11 row : 8 ) score : 14
+word : oxid anchor( col :  11 row : 8 ) score : 18
+word : fix anchor( col :  11 row : 8 ) score : 26
+word : ad anchor( col :  12 row : 8 ) score : 4
+word : ax anchor( col :  12 row : 8 ) score : 10
+word : fade anchor( col :  12 row : 8 ) score : 12
+word : faddy anchor( col :  12 row : 8 ) score : 14
+word : faddy anchor( col :  12 row : 8 ) score : 18
+word : cavy anchor( col :  5 row : 10 ) score : 14
+word : cox anchor( col :  5 row : 10 ) score : 14
+word : bibb anchor( col :  12 row : 10 ) score : 7
+word : yams anchor( col :  6 row : 11 ) score : 8
+word : fubs anchor( col :  9 row : 11 ) score : 8
+word : fubsy anchor( col :  9 row : 11 ) score : 12
+word : ka anchor( col :  10 row : 11 ) score : 11
+word : ax anchor( col :  12 row : 11 ) score : 18
+word : edgy anchor( col :  13 row : 11 ) score : 16
+word : fogy anchor( col :  13 row : 11 ) score : 20
+word : swig anchor( col :  10 row : 12 ) score : 7
+word : wigs anchor( col :  14 row : 12 ) score : 7
+word : add anchor( col :  10 row : 13 ) score : 4
+word : dad anchor( col :  10 row : 13 ) score : 8
+word : dyad anchor( col :  10 row : 13 ) score : 16
+word : add anchor( col :  12 row : 13 ) score : 7
+word : die anchor( col :  12 row : 13 ) score : 8
+word : go anchor( col :  13 row : 13 ) score : 4
+word : edgy anchor( col :  13 row : 13 ) score : 16
+word : fogy anchor( col :  13 row : 13 ) score : 20
+word : davy anchor( col :  11 row : 14 ) score : 32
+word : dexy anchor( col :  11 row : 14 ) score : 36
+word : foxy anchor( col :  11 row : 14 ) score : 38
+Hasil evaluasi : foxy , score : 38 , direction :1 ,i: 14 j: 8
+
+
+
+word : ti anchor( col :  11 row : 6 ) score : 9
+word : tip anchor( col :  11 row : 6 ) score : 12
+word : pi anchor( col :  11 row : 6 ) score : 13
+word : pit anchor( col :  11 row : 6 ) score : 14
+word : ti anchor( col :  12 row : 6 ) score : 9
+word : tip anchor( col :  12 row : 6 ) score : 12
+word : pi anchor( col :  12 row : 6 ) score : 13
+word : pit anchor( col :  12 row : 6 ) score : 14
+word : fat anchor( col :  11 row : 8 ) score : 8
+word : it anchor( col :  11 row : 8 ) score : 8
+word : pit anchor( col :  11 row : 8 ) score : 11
+word : wit anchor( col :  11 row : 8 ) score : 12
+word : quit anchor( col :  11 row : 8 ) score : 19
+word : dup anchor( col :  12 row : 8 ) score : 7
+word : cut anchor( col :  5 row : 10 ) score : 9
+word : cutup anchor( col :  5 row : 10 ) score : 19
+word : at anchor( col :  12 row : 11 ) score : 4
+word : tug anchor( col :  13 row : 11 ) score : 4
+word : pug anchor( col :  13 row : 11 ) score : 6
+word : wig anchor( col :  13 row : 11 ) score : 7
+word : twig anchor( col :  13 row : 11 ) score : 10
+word : twig anchor( col :  10 row : 12 ) score : 8
+word : ti anchor( col :  8 row : 13 ) score : 7
+word : pi anchor( col :  8 row : 13 ) score : 9
+word : pit anchor( col :  8 row : 13 ) score : 15
+word : wit anchor( col :  8 row : 13 ) score : 16
+word : quit anchor( col :  8 row : 13 ) score : 23
+word : it anchor( col :  9 row : 13 ) score : 12
+word : pit anchor( col :  9 row : 13 ) score : 15
+word : wit anchor( col :  9 row : 13 ) score : 16
+word : quit anchor( col :  9 row : 13 ) score : 23
+-------HUMAN CLICK HINT-------
+
+
+
+word : cut anchor( col :  5 row : 10 ) score : 9
+word : cutup anchor( col :  5 row : 10 ) score : 19
+word : at anchor( col :  12 row : 11 ) score : 4
+word : tug anchor( col :  13 row : 11 ) score : 4
+word : pug anchor( col :  13 row : 11 ) score : 6
+word : wig anchor( col :  13 row : 11 ) score : 7
+word : twig anchor( col :  13 row : 11 ) score : 10
+word : twig anchor( col :  10 row : 12 ) score : 8
+word : ti anchor( col :  8 row : 13 ) score : 7
+word : pi anchor( col :  8 row : 13 ) score : 9
+word : pit anchor( col :  8 row : 13 ) score : 15
+word : wit anchor( col :  8 row : 13 ) score : 16
+word : quit anchor( col :  8 row : 13 ) score : 23
+word : it anchor( col :  9 row : 13 ) score : 12
+word : pit anchor( col :  9 row : 13 ) score : 15
+word : wit anchor( col :  9 row : 13 ) score : 16
+word : quit anchor( col :  9 row : 13 ) score : 23
+******HUMAN RESULT******
+
+
+HUMAN MOVE : quit , score : 19 , direction : 2 , col : 11 , row : 9
+
+
+******COMPUTER TURN******
+
+word : cud anchor( col :  5 row : 10 ) score : 10
+word : cup anchor( col :  5 row : 10 ) score : 11
+word : vug anchor( col :  13 row : 11 ) score : 17
+word : vugg anchor( col :  13 row : 11 ) score : 18
+word : udo anchor( col :  9 row : 13 ) score : 7
+word : upo anchor( col :  9 row : 13 ) score : 10
+word : vugg anchor( col :  13 row : 13 ) score : 18
+Hasil evaluasi : vugg , score : 18 , direction :2 ,i: 10 j: 13
+
+
+
+word : pique anchor( col :  10 row : 5 ) score : 24
+word : pique anchor( col :  12 row : 5 ) score : 24
+word : echoic anchor( col :  5 row : 8 ) score : 23
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : dew anchor( col :  12 row : 8 ) score : 16
+word : cop anchor( col :  5 row : 10 ) score : 11
+word : cope anchor( col :  5 row : 10 ) score : 12
+word : cow anchor( col :  5 row : 10 ) score : 12
+word : coupe anchor( col :  5 row : 10 ) score : 15
+word : pech anchor( col :  5 row : 10 ) score : 24
+word : up anchor( col :  14 row : 11 ) score : 7
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : upo anchor( col :  8 row : 13 ) score : 10
+word : pow anchor( col :  8 row : 13 ) score : 33
+word : how anchor( col :  8 row : 13 ) score : 34
+word : owed anchor( col :  8 row : 13 ) score : 42
+word : ow anchor( col :  9 row : 13 ) score : 30
+word : pow anchor( col :  9 row : 13 ) score : 33
+word : how anchor( col :  9 row : 13 ) score : 34
+word : owed anchor( col :  9 row : 13 ) score : 42
+word : ho anchor( col :  10 row : 13 ) score : 36
+word : owe anchor( col :  10 row : 13 ) score : 42
+word : go anchor( col :  14 row : 13 ) score : 3
+-------HUMAN CLICK HINT-------
+
+
+
+word : upo anchor( col :  9 row : 4 ) score : 9
+word : poh anchor( col :  9 row : 4 ) score : 30
+word : whop anchor( col :  9 row : 4 ) score : 36
+word : op anchor( col :  10 row : 4 ) score : 20
+word : wop anchor( col :  10 row : 4 ) score : 28
+word : whop anchor( col :  10 row : 4 ) score : 36
+word : pi anchor( col :  12 row : 4 ) score : 5
+word : woe anchor( col :  13 row : 4 ) score : 6
+word : hop anchor( col :  13 row : 4 ) score : 9
+word : howe anchor( col :  13 row : 4 ) score : 10
+word : ouph anchor( col :  13 row : 4 ) score : 20
+word : oe anchor( col :  9 row : 6 ) score : 7
+word : pe anchor( col :  9 row : 6 ) score : 11
+word : we anchor( col :  9 row : 6 ) score : 13
+word : hep anchor( col :  13 row : 6 ) score : 8
+word : weep anchor( col :  13 row : 6 ) score : 9
+word : wheep anchor( col :  13 row : 6 ) score : 13
+word : pech anchor( col :  5 row : 8 ) score : 24
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : dew anchor( col :  12 row : 8 ) score : 16
+word : cop anchor( col :  5 row : 10 ) score : 11
+word : cope anchor( col :  5 row : 10 ) score : 12
+word : cow anchor( col :  5 row : 10 ) score : 12
+word : coupe anchor( col :  5 row : 10 ) score : 15
+word : pech anchor( col :  5 row : 10 ) score : 24
+word : up anchor( col :  14 row : 11 ) score : 7
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : upo anchor( col :  8 row : 13 ) score : 10
+word : pow anchor( col :  8 row : 13 ) score : 33
+word : how anchor( col :  8 row : 13 ) score : 34
+word : owed anchor( col :  8 row : 13 ) score : 42
+word : ow anchor( col :  9 row : 13 ) score : 30
+word : pow anchor( col :  9 row : 13 ) score : 33
+word : how anchor( col :  9 row : 13 ) score : 34
+word : owed anchor( col :  9 row : 13 ) score : 42
+word : ho anchor( col :  10 row : 13 ) score : 36
+word : owe anchor( col :  10 row : 13 ) score : 42
+word : go anchor( col :  14 row : 13 ) score : 3
+******HUMAN RESULT******
+
+
+HUMAN MOVE : pique , score : 24 , direction : 1 , col : 14 , row : 5
+
+
+******COMPUTER TURN******
+
+word : as anchor( col :  9 row : 4 ) score : 5
+word : gas anchor( col :  9 row : 4 ) score : 7
+word : pa anchor( col :  9 row : 4 ) score : 7
+word : paps anchor( col :  9 row : 4 ) score : 8
+word : pad anchor( col :  10 row : 4 ) score : 14
+word : na anchor( col :  12 row : 4 ) score : 6
+word : na anchor( col :  13 row : 4 ) score : 6
+word : ajee anchor( col :  13 row : 4 ) score : 10
+word : jade anchor( col :  13 row : 4 ) score : 12
+word : jades anchor( col :  13 row : 4 ) score : 13
+word : spade anchor( col :  13 row : 4 ) score : 16
+word : gasped anchor( col :  13 row : 4 ) score : 20
+word : piqued anchor( col :  14 row : 5 ) score : 18
+word : and anchor( col :  14 row : 5 ) score : 23
+word : sand anchor( col :  14 row : 5 ) score : 24
+word : pad anchor( col :  14 row : 5 ) score : 27
+word : pads anchor( col :  14 row : 5 ) score : 28
+word : dap anchor( col :  14 row : 5 ) score : 36
+word : daps anchor( col :  14 row : 5 ) score : 39
+word : spang anchor( col :  14 row : 5 ) score : 41
+word : da anchor( col :  9 row : 6 ) score : 9
+word : pa anchor( col :  9 row : 6 ) score : 11
+word : ped anchor( col :  13 row : 6 ) score : 6
+word : sped anchor( col :  13 row : 6 ) score : 7
+word : gasped anchor( col :  13 row : 6 ) score : 20
+word : kids anchor( col :  13 row : 7 ) score : 9
+word : peds anchor( col :  13 row : 7 ) score : 16
+word : pa anchor( col :  5 row : 8 ) score : 13
+word : cad anchor( col :  5 row : 10 ) score : 10
+word : cads anchor( col :  5 row : 10 ) score : 11
+word : cap anchor( col :  5 row : 10 ) score : 11
+word : caps anchor( col :  5 row : 10 ) score : 12
+word : ands anchor( col :  6 row : 11 ) score : 19
+word : pads anchor( col :  6 row : 11 ) score : 23
+word : pangs anchor( col :  6 row : 11 ) score : 25
+word : jags anchor( col :  6 row : 11 ) score : 33
+word : ads anchor( col :  9 row : 11 ) score : 14
+word : pas anchor( col :  9 row : 11 ) score : 17
+word : up anchor( col :  14 row : 11 ) score : 7
+word : swig anchor( col :  10 row : 12 ) score : 8
+word : wigs anchor( col :  14 row : 12 ) score : 8
+word : dad anchor( col :  9 row : 13 ) score : 24
+word : jo anchor( col :  9 row : 13 ) score : 24
+word : dad anchor( col :  10 row : 13 ) score : 24
+word : vuggs anchor( col :  13 row : 14 ) score : 10
+Hasil evaluasi : spang , score : 41 , direction :2 ,i: 5 j: 14
+
+
+
+word : ow anchor( col :  9 row : 1 ) score : 34
+word : low anchor( col :  9 row : 1 ) score : 35
+word : alow anchor( col :  9 row : 1 ) score : 36
+word : how anchor( col :  9 row : 1 ) score : 38
+word : howl anchor( col :  9 row : 1 ) score : 39
+word : who anchor( col :  9 row : 1 ) score : 39
+word : whoa anchor( col :  9 row : 1 ) score : 40
+word : wahoo anchor( col :  9 row : 1 ) score : 67
+word : ooh anchor( col :  8 row : 2 ) score : 7
+word : who anchor( col :  8 row : 2 ) score : 13
+word : whoa anchor( col :  8 row : 2 ) score : 14
+word : low anchor( col :  8 row : 2 ) score : 18
+word : how anchor( col :  8 row : 2 ) score : 21
+word : howl anchor( col :  8 row : 2 ) score : 24
+word : ho anchor( col :  10 row : 2 ) score : 5
+word : who anchor( col :  10 row : 2 ) score : 13
+word : whoa anchor( col :  10 row : 2 ) score : 14
+word : howl anchor( col :  10 row : 2 ) score : 20
+word : lo anchor( col :  8 row : 3 ) score : 4
+word : woo anchor( col :  8 row : 3 ) score : 10
+word : wool anchor( col :  8 row : 3 ) score : 11
+word : wahoo anchor( col :  8 row : 3 ) score : 15
+word : ow anchor( col :  8 row : 3 ) score : 17
+word : low anchor( col :  8 row : 3 ) score : 18
+word : how anchor( col :  8 row : 3 ) score : 21
+word : howl anchor( col :  8 row : 3 ) score : 24
+word : loo anchor( col :  10 row : 3 ) score : 3
+word : woo anchor( col :  10 row : 3 ) score : 6
+word : wool anchor( col :  10 row : 3 ) score : 14
+word : howl anchor( col :  10 row : 3 ) score : 20
+word : lo anchor( col :  8 row : 4 ) score : 3
+word : woo anchor( col :  8 row : 4 ) score : 6
+word : wool anchor( col :  8 row : 4 ) score : 18
+word : ooh anchor( col :  8 row : 4 ) score : 22
+word : whoa anchor( col :  8 row : 4 ) score : 24
+word : wool anchor( col :  10 row : 4 ) score : 18
+word : oh anchor( col :  10 row : 4 ) score : 20
+word : ooh anchor( col :  10 row : 4 ) score : 22
+word : whoa anchor( col :  10 row : 4 ) score : 24
+word : aloe anchor( col :  13 row : 4 ) score : 4
+word : wo anchor( col :  13 row : 4 ) score : 6
+word : whole anchor( col :  13 row : 4 ) score : 22
+word : oleo anchor( col :  13 row : 6 ) score : 8
+word : loach anchor( col :  5 row : 8 ) score : 23
+word : col anchor( col :  5 row : 10 ) score : 9
+word : cola anchor( col :  5 row : 10 ) score : 10
+word : cow anchor( col :  5 row : 10 ) score : 12
+word : cowl anchor( col :  5 row : 10 ) score : 13
+word : loach anchor( col :  5 row : 10 ) score : 23
+word : cahow anchor( col :  5 row : 10 ) score : 25
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : lo anchor( col :  8 row : 13 ) score : 7
+word : halo anchor( col :  8 row : 13 ) score : 20
+word : alow anchor( col :  8 row : 13 ) score : 32
+word : how anchor( col :  8 row : 13 ) score : 34
+word : awol anchor( col :  9 row : 13 ) score : 17
+word : lad anchor( col :  9 row : 13 ) score : 18
+word : ow anchor( col :  9 row : 13 ) score : 30
+word : low anchor( col :  9 row : 13 ) score : 31
+word : alow anchor( col :  9 row : 13 ) score : 32
+word : how anchor( col :  9 row : 13 ) score : 34
+word : wad anchor( col :  9 row : 13 ) score : 36
+word : hod anchor( col :  10 row : 13 ) score : 36
+word : go anchor( col :  14 row : 13 ) score : 3
+word : ow anchor( col :  9 row : 1 ) score : 34
+word : low anchor( col :  9 row : 1 ) score : 35
+word : alow anchor( col :  9 row : 1 ) score : 36
+word : how anchor( col :  9 row : 1 ) score : 38
+word : howl anchor( col :  9 row : 1 ) score : 39
+word : who anchor( col :  9 row : 1 ) score : 39
+word : whoa anchor( col :  9 row : 1 ) score : 40
+word : wahoo anchor( col :  9 row : 1 ) score : 67
+word : ooh anchor( col :  8 row : 2 ) score : 7
+word : who anchor( col :  8 row : 2 ) score : 13
+word : whoa anchor( col :  8 row : 2 ) score : 14
+word : low anchor( col :  8 row : 2 ) score : 18
+word : how anchor( col :  8 row : 2 ) score : 21
+word : howl anchor( col :  8 row : 2 ) score : 24
+word : ho anchor( col :  10 row : 2 ) score : 5
+word : who anchor( col :  10 row : 2 ) score : 13
+word : whoa anchor( col :  10 row : 2 ) score : 14
+word : howl anchor( col :  10 row : 2 ) score : 20
+word : lo anchor( col :  8 row : 3 ) score : 4
+word : woo anchor( col :  8 row : 3 ) score : 10
+word : wool anchor( col :  8 row : 3 ) score : 11
+word : wahoo anchor( col :  8 row : 3 ) score : 15
+word : ow anchor( col :  8 row : 3 ) score : 17
+word : low anchor( col :  8 row : 3 ) score : 18
+word : how anchor( col :  8 row : 3 ) score : 21
+word : howl anchor( col :  8 row : 3 ) score : 24
+word : loo anchor( col :  10 row : 3 ) score : 3
+word : woo anchor( col :  10 row : 3 ) score : 6
+word : wool anchor( col :  10 row : 3 ) score : 14
+word : howl anchor( col :  10 row : 3 ) score : 20
+word : lo anchor( col :  8 row : 4 ) score : 3
+word : woo anchor( col :  8 row : 4 ) score : 6
+word : wool anchor( col :  8 row : 4 ) score : 18
+word : ooh anchor( col :  8 row : 4 ) score : 22
+word : whoa anchor( col :  8 row : 4 ) score : 24
+word : wool anchor( col :  10 row : 4 ) score : 18
+word : oh anchor( col :  10 row : 4 ) score : 20
+word : ooh anchor( col :  10 row : 4 ) score : 22
+word : whoa anchor( col :  10 row : 4 ) score : 24
+word : aloe anchor( col :  13 row : 4 ) score : 4
+word : wo anchor( col :  13 row : 4 ) score : 6
+word : whole anchor( col :  13 row : 4 ) score : 22
+word : oleo anchor( col :  13 row : 6 ) score : 8
+word : loach anchor( col :  5 row : 8 ) score : 23
+word : col anchor( col :  5 row : 10 ) score : 9
+word : cola anchor( col :  5 row : 10 ) score : 10
+word : cow anchor( col :  5 row : 10 ) score : 12
+word : cowl anchor( col :  5 row : 10 ) score : 13
+word : loach anchor( col :  5 row : 10 ) score : 23
+word : cahow anchor( col :  5 row : 10 ) score : 25
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : lo anchor( col :  8 row : 13 ) score : 7
+word : halo anchor( col :  8 row : 13 ) score : 20
+word : alow anchor( col :  8 row : 13 ) score : 32
+word : how anchor( col :  8 row : 13 ) score : 34
+word : awol anchor( col :  9 row : 13 ) score : 17
+word : lad anchor( col :  9 row : 13 ) score : 18
+word : ow anchor( col :  9 row : 13 ) score : 30
+word : low anchor( col :  9 row : 13 ) score : 31
+word : alow anchor( col :  9 row : 13 ) score : 32
+word : how anchor( col :  9 row : 13 ) score : 34
+word : wad anchor( col :  9 row : 13 ) score : 36
+word : hod anchor( col :  10 row : 13 ) score : 36
+word : go anchor( col :  14 row : 13 ) score : 3
+******HUMAN RESULT******
+
+
+HUMAN MOVE : hoop , score : 9 , direction : 2 , col : 9 , row : 6
+
+
+******COMPUTER TURN******
+
+word : whoop anchor( col :  9 row : 1 ) score : 9
+word : edh anchor( col :  8 row : 2 ) score : 8
+word : john anchor( col :  8 row : 2 ) score : 13
+word : add anchor( col :  8 row : 2 ) score : 14
+word : vend anchor( col :  8 row : 2 ) score : 16
+word : john anchor( col :  10 row : 2 ) score : 13
+word : hadj anchor( col :  10 row : 2 ) score : 28
+word : jinni anchor( col :  10 row : 2 ) score : 32
+word : donjon anchor( col :  8 row : 3 ) score : 14
+word : donjon anchor( col :  8 row : 3 ) score : 26
+word : dojo anchor( col :  10 row : 3 ) score : 22
+word : donjon anchor( col :  10 row : 3 ) score : 26
+word : jinni anchor( col :  10 row : 3 ) score : 32
+word : dojo anchor( col :  8 row : 4 ) score : 11
+word : and anchor( col :  8 row : 4 ) score : 12
+word : vend anchor( col :  8 row : 4 ) score : 16
+word : job anchor( col :  10 row : 4 ) score : 20
+word : jinn anchor( col :  10 row : 4 ) score : 32
+word : na anchor( col :  12 row : 4 ) score : 4
+word : bund anchor( col :  12 row : 4 ) score : 8
+word : na anchor( col :  13 row : 4 ) score : 4
+word : jade anchor( col :  13 row : 4 ) score : 11
+word : jive anchor( col :  13 row : 4 ) score : 13
+word : hoops anchor( col :  9 row : 6 ) score : 9
+word : bund anchor( col :  12 row : 6 ) score : 8
+word : unde anchor( col :  12 row : 6 ) score : 14
+word : jeu anchor( col :  13 row : 6 ) score : 12
+word : vac anchor( col :  5 row : 8 ) score : 12
+word : fate anchor( col :  12 row : 8 ) score : 8
+word : de anchor( col :  12 row : 8 ) score : 8
+word : unde anchor( col :  12 row : 8 ) score : 14
+word : an anchor( col :  13 row : 8 ) score : 1
+word : cad anchor( col :  5 row : 10 ) score : 8
+word : yamen anchor( col :  6 row : 11 ) score : 10
+word : fubs anchor( col :  9 row : 11 ) score : 8
+word : ka anchor( col :  10 row : 11 ) score : 11
+word : am anchor( col :  12 row : 11 ) score : 3
+word : un anchor( col :  14 row : 11 ) score : 3
+word : swig anchor( col :  10 row : 12 ) score : 7
+word : wigs anchor( col :  14 row : 12 ) score : 7
+word : de anchor( col :  8 row : 13 ) score : 6
+word : den anchor( col :  8 row : 13 ) score : 12
+word : djin anchor( col :  8 row : 13 ) score : 20
+word : id anchor( col :  9 row : 13 ) score : 16
+word : did anchor( col :  9 row : 13 ) score : 18
+word : dad anchor( col :  9 row : 13 ) score : 22
+word : jo anchor( col :  9 row : 13 ) score : 24
+word : dad anchor( col :  10 row : 13 ) score : 22
+word : go anchor( col :  14 row : 13 ) score : 2
+word : vuggs anchor( col :  13 row : 14 ) score : 9
+Hasil evaluasi : jinn , score : 32 , direction :2 ,i: 1 j: 10
+
+
+
+word : jo anchor( col :  11 row : 1 ) score : 10
+word : jole anchor( col :  11 row : 1 ) score : 24
+word : jowl anchor( col :  11 row : 1 ) score : 30
+word : ohia anchor( col :  8 row : 2 ) score : 7
+word : awhile anchor( col :  8 row : 2 ) score : 30
+word : awhile anchor( col :  11 row : 2 ) score : 30
+word : loon anchor( col :  8 row : 3 ) score : 5
+word : alone anchor( col :  8 row : 3 ) score : 12
+word : hone anchor( col :  8 row : 3 ) score : 14
+word : we anchor( col :  8 row : 3 ) score : 14
+word : one anchor( col :  11 row : 3 ) score : 6
+word : lone anchor( col :  11 row : 3 ) score : 8
+word : alone anchor( col :  11 row : 3 ) score : 12
+word : hone anchor( col :  11 row : 3 ) score : 14
+word : loon anchor( col :  8 row : 4 ) score : 4
+word : eh anchor( col :  8 row : 4 ) score : 14
+word : leu anchor( col :  12 row : 4 ) score : 3
+word : woe anchor( col :  13 row : 4 ) score : 6
+word : whole anchor( col :  13 row : 4 ) score : 22
+word : oleo anchor( col :  13 row : 6 ) score : 8
+word : welch anchor( col :  5 row : 8 ) score : 26
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : del anchor( col :  12 row : 8 ) score : 13
+word : dew anchor( col :  12 row : 8 ) score : 16
+word : col anchor( col :  5 row : 10 ) score : 9
+word : cole anchor( col :  5 row : 10 ) score : 10
+word : cow anchor( col :  5 row : 10 ) score : 12
+word : cowl anchor( col :  5 row : 10 ) score : 13
+word : welch anchor( col :  5 row : 10 ) score : 26
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : lo anchor( col :  8 row : 12 ) score : 7
+word : wow anchor( col :  8 row : 12 ) score : 10
+word : wo anchor( col :  8 row : 12 ) score : 12
+word : lo anchor( col :  8 row : 13 ) score : 8
+word : looed anchor( col :  8 row : 13 ) score : 20
+word : wooed anchor( col :  8 row : 13 ) score : 23
+word : wahoo anchor( col :  8 row : 13 ) score : 24
+word : how anchor( col :  8 row : 13 ) score : 25
+word : go anchor( col :  14 row : 13 ) score : 3
+word : jo anchor( col :  11 row : 1 ) score : 10
+word : jole anchor( col :  11 row : 1 ) score : 24
+word : jowl anchor( col :  11 row : 1 ) score : 30
+word : ohia anchor( col :  8 row : 2 ) score : 7
+word : awhile anchor( col :  8 row : 2 ) score : 30
+word : awhile anchor( col :  11 row : 2 ) score : 30
+word : loon anchor( col :  8 row : 3 ) score : 5
+word : alone anchor( col :  8 row : 3 ) score : 12
+word : hone anchor( col :  8 row : 3 ) score : 14
+word : we anchor( col :  8 row : 3 ) score : 14
+word : one anchor( col :  11 row : 3 ) score : 6
+word : lone anchor( col :  11 row : 3 ) score : 8
+word : alone anchor( col :  11 row : 3 ) score : 12
+word : hone anchor( col :  11 row : 3 ) score : 14
+word : loon anchor( col :  8 row : 4 ) score : 4
+word : eh anchor( col :  8 row : 4 ) score : 14
+word : leu anchor( col :  12 row : 4 ) score : 3
+word : woe anchor( col :  13 row : 4 ) score : 6
+word : whole anchor( col :  13 row : 4 ) score : 22
+word : oleo anchor( col :  13 row : 6 ) score : 8
+word : welch anchor( col :  5 row : 8 ) score : 26
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : del anchor( col :  12 row : 8 ) score : 13
+word : dew anchor( col :  12 row : 8 ) score : 16
+word : col anchor( col :  5 row : 10 ) score : 9
+word : cole anchor( col :  5 row : 10 ) score : 10
+word : cow anchor( col :  5 row : 10 ) score : 12
+word : cowl anchor( col :  5 row : 10 ) score : 13
+word : welch anchor( col :  5 row : 10 ) score : 26
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : lo anchor( col :  8 row : 12 ) score : 7
+word : wow anchor( col :  8 row : 12 ) score : 10
+word : wo anchor( col :  8 row : 12 ) score : 12
+word : lo anchor( col :  8 row : 13 ) score : 8
+word : looed anchor( col :  8 row : 13 ) score : 20
+word : wooed anchor( col :  8 row : 13 ) score : 23
+word : wahoo anchor( col :  8 row : 13 ) score : 24
+word : how anchor( col :  8 row : 13 ) score : 25
+word : go anchor( col :  14 row : 13 ) score : 3
+******HUMAN RESULT******
+
+
+HUMAN MOVE : woo , score : 7 , direction : 2 , col : 9 , row : 15
+
+
+******COMPUTER TURN******
+
+word : thir anchor( col :  8 row : 2 ) score : 7
+word : third anchor( col :  8 row : 2 ) score : 18
+word : thirds anchor( col :  8 row : 2 ) score : 20
+word : hid anchor( col :  11 row : 2 ) score : 6
+word : shiv anchor( col :  11 row : 2 ) score : 10
+word : third anchor( col :  11 row : 2 ) score : 18
+word : thirds anchor( col :  11 row : 2 ) score : 20
+word : don anchor( col :  8 row : 3 ) score : 4
+word : dons anchor( col :  8 row : 3 ) score : 10
+word : irons anchor( col :  8 row : 3 ) score : 12
+word : tondi anchor( col :  11 row : 3 ) score : 12
+word : don anchor( col :  8 row : 4 ) score : 4
+word : von anchor( col :  8 row : 4 ) score : 6
+word : id anchor( col :  8 row : 4 ) score : 10
+word : virtu anchor( col :  12 row : 4 ) score : 16
+word : rid anchor( col :  13 row : 4 ) score : 5
+word : dive anchor( col :  13 row : 4 ) score : 8
+word : drive anchor( col :  13 row : 4 ) score : 18
+word : is anchor( col :  9 row : 6 ) score : 13
+word : ids anchor( col :  6 row : 11 ) score : 13
+word : didst anchor( col :  6 row : 11 ) score : 25
+word : ut anchor( col :  14 row : 11 ) score : 3
+word : wigs anchor( col :  14 row : 12 ) score : 8
+word : trio anchor( col :  8 row : 13 ) score : 9
+word : vuggs anchor( col :  13 row : 14 ) score : 10
+Hasil evaluasi : didst , score : 25 , direction :1 ,i: 11 j: 3
+
+
+
+word : jo anchor( col :  11 row : 1 ) score : 10
+word : jole anchor( col :  11 row : 1 ) score : 24
+word : ohia anchor( col :  8 row : 2 ) score : 7
+word : hili anchor( col :  11 row : 2 ) score : 12
+word : oe anchor( col :  11 row : 2 ) score : 18
+word : lo anchor( col :  8 row : 3 ) score : 5
+word : alone anchor( col :  8 row : 3 ) score : 12
+word : hone anchor( col :  8 row : 3 ) score : 14
+word : hi anchor( col :  8 row : 3 ) score : 14
+word : one anchor( col :  11 row : 3 ) score : 6
+word : lone anchor( col :  11 row : 3 ) score : 8
+word : alone anchor( col :  11 row : 3 ) score : 12
+word : hone anchor( col :  11 row : 3 ) score : 14
+word : loon anchor( col :  8 row : 4 ) score : 4
+word : hi anchor( col :  8 row : 4 ) score : 14
+word : leu anchor( col :  12 row : 4 ) score : 3
+word : lie anchor( col :  12 row : 4 ) score : 8
+word : aloe anchor( col :  13 row : 4 ) score : 4
+word : ho anchor( col :  13 row : 4 ) score : 6
+word : hole anchor( col :  13 row : 4 ) score : 7
+word : haole anchor( col :  13 row : 4 ) score : 16
+word : oleo anchor( col :  13 row : 6 ) score : 8
+word : la anchor( col :  3 row : 7 ) score : 13
+word : ha anchor( col :  3 row : 7 ) score : 16
+word : hao anchor( col :  3 row : 7 ) score : 17
+word : halo anchor( col :  3 row : 7 ) score : 18
+word : ooh anchor( col :  2 row : 8 ) score : 7
+word : elhi anchor( col :  2 row : 8 ) score : 8
+word : heh anchor( col :  2 row : 8 ) score : 10
+word : halo anchor( col :  2 row : 8 ) score : 15
+word : helio anchor( col :  2 row : 8 ) score : 16
+word : hole anchor( col :  2 row : 8 ) score : 18
+word : ooh anchor( col :  2 row : 8 ) score : 18
+word : haole anchor( col :  2 row : 8 ) score : 23
+word : ho anchor( col :  4 row : 8 ) score : 5
+word : oho anchor( col :  4 row : 8 ) score : 7
+word : elhi anchor( col :  4 row : 8 ) score : 8
+word : halo anchor( col :  4 row : 8 ) score : 12
+word : helio anchor( col :  4 row : 8 ) score : 21
+word : hoolie anchor( col :  4 row : 8 ) score : 23
+word : ale anchor( col :  5 row : 8 ) score : 12
+word : heliac anchor( col :  5 row : 8 ) score : 19
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : del anchor( col :  12 row : 8 ) score : 13
+word : loo anchor( col :  2 row : 9 ) score : 5
+word : oho anchor( col :  2 row : 9 ) score : 8
+word : hao anchor( col :  2 row : 9 ) score : 14
+word : hole anchor( col :  2 row : 9 ) score : 18
+word : haole anchor( col :  2 row : 9 ) score : 23
+word : olla anchor( col :  2 row : 10 ) score : 12
+word : hill anchor( col :  2 row : 10 ) score : 18
+word : haole anchor( col :  2 row : 10 ) score : 23
+word : ill anchor( col :  4 row : 10 ) score : 10
+word : hill anchor( col :  4 row : 10 ) score : 18
+word : cod anchor( col :  5 row : 10 ) score : 10
+word : code anchor( col :  5 row : 10 ) score : 11
+word : ace anchor( col :  5 row : 10 ) score : 17
+word : lace anchor( col :  5 row : 10 ) score : 18
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : oil anchor( col :  4 row : 12 ) score : 10
+word : do anchor( col :  5 row : 12 ) score : 3
+word : dol anchor( col :  5 row : 12 ) score : 6
+word : cedi anchor( col :  5 row : 12 ) score : 11
+word : dah anchor( col :  5 row : 12 ) score : 15
+word : to anchor( col :  7 row : 12 ) score : 2
+word : too anchor( col :  7 row : 12 ) score : 3
+word : tho anchor( col :  7 row : 12 ) score : 6
+word : ow anchor( col :  8 row : 12 ) score : 6
+word : lo anchor( col :  8 row : 13 ) score : 8
+word : looed anchor( col :  8 row : 13 ) score : 20
+word : helio anchor( col :  8 row : 13 ) score : 21
+word : looed anchor( col :  10 row : 13 ) score : 20
+word : go anchor( col :  14 row : 13 ) score : 3
+word : jo anchor( col :  11 row : 1 ) score : 10
+word : jole anchor( col :  11 row : 1 ) score : 24
+word : ohia anchor( col :  8 row : 2 ) score : 7
+word : hili anchor( col :  11 row : 2 ) score : 12
+word : oe anchor( col :  11 row : 2 ) score : 18
+word : lo anchor( col :  8 row : 3 ) score : 5
+word : alone anchor( col :  8 row : 3 ) score : 12
+word : hone anchor( col :  8 row : 3 ) score : 14
+word : hi anchor( col :  8 row : 3 ) score : 14
+word : one anchor( col :  11 row : 3 ) score : 6
+word : lone anchor( col :  11 row : 3 ) score : 8
+word : alone anchor( col :  11 row : 3 ) score : 12
+word : hone anchor( col :  11 row : 3 ) score : 14
+word : loon anchor( col :  8 row : 4 ) score : 4
+word : hi anchor( col :  8 row : 4 ) score : 14
+word : leu anchor( col :  12 row : 4 ) score : 3
+word : lie anchor( col :  12 row : 4 ) score : 8
+word : aloe anchor( col :  13 row : 4 ) score : 4
+word : ho anchor( col :  13 row : 4 ) score : 6
+word : hole anchor( col :  13 row : 4 ) score : 7
+word : haole anchor( col :  13 row : 4 ) score : 16
+word : oleo anchor( col :  13 row : 6 ) score : 8
+word : la anchor( col :  3 row : 7 ) score : 13
+word : ha anchor( col :  3 row : 7 ) score : 16
+word : hao anchor( col :  3 row : 7 ) score : 17
+word : halo anchor( col :  3 row : 7 ) score : 18
+word : ooh anchor( col :  2 row : 8 ) score : 7
+word : elhi anchor( col :  2 row : 8 ) score : 8
+word : heh anchor( col :  2 row : 8 ) score : 10
+word : halo anchor( col :  2 row : 8 ) score : 15
+word : helio anchor( col :  2 row : 8 ) score : 16
+word : hole anchor( col :  2 row : 8 ) score : 18
+word : ooh anchor( col :  2 row : 8 ) score : 18
+word : haole anchor( col :  2 row : 8 ) score : 23
+word : ho anchor( col :  4 row : 8 ) score : 5
+word : oho anchor( col :  4 row : 8 ) score : 7
+word : elhi anchor( col :  4 row : 8 ) score : 8
+word : halo anchor( col :  4 row : 8 ) score : 12
+word : helio anchor( col :  4 row : 8 ) score : 21
+word : hoolie anchor( col :  4 row : 8 ) score : 23
+word : ale anchor( col :  5 row : 8 ) score : 12
+word : heliac anchor( col :  5 row : 8 ) score : 19
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : del anchor( col :  12 row : 8 ) score : 13
+word : loo anchor( col :  2 row : 9 ) score : 5
+word : oho anchor( col :  2 row : 9 ) score : 8
+word : hao anchor( col :  2 row : 9 ) score : 14
+word : hole anchor( col :  2 row : 9 ) score : 18
+word : haole anchor( col :  2 row : 9 ) score : 23
+word : olla anchor( col :  2 row : 10 ) score : 12
+word : hill anchor( col :  2 row : 10 ) score : 18
+word : haole anchor( col :  2 row : 10 ) score : 23
+word : ill anchor( col :  4 row : 10 ) score : 10
+word : hill anchor( col :  4 row : 10 ) score : 18
+word : cod anchor( col :  5 row : 10 ) score : 10
+word : code anchor( col :  5 row : 10 ) score : 11
+word : ace anchor( col :  5 row : 10 ) score : 17
+word : lace anchor( col :  5 row : 10 ) score : 18
+word : uh anchor( col :  14 row : 11 ) score : 9
+word : oil anchor( col :  4 row : 12 ) score : 10
+word : do anchor( col :  5 row : 12 ) score : 3
+word : dol anchor( col :  5 row : 12 ) score : 6
+word : cedi anchor( col :  5 row : 12 ) score : 11
+word : dah anchor( col :  5 row : 12 ) score : 15
+word : to anchor( col :  7 row : 12 ) score : 2
+word : too anchor( col :  7 row : 12 ) score : 3
+word : tho anchor( col :  7 row : 12 ) score : 6
+word : ow anchor( col :  8 row : 12 ) score : 6
+word : lo anchor( col :  8 row : 13 ) score : 8
+word : looed anchor( col :  8 row : 13 ) score : 20
+word : helio anchor( col :  8 row : 13 ) score : 21
+word : looed anchor( col :  10 row : 13 ) score : 20
+word : go anchor( col :  14 row : 13 ) score : 3
+******HUMAN RESULT******
+
+
+HUMAN MOVE : hold , score : 8 , direction : 2 , col : 3 , row : 12
+
+
+******COMPUTER TURN******
+
+word : jar anchor( col :  11 row : 1 ) score : 11
+word : jars anchor( col :  11 row : 1 ) score : 24
+word : ons anchor( col :  11 row : 1 ) score : 29
+word : rhino anchor( col :  8 row : 2 ) score : 16
+word : rhinos anchor( col :  8 row : 2 ) score : 18
+word : shiva anchor( col :  8 row : 2 ) score : 22
+word : shiv anchor( col :  11 row : 2 ) score : 10
+word : shiva anchor( col :  11 row : 2 ) score : 22
+word : ons anchor( col :  11 row : 2 ) score : 29
+word : von anchor( col :  8 row : 3 ) score : 6
+word : natron anchor( col :  8 row : 3 ) score : 7
+word : natrons anchor( col :  8 row : 3 ) score : 16
+word : ons anchor( col :  11 row : 3 ) score : 6
+word : natrons anchor( col :  11 row : 3 ) score : 16
+word : ons anchor( col :  11 row : 3 ) score : 29
+word : von anchor( col :  8 row : 4 ) score : 6
+word : na anchor( col :  12 row : 4 ) score : 6
+word : vatu anchor( col :  12 row : 4 ) score : 14
+word : rotund anchor( col :  12 row : 4 ) score : 19
+word : rounds anchor( col :  12 row : 4 ) score : 20
+word : astound anchor( col :  12 row : 4 ) score : 21
+word : na anchor( col :  13 row : 4 ) score : 6
+word : rave anchor( col :  13 row : 4 ) score : 7
+word : trave anchor( col :  13 row : 4 ) score : 16
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : as anchor( col :  9 row : 6 ) score : 13
+word : rotund anchor( col :  12 row : 6 ) score : 19
+word : rounds anchor( col :  12 row : 6 ) score : 20
+word : astound anchor( col :  12 row : 6 ) score : 21
+word : ova anchor( col :  3 row : 7 ) score : 17
+word : vars anchor( col :  3 row : 7 ) score : 18
+word : rho anchor( col :  2 row : 8 ) score : 7
+word : as anchor( col :  2 row : 8 ) score : 7
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : tavs anchor( col :  2 row : 8 ) score : 15
+word : vas anchor( col :  2 row : 8 ) score : 17
+word : novas anchor( col :  2 row : 8 ) score : 19
+word : vast anchor( col :  2 row : 8 ) score : 20
+word : sovran anchor( col :  2 row : 8 ) score : 22
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : ova anchor( col :  4 row : 8 ) score : 11
+word : nova anchor( col :  4 row : 8 ) score : 12
+word : trona anchor( col :  4 row : 8 ) score : 15
+word : ar anchor( col :  5 row : 8 ) score : 11
+word : tor anchor( col :  5 row : 8 ) score : 12
+word : rounds anchor( col :  12 row : 8 ) score : 20
+word : avo anchor( col :  2 row : 9 ) score : 8
+word : as anchor( col :  2 row : 9 ) score : 11
+word : vas anchor( col :  2 row : 9 ) score : 15
+word : novas anchor( col :  2 row : 9 ) score : 18
+word : sovran anchor( col :  2 row : 9 ) score : 22
+word : sal anchor( col :  2 row : 10 ) score : 3
+word : salt anchor( col :  2 row : 10 ) score : 12
+word : volt anchor( col :  2 row : 10 ) score : 18
+word : als anchor( col :  4 row : 10 ) score : 10
+word : sola anchor( col :  4 row : 10 ) score : 12
+word : volt anchor( col :  4 row : 10 ) score : 18
+word : cad anchor( col :  5 row : 10 ) score : 10
+word : cads anchor( col :  5 row : 10 ) score : 11
+word : codas anchor( col :  5 row : 10 ) score : 14
+word : us anchor( col :  14 row : 11 ) score : 3
+word : ars anchor( col :  3 row : 12 ) score : 15
+word : vas anchor( col :  3 row : 12 ) score : 21
+word : vast anchor( col :  3 row : 12 ) score : 25
+word : so anchor( col :  4 row : 12 ) score : 7
+word : vast anchor( col :  4 row : 12 ) score : 25
+word : na anchor( col :  5 row : 12 ) score : 7
+word : cads anchor( col :  5 row : 12 ) score : 11
+word : codas anchor( col :  5 row : 12 ) score : 14
+word : ta anchor( col :  7 row : 12 ) score : 2
+word : tav anchor( col :  7 row : 12 ) score : 6
+word : aw anchor( col :  8 row : 12 ) score : 6
+word : wigs anchor( col :  14 row : 12 ) score : 8
+word : so anchor( col :  14 row : 12 ) score : 13
+word : no anchor( col :  8 row : 13 ) score : 8
+word : go anchor( col :  14 row : 13 ) score : 3
+word : so anchor( col :  14 row : 13 ) score : 13
+word : vuggs anchor( col :  13 row : 14 ) score : 10
+Hasil evaluasi : ons , score : 29 , direction :2 ,i: 1 j: 11
+
+
+
+******COMPUTER TURN******
+
+word : jot anchor( col :  12 row : 1 ) score : 10
+word : jota anchor( col :  12 row : 1 ) score : 22
+word : rhinal anchor( col :  8 row : 2 ) score : 18
+word : rhinal anchor( col :  12 row : 2 ) score : 18
+word : natrons anchor( col :  8 row : 3 ) score : 8
+word : von anchor( col :  8 row : 4 ) score : 6
+word : na anchor( col :  12 row : 4 ) score : 6
+word : na anchor( col :  13 row : 4 ) score : 6
+word : rave anchor( col :  13 row : 4 ) score : 7
+word : trave anchor( col :  13 row : 4 ) score : 16
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : var anchor( col :  3 row : 7 ) score : 17
+word : rah anchor( col :  2 row : 8 ) score : 7
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : vat anchor( col :  2 row : 8 ) score : 15
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : ar anchor( col :  5 row : 8 ) score : 11
+word : vac anchor( col :  5 row : 8 ) score : 14
+word : avo anchor( col :  2 row : 9 ) score : 8
+word : at anchor( col :  2 row : 9 ) score : 11
+word : vat anchor( col :  2 row : 9 ) score : 15
+word : tall anchor( col :  2 row : 10 ) score : 12
+word : la anchor( col :  4 row : 10 ) score : 8
+word : alt anchor( col :  4 row : 10 ) score : 10
+word : tall anchor( col :  4 row : 10 ) score : 12
+word : cad anchor( col :  5 row : 10 ) score : 10
+word : ut anchor( col :  14 row : 11 ) score : 3
+word : ta anchor( col :  4 row : 12 ) score : 7
+word : air anchor( col :  4 row : 12 ) score : 10
+word : airt anchor( col :  4 row : 12 ) score : 12
+word : ta anchor( col :  5 row : 12 ) score : 7
+word : ta anchor( col :  7 row : 12 ) score : 2
+word : tav anchor( col :  7 row : 12 ) score : 6
+word : aw anchor( col :  8 row : 12 ) score : 6
+Hasil evaluasi : jota , score : 22 , direction :1 ,i: 1 j: 10
+
+
+
+word : jotas anchor( col :  14 row : 1 ) score : 12
+word : so anchor( col :  14 row : 1 ) score : 14
+word : sot anchor( col :  14 row : 1 ) score : 16
+word : tahini anchor( col :  8 row : 2 ) score : 25
+word : tahinis anchor( col :  8 row : 2 ) score : 29
+word : tahini anchor( col :  12 row : 2 ) score : 25
+word : tahinis anchor( col :  12 row : 2 ) score : 29
+word : tahinis anchor( col :  13 row : 2 ) score : 29
+word : tritons anchor( col :  7 row : 3 ) score : 8
+word : so anchor( col :  8 row : 4 ) score : 6
+word : rato anchor( col :  8 row : 4 ) score : 8
+word : erosion anchor( col :  8 row : 4 ) score : 16
+word : roe anchor( col :  13 row : 4 ) score : 3
+word : aerie anchor( col :  13 row : 4 ) score : 5
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : os anchor( col :  9 row : 6 ) score : 13
+word : roast anchor( col :  3 row : 7 ) score : 16
+word : oh anchor( col :  2 row : 8 ) score : 6
+word : ohs anchor( col :  2 row : 8 ) score : 7
+word : as anchor( col :  2 row : 8 ) score : 7
+word : eths anchor( col :  2 row : 8 ) score : 8
+word : tiro anchor( col :  2 row : 8 ) score : 12
+word : tiros anchor( col :  2 row : 8 ) score : 15
+word : arose anchor( col :  2 row : 8 ) score : 17
+word : triose anchor( col :  2 row : 8 ) score : 18
+word : ho anchor( col :  4 row : 8 ) score : 5
+word : rho anchor( col :  4 row : 8 ) score : 7
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : tiro anchor( col :  4 row : 8 ) score : 9
+word : ratio anchor( col :  4 row : 8 ) score : 15
+word : aristo anchor( col :  4 row : 8 ) score : 17
+word : or anchor( col :  5 row : 8 ) score : 11
+word : tor anchor( col :  5 row : 8 ) score : 12
+word : traced anchor( col :  5 row : 8 ) score : 19
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : dei anchor( col :  12 row : 8 ) score : 13
+word : too anchor( col :  2 row : 9 ) score : 5
+word : os anchor( col :  2 row : 9 ) score : 11
+word : tiros anchor( col :  2 row : 9 ) score : 15
+word : arose anchor( col :  2 row : 9 ) score : 17
+word : triose anchor( col :  2 row : 9 ) score : 18
+word : so anchor( col :  2 row : 10 ) score : 3
+word : sola anchor( col :  2 row : 10 ) score : 12
+word : ose anchor( col :  2 row : 10 ) score : 14
+word : rose anchor( col :  2 row : 10 ) score : 15
+word : arose anchor( col :  2 row : 10 ) score : 17
+word : triose anchor( col :  2 row : 10 ) score : 18
+word : oils anchor( col :  4 row : 10 ) score : 12
+word : cod anchor( col :  5 row : 10 ) score : 10
+word : cods anchor( col :  5 row : 10 ) score : 11
+word : coder anchor( col :  5 row : 10 ) score : 14
+word : arced anchor( col :  5 row : 10 ) score : 18
+word : trace anchor( col :  5 row : 10 ) score : 19
+word : us anchor( col :  14 row : 11 ) score : 3
+word : os anchor( col :  3 row : 12 ) score : 13
+word : ors anchor( col :  3 row : 12 ) score : 15
+word : erst anchor( col :  3 row : 12 ) score : 19
+word : so anchor( col :  4 row : 12 ) score : 7
+word : erst anchor( col :  4 row : 12 ) score : 19
+word : so anchor( col :  5 row : 12 ) score : 7
+word : cadre anchor( col :  5 row : 12 ) score : 14
+word : to anchor( col :  7 row : 12 ) score : 2
+word : tor anchor( col :  7 row : 12 ) score : 3
+word : ow anchor( col :  8 row : 12 ) score : 6
+word : wigs anchor( col :  14 row : 12 ) score : 8
+word : so anchor( col :  14 row : 12 ) score : 13
+word : to anchor( col :  8 row : 13 ) score : 8
+word : ratio anchor( col :  8 row : 13 ) score : 12
+word : go anchor( col :  14 row : 13 ) score : 3
+word : so anchor( col :  14 row : 13 ) score : 13
+word : vuggs anchor( col :  13 row : 14 ) score : 10
+word : jotas anchor( col :  14 row : 1 ) score : 12
+word : so anchor( col :  14 row : 1 ) score : 14
+word : sot anchor( col :  14 row : 1 ) score : 16
+word : tahini anchor( col :  8 row : 2 ) score : 25
+word : tahinis anchor( col :  8 row : 2 ) score : 29
+word : tahini anchor( col :  12 row : 2 ) score : 25
+word : tahinis anchor( col :  12 row : 2 ) score : 29
+word : tahinis anchor( col :  13 row : 2 ) score : 29
+word : tritons anchor( col :  7 row : 3 ) score : 8
+word : so anchor( col :  8 row : 4 ) score : 6
+word : rato anchor( col :  8 row : 4 ) score : 8
+word : erosion anchor( col :  8 row : 4 ) score : 16
+word : roe anchor( col :  13 row : 4 ) score : 3
+word : aerie anchor( col :  13 row : 4 ) score : 5
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : os anchor( col :  9 row : 6 ) score : 13
+word : roast anchor( col :  3 row : 7 ) score : 16
+word : oh anchor( col :  2 row : 8 ) score : 6
+word : ohs anchor( col :  2 row : 8 ) score : 7
+word : as anchor( col :  2 row : 8 ) score : 7
+word : eths anchor( col :  2 row : 8 ) score : 8
+word : tiro anchor( col :  2 row : 8 ) score : 12
+word : tiros anchor( col :  2 row : 8 ) score : 15
+word : arose anchor( col :  2 row : 8 ) score : 17
+word : triose anchor( col :  2 row : 8 ) score : 18
+word : ho anchor( col :  4 row : 8 ) score : 5
+word : rho anchor( col :  4 row : 8 ) score : 7
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : tiro anchor( col :  4 row : 8 ) score : 9
+word : ratio anchor( col :  4 row : 8 ) score : 15
+word : aristo anchor( col :  4 row : 8 ) score : 17
+word : or anchor( col :  5 row : 8 ) score : 11
+word : tor anchor( col :  5 row : 8 ) score : 12
+word : traced anchor( col :  5 row : 8 ) score : 19
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : dei anchor( col :  12 row : 8 ) score : 13
+word : too anchor( col :  2 row : 9 ) score : 5
+word : os anchor( col :  2 row : 9 ) score : 11
+word : tiros anchor( col :  2 row : 9 ) score : 15
+word : arose anchor( col :  2 row : 9 ) score : 17
+word : triose anchor( col :  2 row : 9 ) score : 18
+word : so anchor( col :  2 row : 10 ) score : 3
+word : sola anchor( col :  2 row : 10 ) score : 12
+word : ose anchor( col :  2 row : 10 ) score : 14
+word : rose anchor( col :  2 row : 10 ) score : 15
+word : arose anchor( col :  2 row : 10 ) score : 17
+word : triose anchor( col :  2 row : 10 ) score : 18
+word : oils anchor( col :  4 row : 10 ) score : 12
+word : cod anchor( col :  5 row : 10 ) score : 10
+word : cods anchor( col :  5 row : 10 ) score : 11
+word : coder anchor( col :  5 row : 10 ) score : 14
+word : arced anchor( col :  5 row : 10 ) score : 18
+word : trace anchor( col :  5 row : 10 ) score : 19
+word : us anchor( col :  14 row : 11 ) score : 3
+word : os anchor( col :  3 row : 12 ) score : 13
+word : ors anchor( col :  3 row : 12 ) score : 15
+word : erst anchor( col :  3 row : 12 ) score : 19
+word : so anchor( col :  4 row : 12 ) score : 7
+word : erst anchor( col :  4 row : 12 ) score : 19
+word : so anchor( col :  5 row : 12 ) score : 7
+word : cadre anchor( col :  5 row : 12 ) score : 14
+word : to anchor( col :  7 row : 12 ) score : 2
+word : tor anchor( col :  7 row : 12 ) score : 3
+word : ow anchor( col :  8 row : 12 ) score : 6
+word : wigs anchor( col :  14 row : 12 ) score : 8
+word : so anchor( col :  14 row : 12 ) score : 13
+word : to anchor( col :  8 row : 13 ) score : 8
+word : ratio anchor( col :  8 row : 13 ) score : 12
+word : go anchor( col :  14 row : 13 ) score : 3
+word : so anchor( col :  14 row : 13 ) score : 13
+word : vuggs anchor( col :  13 row : 14 ) score : 10
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tons , score : 4 , direction : 1 , col : 12 , row : 3
+
+
+******COMPUTER TURN******
+
+word : ar anchor( col :  13 row : 2 ) score : 2
+word : art anchor( col :  13 row : 2 ) score : 3
+word : alive anchor( col :  13 row : 2 ) score : 8
+word : tritons anchor( col :  7 row : 3 ) score : 8
+word : tonsil anchor( col :  12 row : 3 ) score : 6
+word : ion anchor( col :  8 row : 4 ) score : 5
+word : lion anchor( col :  8 row : 4 ) score : 6
+word : nu anchor( col :  12 row : 4 ) score : 2
+word : alive anchor( col :  13 row : 4 ) score : 8
+word : nth anchor( col :  2 row : 8 ) score : 7
+word : hi anchor( col :  4 row : 8 ) score : 5
+word : li anchor( col :  4 row : 8 ) score : 7
+word : lo anchor( col :  2 row : 9 ) score : 2
+word : vill anchor( col :  2 row : 10 ) score : 18
+word : ill anchor( col :  4 row : 10 ) score : 10
+word : vill anchor( col :  4 row : 10 ) score : 18
+word : ut anchor( col :  14 row : 11 ) score : 3
+word : it anchor( col :  4 row : 12 ) score : 2
+word : inn anchor( col :  4 row : 12 ) score : 3
+word : dit anchor( col :  5 row : 12 ) score : 6
+word : ti anchor( col :  7 row : 12 ) score : 2
+word : til anchor( col :  7 row : 12 ) score : 3
+Hasil evaluasi : vill , score : 18 , direction :1 ,i: 10 j: 1
+
+
+
+******COMPUTER TURN******
+
+word : ar anchor( col :  13 row : 2 ) score : 2
+word : art anchor( col :  13 row : 2 ) score : 3
+word : arete anchor( col :  13 row : 2 ) score : 5
+word : rat anchor( col :  7 row : 3 ) score : 8
+word : na anchor( col :  12 row : 4 ) score : 6
+word : na anchor( col :  13 row : 4 ) score : 6
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : under anchor( col :  12 row : 6 ) score : 19
+word : era anchor( col :  3 row : 7 ) score : 14
+word : rate anchor( col :  3 row : 7 ) score : 15
+word : nth anchor( col :  2 row : 8 ) score : 7
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : re anchor( col :  2 row : 8 ) score : 9
+word : antre anchor( col :  2 row : 8 ) score : 13
+word : rani anchor( col :  2 row : 8 ) score : 13
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : antre anchor( col :  4 row : 8 ) score : 15
+word : ar anchor( col :  5 row : 8 ) score : 11
+word : tanrec anchor( col :  5 row : 8 ) score : 16
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : unde anchor( col :  12 row : 8 ) score : 18
+word : under anchor( col :  12 row : 8 ) score : 19
+word : en anchor( col :  13 row : 8 ) score : 2
+word : rev anchor( col :  1 row : 9 ) score : 8
+word : trave anchor( col :  1 row : 9 ) score : 10
+word : tavern anchor( col :  1 row : 9 ) score : 22
+word : ani anchor( col :  2 row : 9 ) score : 12
+word : ran anchor( col :  2 row : 9 ) score : 13
+word : ave anchor( col :  1 row : 11 ) score : 8
+word : rave anchor( col :  1 row : 11 ) score : 9
+word : trave anchor( col :  1 row : 11 ) score : 10
+word : tavern anchor( col :  1 row : 11 ) score : 22
+word : ut anchor( col :  14 row : 11 ) score : 3
+word : holder anchor( col :  3 row : 12 ) score : 10
+word : ta anchor( col :  4 row : 12 ) score : 8
+word : ne anchor( col :  5 row : 12 ) score : 8
+word : tet anchor( col :  7 row : 12 ) score : 3
+word : aw anchor( col :  8 row : 12 ) score : 6
+Hasil evaluasi : tavern , score : 22 , direction :2 ,i: 8 j: 1
+
+
+
+word : jotas anchor( col :  14 row : 1 ) score : 12
+word : so anchor( col :  14 row : 1 ) score : 14
+word : sol anchor( col :  14 row : 1 ) score : 16
+word : ar anchor( col :  13 row : 2 ) score : 2
+word : arose anchor( col :  13 row : 2 ) score : 5
+word : soli anchor( col :  7 row : 3 ) score : 9
+word : tonsil anchor( col :  12 row : 3 ) score : 6
+word : soon anchor( col :  8 row : 4 ) score : 6
+word : saloon anchor( col :  8 row : 4 ) score : 8
+word : erosion anchor( col :  8 row : 4 ) score : 16
+word : roe anchor( col :  13 row : 4 ) score : 3
+word : aerie anchor( col :  13 row : 4 ) score : 5
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : os anchor( col :  9 row : 6 ) score : 13
+word : oar anchor( col :  3 row : 7 ) score : 14
+word : oars anchor( col :  3 row : 7 ) score : 15
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : ho anchor( col :  4 row : 8 ) score : 5
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : aero anchor( col :  4 row : 8 ) score : 9
+word : solei anchor( col :  4 row : 8 ) score : 15
+word : ariose anchor( col :  4 row : 8 ) score : 17
+word : or anchor( col :  5 row : 8 ) score : 11
+word : ale anchor( col :  5 row : 8 ) score : 12
+word : sera anchor( col :  5 row : 8 ) score : 15
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : dei anchor( col :  12 row : 8 ) score : 13
+word : us anchor( col :  14 row : 11 ) score : 3
+word : rose anchor( col :  2 row : 12 ) score : 20
+word : rose anchor( col :  3 row : 12 ) score : 20
+word : so anchor( col :  4 row : 12 ) score : 8
+word : rose anchor( col :  4 row : 12 ) score : 20
+word : so anchor( col :  5 row : 12 ) score : 8
+word : sea anchor( col :  5 row : 12 ) score : 18
+word : to anchor( col :  7 row : 12 ) score : 2
+word : tor anchor( col :  7 row : 12 ) score : 3
+word : ow anchor( col :  8 row : 12 ) score : 6
+word : wigs anchor( col :  14 row : 12 ) score : 8
+word : so anchor( col :  14 row : 12 ) score : 13
+word : no anchor( col :  2 row : 13 ) score : 2
+word : nor anchor( col :  2 row : 13 ) score : 3
+word : noria anchor( col :  2 row : 13 ) score : 7
+word : norias anchor( col :  2 row : 13 ) score : 8
+word : nerolis anchor( col :  2 row : 13 ) score : 9
+word : lo anchor( col :  8 row : 13 ) score : 8
+word : looed anchor( col :  8 row : 13 ) score : 20
+word : looed anchor( col :  10 row : 13 ) score : 20
+word : go anchor( col :  14 row : 13 ) score : 3
+word : so anchor( col :  14 row : 13 ) score : 13
+word : so anchor( col :  1 row : 14 ) score : 12
+word : sori anchor( col :  1 row : 14 ) score : 15
+word : sorel anchor( col :  1 row : 14 ) score : 16
+word : serial anchor( col :  1 row : 14 ) score : 17
+word : vuggs anchor( col :  13 row : 14 ) score : 10
+-------HUMAN CLICK HINT-------
+
+
+
+word : jotas anchor( col :  14 row : 1 ) score : 12
+word : so anchor( col :  14 row : 1 ) score : 14
+word : sol anchor( col :  14 row : 1 ) score : 16
+word : ar anchor( col :  13 row : 2 ) score : 2
+word : arose anchor( col :  13 row : 2 ) score : 5
+word : soli anchor( col :  7 row : 3 ) score : 9
+word : tonsil anchor( col :  12 row : 3 ) score : 6
+word : soon anchor( col :  8 row : 4 ) score : 6
+word : saloon anchor( col :  8 row : 4 ) score : 8
+word : erosion anchor( col :  8 row : 4 ) score : 16
+word : roe anchor( col :  13 row : 4 ) score : 3
+word : aerie anchor( col :  13 row : 4 ) score : 5
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : os anchor( col :  9 row : 6 ) score : 13
+word : oar anchor( col :  3 row : 7 ) score : 15
+word : oars anchor( col :  3 row : 7 ) score : 16
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : ho anchor( col :  4 row : 8 ) score : 5
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : aero anchor( col :  4 row : 8 ) score : 9
+word : solei anchor( col :  4 row : 8 ) score : 15
+word : ariose anchor( col :  4 row : 8 ) score : 17
+word : or anchor( col :  5 row : 8 ) score : 11
+word : ale anchor( col :  5 row : 8 ) score : 12
+word : sera anchor( col :  5 row : 8 ) score : 15
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : dei anchor( col :  12 row : 8 ) score : 13
+word : us anchor( col :  14 row : 11 ) score : 3
+word : to anchor( col :  7 row : 12 ) score : 2
+word : tor anchor( col :  7 row : 12 ) score : 3
+word : ow anchor( col :  8 row : 12 ) score : 6
+word : wigs anchor( col :  14 row : 12 ) score : 8
+word : so anchor( col :  14 row : 12 ) score : 13
+word : ne anchor( col :  2 row : 13 ) score : 4
+word : roil anchor( col :  4 row : 13 ) score : 10
+word : lo anchor( col :  8 row : 13 ) score : 8
+word : looed anchor( col :  8 row : 13 ) score : 20
+word : looed anchor( col :  10 row : 13 ) score : 20
+word : go anchor( col :  14 row : 13 ) score : 3
+word : so anchor( col :  14 row : 13 ) score : 13
+word : so anchor( col :  1 row : 14 ) score : 12
+word : sori anchor( col :  1 row : 14 ) score : 15
+word : sorel anchor( col :  1 row : 14 ) score : 16
+word : serial anchor( col :  1 row : 14 ) score : 17
+word : vuggs anchor( col :  13 row : 14 ) score : 10
+******HUMAN RESULT******
+
+
+HUMAN MOVE : rose , score : 20 , direction : 1 , col : 5 , row : 12
+
+
+******COMPUTER TURN******
+
+word : an anchor( col :  13 row : 2 ) score : 2
+word : ant anchor( col :  13 row : 2 ) score : 3
+word : antre anchor( col :  13 row : 2 ) score : 5
+word : nu anchor( col :  12 row : 4 ) score : 2
+word : ne anchor( col :  13 row : 4 ) score : 2
+word : arete anchor( col :  13 row : 4 ) score : 5
+word : under anchor( col :  12 row : 6 ) score : 19
+word : he anchor( col :  4 row : 8 ) score : 5
+word : ne anchor( col :  4 row : 8 ) score : 7
+word : re anchor( col :  5 row : 8 ) score : 11
+word : fate anchor( col :  12 row : 8 ) score : 12
+word : de anchor( col :  12 row : 8 ) score : 12
+word : unde anchor( col :  12 row : 8 ) score : 18
+word : under anchor( col :  12 row : 8 ) score : 19
+word : en anchor( col :  13 row : 8 ) score : 2
+word : un anchor( col :  14 row : 11 ) score : 3
+word : ten anchor( col :  7 row : 12 ) score : 3
+word : ne anchor( col :  2 row : 13 ) score : 4
+word : ne anchor( col :  4 row : 13 ) score : 8
+word : net anchor( col :  4 row : 13 ) score : 9
+word : rent anchor( col :  4 row : 13 ) score : 10
+Hasil evaluasi : under , score : 19 , direction :2 ,i: 5 j: 12
+
+
+
+******COMPUTER TURN******
+
+word : tahini anchor( col :  8 row : 2 ) score : 25
+word : tahini anchor( col :  12 row : 2 ) score : 25
+word : at anchor( col :  13 row : 2 ) score : 2
+word : art anchor( col :  13 row : 2 ) score : 3
+word : alate anchor( col :  13 row : 2 ) score : 5
+word : rat anchor( col :  7 row : 3 ) score : 8
+word : tonsil anchor( col :  12 row : 3 ) score : 6
+word : toon anchor( col :  8 row : 4 ) score : 6
+word : rato anchor( col :  8 row : 4 ) score : 8
+word : oration anchor( col :  8 row : 4 ) score : 16
+word : at anchor( col :  13 row : 4 ) score : 3
+word : alate anchor( col :  13 row : 4 ) score : 5
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : ta anchor( col :  3 row : 7 ) score : 14
+word : tar anchor( col :  3 row : 7 ) score : 15
+word : taro anchor( col :  3 row : 7 ) score : 16
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : rota anchor( col :  4 row : 8 ) score : 9
+word : rialto anchor( col :  4 row : 8 ) score : 17
+word : ar anchor( col :  5 row : 8 ) score : 11
+word : tor anchor( col :  5 row : 8 ) score : 12
+word : ut anchor( col :  14 row : 11 ) score : 3
+word : ta anchor( col :  7 row : 12 ) score : 2
+word : tat anchor( col :  7 row : 12 ) score : 3
+word : aw anchor( col :  8 row : 12 ) score : 6
+word : rat anchor( col :  4 row : 13 ) score : 9
+word : rato anchor( col :  4 row : 13 ) score : 10
+word : to anchor( col :  8 row : 13 ) score : 8
+word : ratio anchor( col :  8 row : 13 ) score : 12
+word : go anchor( col :  14 row : 13 ) score : 3
+word : at anchor( col :  1 row : 14 ) score : 12
+word : art anchor( col :  1 row : 14 ) score : 14
+word : aril anchor( col :  1 row : 14 ) score : 15
+Hasil evaluasi : tahini , score : 25 , direction :1 ,i: 2 j: 7
+
+
+
+******COMPUTER TURN******
+
+word : re anchor( col :  7 row : 1 ) score : 4
+word : ore anchor( col :  7 row : 1 ) score : 7
+word : lore anchor( col :  7 row : 1 ) score : 8
+word : ree anchor( col :  7 row : 1 ) score : 8
+word : oiler anchor( col :  7 row : 1 ) score : 12
+word : relier anchor( col :  7 row : 1 ) score : 14
+word : er anchor( col :  8 row : 1 ) score : 7
+word : oiler anchor( col :  8 row : 1 ) score : 12
+word : relier anchor( col :  8 row : 1 ) score : 14
+word : eon anchor( col :  8 row : 4 ) score : 6
+word : rate anchor( col :  8 row : 4 ) score : 7
+word : re anchor( col :  13 row : 4 ) score : 2
+word : or anchor( col :  13 row : 4 ) score : 3
+word : ho anchor( col :  4 row : 8 ) score : 5
+word : lo anchor( col :  4 row : 8 ) score : 7
+word : ore anchor( col :  4 row : 8 ) score : 8
+word : lore anchor( col :  4 row : 8 ) score : 9
+word : or anchor( col :  5 row : 8 ) score : 11
+word : to anchor( col :  7 row : 12 ) score : 2
+word : tor anchor( col :  7 row : 12 ) score : 3
+word : ow anchor( col :  8 row : 12 ) score : 6
+word : ne anchor( col :  2 row : 13 ) score : 4
+word : role anchor( col :  4 row : 13 ) score : 10
+word : lo anchor( col :  8 row : 13 ) score : 8
+word : looed anchor( col :  8 row : 13 ) score : 20
+word : looed anchor( col :  10 row : 13 ) score : 20
+word : go anchor( col :  14 row : 13 ) score : 3
+Hasil evaluasi : looed , score : 20 , direction :1 ,i: 13 j: 7
+
+
+
+word : lar anchor( col :  6 row : 1 ) score : 6
+word : aril anchor( col :  6 row : 1 ) score : 9
+word : air anchor( col :  8 row : 1 ) score : 6
+word : lair anchor( col :  8 row : 1 ) score : 9
+word : ire anchor( col :  13 row : 4 ) score : 3
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : rail anchor( col :  3 row : 7 ) score : 16
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : lari anchor( col :  4 row : 8 ) score : 9
+word : or anchor( col :  5 row : 8 ) score : 11
+word : til anchor( col :  7 row : 12 ) score : 3
+word : lier anchor( col :  4 row : 13 ) score : 4
+word : go anchor( col :  14 row : 13 ) score : 3
+word : ar anchor( col :  1 row : 14 ) score : 12
+word : aril anchor( col :  1 row : 14 ) score : 15
+word : lar anchor( col :  6 row : 1 ) score : 6
+word : aril anchor( col :  6 row : 1 ) score : 9
+word : air anchor( col :  8 row : 1 ) score : 6
+word : lair anchor( col :  8 row : 1 ) score : 9
+word : ire anchor( col :  13 row : 4 ) score : 3
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : rail anchor( col :  3 row : 7 ) score : 16
+word : tahr anchor( col :  2 row : 8 ) score : 8
+word : tahr anchor( col :  4 row : 8 ) score : 8
+word : lari anchor( col :  4 row : 8 ) score : 9
+word : or anchor( col :  5 row : 8 ) score : 11
+word : til anchor( col :  7 row : 12 ) score : 3
+word : lier anchor( col :  4 row : 13 ) score : 4
+word : go anchor( col :  14 row : 13 ) score : 3
+word : ar anchor( col :  1 row : 14 ) score : 12
+word : aril anchor( col :  1 row : 14 ) score : 15
+******HUMAN RESULT******
+
+
+HUMAN MOVE : lit , score : 9 , direction : 2 , col : 7 , row : 3
+
+
+******COMPUTER TURN******
+
+word : eerie anchor( col :  6 row : 1 ) score : 10
+word : eerie anchor( col :  8 row : 1 ) score : 10
+word : ate anchor( col :  8 row : 4 ) score : 6
+word : re anchor( col :  13 row : 4 ) score : 2
+word : er anchor( col :  13 row : 4 ) score : 3
+word : he anchor( col :  4 row : 8 ) score : 5
+word : re anchor( col :  4 row : 8 ) score : 7
+word : ire anchor( col :  4 row : 8 ) score : 8
+word : eerie anchor( col :  4 row : 8 ) score : 15
+word : re anchor( col :  5 row : 8 ) score : 11
+word : tel anchor( col :  7 row : 12 ) score : 3
+word : ne anchor( col :  2 row : 13 ) score : 4
+word : re anchor( col :  4 row : 13 ) score : 8
+Hasil evaluasi : eerie , score : 15 , direction :2 ,i: 4 j: 4
+
+
+
+word : re anchor( col :  6 row : 1 ) score : 5
+word : air anchor( col :  6 row : 1 ) score : 6
+word : air anchor( col :  8 row : 1 ) score : 6
+word : re anchor( col :  3 row : 4 ) score : 5
+word : aero anchor( col :  3 row : 4 ) score : 8
+word : er anchor( col :  3 row : 4 ) score : 8
+word : orra anchor( col :  3 row : 4 ) score : 12
+word : er anchor( col :  5 row : 4 ) score : 4
+word : aero anchor( col :  5 row : 4 ) score : 8
+word : eon anchor( col :  8 row : 4 ) score : 6
+word : aeon anchor( col :  8 row : 4 ) score : 7
+word : er anchor( col :  13 row : 4 ) score : 3
+word : er anchor( col :  3 row : 6 ) score : 4
+word : err anchor( col :  3 row : 6 ) score : 7
+word : rare anchor( col :  3 row : 6 ) score : 12
+word : err anchor( col :  5 row : 6 ) score : 7
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : air anchor( col :  5 row : 7 ) score : 15
+word : raia anchor( col :  5 row : 7 ) score : 16
+word : ne anchor( col :  2 row : 13 ) score : 4
+word : re anchor( col :  4 row : 13 ) score : 8
+word : go anchor( col :  14 row : 13 ) score : 3
+word : ar anchor( col :  1 row : 14 ) score : 12
+word : are anchor( col :  1 row : 14 ) score : 14
+word : area anchor( col :  1 row : 14 ) score : 15
+word : re anchor( col :  6 row : 1 ) score : 5
+word : air anchor( col :  6 row : 1 ) score : 6
+word : air anchor( col :  8 row : 1 ) score : 6
+word : re anchor( col :  3 row : 4 ) score : 5
+word : aero anchor( col :  3 row : 4 ) score : 8
+word : er anchor( col :  3 row : 4 ) score : 8
+word : orra anchor( col :  3 row : 4 ) score : 12
+word : er anchor( col :  5 row : 4 ) score : 4
+word : aero anchor( col :  5 row : 4 ) score : 8
+word : eon anchor( col :  8 row : 4 ) score : 6
+word : aeon anchor( col :  8 row : 4 ) score : 7
+word : er anchor( col :  13 row : 4 ) score : 3
+word : er anchor( col :  3 row : 6 ) score : 4
+word : err anchor( col :  3 row : 6 ) score : 7
+word : rare anchor( col :  3 row : 6 ) score : 12
+word : err anchor( col :  5 row : 6 ) score : 7
+word : razee anchor( col :  7 row : 6 ) score : 14
+word : air anchor( col :  5 row : 7 ) score : 15
+word : raia anchor( col :  5 row : 7 ) score : 16
+word : ne anchor( col :  2 row : 13 ) score : 4
+word : re anchor( col :  4 row : 13 ) score : 8
+word : go anchor( col :  14 row : 13 ) score : 3
+word : ar anchor( col :  1 row : 14 ) score : 12
+word : are anchor( col :  1 row : 14 ) score : 14
+word : area anchor( col :  1 row : 14 ) score : 15
+******HUMAN RESULT******
+
+
+HUMAN MOVE : ree , score : 5 , direction : 1 , col : 6 , row : 5
+
+
+******COMPUTER TURN******
+
+word : re anchor( col :  6 row : 1 ) score : 5
+word : ree anchor( col :  3 row : 4 ) score : 5
+word : er anchor( col :  3 row : 4 ) score : 8
+word : er anchor( col :  5 row : 4 ) score : 4
+word : ere anchor( col :  5 row : 4 ) score : 5
+word : ree anchor( col :  5 row : 4 ) score : 7
+word : eon anchor( col :  8 row : 4 ) score : 6
+word : er anchor( col :  13 row : 4 ) score : 3
+word : er anchor( col :  3 row : 6 ) score : 4
+word : err anchor( col :  3 row : 6 ) score : 7
+word : err anchor( col :  5 row : 6 ) score : 7
+word : tel anchor( col :  7 row : 12 ) score : 3
+word : ne anchor( col :  2 row : 13 ) score : 4
+word : re anchor( col :  4 row : 13 ) score : 8
+Hasil evaluasi : er , score : 8 , direction :2 ,i: 3 j: 3
+
+
+

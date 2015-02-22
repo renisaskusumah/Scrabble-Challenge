@@ -1,0 +1,31 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : ABSOPJX
+
+HUMAN MOVE : box , score : 24 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+RACK : n*aytuu
+
+Hasil evaluasi : aunty , score : 32 , direction : 2 , anchor (10 , 7) , col : 3 , row : 10
+
+POSSIBLE MOVEMENT : 
+tunably ( col : 7 row: 3 ) score : 12
+nasty ( col : 8 row: 6 ) score : 24
+un ( col : 5 row: 7 ) score : 14
+boxy ( col : 7 row: 7 ) score : 16
+aunty ( col : 10 row: 3 ) score : 32
+ayin ( col : 7 row: 8 ) score : 31
+
+
+******HUMAN RESULT******
+RACK : AKSQPJU
+
+HUMAN MOVE : tusk , score : 9 , direction : 1 , col : 14 , row : 6
+
+
+******COMPUTER TURN******
+RACK : *uill*f
+

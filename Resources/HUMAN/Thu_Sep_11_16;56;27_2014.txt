@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	dizzy	--	42		5	HUMAN 
+Player 2		4.344	18		3	NEGASCOUT

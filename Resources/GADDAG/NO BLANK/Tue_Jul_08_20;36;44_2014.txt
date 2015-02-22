@@ -1,0 +1,48 @@
+player word durasi skor tiles
+
+
+Player 1	kobo	0.278	20		4
+Player 2 	wynn	1.862	33		4
+Player 1	daw	2.228	30		3
+Player 2 	bogs	2.078	24		4
+Player 1	glop	2.541	22		4
+Player 2 	fulgid	5.349	30		5
+Player 1	bortz	3.694	36		3
+Player 2 	croon	9.576	25		5
+Player 1	quag	4.039	37		4
+Player 2 	radix	4.246	45		5
+Player 1	five	4.358	30		4
+Player 2 	hay	3.807	33		3
+Player 1	muff	6.562	24		2
+Player 2 	cumin	5.717	24		4
+Player 1	mojo	4.35	26		3
+Player 2 	sis	6.526	19		3
+Player 1	yar	7.484	17		1
+Player 2 	sept	4.807	19		4
+Player 1	hi	5.711	20		1
+Player 2 	lav	4.238	20		3
+Player 1	retitle	8.018	21		6
+Player 2 	rec	7.479	15		3
+Player 1	zenana	11.201	17		5
+Player 2 	rede	9.664	28		4
+Player 1	jeep	9.255	13		2
+Player 2 	ilia	0.377	8		5
+Player 1	ta	1.745	11		4
+Player 2 	sei	0.09	53		7
+Player 1	tae	0.292	65		7
+Player 2 	-	0.024	0		7
+Player 1	-	0.025	0		7
+Player 2 	-	0.024	0		7
+Player 1	-	0.024	0		7
+Player 2 	-	0.025	0		7
+Player 1	-	0.025	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 1 menit 6 detik 
+player 1 left tile : 0
+player 1 total skor : 389
+player 1 Final skor : 389
+player 2 durasi : 0 menit 59 detik 
+player 2 left tile : 0
+player 2 total skor : 376
+player 2 Final skor : 376

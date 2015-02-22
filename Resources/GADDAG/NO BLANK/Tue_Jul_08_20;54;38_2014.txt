@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	-	0.021	0		0
+Player 2 	zarf	0.176	32		4
+Player 1	arm	0.388	11		2
+Player 2 	monk	2.208	26		4
+Player 1	ex	1.084	22		2
+Player 2 	frag	3.109	27		4
+Player 1	hunk	1.638	22		3
+Player 2 	cushy	2.532	40		4
+Player 1	sh	1.066	25		2
+Player 2 	jews	2.083	48		4
+Player 1	wry	1.276	17		3
+Player 2 	trad	2.939	30		4
+Player 1	exon	3.87	15		2
+Player 2 	silva	5.874	24		5
+Player 1	qua	4.502	24		2
+Player 2 	bint	4.296	20		3
+Player 1	null	6.726	15		4
+Player 2 	beg	2.096	13		3
+Player 1	planar	8.184	38		6
+Player 2 	exonic	3.539	18		3
+Player 1	got	7.962	28		3
+Player 2 	nulled	7.044	21		2
+Player 1	topaz	9.318	32		4
+Player 2 	vat	8.644	18		3
+Player 1	dev	8.198	14		2
+Player 2 	ideated	7.63	24		5
+Player 1	voiced	8.091	14		4
+Player 2 	pows	3.979	9		1
+Player 1	oe	0.605	6		5
+Player 2 	re	1.985	6		2
+Player 1	id	0.116	3		6
+Player 2 	oe	0.96	5		4
+Player 1	oe	0.055	53		7
+Player 2 	ti	0.195	2		5
+Player 1	-	0.03	0		7
+Player 2 	-	0.104	0		5
+Player 1	-	0.034	0		7
+Player 2 	-	0.106	0		5
+Player 1	-	0.03	0		7
+Player 2 	-	0.109	0		5
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 63.194
+player 1 left tile : 0
+player 1 total skor : 339
+player 1 Final skor : 339
+player 2 durasi : 59.608
+player 2 left tile : 2
+player 2 total skor : 363
+player 2 Final skor : 361

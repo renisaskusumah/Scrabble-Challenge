@@ -1,0 +1,266 @@
+******HUMAN TURN******
+
+word : abamp anchor( col :  7 row : 6 ) score : 8
+word : bomb anchor( col :  6 row : 7 ) score : 10
+word : bombast anchor( col :  6 row : 7 ) score : 12
+word : thumb anchor( col :  6 row : 7 ) score : 12
+word : haboob anchor( col :  6 row : 7 ) score : 13
+word : abmho anchor( col :  8 row : 7 ) score : 12
+word : bombast anchor( col :  8 row : 7 ) score : 13
+word : booth anchor( col :  8 row : 7 ) score : 13
+word : bimah anchor( col :  8 row : 7 ) score : 15
+word : shmo anchor( col :  8 row : 7 ) score : 15
+word : whamo anchor( col :  8 row : 7 ) score : 16
+word : moa anchor( col :  8 row : 7 ) score : 16
+word : mola anchor( col :  8 row : 7 ) score : 17
+word : mote anchor( col :  8 row : 7 ) score : 19
+word : aboma anchor( col :  8 row : 7 ) score : 28
+word : abohm anchor( col :  8 row : 7 ) score : 38
+word : aboma anchor( col :  6 row : 8 ) score : 12
+word : bemata anchor( col :  6 row : 8 ) score : 13
+word : bimah anchor( col :  6 row : 8 ) score : 18
+word : bathmat anchor( col :  6 row : 8 ) score : 19
+word : mob anchor( col :  6 row : 8 ) score : 21
+word : mocha anchor( col :  6 row : 8 ) score : 24
+word : month anchor( col :  6 row : 8 ) score : 27
+word : hatbox anchor( col :  6 row : 8 ) score : 28
+word : am anchor( col :  8 row : 8 ) score : 7
+word : bam anchor( col :  8 row : 8 ) score : 13
+word : abamp anchor( col :  8 row : 8 ) score : 14
+word : ham anchor( col :  8 row : 8 ) score : 15
+word : ogham anchor( col :  8 row : 8 ) score : 16
+word : hamate anchor( col :  8 row : 8 ) score : 17
+word : bathmat anchor( col :  8 row : 8 ) score : 19
+word : aboma anchor( col :  8 row : 8 ) score : 28
+word : home anchor( col :  8 row : 8 ) score : 29
+word : bimah anchor( col :  8 row : 8 ) score : 31
+word : abohm anchor( col :  8 row : 8 ) score : 38
+word : comma anchor( col :  6 row : 9 ) score : 10
+word : ammo anchor( col :  6 row : 9 ) score : 10
+word : hmm anchor( col :  6 row : 9 ) score : 18
+word : rhomb anchor( col :  6 row : 9 ) score : 19
+word : bimah anchor( col :  6 row : 9 ) score : 25
+word : hm anchor( col :  6 row : 9 ) score : 26
+word : month anchor( col :  6 row : 9 ) score : 27
+word : hatbox anchor( col :  6 row : 9 ) score : 28
+word : mm anchor( col :  8 row : 9 ) score : 6
+word : comma anchor( col :  8 row : 9 ) score : 10
+word : momma anchor( col :  8 row : 9 ) score : 16
+word : mammoth anchor( col :  8 row : 9 ) score : 21
+word : whammo anchor( col :  8 row : 9 ) score : 22
+word : bimah anchor( col :  8 row : 9 ) score : 25
+word : mammoth anchor( col :  8 row : 9 ) score : 27
+word : ohm anchor( col :  8 row : 9 ) score : 31
+word : abohm anchor( col :  8 row : 9 ) score : 38
+word : oms anchor( col :  7 row : 10 ) score : 11
+word : toms anchor( col :  7 row : 10 ) score : 17
+word : atoms anchor( col :  7 row : 10 ) score : 19
+word : ohms anchor( col :  7 row : 10 ) score : 23
+word : abohms anchor( col :  7 row : 10 ) score : 31
+word : abamp anchor( col :  7 row : 6 ) score : 8
+word : bomb anchor( col :  6 row : 7 ) score : 10
+word : bombast anchor( col :  6 row : 7 ) score : 12
+word : thumb anchor( col :  6 row : 7 ) score : 12
+word : haboob anchor( col :  6 row : 7 ) score : 13
+word : abmho anchor( col :  8 row : 7 ) score : 12
+word : bombast anchor( col :  8 row : 7 ) score : 13
+word : booth anchor( col :  8 row : 7 ) score : 13
+word : bimah anchor( col :  8 row : 7 ) score : 15
+word : shmo anchor( col :  8 row : 7 ) score : 15
+word : whamo anchor( col :  8 row : 7 ) score : 16
+word : moa anchor( col :  8 row : 7 ) score : 16
+word : mola anchor( col :  8 row : 7 ) score : 17
+word : mote anchor( col :  8 row : 7 ) score : 19
+word : aboma anchor( col :  8 row : 7 ) score : 28
+word : abohm anchor( col :  8 row : 7 ) score : 38
+word : aboma anchor( col :  6 row : 8 ) score : 12
+word : bemata anchor( col :  6 row : 8 ) score : 13
+word : bimah anchor( col :  6 row : 8 ) score : 18
+word : bathmat anchor( col :  6 row : 8 ) score : 19
+word : mob anchor( col :  6 row : 8 ) score : 21
+word : mocha anchor( col :  6 row : 8 ) score : 24
+word : month anchor( col :  6 row : 8 ) score : 27
+word : hatbox anchor( col :  6 row : 8 ) score : 28
+word : am anchor( col :  8 row : 8 ) score : 7
+word : bam anchor( col :  8 row : 8 ) score : 13
+word : abamp anchor( col :  8 row : 8 ) score : 14
+word : ham anchor( col :  8 row : 8 ) score : 15
+word : ogham anchor( col :  8 row : 8 ) score : 16
+word : hamate anchor( col :  8 row : 8 ) score : 17
+word : bathmat anchor( col :  8 row : 8 ) score : 19
+word : aboma anchor( col :  8 row : 8 ) score : 28
+word : home anchor( col :  8 row : 8 ) score : 29
+word : bimah anchor( col :  8 row : 8 ) score : 31
+word : abohm anchor( col :  8 row : 8 ) score : 38
+word : comma anchor( col :  6 row : 9 ) score : 10
+word : ammo anchor( col :  6 row : 9 ) score : 10
+word : hmm anchor( col :  6 row : 9 ) score : 18
+word : rhomb anchor( col :  6 row : 9 ) score : 19
+word : bimah anchor( col :  6 row : 9 ) score : 25
+word : hm anchor( col :  6 row : 9 ) score : 26
+word : month anchor( col :  6 row : 9 ) score : 27
+word : hatbox anchor( col :  6 row : 9 ) score : 28
+word : mm anchor( col :  8 row : 9 ) score : 6
+word : comma anchor( col :  8 row : 9 ) score : 10
+word : momma anchor( col :  8 row : 9 ) score : 16
+word : mammoth anchor( col :  8 row : 9 ) score : 21
+word : whammo anchor( col :  8 row : 9 ) score : 22
+word : bimah anchor( col :  8 row : 9 ) score : 25
+word : mammoth anchor( col :  8 row : 9 ) score : 27
+word : ohm anchor( col :  8 row : 9 ) score : 31
+word : abohm anchor( col :  8 row : 9 ) score : 38
+word : oms anchor( col :  7 row : 10 ) score : 11
+word : toms anchor( col :  7 row : 10 ) score : 17
+word : atoms anchor( col :  7 row : 10 ) score : 19
+word : ohms anchor( col :  7 row : 10 ) score : 23
+word : abohms anchor( col :  7 row : 10 ) score : 31
+******HUMAN RESULT******
+
+
+HUMAN MOVE : bam , score : 14 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+
+word : limb anchor( col :  6 row : 7 ) score : 8
+word : brim anchor( col :  8 row : 7 ) score : 8
+word : mi anchor( col :  8 row : 7 ) score : 11
+word : mir anchor( col :  8 row : 7 ) score : 16
+word : rim anchor( col :  8 row : 7 ) score : 20
+word : whim anchor( col :  8 row : 7 ) score : 30
+word : lima anchor( col :  6 row : 8 ) score : 9
+word : liman anchor( col :  6 row : 8 ) score : 11
+word : marlin anchor( col :  6 row : 8 ) score : 12
+word : maw anchor( col :  6 row : 8 ) score : 15
+word : mawn anchor( col :  6 row : 8 ) score : 16
+word : wham anchor( col :  6 row : 8 ) score : 19
+word : hm anchor( col :  6 row : 8 ) score : 26
+word : am anchor( col :  8 row : 8 ) score : 7
+word : ram anchor( col :  8 row : 8 ) score : 9
+word : ihram anchor( col :  8 row : 8 ) score : 14
+word : ham anchor( col :  8 row : 8 ) score : 15
+word : wham anchor( col :  8 row : 8 ) score : 19
+word : rim anchor( col :  8 row : 8 ) score : 20
+word : him anchor( col :  8 row : 8 ) score : 26
+word : whim anchor( col :  8 row : 8 ) score : 30
+word : hm anchor( col :  6 row : 9 ) score : 18
+word : whim anchor( col :  6 row : 9 ) score : 20
+word : hm anchor( col :  6 row : 9 ) score : 26
+word : mm anchor( col :  8 row : 9 ) score : 6
+word : hmm anchor( col :  8 row : 9 ) score : 10
+word : mim anchor( col :  8 row : 9 ) score : 13
+word : hm anchor( col :  8 row : 9 ) score : 26
+Hasil evaluasi : whim , score : 30 , direction :2 ,i: 5 j: 8
+
+
+
+word : top anchor( col :  9 row : 4 ) score : 6
+word : pion anchor( col :  9 row : 4 ) score : 14
+word : fiat anchor( col :  9 row : 4 ) score : 15
+word : fiz anchor( col :  10 row : 4 ) score : 48
+word : abamp anchor( col :  7 row : 6 ) score : 14
+word : pion anchor( col :  9 row : 6 ) score : 14
+word : iota anchor( col :  9 row : 6 ) score : 17
+word : fizz anchor( col :  10 row : 6 ) score : 48
+word : probit anchor( col :  6 row : 7 ) score : 9
+word : phobia anchor( col :  6 row : 7 ) score : 12
+word : zombi anchor( col :  6 row : 7 ) score : 15
+word : azo anchor( col :  6 row : 7 ) score : 26
+word : azoth anchor( col :  6 row : 7 ) score : 45
+word : biz anchor( col :  9 row : 7 ) score : 14
+word : zap anchor( col :  9 row : 7 ) score : 37
+word : pam anchor( col :  6 row : 8 ) score : 10
+word : ham anchor( col :  6 row : 8 ) score : 12
+word : champ anchor( col :  6 row : 8 ) score : 15
+word : hamza anchor( col :  6 row : 8 ) score : 22
+word : op anchor( col :  6 row : 8 ) score : 22
+word : fop anchor( col :  6 row : 8 ) score : 30
+word : koph anchor( col :  6 row : 8 ) score : 33
+word : toph anchor( col :  6 row : 8 ) score : 35
+word : topaz anchor( col :  6 row : 8 ) score : 37
+word : phiz anchor( col :  6 row : 8 ) score : 37
+word : azoth anchor( col :  6 row : 8 ) score : 45
+word : hamza anchor( col :  9 row : 8 ) score : 22
+word : pfft anchor( col :  9 row : 8 ) score : 23
+word : phot anchor( col :  9 row : 8 ) score : 24
+word : phiz anchor( col :  9 row : 8 ) score : 32
+word : zap anchor( col :  9 row : 8 ) score : 37
+word : azoth anchor( col :  9 row : 8 ) score : 40
+word : pom anchor( col :  6 row : 9 ) score : 13
+word : poms anchor( col :  6 row : 9 ) score : 25
+word : poh anchor( col :  6 row : 9 ) score : 25
+word : ho anchor( col :  6 row : 9 ) score : 25
+word : hop anchor( col :  6 row : 9 ) score : 28
+word : oho anchor( col :  6 row : 9 ) score : 29
+word : topaz anchor( col :  6 row : 9 ) score : 36
+word : topaz anchor( col :  6 row : 9 ) score : 37
+word : phiz anchor( col :  6 row : 9 ) score : 37
+word : azoth anchor( col :  6 row : 9 ) score : 45
+word : oms anchor( col :  8 row : 9 ) score : 16
+word : poms anchor( col :  8 row : 9 ) score : 25
+word : ops anchor( col :  7 row : 10 ) score : 11
+word : hops anchor( col :  7 row : 10 ) score : 23
+word : tophs anchor( col :  7 row : 10 ) score : 25
+word : top anchor( col :  9 row : 4 ) score : 6
+word : pion anchor( col :  9 row : 4 ) score : 14
+word : fiat anchor( col :  9 row : 4 ) score : 15
+word : fiz anchor( col :  10 row : 4 ) score : 48
+word : abamp anchor( col :  7 row : 6 ) score : 14
+word : pion anchor( col :  9 row : 6 ) score : 14
+word : iota anchor( col :  9 row : 6 ) score : 17
+word : fizz anchor( col :  10 row : 6 ) score : 48
+word : probit anchor( col :  6 row : 7 ) score : 9
+word : phobia anchor( col :  6 row : 7 ) score : 12
+word : zombi anchor( col :  6 row : 7 ) score : 15
+word : azo anchor( col :  6 row : 7 ) score : 26
+word : azoth anchor( col :  6 row : 7 ) score : 45
+word : biz anchor( col :  9 row : 7 ) score : 14
+word : zap anchor( col :  9 row : 7 ) score : 37
+word : pam anchor( col :  6 row : 8 ) score : 10
+word : ham anchor( col :  6 row : 8 ) score : 12
+word : champ anchor( col :  6 row : 8 ) score : 15
+word : hamza anchor( col :  6 row : 8 ) score : 22
+word : op anchor( col :  6 row : 8 ) score : 22
+word : fop anchor( col :  6 row : 8 ) score : 30
+word : koph anchor( col :  6 row : 8 ) score : 33
+word : toph anchor( col :  6 row : 8 ) score : 35
+word : topaz anchor( col :  6 row : 8 ) score : 37
+word : phiz anchor( col :  6 row : 8 ) score : 37
+word : azoth anchor( col :  6 row : 8 ) score : 45
+word : hamza anchor( col :  9 row : 8 ) score : 22
+word : pfft anchor( col :  9 row : 8 ) score : 23
+word : phot anchor( col :  9 row : 8 ) score : 24
+word : phiz anchor( col :  9 row : 8 ) score : 32
+word : zap anchor( col :  9 row : 8 ) score : 37
+word : azoth anchor( col :  9 row : 8 ) score : 40
+word : pom anchor( col :  6 row : 9 ) score : 13
+word : poms anchor( col :  6 row : 9 ) score : 25
+word : poh anchor( col :  6 row : 9 ) score : 25
+word : ho anchor( col :  6 row : 9 ) score : 25
+word : hop anchor( col :  6 row : 9 ) score : 28
+word : oho anchor( col :  6 row : 9 ) score : 29
+word : topaz anchor( col :  6 row : 9 ) score : 36
+word : topaz anchor( col :  6 row : 9 ) score : 37
+word : phiz anchor( col :  6 row : 9 ) score : 37
+word : azoth anchor( col :  6 row : 9 ) score : 45
+word : oms anchor( col :  8 row : 9 ) score : 16
+word : poms anchor( col :  8 row : 9 ) score : 25
+word : ops anchor( col :  7 row : 10 ) score : 11
+word : hops anchor( col :  7 row : 10 ) score : 23
+word : tophs anchor( col :  7 row : 10 ) score : 25
+******HUMAN RESULT******
+
+
+HUMAN MOVE : wiz , score : 14 , direction : 1 , col : 11 , row : 5
+
+
+******COMPUTER TURN******
+
+word : li anchor( col :  9 row : 4 ) score : 2
+word : birl anchor( col :  9 row : 7 ) score : 6
+word : ram anchor( col :  6 row : 8 ) score : 6
+word : tram anchor( col :  6 row : 8 ) score : 7
+Hasil evaluasi : tram , score : 7 , direction :1 ,i: 8 j: 5
+
+
+

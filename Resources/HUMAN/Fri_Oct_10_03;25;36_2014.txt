@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1		exchange ( 9.232 )		--			0		0	
+Player 2	fah	1.334	18		3	GADDAG	18
+Player 1		exchange ( 48.62 )		--			0		0	

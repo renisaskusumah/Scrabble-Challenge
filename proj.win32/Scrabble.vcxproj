@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{76A39BB2-9B84-4C65-98A5-654D86B86F2A}</ProjectGuid>
+    <RootNamespace>test_win32</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '10.0'">v100</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '11.0'">v110</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '11.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v110_xp</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0'">v120</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v120_xp</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '10.0'">v100</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '11.0'">v110</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '11.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v110_xp</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0'">v120</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v120_xp</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.40219.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)$(Configuration).win32\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Configuration).win32\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Configuration).win32\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration).win32\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LibraryPath>$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LibraryPath>$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>E:\~SKRIPSEH~\[FOLDER FIX TULISAN]\cocos2d-x-2.2.3\cocos2dx\platform\third_party\win32\pthread;$(ProjectDir)..\..\..\cocos2dx;$(ProjectDir)..\..\..\cocos2dx\include;$(ProjectDir)..\..\..\cocos2dx\kazmath\include;$(ProjectDir)..\..\..\cocos2dx\platform\win32;$(ProjectDir)..\..\..\cocos2dx\platform\third_party\win32;$(ProjectDir)..\..\..\cocos2dx\platform\third_party\win32\OGLES;$(ProjectDir)..\..\..\external;$(ProjectDir)..\..\..\external\chipmunk\include\chipmunk;$(ProjectDir)..\..\..\CocosDenshion\include;$(ProjectDir)..\..\..\extensions;..\Classes;..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USE_MATH_DEFINES;GL_GLEXT_PROTOTYPES;CC_ENABLE_CHIPMUNK_INTEGRATION=1;COCOS2D_DEBUG=1;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <DisableSpecificWarnings>4267;4251;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libExtensions.lib;libcocos2d.lib;libCocosDenshion.lib;opengl32.lib;glew32.lib;libBox2d.lib;libchipmunk.lib;libcurl_imp.lib;pthreadVCE2.lib;websockets.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>$(OutDir);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+    <PreLinkEvent>
+      <Command>if not exist "$(OutDir)" mkdir "$(OutDir)"
+xcopy /Y /Q "$(ProjectDir)..\..\..\external\libwebsockets\win32\lib\*.*" "$(OutDir)"</Command>
+    </PreLinkEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>$(ProjectDir)..\..\..\cocos2dx;$(ProjectDir)..\..\..\cocos2dx\include;$(ProjectDir)..\..\..\cocos2dx\kazmath\include;$(ProjectDir)..\..\..\cocos2dx\platform\win32;$(ProjectDir)..\..\..\cocos2dx\platform\third_party\win32;$(ProjectDir)..\..\..\cocos2dx\platform\third_party\win32\OGLES;$(ProjectDir)..\..\..\external;$(ProjectDir)..\..\..\external\chipmunk\include\chipmunk;$(ProjectDir)..\..\..\CocosDenshion\include;$(ProjectDir)..\..\..\extensions;..\Classes;..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USE_MATH_DEFINES;GL_GLEXT_PROTOTYPES;CC_ENABLE_CHIPMUNK_INTEGRATION=1;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4267;4251;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libExtensions.lib;libcocos2d.lib;libCocosDenshion.lib;opengl32.lib;glew32.lib;libBox2d.lib;libchipmunk.lib;libcurl_imp.lib;pthreadVCE2.lib;websockets.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>$(OutDir);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+    <PreLinkEvent>
+      <Command>if not exist "$(OutDir)" mkdir "$(OutDir)"
+xcopy /Y /Q "$(ProjectDir)..\..\..\external\libwebsockets\win32\lib\*.*" "$(OutDir)"</Command>
+    </PreLinkEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AboutScene.cpp" />
+    <ClCompile Include="..\Classes\AiMenuScene.cpp" />
+    <ClCompile Include="..\Classes\AppDelegate.cpp" />
+    <ClCompile Include="..\Classes\BasicTiles.cpp" />
+    <ClCompile Include="..\Classes\EndGameScene.cpp" />
+    <ClCompile Include="..\Classes\Gaddag.cpp" />
+    <ClCompile Include="..\Classes\GameAiScene.cpp" />
+    <ClCompile Include="..\Classes\GameAlgorithm.cpp" />
+    <ClCompile Include="..\Classes\GameHumanScene.cpp" />
+    <ClCompile Include="..\Classes\GameScene.cpp" />
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp" />
+    <ClCompile Include="..\Classes\HelpScene.cpp" />
+    <ClCompile Include="..\Classes\Heuristic.cpp" />
+    <ClCompile Include="..\Classes\LoadingScene.cpp" />
+    <ClCompile Include="..\Classes\MenuScene.cpp" />
+    <ClCompile Include="..\Classes\Negascout.cpp" />
+    <ClCompile Include="..\Classes\Papan.cpp" />
+    <ClCompile Include="..\Classes\AiPlayer.cpp" />
+    <ClCompile Include="..\Classes\RackTile.cpp" />
+    <ClCompile Include="..\Classes\Strategy.cpp" />
+    <ClCompile Include="..\Classes\TileOnBoard.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AboutScene.h" />
+    <ClInclude Include="..\Classes\AiMenuScene.h" />
+    <ClInclude Include="..\Classes\AppDelegate.h" />
+    <ClInclude Include="..\Classes\EndGameScene.h" />
+    <ClInclude Include="..\Classes\Gaddag.h" />
+    <ClInclude Include="..\Classes\GameAiScene.h" />
+    <ClInclude Include="..\Classes\GameHumanScene.h" />
+    <ClInclude Include="..\Classes\GameScene.h" />
+    <ClInclude Include="..\Classes\HelloWorldScene.h" />
+    <ClInclude Include="..\Classes\HelpScene.h" />
+    <ClInclude Include="..\Classes\LoadingScene.h" />
+    <ClInclude Include="..\Classes\MenuScene.h" />
+    <ClInclude Include="..\Classes\Negascout.h" />
+    <ClInclude Include="..\Classes\RackTile.h" />
+    <ClInclude Include="..\Classes\TileOnBoard.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\cocos2dx\proj.win32\cocos2d.vcxproj">
+      <Project>{98a51ba8-fc3a-415b-ac8f-8c7bd464e93e}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\CocosDenshion\proj.win32\CocosDenshion.vcxproj">
+      <Project>{f8edd7fa-9a51-4e80-baeb-860825d2eac6}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\extensions\proj.win32\libExtensions.vcxproj">
+      <Project>{21b2c324-891f-48ea-ad1a-5ae13de12e28}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\external\Box2D\proj.win32\Box2D.vcxproj">
+      <Project>{929480e7-23c0-4df6-8456-096d71547116}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\external\chipmunk\proj.win32\chipmunk.vcxproj">
+      <Project>{207bc7a9-ccf1-4f2f-a04d-45f72242ae25}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\A.png" />
+    <Image Include="..\Resources\about.png" />
+    <Image Include="..\Resources\about_btn.png" />
+    <Image Include="..\Resources\about_hover.png" />
+    <Image Include="..\Resources\AI_1.png" />
+    <Image Include="..\Resources\AI_2.png" />
+    <Image Include="..\Resources\AI_3.png" />
+    <Image Include="..\Resources\AI_4.png" />
+    <Image Include="..\Resources\ai_btn.png" />
+    <Image Include="..\Resources\ai_hover.png" />
+    <Image Include="..\Resources\A_blank.png" />
+    <Image Include="..\Resources\A_small.png" />
+    <Image Include="..\Resources\B.png" />
+    <Image Include="..\Resources\back_btn.png" />
+    <Image Include="..\Resources\back_hover.png" />
+    <Image Include="..\Resources\bg.png" />
+    <Image Include="..\Resources\blank.png" />
+    <Image Include="..\Resources\blank_box.png" />
+    <Image Include="..\Resources\blank_small.png" />
+    <Image Include="..\Resources\board_2L.png" />
+    <Image Include="..\Resources\board_2w.png" />
+    <Image Include="..\Resources\board_3L.png" />
+    <Image Include="..\Resources\board_3w.png" />
+    <Image Include="..\Resources\board_center.png" />
+    <Image Include="..\Resources\board_tile.png" />
+    <Image Include="..\Resources\board_tile_hover.png" />
+    <Image Include="..\Resources\box.png" />
+    <Image Include="..\Resources\B_blank.png" />
+    <Image Include="..\Resources\B_small.png" />
+    <Image Include="..\Resources\C.png" />
+    <Image Include="..\Resources\cancel_btn.png" />
+    <Image Include="..\Resources\cancel_hover.png" />
+    <Image Include="..\Resources\C_blank.png" />
+    <Image Include="..\Resources\C_small.png" />
+    <Image Include="..\Resources\D.png" />
+    <Image Include="..\Resources\D_blank.png" />
+    <Image Include="..\Resources\D_small.png" />
+    <Image Include="..\Resources\E.png" />
+    <Image Include="..\Resources\end_game.png" />
+    <Image Include="..\Resources\exchange_box.png" />
+    <Image Include="..\Resources\exchange_btn.png" />
+    <Image Include="..\Resources\exchange_btn_box.png" />
+    <Image Include="..\Resources\exchange_hover.png" />
+    <Image Include="..\Resources\exchange_hover_box.png" />
+    <Image Include="..\Resources\execute_btn.png" />
+    <Image Include="..\Resources\execute_hover.png" />
+    <Image Include="..\Resources\exit_btn.png" />
+    <Image Include="..\Resources\E_blank.png" />
+    <Image Include="..\Resources\E_small.png" />
+    <Image Include="..\Resources\F.png" />
+    <Image Include="..\Resources\F_blank.png" />
+    <Image Include="..\Resources\F_small.png" />
+    <Image Include="..\Resources\G.png" />
+    <Image Include="..\Resources\game_tracker.png" />
+    <Image Include="..\Resources\grid_helper.png" />
+    <Image Include="..\Resources\G_blank.png" />
+    <Image Include="..\Resources\G_small.png" />
+    <Image Include="..\Resources\H.png" />
+    <Image Include="..\Resources\help.png" />
+    <Image Include="..\Resources\help_btn.png" />
+    <Image Include="..\Resources\help_hover.png" />
+    <Image Include="..\Resources\hint_bg.png" />
+    <Image Include="..\Resources\hint_btn.png" />
+    <Image Include="..\Resources\hint_hover.png" />
+    <Image Include="..\Resources\H_blank.png" />
+    <Image Include="..\Resources\H_small.png" />
+    <Image Include="..\Resources\I.png" />
+    <Image Include="..\Resources\I_blank.png" />
+    <Image Include="..\Resources\I_small.png" />
+    <Image Include="..\Resources\J.png" />
+    <Image Include="..\Resources\J_blank.png" />
+    <Image Include="..\Resources\J_small.png" />
+    <Image Include="..\Resources\K.png" />
+    <Image Include="..\Resources\K_blank.png" />
+    <Image Include="..\Resources\K_small.png" />
+    <Image Include="..\Resources\L.png" />
+    <Image Include="..\Resources\letter_bag.png" />
+    <Image Include="..\Resources\loading.png" />
+    <Image Include="..\Resources\L_blank.png" />
+    <Image Include="..\Resources\L_small.png" />
+    <Image Include="..\Resources\M.png" />
+    <Image Include="..\Resources\M_blank.png" />
+    <Image Include="..\Resources\M_small.png" />
+    <Image Include="..\Resources\N.png" />
+    <Image Include="..\Resources\N_blank.png" />
+    <Image Include="..\Resources\N_small.png" />
+    <Image Include="..\Resources\O.png" />
+    <Image Include="..\Resources\O_blank.png" />
+    <Image Include="..\Resources\O_small.png" />
+    <Image Include="..\Resources\P.png" />
+    <Image Include="..\Resources\p1_btn.png" />
+    <Image Include="..\Resources\p1_hover.png" />
+    <Image Include="..\Resources\p2_btn.png" />
+    <Image Include="..\Resources\p2_hover.png" />
+    <Image Include="..\Resources\pass_btn.png" />
+    <Image Include="..\Resources\paused.png" />
+    <Image Include="..\Resources\pause_btn.png" />
+    <Image Include="..\Resources\pause_hover.png" />
+    <Image Include="..\Resources\play_btn.png" />
+    <Image Include="..\Resources\play_btn_small.png" />
+    <Image Include="..\Resources\play_hover.png" />
+    <Image Include="..\Resources\possWord.png" />
+    <Image Include="..\Resources\P_blank.png" />
+    <Image Include="..\Resources\P_small.png" />
+    <Image Include="..\Resources\Q.png" />
+    <Image Include="..\Resources\Q_blank.png" />
+    <Image Include="..\Resources\Q_small.png" />
+    <Image Include="..\Resources\R.png" />
+    <Image Include="..\Resources\rack.png" />
+    <Image Include="..\Resources\R_blank.png" />
+    <Image Include="..\Resources\R_small.png" />
+    <Image Include="..\Resources\S.png" />
+    <Image Include="..\Resources\score.png" />
+    <Image Include="..\Resources\scoreboard.png" />
+    <Image Include="..\Resources\score_bg.png" />
+    <Image Include="..\Resources\start_btn.png" />
+    <Image Include="..\Resources\start_hover.png" />
+    <Image Include="..\Resources\S_blank.png" />
+    <Image Include="..\Resources\S_small.png" />
+    <Image Include="..\Resources\T.png" />
+    <Image Include="..\Resources\test_btn.png" />
+    <Image Include="..\Resources\test_hover.png" />
+    <Image Include="..\Resources\thingking_sprite.png" />
+    <Image Include="..\Resources\title.png" />
+    <Image Include="..\Resources\tracker.png" />
+    <Image Include="..\Resources\T_blank.png" />
+    <Image Include="..\Resources\T_small.png" />
+    <Image Include="..\Resources\U.png" />
+    <Image Include="..\Resources\U_blank.png" />
+    <Image Include="..\Resources\U_small.png" />
+    <Image Include="..\Resources\V.png" />
+    <Image Include="..\Resources\vs_label.png" />
+    <Image Include="..\Resources\V_blank.png" />
+    <Image Include="..\Resources\V_small.png" />
+    <Image Include="..\Resources\W.png" />
+    <Image Include="..\Resources\W_blank.png" />
+    <Image Include="..\Resources\W_small.png" />
+    <Image Include="..\Resources\X.png" />
+    <Image Include="..\Resources\X_blank.png" />
+    <Image Include="..\Resources\X_small.png" />
+    <Image Include="..\Resources\Y.png" />
+    <Image Include="..\Resources\Y_blank.png" />
+    <Image Include="..\Resources\Y_small.png" />
+    <Image Include="..\Resources\Z.png" />
+    <Image Include="..\Resources\Z_blank.png" />
+    <Image Include="..\Resources\Z_small.png" />
+    <Image Include="scrabble.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Classes\ospd.txt" />
+    <Text Include="..\Resources\CSW12.txt" />
+    <Text Include="..\Resources\sowpods.txt" />
+    <Text Include="mytest.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Scrabble.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

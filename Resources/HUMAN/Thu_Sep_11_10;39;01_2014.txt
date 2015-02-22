@@ -1,0 +1,39 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	dorm	--	14		4	HUMAN 
+Player 2	pop	31.127	23		3	GADDAG
+Player 1	chic	--	29		4	HUMAN 
+Player 2	duct	21.001	14		3	GADDAG
+Player 1	lazars	--	43		5	HUMAN 
+Player 2	gox	371.741	39		3	GADDAG
+Player 1	kauri	--	33		4	HUMAN 
+Player 2	rynd	53.485	27		3	GADDAG
+Player 1	hadji	--	32		4	HUMAN 
+Player 2	signory	75.846	70		7	GADDAG
+Player 1	vigs	--	32		4	HUMAN 
+Player 2	wab	6.897	37		3	GADDAG
+Player 1	foot	--	46		4	HUMAN 
+Player 2	overwear	6.839	36		6	GADDAG
+Player 1	boo	--	26		3	HUMAN 
+Player 2	fin	10.019	19		3	GADDAG
+Player 1	till	--	15		4	HUMAN 
+Player 2	rival	12.185	20		4	GADDAG
+Player 1	nim	--	20		2	HUMAN 
+Player 2	quest	6.244	34		5	GADDAG
+Player 1	nee	--	19		3	HUMAN 
+Player 2	tranq	12.325	28		4	GADDAG
+Player 1	nee	--	13		3	HUMAN 
+Player 2	tae	1211.42	15		3	NEGASCOUT
+Player 1	eau	--	4		4	HUMAN 
+Player 2	ease	11.853	9		6	NEGASCOUT
+Player 1	hi	--	7		5	HUMAN 
+Player 2	axe	0.1	12		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 7 menit 39 detik 
+player 1 left tile : 2
+player 1 total skor : 333
+player 2 durasi : 30 menit 25 detik 
+player 2 left tile : 0
+player 2 total skor : 383

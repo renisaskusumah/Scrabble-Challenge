@@ -1,0 +1,47 @@
+player word durasi skor tiles
+
+
+Player 1	hived	0.301	32		5
+Player 2 	quirk	1.287	18		4
+Player 1	quirkier	5.114	42		4
+Player 2 	gursh	3.856	26		4
+Player 1	fauve	4.944	28		5
+Player 2 	fugles	7.79	34		6
+Player 1	pix	3.388	47		3
+Player 2 	pewee	8.533	34		3
+Player 1	yum	2.485	26		2
+Player 2 	wicks	6.56	24		4
+Player 1	jeer	3.948	27		3
+Player 2 	pelts	3.339	14		3
+Player 1	argosy	9.036	27		5
+Player 2 	orb	6.719	11		2
+Player 1	bezil	8.313	32		4
+Player 2 	qanat	18.476	16		4
+Player 1	clone	11.796	21		4
+Player 2 	amir	16.603	29		3
+Player 1	bid	6.858	15		3
+Player 2 	tenia	19.65	17		5
+Player 1	jeered	7.085	16		2
+Player 2 	mirage	14.928	19		3
+Player 1	anted	13.21	20		5
+Player 2 	oyez	12.513	18		2
+Player 1	toe	2.918	12		4
+Player 2 	oat	2.642	15		5
+Player 1	noo	0.468	59		7
+Player 2 	on	0.21	62		7
+Player 1	-	0.083	0		7
+Player 2 	-	0.078	0		7
+Player 1	-	0.078	0		7
+Player 2 	-	0.077	0		7
+Player 1	-	0.076	0		7
+Player 2 	-	0.075	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 80.101
+player 1 left tile : 0
+player 1 total skor : 404
+player 1 Final skor : 404
+player 2 durasi : 123.336
+player 2 left tile : 0
+player 2 total skor : 337
+player 2 Final skor : 337

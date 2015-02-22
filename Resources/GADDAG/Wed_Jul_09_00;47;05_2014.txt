@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	jaw	0.688	24		3	blank tiles
+Player 2 	fax	0.481	38		3	
+Player 1	pomps	2.588	34		5	
+Player 2 	vox	0.28	13		1	
+Player 1	prudish	1.82	26		6	
+Player 2 	bog	1.574	25		3	
+Player 1	zig	1.203	33		2	
+Player 2 	chub	1.176	22		3	
+Player 1	vow	2.269	42		3	
+Player 2 	bodied	3.975	20		4	
+Player 1	dusks	5.108	40		5	
+Player 2 	queys	3.479	37		4	
+Player 1	lithe	10.337	27		5	
+Player 2 	vita	7.942	23		3	
+Player 1	cam	64.49	24		3	blank tiles
+Player 2 	glede	9.599	26		4	
+Player 1	ay	8.479	16		2	
+Player 2 	aa	2.034	10		2	
+Player 1	titi	8.39	14		4	
+Player 2 	ag	2.624	6		1	
+Player 1	came	11.574	14		1	
+Player 2 	aas	2.851	6		2	
+Player 1	rite	12.178	12		4	
+Player 2 	aero	2.906	8		3	
+Player 1	front	6.445	15		5	
+Player 2 	olio	7.624	13		4	
+Player 1	bogle	6.709	18		2	
+Player 2 	re	10.408	11		2	
+Player 1	nun	1.985	9		3	
+Player 2 	aerier	1.633	11		6	
+Player 1	on	0.445	4		5	
+Player 2 	eon	0.029	56		7	
+Player 1	nene	0.068	53		7	
+Player 2 	-	0.007	0		7	
+Player 1	-	0.006	0		7	
+Player 2 	-	0.006	0		7	
+Player 1	-	0.007	0		7	
+Player 2 	-	0.007	0		7	
+Player 1	-	0.009	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 144.798
+player 1 left tile : 0
+player 1 total skor : 405
+player 1 Final skor : 405
+player 2 durasi : 58.635
+player 2 left tile : 0
+player 2 total skor : 325
+player 2 Final skor : 325

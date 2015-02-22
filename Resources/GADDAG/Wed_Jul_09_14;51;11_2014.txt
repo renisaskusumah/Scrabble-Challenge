@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	sticky	0.163	40		6	
+Player 2 	ritz	2.279	33		3	
+Player 1	wych	0.598	47		4	
+Player 2 	hubs	1.31	18		3	
+Player 1	giddily	5.146	28		6	
+Player 2 	wings	3.175	34		4	
+Player 1	mix	3.257	28		2	
+Player 2 	jests	4.29	54		3	
+Player 1	vangs	6.716	32		4	
+Player 2 	gude	5.12	25		3	
+Player 1	abmho	92.919	41		5	blank tiles
+Player 2 	tirl	3.734	25		4	
+Player 1	tulip	93.679	34		5	blank tiles
+Player 2 	qaids	7.91	25		4	
+Player 1	rote	15.883	23		3	
+Player 2 	self	4.591	22		3	
+Player 1	peridia	12.352	20		6	
+Player 2 	tref	2.351	14		3	
+Player 1	urea	10.223	21		3	
+Player 2 	taupe	9.607	27		3	
+Player 1	note	10.052	16		3	
+Player 2 	lard	8.378	23		3	
+Player 1	ne	5.283	12		2	
+Player 2 	venue	8.063	27		4	
+Player 1	aa	2.453	13		2	
+Player 2 	oot	0.646	10		5	
+Player 1	oe	0.885	8		4	
+Player 2 	on	0.119	55		7	
+Player 1	ka	0.21	6		5	
+Player 2 	-	0.026	0		7	
+Player 1	odor	0.095	6		6	
+Player 2 	-	0.029	0		7	
+Player 1	on	0.045	53		7	
+Player 2 	-	0.027	0		7	
+Player 1	-	0.026	0		7	
+Player 2 	-	0.027	0		7	
+Player 1	-	0.026	0		7	
+Player 2 	-	0.026	0		7	
+Player 1	-	0.026	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 260.037
+player 1 left tile : 0
+player 1 total skor : 428
+player 1 Final skor : 428
+player 2 durasi : 61.708
+player 2 left tile : 0
+player 2 total skor : 392
+player 2 Final skor : 392

@@ -1,0 +1,27 @@
+player word durasi skor tiles
+
+
+Player 1	jot	--	20		3
+Player 2	caw	3.597	26		3
+Player 1	huckle	--	30		5
+Player 2	zees	5.782	42		4
+Player 1	equity	--	56		5
+Player 2	wick	3.881	19		3
+Player 1	ef	--	25		2
+Player 2	fud	5.51	36		3
+Player 1	fib	--	16		2
+Player 2	gar	10.229	20		3
+Player 1	bundt	--	10		4
+Player 2	ditty	7.447	18		4
+Player 1	mysid	--	34		4
+Player 2	gap	6.998	26		3
+Player 1	lobo	--	22		4
+Player 2	jotas	7.725	26		1
+Player 1	pix	--	24		2
+Player 2	lirot	8.681	16		5
+Player 1	rifs	--	15		1
+Player 2	tollage	13.455	20		6
+Player 1	elm	--	18		2
+Player 2	heaven	8.534	41		6
+Player 1	nine	--	14		3
+Player 2	arrives	188.52	100		7

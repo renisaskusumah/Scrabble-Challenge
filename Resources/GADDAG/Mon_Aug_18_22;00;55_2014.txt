@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	-	0.041	0		0	
+Player 2 	octants	7.055	72		7	blank tiles
+Player 1	joy	0.832	25		2	
+Player 2 	stey	3.012	29		4	
+Player 1	tref	1.061	14		2	
+Player 2 	hex	1.413	26		3	
+Player 1	efts	0.911	15		3	
+Player 2 	ebb	5.733	19		3	
+Player 1	cimex	6.009	32		3	
+Player 2 	killjoys	3.99	44		4	
+Player 1	undulant	110.026	60		7	blank tiles
+Player 2 	wing	1.963	24		3	
+Player 1	quashes	2.721	38		5	
+Player 2 	wind	2.019	16		3	
+Player 1	zest	4.275	26		3	
+Player 2 	tip	3.921	15		2	
+Player 1	tome	5.534	26		2	
+Player 2 	vig	5.275	20		3	
+Player 1	vulgo	5.523	19		4	
+Player 2 	paisa	12.625	40		5	
+Player 1	odour	12.14	21		5	
+Player 2 	randan	11.865	27		6	
+Player 1	loo	7.224	14		2	
+Player 2 	emeu	4.493	24		3	
+Player 1	vie	7.689	19		2	
+Player 2 	loral	8.387	14		3	
+Player 1	air	8.768	13		2	
+Player 2 	ef	0.531	11		4	
+Player 1	rin	1.256	12		5	
+Player 2 	et	0.226	4		5	
+Player 1	ref	0.082	6		6	
+Player 2 	ere	0.092	53		7	
+Player 1	ai	0.042	53		7	
+Player 2 	-	0.02	0		7	
+Player 1	-	0.012	0		7	
+Player 2 	-	0.017	0		7	
+Player 1	-	0.01	0		7	
+Player 2 	-	0.014	0		7	
+Player 1	-	0.023	0		7	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 174.179
+player 1 left tile : 0
+player 1 total skor : 393
+player 1 Final skor : 393
+player 2 durasi : 72.651
+player 2 left tile : 0
+player 2 total skor : 438
+player 2 Final skor : 438

@@ -1,0 +1,43 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	zone	--	24		4	HUMAN 
+Player 2	typey	5.454	21		4	GADDAG
+Player 1	gone	--	5		3	HUMAN 
+Player 2	salp	14.506	31		4	GADDAG
+Player 1	tire	--	6		3	HUMAN 
+Player 2	cubism	28.052	33		6	GADDAG
+Player 1	mack	--	17		3	HUMAN 
+Player 2	wino	34.674	25		4	GADDAG
+Player 1	fits	--	14		3	HUMAN 
+Player 2	waur	30.704	14		3	GADDAG
+Player 1	rams	--	12		3	HUMAN 
+Player 2	facia	33.981	36		4	GADDAG
+Player 1	vans	--	7		3	HUMAN 
+Player 2	gawk	27.379	22		3	GADDAG
+Player 1	brave	--	26		4	HUMAN 
+Player 2	runt	24.618	17		4	GADDAG
+Player 1	lax	--	10		2	HUMAN 
+Player 2	duro	36.761	22		4	GADDAG
+Player 1	hood	--	16		3	HUMAN 
+Player 2	gent	48.305	21		4	GADDAG
+Player 1	sex	--	10		2	HUMAN 
+Player 2	heired	45.997	55		6	GADDAG
+Player 1	noon	--	4		2	HUMAN 
+Player 2	til	36.788	15		3	GADDAG
+Player 1	log	--	8		2	HUMAN 
+Player 2	lude	511.254	17		3	NEGASCOUT
+Player 1	lode	--	7		3	HUMAN 
+Player 2	eme	20.592	5		4	NEGASCOUT
+Player 1	jin	--	11		5	HUMAN 
+Player 2	it	2.702	20		6	NEGASCOUT
+Player 1	et	--	2		6	HUMAN 
+Player 2	elude	0.145	6		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 1
+player 1 total skor : 179
+player 2 durasi : 14 menit 53 detik 
+player 2 left tile : 0
+player 2 total skor : 360

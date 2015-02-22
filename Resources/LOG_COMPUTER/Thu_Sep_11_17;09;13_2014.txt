@@ -1,0 +1,11 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : KCESRDY
+
+HUMAN MOVE : dry , score : 14 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : lctnvng
+

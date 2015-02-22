@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	tax	--	20		3	HUMAN 
+Player 2	fives	3.548	33		5	GADDAG

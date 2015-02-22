@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	harps	0.254	28		5
+Player 2 	zax	0.726	43		3
+Player 1	haulm	0.812	20		4
+Player 2 	tsks	0.545	27		4
+Player 1	wild	0.967	16		3
+Player 2 	jowls	1.308	23		4
+Player 1	forgo	0.598	18		3
+Player 2 	gimp	3.314	21		4
+Player 1	for	2.703	19		2
+Player 2 	vaw	3.312	22		2
+Player 1	vim	1.922	16		2
+Player 2 	maud	2.777	17		3
+Player 1	lax	0.908	10		1
+Player 2 	odious	3.52	17		6
+Player 1	bold	2.875	29		4
+Player 2 	guyot	3.872	30		5
+Player 1	qats	4.308	23		3
+Player 2 	bite	6.552	20		4
+Player 1	cogon	7.46	15		3
+Player 2 	eonian	10.126	15		6
+Player 1	inti	7.679	10		4
+Player 2 	rye	12.343	33		3
+Player 1	pterin	8.826	16		5
+Player 2 	gae	9.837	11		2
+Player 1	nee	9.921	17		3
+Player 2 	er	4.775	9		3
+Player 1	ewe	0.782	9		5
+Player 2 	la	0.676	8		4
+Player 1	urine	0.179	58		7
+Player 2 	aa	0.301	4		5
+Player 1	-	0.104	0		7
+Player 2 	lee	0.152	4		6
+Player 1	-	0.091	0		7
+Player 2 	-	0.109	0		6
+Player 1	-	0.1	0		7
+Player 2 	-	0.107	0		6
+Player 1	-	0.091	0		7
+Player 2 	-	0.106	0		6
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 0 menit 40 detik 
+player 1 left tile : 0
+player 1 total skor : 304
+player 1 Final skor : 304
+player 2 durasi : 0 menit 56 detik 
+player 2 left tile : 1
+player 2 total skor : 304
+player 2 Final skor : 301

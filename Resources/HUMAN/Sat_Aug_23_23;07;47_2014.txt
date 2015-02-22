@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	hymns	0.161	34		5	GADDAG
+Player 1	ho	--	5		1	HUMAN 

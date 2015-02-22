@@ -1,0 +1,115 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : ZFENPQP
+
+HUMAN MOVE : pen , score : 10 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : ejnhxto
+
+word : jeon anchor( col :  7 row : 6 ) score : 19 new tiles : jeon
+word : jo anchor( col :  7 row : 6 ) score : 23 new tiles : jo
+word : joe anchor( col :  7 row : 6 ) score : 25 new tiles : joe
+word : john anchor( col :  7 row : 6 ) score : 32 new tiles : john
+word : he anchor( col :  6 row : 7 ) score : 8 new tiles : he
+word : expo anchor( col :  6 row : 7 ) score : 13 new tiles : exo
+word : jeon anchor( col :  6 row : 7 ) score : 20 new tiles : jeon
+word : jo anchor( col :  6 row : 7 ) score : 21 new tiles : jo
+word : noh anchor( col :  6 row : 7 ) score : 24 new tiles : noh
+word : exon anchor( col :  6 row : 7 ) score : 27 new tiles : exon
+word : pe anchor( col :  8 row : 7 ) score : 4 new tiles : e
+word : ope anchor( col :  8 row : 7 ) score : 5 new tiles : oe
+word : nope anchor( col :  8 row : 7 ) score : 6 new tiles : noe
+word : hope anchor( col :  8 row : 7 ) score : 9 new tiles : hoe
+word : tophe anchor( col :  8 row : 7 ) score : 10 new tiles : tohe
+word : phone anchor( col :  8 row : 7 ) score : 11 new tiles : hone
+word : expo anchor( col :  8 row : 7 ) score : 13 new tiles : exo
+word : jet anchor( col :  8 row : 7 ) score : 26 new tiles : jet
+word : jeton anchor( col :  8 row : 7 ) score : 30 new tiles : jeton
+word : hex anchor( col :  8 row : 7 ) score : 46 new tiles : hex
+word : jee anchor( col :  6 row : 8 ) score : 11 new tiles : je
+word : jee anchor( col :  6 row : 8 ) score : 19 new tiles : je
+word : jete anchor( col :  6 row : 8 ) score : 20 new tiles : jte
+word : jeton anchor( col :  6 row : 8 ) score : 21 new tiles : jton
+word : hex anchor( col :  6 row : 8 ) score : 25 new tiles : hx
+word : hexone anchor( col :  6 row : 8 ) score : 28 new tiles : hxone
+word : hex anchor( col :  6 row : 8 ) score : 28 new tiles : hex
+word : jee anchor( col :  8 row : 8 ) score : 19 new tiles : je
+word : oxen anchor( col :  8 row : 8 ) score : 20 new tiles : oxn
+word : hex anchor( col :  8 row : 8 ) score : 25 new tiles : hx
+word : hexone anchor( col :  8 row : 8 ) score : 28 new tiles : hxone
+word : hex anchor( col :  8 row : 8 ) score : 28 new tiles : hex
+word : ex anchor( col :  8 row : 8 ) score : 38 new tiles : ex
+word : hex anchor( col :  8 row : 8 ) score : 46 new tiles : hex
+word : he anchor( col :  6 row : 9 ) score : 14 new tiles : he
+word : the anchor( col :  6 row : 9 ) score : 15 new tiles : the
+word : oxen anchor( col :  6 row : 9 ) score : 27 new tiles : oxe
+word : xenon anchor( col :  6 row : 9 ) score : 30 new tiles : xeon
+word : ne anchor( col :  8 row : 9 ) score : 2 new tiles : e
+word : tonne anchor( col :  8 row : 9 ) score : 7 new tiles : tone
+word : nonet anchor( col :  8 row : 9 ) score : 9 new tiles : noet
+word : hone anchor( col :  8 row : 9 ) score : 15 new tiles : hoe
+word : next anchor( col :  8 row : 9 ) score : 27 new tiles : ext
+word : xenon anchor( col :  8 row : 9 ) score : 30 new tiles : xeon
+word : exon anchor( col :  8 row : 9 ) score : 42 new tiles : exon
+word : et anchor( col :  7 row : 10 ) score : 8 new tiles : et
+word : jet anchor( col :  7 row : 10 ) score : 16 new tiles : jet
+word : jeton anchor( col :  7 row : 10 ) score : 18 new tiles : jeton
+word : hent anchor( col :  7 row : 10 ) score : 20 new tiles : hent
+word : next anchor( col :  7 row : 10 ) score : 28 new tiles : next
+word : jeon anchor( col :  7 row : 6 ) score : 19 new tiles : jeon
+word : jo anchor( col :  7 row : 6 ) score : 23 new tiles : jo
+word : joe anchor( col :  7 row : 6 ) score : 25 new tiles : joe
+word : john anchor( col :  7 row : 6 ) score : 32 new tiles : john
+word : he anchor( col :  6 row : 7 ) score : 8 new tiles : he
+word : expo anchor( col :  6 row : 7 ) score : 13 new tiles : exo
+word : jeon anchor( col :  6 row : 7 ) score : 20 new tiles : jeon
+word : jo anchor( col :  6 row : 7 ) score : 21 new tiles : jo
+word : noh anchor( col :  6 row : 7 ) score : 24 new tiles : noh
+word : exon anchor( col :  6 row : 7 ) score : 27 new tiles : exon
+word : pe anchor( col :  8 row : 7 ) score : 4 new tiles : e
+word : ope anchor( col :  8 row : 7 ) score : 5 new tiles : oe
+word : nope anchor( col :  8 row : 7 ) score : 6 new tiles : noe
+word : hope anchor( col :  8 row : 7 ) score : 9 new tiles : hoe
+word : tophe anchor( col :  8 row : 7 ) score : 10 new tiles : tohe
+word : phone anchor( col :  8 row : 7 ) score : 11 new tiles : hone
+word : expo anchor( col :  8 row : 7 ) score : 13 new tiles : exo
+word : jet anchor( col :  8 row : 7 ) score : 26 new tiles : jet
+word : jeton anchor( col :  8 row : 7 ) score : 30 new tiles : jeton
+word : hex anchor( col :  8 row : 7 ) score : 46 new tiles : hex
+word : jee anchor( col :  6 row : 8 ) score : 11 new tiles : je
+word : jee anchor( col :  6 row : 8 ) score : 19 new tiles : je
+word : jete anchor( col :  6 row : 8 ) score : 20 new tiles : jte
+word : jeton anchor( col :  6 row : 8 ) score : 21 new tiles : jton
+word : hex anchor( col :  6 row : 8 ) score : 25 new tiles : hx
+word : hexone anchor( col :  6 row : 8 ) score : 28 new tiles : hxone
+word : hex anchor( col :  6 row : 8 ) score : 28 new tiles : hex
+word : jee anchor( col :  8 row : 8 ) score : 19 new tiles : je
+word : oxen anchor( col :  8 row : 8 ) score : 20 new tiles : oxn
+word : hex anchor( col :  8 row : 8 ) score : 25 new tiles : hx
+word : hexone anchor( col :  8 row : 8 ) score : 28 new tiles : hxone
+word : hex anchor( col :  8 row : 8 ) score : 28 new tiles : hex
+word : ex anchor( col :  8 row : 8 ) score : 38 new tiles : ex
+word : hex anchor( col :  8 row : 8 ) score : 46 new tiles : hex
+word : he anchor( col :  6 row : 9 ) score : 14 new tiles : he
+word : the anchor( col :  6 row : 9 ) score : 15 new tiles : the
+word : oxen anchor( col :  6 row : 9 ) score : 27 new tiles : oxe
+word : xenon anchor( col :  6 row : 9 ) score : 30 new tiles : xeon
+word : ne anchor( col :  8 row : 9 ) score : 2 new tiles : e
+word : tonne anchor( col :  8 row : 9 ) score : 7 new tiles : tone
+word : nonet anchor( col :  8 row : 9 ) score : 9 new tiles : noet
+word : hone anchor( col :  8 row : 9 ) score : 15 new tiles : hoe
+word : next anchor( col :  8 row : 9 ) score : 27 new tiles : ext
+word : xenon anchor( col :  8 row : 9 ) score : 30 new tiles : xeon
+word : exon anchor( col :  8 row : 9 ) score : 42 new tiles : exon
+word : et anchor( col :  7 row : 10 ) score : 8 new tiles : et
+word : jet anchor( col :  7 row : 10 ) score : 16 new tiles : jet
+word : jeton anchor( col :  7 row : 10 ) score : 18 new tiles : jeton
+word : hent anchor( col :  7 row : 10 ) score : 20 new tiles : hent
+word : next anchor( col :  7 row : 10 ) score : 28 new tiles : next
+Hasil evaluasi : hex , score : 46 , direction :2 ,i: 6 j: 8
+
+
+

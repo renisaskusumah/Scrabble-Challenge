@@ -1,0 +1,22 @@
+player word durasi skor tiles
+
+
+Player 1	-	0.016	0		0
+Player 2 	jeez	0.1	40		4
+Player 1	kex	0.268	27		2
+Player 2 	-	0.732	0		0
+Player 1	-	0.265	0		0
+Player 2 	-	0.722	0		0
+Player 1	-	0.267	0		0
+Player 2 	-	0.742	0		0
+Player 1	-	0.282	0		0
+winner : Player 2
+left tile (letter bag): 78
+player 1 durasi : 1.098
+player 1 left tile : 7
+player 1 total skor : 27
+player 1 Final skor : 6
+player 2 durasi : 2.296
+player 2 left tile : 7
+player 2 total skor : 40
+player 2 Final skor : 22

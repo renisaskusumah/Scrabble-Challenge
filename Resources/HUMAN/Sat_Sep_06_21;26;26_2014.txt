@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	bay	--	16		3	HUMAN 
+Player 2	shyer	1.611	31		5	GADDAG

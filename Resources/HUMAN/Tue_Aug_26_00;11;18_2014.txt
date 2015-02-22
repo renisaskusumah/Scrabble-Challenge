@@ -1,0 +1,8 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	violin	--	20		6	HUMAN 
+Player 2	sox	147.004	36		3	NEGASCOUT
+Player 1	oak	--	17		2	HUMAN 
+Player 2	tux	82.069	10		5	NEGASCOUT
+Player 1		pass		--			0		0	

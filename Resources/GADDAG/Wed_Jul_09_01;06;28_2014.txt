@@ -1,0 +1,8 @@
+player word durasi skor tiles
+
+
+Player 1	autumns	39.005	66		7	blank tiles
+Player 2 	autumnal	541.198	78		7	blank tiles
+Player 1	hm	0.331	26		2	
+Player 2 	kudzu	0.448	36		3	
+Player 1	cwms	4.456	45		4	blank tiles

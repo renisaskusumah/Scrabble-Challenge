@@ -1,0 +1,21 @@
+player word durasi skor tiles
+
+
+Player 1	kif	0.154	20		3
+Player 2 	jig	0.384	21		2
+Player 1	-	0.259	0		0
+Player 2 	-	0.298	0		0
+Player 1	-	0.272	0		0
+Player 2 	-	0.286	0		0
+Player 1	-	0.251	0		0
+Player 2 	-	0.296	0		0
+winner : Player 2
+left tile (letter bag): 79
+player 1 durasi : 0 menit 0 detik 
+player 1 left tile : 7
+player 1 total skor : 20
+player 1 Final skor : 5
+player 2 durasi : 0 menit 0 detik 
+player 2 left tile : 7
+player 2 total skor : 21
+player 2 Final skor : 4

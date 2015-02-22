@@ -1,0 +1,35 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	calms	0.209	24		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	raj	2.098	22		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	how	1.471	30		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	flab	0.768	15		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	rajas	0.48	12		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	fry	0.405	22		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	brr	0.567	18		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	shy	0.848	26		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	vacs	2.701	32		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	maw	2.109	28		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	qat	0.655	12		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	kop	2.364	33		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	vug	3.306	18		2	GADDAG
+Player 1	if	--	5		1	HUMAN 
+Player 2	virl	4.293	18		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	coded	5.969	20		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ped	5.243	24		3	GADDAG

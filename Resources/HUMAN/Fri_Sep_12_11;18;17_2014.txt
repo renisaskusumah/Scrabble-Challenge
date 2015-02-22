@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	may	--	16		3	HUMAN 
+Player 2	zapper	88.489	45		6	GADDAG
+Player 1	palm	--	14		3	HUMAN 
+Player 2	ruffly	164.828	54		6	GADDAG
+Player 1	vim	--	8		2	HUMAN 
+Player 2	dawk	4.663	23		3	GADDAG
+Player 1	log	--	4		2	HUMAN 
+Player 2		16.229	26		3	NEGASCOUT

@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	jigs	0.136	24		4	GADDAG
+Player 1	sir	--	4		2	HUMAN 
+Player 2	chaws	2.469	30		5	GADDAG

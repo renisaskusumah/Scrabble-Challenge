@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	curie	2.666	18		5	blank tiles
+Player 2 	wicking	19.716	32		6	blank tiles
+Player 1	ex	1.855	35		2	
+Player 2 	maser	9.362	31		5	
+Player 1	zyme	2.456	44		3	
+Player 2 	jew	2.39	29		2	
+Player 1	zincy	1.36	36		3	
+Player 2 	moth	1.832	28		4	
+Player 1	voes	1.896	28		4	
+Player 2 	vow	0.945	18		2	
+Player 1	fet	1.658	19		3	
+Player 2 	debt	1.941	21		4	
+Player 1	eight	2.127	24		5	
+Player 2 	plops	5.479	41		5	
+Player 1	deb	0.95	16		2	
+Player 2 	edited	11.722	23		4	
+Player 1	enzyme	3.614	22		2	
+Player 2 	star	6.004	26		4	
+Player 1	ag	2.392	16		2	
+Player 2 	hin	4.606	12		2	
+Player 1	quag	2.031	18		2	
+Player 2 	jo	4.725	14		1	
+Player 1	field	3.274	21		4	
+Player 2 	von	4.706	12		2	
+Player 1	dollar	5.967	26		6	
+Player 2 	tan	4.973	14		2	
+Player 1	anna	5.651	18		4	
+Player 2 	aa	5.694	11		2	
+Player 1	no	0.189	7		5	
+Player 2 	urn	0.88	6		4	
+Player 1	no	0.07	4		6	
+Player 2 	er	0.174	5		5	
+Player 1	li	0.022	53		7	
+Player 2 	err	0.066	3		6	
+Player 1	-	0.006	0		7	
+Player 2 	-	0.02	0		6	
+Player 1	-	0.005	0		7	
+Player 2 	-	0.02	0		6	
+Player 1	-	0.006	0		7	
+Player 2 	-	0.02	0		6	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 38.195
+player 1 left tile : 0
+player 1 total skor : 405
+player 1 Final skor : 405
+player 2 durasi : 85.275
+player 2 left tile : 1
+player 2 total skor : 326
+player 2 Final skor : 325

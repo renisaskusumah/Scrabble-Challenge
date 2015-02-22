@@ -1,0 +1,94 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : ggshjic
+
+word : gig anchor( col :  7 row : 7 ) score : 10 new tiles : gig
+word : gigs anchor( col :  7 row : 7 ) score : 12 new tiles : gigs
+word : sigh anchor( col :  7 row : 7 ) score : 16 new tiles : sigh
+word : jig anchor( col :  7 row : 7 ) score : 22 new tiles : jig
+word : jigs anchor( col :  7 row : 7 ) score : 24 new tiles : jigs
+Hasil evaluasi : jigs , score : 24 , direction : 2 , col : 7 , row : 5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : jury anchor( col :  8 row : 5 ) score : 16 new tiles : ury
+word : li anchor( col :  6 row : 6 ) score : 3 new tiles : l
+word : rug anchor( col :  6 row : 7 ) score : 4 new tiles : ru
+word : ugly anchor( col :  6 row : 7 ) score : 8 new tiles : uly
+word : guy anchor( col :  8 row : 7 ) score : 7 new tiles : uy
+word : gyri anchor( col :  8 row : 7 ) score : 8 new tiles : yri
+word : girly anchor( col :  8 row : 7 ) score : 13 new tiles : irly
+word : us anchor( col :  6 row : 8 ) score : 3 new tiles : u
+word : iris anchor( col :  6 row : 8 ) score : 5 new tiles : iri
+word : sri anchor( col :  8 row : 8 ) score : 4 new tiles : ri
+word : surly anchor( col :  8 row : 8 ) score : 9 new tiles : urly
+word : syli anchor( col :  8 row : 8 ) score : 11 new tiles : yli
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : RUYLIYI
+
+HUMAN MOVE : sir , score : 4 , direction : 1 , col : 10 , row : 8
+
+
+******COMPUTER TURN******
+RACK : ghcsdwa
+
+word : had anchor( col :  6 row : 5 ) score : 17 new tiles : had
+word : ha anchor( col :  6 row : 5 ) score : 21 new tiles : ha
+word : jag anchor( col :  8 row : 5 ) score : 15 new tiles : ag
+word : jags anchor( col :  8 row : 5 ) score : 16 new tiles : ags
+word : jaw anchor( col :  8 row : 5 ) score : 21 new tiles : aw
+word : jaws anchor( col :  8 row : 5 ) score : 22 new tiles : aws
+word : gid anchor( col :  6 row : 6 ) score : 9 new tiles : gd
+word : gids anchor( col :  6 row : 6 ) score : 10 new tiles : gds
+word : ghi anchor( col :  6 row : 6 ) score : 11 new tiles : gh
+word : ghis anchor( col :  6 row : 6 ) score : 13 new tiles : ghs
+word : chis anchor( col :  6 row : 6 ) score : 14 new tiles : chs
+word : chid anchor( col :  6 row : 6 ) score : 16 new tiles : chd
+word : whig anchor( col :  6 row : 6 ) score : 17 new tiles : whg
+word : whigs anchor( col :  6 row : 6 ) score : 18 new tiles : whgs
+word : wich anchor( col :  6 row : 6 ) score : 19 new tiles : wch
+word : ha anchor( col :  6 row : 6 ) score : 21 new tiles : ha
+word : whig anchor( col :  8 row : 6 ) score : 17 new tiles : whg
+word : whigs anchor( col :  8 row : 6 ) score : 18 new tiles : whgs
+word : wich anchor( col :  8 row : 6 ) score : 19 new tiles : wch
+word : ag anchor( col :  6 row : 7 ) score : 3 new tiles : a
+word : gag anchor( col :  6 row : 7 ) score : 5 new tiles : ga
+word : gags anchor( col :  6 row : 7 ) score : 8 new tiles : gas
+word : sha anchor( col :  6 row : 7 ) score : 8 new tiles : sha
+word : hags anchor( col :  6 row : 7 ) score : 10 new tiles : has
+word : ha anchor( col :  6 row : 7 ) score : 21 new tiles : ha
+word : gags anchor( col :  8 row : 7 ) score : 8 new tiles : gas
+word : hags anchor( col :  8 row : 7 ) score : 10 new tiles : has
+word : ag anchor( col :  9 row : 7 ) score : 5 new tiles : ag
+word : ah anchor( col :  9 row : 7 ) score : 7 new tiles : ah
+word : ash anchor( col :  9 row : 7 ) score : 12 new tiles : ash
+word : char anchor( col :  9 row : 7 ) score : 15 new tiles : cha
+word : chars anchor( col :  9 row : 7 ) score : 18 new tiles : chas
+word : chard anchor( col :  9 row : 7 ) score : 21 new tiles : chad
+word : chards anchor( col :  9 row : 7 ) score : 22 new tiles : chads
+word : sirs anchor( col :  10 row : 8 ) score : 4 new tiles : s
+word : hags anchor( col :  10 row : 8 ) score : 12 new tiles : hags
+word : chads anchor( col :  10 row : 8 ) score : 26 new tiles : chads
+word : chaws anchor( col :  10 row : 8 ) score : 30 new tiles : chaws
+word : jigsaw anchor( col :  7 row : 9 ) score : 17 new tiles : aw
+word : jigsaws anchor( col :  7 row : 9 ) score : 19 new tiles : aws
+word : ich anchor( col :  8 row : 9 ) score : 8 new tiles : ch
+word : ichs anchor( col :  8 row : 9 ) score : 9 new tiles : chs
+word : arc anchor( col :  9 row : 9 ) score : 11 new tiles : ac
+word : arch anchor( col :  9 row : 9 ) score : 15 new tiles : ach
+word : chars anchor( col :  9 row : 9 ) score : 18 new tiles : chas
+word : chard anchor( col :  9 row : 9 ) score : 21 new tiles : chad
+word : chards anchor( col :  9 row : 9 ) score : 22 new tiles : chads
+Hasil evaluasi : chaws , score : 30 , direction : 2 , anchor (9 , 9) , col : 4 , row : 10
+
+POSSIBLE MOVEMENT : 
+
+

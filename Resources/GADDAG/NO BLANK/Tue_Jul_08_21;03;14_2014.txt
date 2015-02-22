@@ -1,0 +1,25 @@
+player word durasi skor tiles
+
+
+Player 1	geoid	0.434	18		5
+Player 2 	whose	2.154	33		5
+Player 1	telex	1.814	30		4
+Player 2 	geese	3.716	26		5
+Player 1	chield	0.777	12		3
+Player 2 	seg	0.866	13		2
+Player 1	-	0.63	0		0
+Player 2 	-	0.417	0		0
+Player 1	-	0.652	0		0
+Player 2 	-	0.432	0		0
+Player 1	-	0.649	0		0
+Player 2 	-	0.422	0		0
+winner : Player 2
+left tile (letter bag): 60
+player 1 durasi : 4.956
+player 1 left tile : 7
+player 1 total skor : 60
+player 1 Final skor : 32
+player 2 durasi : 8.007
+player 2 left tile : 7
+player 2 total skor : 72
+player 2 Final skor : 40

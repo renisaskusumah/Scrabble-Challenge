@@ -1,0 +1,15 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	hand	--	14		4	HUMAN 
+Player 2	swamy	155.856	36		5	GADDAG
+Player 1	goal	--	5		3	HUMAN 
+Player 2	borsht	29.886	28		5	GADDAG
+Player 1	dam	--	12		2	HUMAN 
+Player 2	ghaut	18.675	20		4	GADDAG
+Player 1	gaze	--	17		3	HUMAN 
+Player 2	sudd	34.199	41		4	GADDAG
+Player 1	urb	--	5		2	HUMAN 
+Player 2	jows	13.759	38		4	GADDAG
+Player 1	soar	--	8		3	HUMAN 
+Player 2	acidy	28.249	36		5	GADDAG

@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	zees	--	24		4	HUMAN 
+Player 2	jus	5.154	26		2	GADDAG
+Player 1	zap	--	15		2	HUMAN 
+Player 2	byplay	11.922	32		5	GADDAG
+Player 1	bat	--	10		2	HUMAN 
+Player 2	tux	21.761	26		3	GADDAG

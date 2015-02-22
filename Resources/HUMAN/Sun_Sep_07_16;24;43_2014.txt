@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	jehu	0.162	28		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	yum	1.393	30		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	murex	0.681	28		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	zek	0.412	36		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	edh	8.639	38		3	GADDAG

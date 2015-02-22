@@ -1,0 +1,20 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : *BEXUAT
+
+HUMAN MOVE : beat , score : 12 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+RACK : clnduat
+
+word : al anchor( col :  7 row : 6 ) score : 5 new tiles : al	Heuristic : 1
+word : cub anchor( col :  7 row : 6 ) score : 7 new tiles : cu	Heuristic : 6.5
+word : club anchor( col :  7 row : 6 ) score : 8 new tiles : clu	Heuristic : 9.5
+word : abduct anchor( col :  7 row : 6 ) score : 12 new tiles : aduct	Heuristic : 10.5
+word : na anchor( col :  8 row : 6 ) score : 8 new tiles : na	Heuristic : 2.5
+word : da anchor( col :  8 row : 6 ) score : 12 new tiles : da	Heuristic : 7
+word : daunt anchor( col :  8 row : 6 ) score : 18 new tiles : daunt	Heuristic : 15.5
+word : adunc anchor( col :  8 row : 6 ) score : 20 new tiles : adunc	Heuristic : 18
+word : al anchor( col :  9 row : 6 ) score : 8 new tiles : al	Heuristic : 4

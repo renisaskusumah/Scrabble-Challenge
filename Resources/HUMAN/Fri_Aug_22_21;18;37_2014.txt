@@ -1,0 +1,5 @@
+player word durasi skor tiles
+
+
+Player 1	bite	--	10		4
+Player 2	paps	4.647	24		4

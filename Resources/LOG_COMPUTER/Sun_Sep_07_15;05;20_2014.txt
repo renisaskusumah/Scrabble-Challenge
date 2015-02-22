@@ -1,0 +1,59 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : shuxqsg
+
+word : ughs anchor( col :  7 row : 7 ) score : 16 new tiles : ughs
+word : sughs anchor( col :  7 row : 7 ) score : 20 new tiles : sughs
+Hasil evaluasi : sughs , score : 20 , direction : 2 , col : 7 , row : 3
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : up anchor( col :  6 row : 3 ) score : 5 new tiles : up
+word : tup anchor( col :  6 row : 3 ) score : 6 new tiles : tup
+word : cups anchor( col :  6 row : 3 ) score : 8 new tiles : cup
+word : zaps anchor( col :  6 row : 3 ) score : 15 new tiles : zap
+word : chap anchor( col :  6 row : 3 ) score : 24 new tiles : chap
+word : hutzpa anchor( col :  6 row : 3 ) score : 42 new tiles : hutzpa
+word : cusp anchor( col :  8 row : 3 ) score : 8 new tiles : cup
+word : hasp anchor( col :  8 row : 3 ) score : 9 new tiles : hap
+word : sputa anchor( col :  8 row : 3 ) score : 14 new tiles : puta
+word : spaz anchor( col :  8 row : 3 ) score : 15 new tiles : paz
+word : upcast anchor( col :  8 row : 3 ) score : 20 new tiles : upcat
+word : staph anchor( col :  8 row : 3 ) score : 20 new tiles : taph
+word : caput anchor( col :  6 row : 4 ) score : 18 new tiles : capt
+word : chutzpa anchor( col :  6 row : 4 ) score : 46 new tiles : chtzpa
+word : up anchor( col :  8 row : 4 ) score : 4 new tiles : p
+word : hup anchor( col :  8 row : 4 ) score : 8 new tiles : hp
+word : cutup anchor( col :  8 row : 4 ) score : 18 new tiles : cutp
+word : chutzpa anchor( col :  8 row : 4 ) score : 46 new tiles : chtzpa
+word : pug anchor( col :  6 row : 5 ) score : 12 new tiles : pu
+word : pugh anchor( col :  6 row : 5 ) score : 16 new tiles : puh
+word : chug anchor( col :  6 row : 5 ) score : 18 new tiles : chu
+word : gut anchor( col :  8 row : 5 ) score : 6 new tiles : ut
+word : ugh anchor( col :  8 row : 5 ) score : 7 new tiles : uh
+word : pugh anchor( col :  8 row : 5 ) score : 16 new tiles : puh
+word : cap anchor( col :  6 row : 6 ) score : 14 new tiles : cap
+word : hutzpa anchor( col :  6 row : 6 ) score : 26 new tiles : hutzpa
+word : chutzpa anchor( col :  6 row : 6 ) score : 28 new tiles : cutzpa
+word : chutzpah anchor( col :  6 row : 6 ) score : 82 new tiles : cutzpah
+word : phut anchor( col :  8 row : 6 ) score : 13 new tiles : put
+word : chutzpa anchor( col :  8 row : 6 ) score : 28 new tiles : cutzpa
+word : chutzpah anchor( col :  8 row : 6 ) score : 82 new tiles : cutzpah
+word : up anchor( col :  6 row : 7 ) score : 5 new tiles : up
+word : tup anchor( col :  6 row : 7 ) score : 6 new tiles : tup
+word : cups anchor( col :  6 row : 7 ) score : 8 new tiles : cup
+word : zaps anchor( col :  6 row : 7 ) score : 15 new tiles : zap
+word : hutzpa anchor( col :  6 row : 7 ) score : 22 new tiles : hutzpa
+word : cusp anchor( col :  8 row : 7 ) score : 8 new tiles : cup
+word : hasp anchor( col :  8 row : 7 ) score : 9 new tiles : hap
+word : spaz anchor( col :  8 row : 7 ) score : 15 new tiles : paz
+word : ah anchor( col :  8 row : 7 ) score : 17 new tiles : ah
+word : hutzpa anchor( col :  8 row : 7 ) score : 27 new tiles : hutzpa
+-------HUMAN CLICK HINT-------
+
+
+

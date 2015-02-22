@@ -1,0 +1,57 @@
+player word durasi skor tiles
+
+
+Player 1	hemp	0.049	22		4	
+Player 2 	gawkish	2.497	98		7	
+Player 1	joy	10.681	36		3	blank tiles
+Player 2 	skiff	2.111	25		4	
+Player 1	my	0.709	26		2	
+Player 2 	gusto	27.988	36		5	blank tiles
+Player 1	be	2.09	24		2	
+Player 2 	nth	0.608	7		2	
+Player 1	duped	2.529	18		5	
+Player 2 	clove	2.342	20		4	
+Player 1	qua	4.271	24		3	
+Player 2 	cord	1.098	14		3	
+Player 1	wab	6.307	28		3	
+Player 2 	id	1.197	6		1	
+Player 1	nixie	5.789	33		5	
+Player 2 	vig	1.376	14		2	
+Player 1	vial	8.059	24		3	
+Player 2 	gut	3.314	15		2	
+Player 1	ins	5.251	25		3	
+Player 2 	nu	1.18	3		1	
+Player 1	jo	5.172	14		1	
+Player 2 	jot	1.172	20		1	
+Player 1	icier	6.108	11		4	
+Player 2 	emes	1.195	11		1	
+Player 1	realia	10.861	21		6	
+Player 2 	zee	2.629	24		2	
+Player 1	tora	11.53	18		4	
+Player 2 	lenten	6.295	16		5	
+Player 1	oot	5.48	12		2	
+Player 2 	to	1.357	8		3	
+Player 1	ae	1.036	11		4	
+Player 2 	os	0.541	7		4	
+Player 1	ae	0.226	8		6	
+Player 2 	raw	0.201	6		5	
+Player 1	ere	0.057	53		7	
+Player 2 	robe	0.097	6		6	
+Player 1	-	0.029	0		7	
+Player 2 	lo	0.047	54		7	
+Player 1	-	0.039	0		7	
+Player 2 	-	0.037	0		7	
+Player 1	-	0.037	0		7	
+Player 2 	-	0.042	0		7	
+Player 1	-	0.04	0		7	
+Player 2 	-	0.037	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 86.35
+player 1 left tile : 0
+player 1 total skor : 408
+player 1 Final skor : 408
+player 2 durasi : 57.361
+player 2 left tile : 0
+player 2 total skor : 390
+player 2 Final skor : 390

@@ -1,0 +1,50 @@
+player word durasi skor tiles
+
+
+Player 1	veiny	0.233	30		5	
+Player 2 	johnny	20.297	36		5	blank tiles
+Player 1	bid	2.33	25		3	
+Player 2 	fox	1.076	44		3	
+Player 1	outfoxed	4.506	31		6	
+Player 2 	zig	2.595	29		3	
+Player 1	we	2.485	18		1	
+Player 2 	gelds	3.321	21		4	
+Player 1	hugs	3.73	29		4	
+Player 2 	wends	5.171	33		5	
+Player 1	concerti	9.847	74		7	
+Player 2 	males	9.597	30		5	
+Player 1	bootlick	12.815	68		7	
+Player 2 	mid	4.389	35		3	
+Player 1	neep	161.059	26		4	blank tiles
+Player 2 	quins	7.016	24		4	
+Player 1	nap	9.787	22		3	
+Player 2 	oke	9.122	20		2	
+Player 1	audad	4.029	16		3	
+Player 2 	toe	2.005	8		1	
+Player 1	aramid	6.686	15		3	
+Player 2 	lav	4.834	16		3	
+Player 1	ziti	8.86	13		3	
+Player 2 	treat	15.739	13		4	
+Player 1	od	4.15	12		2	
+Player 2 	er	0.328	12		6	
+Player 1	ewe	1.898	12		3	
+Player 2 	er	0.051	53		7	
+Player 1	err	0.779	9		5	
+Player 2 	-	0.029	0		7	
+Player 1	ai	0.122	55		7	
+Player 2 	-	0.036	0		7	
+Player 1	-	0.035	0		7	
+Player 2 	-	0.035	0		7	
+Player 1	-	0.035	0		7	
+Player 2 	-	0.035	0		7	
+Player 1	-	0.045	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 233.431
+player 1 left tile : 0
+player 1 total skor : 455
+player 1 Final skor : 455
+player 2 durasi : 85.676
+player 2 left tile : 0
+player 2 total skor : 374
+player 2 Final skor : 374

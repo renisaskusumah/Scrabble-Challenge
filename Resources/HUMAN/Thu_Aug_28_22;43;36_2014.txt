@@ -1,0 +1,62 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	aqua	--	24		4	HUMAN 
+Player 2	faxed	6.52	30		4	GADDAG
+Player 1	fad	--	9		2	HUMAN 
+Player 2	heigh	2.392	36		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	yin	2.716	29		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	cycad	2.534	31		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ditzy	1.834	36		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	dript	1.147	14		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	give	5.013	19		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gibbeted	6.169	70		7	GADDAG
+Player 1		pass		--			0		0	
+Player 2	lawmen	9.134	45		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	part	12.478	39		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	barillas	13.596	70		7	GADDAG
+Player 1		pass		--			0		0	
+Player 2	anew	11.155	21		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	asters	19.629	23		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	moiler	13.74	31		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ae	4.066	18		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	nee	7.519	14		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ion	7.347	16		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	one	5.691	14		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ti	3.212	12		1	GADDAG
+Player 1		pass		--			0		0	
+Player 2	oe	2.782	10		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	goo	221.787	8		2	NEGASCOUT
+Player 1	tores	--	5		2	HUMAN 
+Player 2	to	31.176	8		3	NEGASCOUT
+Player 1	raj	--	10		4	HUMAN 
+Player 2	our	8.135	6		4	NEGASCOUT
+Player 1	gook	--	9		5	HUMAN 
+Player 2	lour	2.363	5		5	NEGASCOUT
+Player 1	vin	--	10		6	HUMAN 
+Player 2	loo	0.171	3		6	NEGASCOUT
+Player 1	four	--	11		7	HUMAN 
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 3 menit 51 detik 
+player 1 left tile : 0
+player 1 total skor : 78
+player 2 durasi : 6 menit 32 detik 
+player 2 left tile : 1
+player 2 total skor : 608

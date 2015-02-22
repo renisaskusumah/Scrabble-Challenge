@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	sim	--	10		3	HUMAN 
+Player 2	jeux	7.172	46		4	GADDAG
+Player 1	mop	--	13		2	HUMAN 
+Player 2	oft	3.23	6		2	GADDAG

@@ -1,0 +1,7 @@
+player word durasi skor tiles
+
+
+Player 1		pass		--			0		0	
+Player 2	zek	0.064	32		3
+Player 1	deep	--	3		3
+Player 2	sh	0.327	26		2

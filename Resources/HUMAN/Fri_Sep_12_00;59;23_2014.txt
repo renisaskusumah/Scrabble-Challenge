@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	zoo	--	24		3	HUMAN 
+Player 2	duomo	2.872	31		5	GADDAG
+Player 1	darn	--	5		3	HUMAN 
+Player 2	fox	2.342	25		2	GADDAG
+Player 1	ribs	--	9		3	HUMAN 
+Player 2	wifed	3.843	29		5	GADDAG
+Player 1	gift	--	16		3	HUMAN 
+Player 2	skew	3.875	39		4	GADDAG

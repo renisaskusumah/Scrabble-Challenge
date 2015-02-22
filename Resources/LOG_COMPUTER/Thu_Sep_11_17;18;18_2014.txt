@@ -1,0 +1,154 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : gy*stbf
+
+word : ag anchor( col :  7 row : 7 ) score : 4 new tiles : ag	Heuristic : 0
+word : sagy anchor( col :  7 row : 7 ) score : 14 new tiles : sagy	Heuristic : 6.5
+word : stagy anchor( col :  7 row : 7 ) score : 16 new tiles : stagy	Heuristic : 9.5
+word : bag anchor( col :  7 row : 7 ) score : 10 new tiles : bag	Heuristic : 10.5
+word : fag anchor( col :  7 row : 7 ) score : 12 new tiles : fag	Heuristic : 11
+word : bogy anchor( col :  7 row : 7 ) score : 18 new tiles : bogy	Heuristic : 21.5
+word : fogy anchor( col :  7 row : 7 ) score : 20 new tiles : fogy	Heuristic : 22
+word : fubsy anchor( col :  7 row : 7 ) score : 32 new tiles : fubsy	Heuristic : 29
+word : by anchor( col :  7 row : 7 ) score : 14 new tiles : by	Heuristic : 39
+Hasil evaluasi : by , score : 14 , direction : 2 , col : 7 , row : 6
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : WCTVVHW
+
+HUMAN MOVE : why , score : 12 , direction : 1 , col : 8 , row : 7
+
+
+******COMPUTER TURN******
+RACK : g*stfea
+
+word : aga anchor( col :  7 row : 5 ) score : 12 new tiles : aga
+word : saga anchor( col :  7 row : 5 ) score : 13 new tiles : saga
+word : agate anchor( col :  7 row : 5 ) score : 16 new tiles : agate
+word : agates anchor( col :  7 row : 5 ) score : 17 new tiles : agates
+word : safe anchor( col :  7 row : 5 ) score : 17 new tiles : safe
+word : stage anchor( col :  7 row : 5 ) score : 18 new tiles : stage
+word : fags anchor( col :  7 row : 5 ) score : 18 new tiles : fags
+word : feast anchor( col :  7 row : 5 ) score : 26 new tiles : feast
+word : gabfest anchor( col :  7 row : 5 ) score : 76 new tiles : gabfest
+word : aga anchor( col :  5 row : 6 ) score : 7 new tiles : aga
+word : saga anchor( col :  5 row : 6 ) score : 9 new tiles : saga
+word : geta anchor( col :  5 row : 6 ) score : 12 new tiles : geta
+word : feta anchor( col :  5 row : 6 ) score : 16 new tiles : feta
+word : few anchor( col :  5 row : 6 ) score : 17 new tiles : fe
+word : fewest anchor( col :  5 row : 6 ) score : 21 new tiles : feest
+word : fretsaw anchor( col :  5 row : 6 ) score : 22 new tiles : fretsa
+word : abet anchor( col :  6 row : 6 ) score : 14 new tiles : aet
+word : abets anchor( col :  6 row : 6 ) score : 15 new tiles : aets
+word : abaft anchor( col :  6 row : 6 ) score : 16 new tiles : aaft
+word : ba anchor( col :  8 row : 6 ) score : 5 new tiles : a
+word : aba anchor( col :  8 row : 6 ) score : 11 new tiles : aa
+word : abas anchor( col :  8 row : 6 ) score : 12 new tiles : aas
+word : abase anchor( col :  8 row : 6 ) score : 13 new tiles : aase
+word : abates anchor( col :  8 row : 6 ) score : 14 new tiles : aates
+word : abaft anchor( col :  8 row : 6 ) score : 16 new tiles : aaft
+word : agas anchor( col :  8 row : 6 ) score : 20 new tiles : agas
+word : gas anchor( col :  8 row : 6 ) score : 23 new tiles : gas
+word : gast anchor( col :  8 row : 6 ) score : 25 new tiles : gast
+word : fetas anchor( col :  8 row : 6 ) score : 27 new tiles : fetas
+word : fast anchor( col :  8 row : 6 ) score : 27 new tiles : fast
+word : feast anchor( col :  8 row : 6 ) score : 28 new tiles : feast
+word : fadges anchor( col :  8 row : 6 ) score : 32 new tiles : fadges
+word : gabfest anchor( col :  8 row : 6 ) score : 82 new tiles : gabfest
+word : whys anchor( col :  8 row : 7 ) score : 13 new tiles : s
+word : es anchor( col :  8 row : 7 ) score : 21 new tiles : es
+word : ages anchor( col :  8 row : 7 ) score : 24 new tiles : ages
+word : sagest anchor( col :  8 row : 7 ) score : 25 new tiles : sagest
+word : gest anchor( col :  8 row : 7 ) score : 25 new tiles : gest
+word : fates anchor( col :  8 row : 7 ) score : 27 new tiles : fates
+word : fast anchor( col :  8 row : 7 ) score : 27 new tiles : fast
+word : feast anchor( col :  8 row : 7 ) score : 28 new tiles : feast
+word : fadges anchor( col :  8 row : 7 ) score : 32 new tiles : fadges
+word : gabfest anchor( col :  8 row : 7 ) score : 82 new tiles : gabfest
+word : age anchor( col :  5 row : 8 ) score : 9 new tiles : age
+word : sage anchor( col :  5 row : 8 ) score : 11 new tiles : sage
+word : stage anchor( col :  5 row : 8 ) score : 12 new tiles : stage
+word : agee anchor( col :  5 row : 8 ) score : 13 new tiles : agee
+word : gees anchor( col :  5 row : 8 ) score : 21 new tiles : gees
+word : geest anchor( col :  5 row : 8 ) score : 23 new tiles : geest
+word : teas anchor( col :  5 row : 8 ) score : 24 new tiles : teas
+word : feast anchor( col :  5 row : 8 ) score : 29 new tiles : feast
+word : sea anchor( col :  6 row : 8 ) score : 15 new tiles : sea
+word : teas anchor( col :  6 row : 8 ) score : 24 new tiles : teas
+word : feast anchor( col :  6 row : 8 ) score : 29 new tiles : feast
+word : ae anchor( col :  7 row : 8 ) score : 17 new tiles : ae
+word : efs anchor( col :  7 row : 8 ) score : 18 new tiles : efs
+word : efts anchor( col :  7 row : 8 ) score : 19 new tiles : efts
+word : seas anchor( col :  7 row : 8 ) score : 22 new tiles : seas
+word : teas anchor( col :  7 row : 8 ) score : 24 new tiles : teas
+word : feast anchor( col :  7 row : 8 ) score : 29 new tiles : feast
+word : aga anchor( col :  7 row : 5 ) score : 12 new tiles : aga
+word : saga anchor( col :  7 row : 5 ) score : 13 new tiles : saga
+word : agate anchor( col :  7 row : 5 ) score : 16 new tiles : agate
+word : agates anchor( col :  7 row : 5 ) score : 17 new tiles : agates
+word : safe anchor( col :  7 row : 5 ) score : 17 new tiles : safe
+word : stage anchor( col :  7 row : 5 ) score : 18 new tiles : stage
+word : fags anchor( col :  7 row : 5 ) score : 18 new tiles : fags
+word : feast anchor( col :  7 row : 5 ) score : 26 new tiles : feast
+word : gabfest anchor( col :  7 row : 5 ) score : 76 new tiles : gabfest
+word : aga anchor( col :  5 row : 6 ) score : 7 new tiles : aga
+word : saga anchor( col :  5 row : 6 ) score : 9 new tiles : saga
+word : geta anchor( col :  5 row : 6 ) score : 12 new tiles : geta
+word : feta anchor( col :  5 row : 6 ) score : 16 new tiles : feta
+word : few anchor( col :  5 row : 6 ) score : 17 new tiles : fe
+word : fewest anchor( col :  5 row : 6 ) score : 21 new tiles : feest
+word : fretsaw anchor( col :  5 row : 6 ) score : 22 new tiles : fretsa
+word : abet anchor( col :  6 row : 6 ) score : 14 new tiles : aet
+word : abets anchor( col :  6 row : 6 ) score : 15 new tiles : aets
+word : abaft anchor( col :  6 row : 6 ) score : 16 new tiles : aaft
+word : ba anchor( col :  8 row : 6 ) score : 5 new tiles : a
+word : aba anchor( col :  8 row : 6 ) score : 11 new tiles : aa
+word : abas anchor( col :  8 row : 6 ) score : 12 new tiles : aas
+word : abase anchor( col :  8 row : 6 ) score : 13 new tiles : aase
+word : abates anchor( col :  8 row : 6 ) score : 14 new tiles : aates
+word : abaft anchor( col :  8 row : 6 ) score : 16 new tiles : aaft
+word : agas anchor( col :  8 row : 6 ) score : 20 new tiles : agas
+word : gas anchor( col :  8 row : 6 ) score : 23 new tiles : gas
+word : gast anchor( col :  8 row : 6 ) score : 25 new tiles : gast
+word : fetas anchor( col :  8 row : 6 ) score : 27 new tiles : fetas
+word : fast anchor( col :  8 row : 6 ) score : 27 new tiles : fast
+word : feast anchor( col :  8 row : 6 ) score : 28 new tiles : feast
+word : fadges anchor( col :  8 row : 6 ) score : 32 new tiles : fadges
+word : gabfest anchor( col :  8 row : 6 ) score : 82 new tiles : gabfest
+word : whys anchor( col :  8 row : 7 ) score : 13 new tiles : s
+word : es anchor( col :  8 row : 7 ) score : 21 new tiles : es
+word : ages anchor( col :  8 row : 7 ) score : 24 new tiles : ages
+word : sagest anchor( col :  8 row : 7 ) score : 25 new tiles : sagest
+word : gest anchor( col :  8 row : 7 ) score : 25 new tiles : gest
+word : fates anchor( col :  8 row : 7 ) score : 27 new tiles : fates
+word : fast anchor( col :  8 row : 7 ) score : 27 new tiles : fast
+word : feast anchor( col :  8 row : 7 ) score : 28 new tiles : feast
+word : fadges anchor( col :  8 row : 7 ) score : 32 new tiles : fadges
+word : gabfest anchor( col :  8 row : 7 ) score : 82 new tiles : gabfest
+word : age anchor( col :  5 row : 8 ) score : 9 new tiles : age
+word : sage anchor( col :  5 row : 8 ) score : 11 new tiles : sage
+word : stage anchor( col :  5 row : 8 ) score : 12 new tiles : stage
+word : agee anchor( col :  5 row : 8 ) score : 13 new tiles : agee
+word : gees anchor( col :  5 row : 8 ) score : 21 new tiles : gees
+word : geest anchor( col :  5 row : 8 ) score : 23 new tiles : geest
+word : teas anchor( col :  5 row : 8 ) score : 24 new tiles : teas
+word : feast anchor( col :  5 row : 8 ) score : 29 new tiles : feast
+word : sea anchor( col :  6 row : 8 ) score : 15 new tiles : sea
+word : teas anchor( col :  6 row : 8 ) score : 24 new tiles : teas
+word : feast anchor( col :  6 row : 8 ) score : 29 new tiles : feast
+word : ae anchor( col :  7 row : 8 ) score : 17 new tiles : ae
+word : efs anchor( col :  7 row : 8 ) score : 18 new tiles : efs
+word : efts anchor( col :  7 row : 8 ) score : 19 new tiles : efts
+word : seas anchor( col :  7 row : 8 ) score : 22 new tiles : seas
+word : teas anchor( col :  7 row : 8 ) score : 24 new tiles : teas
+word : feast anchor( col :  7 row : 8 ) score : 29 new tiles : feast
+Hasil evaluasi : gabfest , score : 82 , direction :2 ,i: 2 j: 8
+
+
+

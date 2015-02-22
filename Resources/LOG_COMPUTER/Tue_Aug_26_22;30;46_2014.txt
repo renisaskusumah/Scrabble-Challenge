@@ -1,0 +1,18 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : ут
+
+
+
+HUMAN MOVE : born , score : 12 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+RACK : *gvargs
+
+Hasil evaluasi : graves , score : 24 , direction : 2 , anchor (11 , 7) , col : 3 , row : 11
+
+
+
+POSSIBLE MOVEMENT : 

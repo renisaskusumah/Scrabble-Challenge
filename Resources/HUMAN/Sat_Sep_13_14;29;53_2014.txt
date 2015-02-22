@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	mo	--	8		2	HUMAN 
+Player 2	jam	1.84	37		3	GADDAG
+Player 1	mib	--	7		2	HUMAN 
+Player 2	mitzvahs	65.234	98		7	GADDAG
+Player 1	if	--	9		1	HUMAN 
+Player 2	ethnics	279.735	84		7	GADDAG

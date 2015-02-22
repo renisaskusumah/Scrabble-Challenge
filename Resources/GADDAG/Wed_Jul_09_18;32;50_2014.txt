@@ -1,0 +1,49 @@
+player word durasi skor tiles
+
+
+Player 1	zee	0.152	24		3	
+Player 2 	kex	0.886	27		2	
+Player 1	ivy	0.712	26		3	
+Player 2 	nudzh	2.255	24		4	
+Player 1	jus	0.978	26		2	
+Player 2 	alba	5.125	22		4	
+Player 1	ducally	1.57	38		6	
+Player 2 	wince	6.421	51		5	
+Player 1	phi	1.321	29		3	
+Player 2 	ole	7.166	16		3	
+Player 1	mus	0.917	19		2	
+Player 2 	nudzhing	6.361	22		3	
+Player 1	am	2.357	25		2	
+Player 2 	fogbow	5.312	30		4	
+Player 1	quod	16.428	26		3	blank tiles
+Player 2 	pintada	6.825	67		7	
+Player 1	vara	3.839	30		2	
+Player 2 	mosasaur	119.797	71		7	blank tiles
+Player 1	wot	5.35	22		3	
+Player 2 	fa	7.022	19		2	
+Player 1	quin	8.496	28		3	
+Player 2 	requin	11.944	17		2	
+Player 1	goo	7.607	17		3	
+Player 2 	rood	8.782	14		3	
+Player 1	at	13.284	14		2	
+Player 2 	retire	8.448	14		5	
+Player 1	tenet	10.922	20		5	
+Player 2 	ba	1.739	14		3	
+Player 1	ire	0.083	60		7	
+Player 2 	eerier	0.664	57		7	
+Player 1	-	0.009	0		7	
+Player 2 	-	0.009	0		7	
+Player 1	-	0.01	0		7	
+Player 2 	-	0.01	0		7	
+Player 1	-	0.01	0		7	
+Player 2 	-	0.011	0		7	
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 74.045
+player 1 left tile : 0
+player 1 total skor : 404
+player 1 Final skor : 404
+player 2 durasi : 198.777
+player 2 left tile : 0
+player 2 total skor : 465
+player 2 Final skor : 465

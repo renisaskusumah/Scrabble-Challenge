@@ -1,0 +1,69 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	vower	1.904	30		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ox	1.276	39		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	qat	1.378	35		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ink	2.26	37		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	hyp	1.453	24		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	ivy	1.227	18		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	hex	0.882	17		1	GADDAG
+Player 1	dry	--	7		2	HUMAN 
+Player 2	gym	0.749	15		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	-	0.633	0		0	GADDAG
+Player 1	role	--	4		3	HUMAN 
+Player 2	lez	0.868	22		2	GADDAG
+Player 1	horn	--	11		3	HUMAN 
+Player 2	cud	2.845	12		2	GADDAG
+Player 1	fan	--	7		2	HUMAN 
+Player 2	fang	1.179	8		1	GADDAG
+Player 1	far	--	7		2	HUMAN 
+Player 2	tar	1.661	5		2	GADDAG
+Player 1	tad	--	10		2	HUMAN 
+Player 2	arb	0.763	10		1	GADDAG
+Player 1	gulf	--	10		3	HUMAN 
+Player 2	tom	0.963	5		1	GADDAG
+Player 1	fold	--	8		3	HUMAN 
+Player 2	uns	1.374	17		2	GADDAG
+Player 1	dee	--	5		2	HUMAN 
+Player 2	bond	3.598	19		4	GADDAG
+Player 1	woe	--	21		2	HUMAN 
+Player 2	jane	6.047	52		4	GADDAG
+Player 1	ice	--	8		3	HUMAN 
+Player 2	engram	3.443	18		5	GADDAG
+Player 1	age	--	8		2	HUMAN 
+Player 2	tiptoes	12.546	91		7	GADDAG
+Player 1	seat	--	5		3	HUMAN 
+Player 2	voe	5.322	27		2	GADDAG
+Player 1	sea	--	3		2	HUMAN 
+Player 2	ti	35.715	12		2	NEGASCOUT
+Player 1	is	--	6		3	HUMAN 
+Player 2	agee	1.772	5		3	NEGASCOUT
+Player 1	ate	--	3		4	HUMAN 
+Player 2	el	0.529	8		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.266	0		4	NEGASCOUT
+Player 1	it	--	4		5	HUMAN 
+Player 2	el	0.277	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.263	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.258	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.257	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.247	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.258	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.255	0		4	NEGASCOUT
+Player 1		pass		--			0		0	
+Player 2	el	0.261	0		4	NEGASCOUT

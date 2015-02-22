@@ -1,0 +1,203 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : aixaewn
+
+word : xenia anchor( col :  7 row : 7 ) score : 40 new tiles : xenia
+Hasil evaluasi : xenia , score : 40 , direction : 2 , col : 7 , row : 3
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : VZDOSJL
+
+HUMAN MOVE : lid , score : 7 , direction : 1 , col : 9 , row : 6
+
+
+******COMPUTER TURN******
+RACK : awyutge
+
+word : wax anchor( col :  6 row : 3 ) score : 13 new tiles : wa
+word : waxy anchor( col :  6 row : 3 ) score : 17 new tiles : way
+word : eutaxy anchor( col :  6 row : 3 ) score : 32 new tiles : eutay
+word : waxy anchor( col :  8 row : 3 ) score : 17 new tiles : way
+word : eutaxy anchor( col :  8 row : 3 ) score : 32 new tiles : eutay
+word : twa anchor( col :  6 row : 4 ) score : 14 new tiles : twa
+word : wyte anchor( col :  6 row : 4 ) score : 20 new tiles : wyt
+word : yea anchor( col :  6 row : 4 ) score : 21 new tiles : yea
+word : yaw anchor( col :  6 row : 4 ) score : 27 new tiles : yaw
+word : yea anchor( col :  8 row : 4 ) score : 6 new tiles : ya
+word : yew anchor( col :  8 row : 4 ) score : 9 new tiles : yw
+word : tegua anchor( col :  8 row : 4 ) score : 12 new tiles : tgua
+word : ut anchor( col :  8 row : 4 ) score : 13 new tiles : ut
+word : gut anchor( col :  8 row : 4 ) score : 17 new tiles : gut
+word : wan anchor( col :  6 row : 5 ) score : 16 new tiles : wa
+word : waly anchor( col :  6 row : 5 ) score : 22 new tiles : way
+word : na anchor( col :  8 row : 5 ) score : 5 new tiles : a
+word : naw anchor( col :  8 row : 5 ) score : 17 new tiles : aw
+word : edgy anchor( col :  8 row : 5 ) score : 18 new tiles : egy
+word : glide anchor( col :  5 row : 6 ) score : 7 new tiles : ge
+word : glide anchor( col :  9 row : 6 ) score : 7 new tiles : ge
+word : aa anchor( col :  6 row : 7 ) score : 4 new tiles : a
+word : law anchor( col :  6 row : 7 ) score : 12 new tiles : aw
+word : waly anchor( col :  6 row : 7 ) score : 22 new tiles : way
+word : aa anchor( col :  8 row : 7 ) score : 5 new tiles : a
+word : daw anchor( col :  8 row : 7 ) score : 13 new tiles : aw
+word : dawt anchor( col :  8 row : 7 ) score : 14 new tiles : awt
+word : edgy anchor( col :  8 row : 7 ) score : 18 new tiles : egy
+Hasil evaluasi : eutaxy , score : 32 , direction : 1 , anchor (7 , 8) , col : 3 , row : 3
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : VZAOSJY
+
+HUMAN MOVE : yes , score : 6 , direction : 2 , col : 3 , row : 5
+
+
+******COMPUTER TURN******
+RACK : wgfrkoh
+
+word : ow anchor( col :  3 row : 1 ) score : 23 new tiles : ow
+word : gowk anchor( col :  3 row : 1 ) score : 46 new tiles : gowk
+word : howf anchor( col :  3 row : 1 ) score : 48 new tiles : howf
+word : howk anchor( col :  3 row : 1 ) score : 50 new tiles : howk
+word : wry anchor( col :  2 row : 2 ) score : 18 new tiles : wr
+word : why anchor( col :  2 row : 2 ) score : 24 new tiles : wh
+word : of anchor( col :  5 row : 2 ) score : 8 new tiles : of
+word : wot anchor( col :  5 row : 2 ) score : 14 new tiles : wo
+word : war anchor( col :  6 row : 2 ) score : 12 new tiles : wr
+word : wha anchor( col :  6 row : 2 ) score : 13 new tiles : wh
+word : haw anchor( col :  6 row : 2 ) score : 18 new tiles : hw
+word : ow anchor( col :  8 row : 2 ) score : 12 new tiles : ow
+word : why anchor( col :  8 row : 2 ) score : 16 new tiles : wh
+word : or anchor( col :  2 row : 4 ) score : 3 new tiles : or
+word : wos anchor( col :  2 row : 4 ) score : 6 new tiles : wo
+word : gosh anchor( col :  2 row : 4 ) score : 26 new tiles : goh
+word : sh anchor( col :  4 row : 4 ) score : 20 new tiles : h
+word : gosh anchor( col :  4 row : 4 ) score : 26 new tiles : goh
+word : shore anchor( col :  4 row : 4 ) score : 30 new tiles : hor
+word : shore anchor( col :  5 row : 4 ) score : 30 new tiles : hor
+word : ow anchor( col :  6 row : 4 ) score : 13 new tiles : ow
+word : wee anchor( col :  6 row : 4 ) score : 14 new tiles : we
+word : shore anchor( col :  6 row : 4 ) score : 30 new tiles : hor
+word : awol anchor( col :  6 row : 5 ) score : 14 new tiles : wo
+word : no anchor( col :  8 row : 5 ) score : 5 new tiles : o
+word : now anchor( col :  8 row : 5 ) score : 17 new tiles : ow
+word : lido anchor( col :  9 row : 6 ) score : 5 new tiles : o
+word : wo anchor( col :  9 row : 6 ) score : 18 new tiles : wo
+word : wog anchor( col :  9 row : 6 ) score : 20 new tiles : wog
+word : work anchor( col :  9 row : 6 ) score : 24 new tiles : work
+word : howf anchor( col :  9 row : 6 ) score : 26 new tiles : howf
+word : howk anchor( col :  9 row : 6 ) score : 27 new tiles : howk
+word : go anchor( col :  6 row : 7 ) score : 6 new tiles : go
+word : koa anchor( col :  6 row : 7 ) score : 9 new tiles : ko
+word : who anchor( col :  6 row : 7 ) score : 12 new tiles : who
+word : dhow anchor( col :  8 row : 7 ) score : 17 new tiles : how
+Hasil evaluasi : howk , score : 50 , direction : 1 , anchor (7 , 8) , col : 1 , row : 1
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : VZAOMJL
+
+HUMAN MOVE : ham , score : 8 , direction : 2 , col : 1 , row : 4
+
+
+******COMPUTER TURN******
+RACK : gfrwuie
+
+word : if anchor( col :  5 row : 2 ) score : 20 new tiles : if
+word : if anchor( col :  6 row : 2 ) score : 20 new tiles : if
+word : gyred anchor( col :  8 row : 2 ) score : 16 new tiles : gre
+word : efs anchor( col :  1 row : 4 ) score : 15 new tiles : ef
+word : efs anchor( col :  2 row : 4 ) score : 15 new tiles : ef
+word : ire anchor( col :  5 row : 4 ) score : 7 new tiles : ir
+word : tug anchor( col :  5 row : 4 ) score : 8 new tiles : ug
+word : tew anchor( col :  5 row : 4 ) score : 14 new tiles : ew
+word : gee anchor( col :  6 row : 4 ) score : 12 new tiles : ge
+word : reef anchor( col :  6 row : 4 ) score : 14 new tiles : ref
+word : wee anchor( col :  6 row : 4 ) score : 16 new tiles : we
+word : weer anchor( col :  6 row : 4 ) score : 17 new tiles : wer
+word : gee anchor( col :  8 row : 4 ) score : 12 new tiles : ge
+word : reef anchor( col :  8 row : 4 ) score : 14 new tiles : ref
+word : wee anchor( col :  8 row : 4 ) score : 16 new tiles : we
+word : weer anchor( col :  8 row : 4 ) score : 17 new tiles : wer
+word : en anchor( col :  6 row : 5 ) score : 4 new tiles : e
+word : fen anchor( col :  6 row : 5 ) score : 16 new tiles : fe
+word : renig anchor( col :  6 row : 5 ) score : 17 new tiles : reig
+word : renig anchor( col :  8 row : 5 ) score : 17 new tiles : reig
+word : glide anchor( col :  5 row : 6 ) score : 7 new tiles : ge
+word : glider anchor( col :  5 row : 6 ) score : 8 new tiles : ger
+word : felid anchor( col :  5 row : 6 ) score : 9 new tiles : fe
+word : glide anchor( col :  9 row : 6 ) score : 7 new tiles : ge
+word : glider anchor( col :  9 row : 6 ) score : 8 new tiles : ger
+word : refugia anchor( col :  6 row : 7 ) score : 17 new tiles : refugi
+word : ae anchor( col :  8 row : 7 ) score : 5 new tiles : e
+word : drug anchor( col :  8 row : 7 ) score : 9 new tiles : rug
+word : drew anchor( col :  8 row : 7 ) score : 11 new tiles : rew
+word : defi anchor( col :  8 row : 7 ) score : 14 new tiles : efi
+Hasil evaluasi : if , score : 20 , direction : 1 , anchor (7 , 8) , col : 2 , row : 5
+
+POSSIBLE MOVEMENT : 
+
+
+word : ovule anchor( col :  8 row : 2 ) score : 24 new tiles : ovule
+word : ouzel anchor( col :  8 row : 2 ) score : 36 new tiles : ouzel
+word : els anchor( col :  1 row : 4 ) score : 12 new tiles : el
+word : ess anchor( col :  2 row : 4 ) score : 6 new tiles : es
+word : el anchor( col :  2 row : 4 ) score : 12 new tiles : el
+word : ouzel anchor( col :  2 row : 4 ) score : 27 new tiles : ouzel
+word : eel anchor( col :  8 row : 4 ) score : 8 new tiles : el
+word : oven anchor( col :  6 row : 5 ) score : 17 new tiles : ove
+word : no anchor( col :  8 row : 5 ) score : 5 new tiles : o
+word : leno anchor( col :  8 row : 5 ) score : 11 new tiles : leo
+word : novel anchor( col :  8 row : 5 ) score : 19 new tiles : ovel
+word : lido anchor( col :  9 row : 6 ) score : 5 new tiles : o
+word : voe anchor( col :  9 row : 6 ) score : 19 new tiles : voe
+word : vole anchor( col :  9 row : 6 ) score : 20 new tiles : vole
+word : jo anchor( col :  9 row : 6 ) score : 30 new tiles : jo
+word : joule anchor( col :  9 row : 6 ) score : 35 new tiles : joule
+word : zoa anchor( col :  6 row : 7 ) score : 14 new tiles : zo
+word : ae anchor( col :  8 row : 7 ) score : 5 new tiles : e
+word : ode anchor( col :  8 row : 7 ) score : 8 new tiles : oe
+word : dev anchor( col :  8 row : 7 ) score : 13 new tiles : ev
+word : ovule anchor( col :  7 row : 8 ) score : 23 new tiles : ovule
+word : joule anchor( col :  7 row : 8 ) score : 27 new tiles : joule
+word : ouzel anchor( col :  7 row : 8 ) score : 28 new tiles : ouzel
+-------HUMAN CLICK HINT-------
+
+
+
+word : ovule anchor( col :  8 row : 2 ) score : 24 new tiles : ovule
+word : ouzel anchor( col :  8 row : 2 ) score : 36 new tiles : ouzel
+word : els anchor( col :  1 row : 4 ) score : 12 new tiles : el
+word : ess anchor( col :  2 row : 4 ) score : 6 new tiles : es
+word : el anchor( col :  2 row : 4 ) score : 12 new tiles : el
+word : ouzel anchor( col :  2 row : 4 ) score : 27 new tiles : ouzel
+word : eel anchor( col :  8 row : 4 ) score : 8 new tiles : el
+word : oven anchor( col :  6 row : 5 ) score : 17 new tiles : ove
+word : no anchor( col :  8 row : 5 ) score : 5 new tiles : o
+word : leno anchor( col :  8 row : 5 ) score : 11 new tiles : leo
+word : novel anchor( col :  8 row : 5 ) score : 19 new tiles : ovel
+word : lido anchor( col :  9 row : 6 ) score : 5 new tiles : o
+word : voe anchor( col :  9 row : 6 ) score : 19 new tiles : voe
+word : vole anchor( col :  9 row : 6 ) score : 20 new tiles : vole
+word : jo anchor( col :  9 row : 6 ) score : 30 new tiles : jo
+word : joule anchor( col :  9 row : 6 ) score : 35 new tiles : joule
+word : zoa anchor( col :  6 row : 7 ) score : 14 new tiles : zo
+word : ae anchor( col :  8 row : 7 ) score : 5 new tiles : e
+word : ode anchor( col :  8 row : 7 ) score : 8 new tiles : oe
+word : dev anchor( col :  8 row : 7 ) score : 13 new tiles : ev
+word : ovule anchor( col :  7 row : 8 ) score : 23 new tiles : ovule
+word : joule anchor( col :  7 row : 8 ) score : 27 new tiles : joule
+word : ouzel anchor( col :  7 row : 8 ) score : 28 new tiles : ouzel
+-------HUMAN CLICK HINT-------
+
+
+

@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	well	--	14		4	HUMAN 
+Player 2	cubby	134.141	51		5	NEGASCOUT

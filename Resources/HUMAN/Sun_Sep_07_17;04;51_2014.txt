@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+winner : Draw
+left tile (letter bag): 86
+player 1 durasi : 25 menit 0 detik 
+player 1 left tile : 7
+player 1 total skor : 0
+player 2 durasi : 0 menit 0 detik 
+player 2 left tile : 7
+player 2 total skor : 0

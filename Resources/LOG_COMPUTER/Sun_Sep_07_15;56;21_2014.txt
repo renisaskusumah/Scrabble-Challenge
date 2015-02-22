@@ -1,0 +1,55 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : HBUSKBD
+
+HUMAN MOVE : buds , score : 14 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : imwield
+
+word : mi anchor( col :  6 row : 7 ) score : 7 new tiles : mi
+word : ibidem anchor( col :  6 row : 7 ) score : 14 new tiles : iidem
+word : wimbled anchor( col :  6 row : 7 ) score : 15 new tiles : wimled
+word : bi anchor( col :  8 row : 7 ) score : 4 new tiles : i
+word : limbi anchor( col :  8 row : 7 ) score : 9 new tiles : limi
+word : ibidem anchor( col :  8 row : 7 ) score : 14 new tiles : iidem
+word : wimbled anchor( col :  8 row : 7 ) score : 15 new tiles : wimled
+word : lime anchor( col :  8 row : 7 ) score : 24 new tiles : lime
+word : dime anchor( col :  8 row : 7 ) score : 26 new tiles : dime
+word : ilium anchor( col :  6 row : 8 ) score : 11 new tiles : ilim
+word : muled anchor( col :  6 row : 8 ) score : 12 new tiles : mled
+word : wud anchor( col :  6 row : 8 ) score : 13 new tiles : wd
+word : mi anchor( col :  6 row : 8 ) score : 17 new tiles : mi
+word : dui anchor( col :  8 row : 8 ) score : 7 new tiles : di
+word : um anchor( col :  8 row : 8 ) score : 7 new tiles : m
+word : ilium anchor( col :  8 row : 8 ) score : 11 new tiles : ilim
+word : muled anchor( col :  8 row : 8 ) score : 12 new tiles : mled
+word : wud anchor( col :  8 row : 8 ) score : 13 new tiles : wd
+word : lime anchor( col :  8 row : 8 ) score : 24 new tiles : lime
+word : dime anchor( col :  8 row : 8 ) score : 26 new tiles : dime
+word : mi anchor( col :  6 row : 9 ) score : 12 new tiles : mi
+word : imid anchor( col :  6 row : 9 ) score : 13 new tiles : imi
+word : imide anchor( col :  6 row : 9 ) score : 14 new tiles : imie
+word : middle anchor( col :  6 row : 9 ) score : 18 new tiles : midle
+word : widdie anchor( col :  6 row : 9 ) score : 21 new tiles : widie
+word : mildew anchor( col :  6 row : 9 ) score : 22 new tiles : milew
+word : midi anchor( col :  8 row : 9 ) score : 13 new tiles : mii
+word : medii anchor( col :  8 row : 9 ) score : 16 new tiles : meii
+word : wide anchor( col :  8 row : 9 ) score : 16 new tiles : wie
+word : mildew anchor( col :  8 row : 9 ) score : 22 new tiles : milew
+word : lime anchor( col :  8 row : 9 ) score : 24 new tiles : lime
+word : dime anchor( col :  8 row : 9 ) score : 26 new tiles : dime
+word : mi anchor( col :  6 row : 10 ) score : 5 new tiles : mi
+word : mise anchor( col :  6 row : 10 ) score : 6 new tiles : mie
+word : mislie anchor( col :  6 row : 10 ) score : 16 new tiles : milie
+word : misled anchor( col :  6 row : 10 ) score : 18 new tiles : miled
+word : mew anchor( col :  6 row : 10 ) score : 18 new tiles : mew
+word : mildew anchor( col :  6 row : 10 ) score : 26 new tiles : mildew
+word : si anchor( col :  8 row : 10 ) score : 2 new tiles : i
+word : sim anchor( col :  8 row : 10 ) score : 5 new tiles : im
+word : simile anchor( col :  8 row : 10 ) score : 16 new tiles : imile
+word : deism anchor( col :  8 row : 10 ) score : 16 new tiles : deim
+word : smiled anchor( col :  8 row : 10 ) score : 18 new tiles : miled
+word : smew anchor( col :  8 row : 10 ) score : 18 new tiles : mew

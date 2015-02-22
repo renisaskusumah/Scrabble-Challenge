@@ -1,0 +1,48 @@
+player word durasi skor tiles
+
+
+Player 1	urb	0.044	10		3
+Player 2 	jimp	1.749	27		4
+Player 1	wizes	1.354	42		4
+Player 2 	very	3.062	38		3
+Player 1	woke	1.647	33		4
+Player 2 	bozos	4.007	44		4
+Player 1	es	0.737	14		1
+Player 2 	resiny	4.153	32		6
+Player 1	crimp	0.816	23		4
+Player 2 	foh	3.67	33		3
+Player 1	fuss	1.929	17		2
+Player 2 	infare	7.62	32		5
+Player 1	victor	2.887	26		5
+Player 2 	bifid	5.621	22		3
+Player 1	mead	4.251	23		3
+Player 2 	orle	4.818	18		3
+Player 1	rot	3.387	14		3
+Player 2 	auding	4.815	28		6
+Player 1	xu	3.36	24		2
+Player 2 	teg	3.756	20		3
+Player 1	ten	4.515	16		3
+Player 2 	hang	3.317	22		4
+Player 1	tolidin	4.281	18		6
+Player 2 	indeed	13.455	16		4
+Player 1	aa	2.863	11		2
+Player 2 	toll	0.282	54		7
+Player 1	ala	1.039	11		4
+Player 2 	-	0.052	0		7
+Player 1	eta	0.278	9		6
+Player 2 	-	0.052	0		7
+Player 1	-	0.074	0		6
+Player 2 	-	0.052	0		7
+Player 1	-	0.077	0		6
+Player 2 	-	0.051	0		7
+Player 1	-	0.076	0		6
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 33.615
+player 1 left tile : 1
+player 1 total skor : 291
+player 1 Final skor : 281
+player 2 durasi : 60.532
+player 2 left tile : 0
+player 2 total skor : 386
+player 2 Final skor : 386

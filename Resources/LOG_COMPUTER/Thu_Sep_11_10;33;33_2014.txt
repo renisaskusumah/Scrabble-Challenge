@@ -1,0 +1,224 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : VBIXZEC
+
+HUMAN MOVE : vibe , score : 18 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : lhjiytp
+
+word : tivy anchor( col :  6 row : 7 ) score : 10 new tiles : tiy	Heuristic : 2
+word : ivy anchor( col :  8 row : 7 ) score : 9 new tiles : iy	Heuristic : 0
+word : tivy anchor( col :  8 row : 7 ) score : 10 new tiles : tiy	Heuristic : 2
+word : hili anchor( col :  6 row : 8 ) score : 8 new tiles : hil	Heuristic : -1.5
+word : pili anchor( col :  6 row : 8 ) score : 7 new tiles : pil	Heuristic : -0.5
+word : pithily anchor( col :  6 row : 8 ) score : 20 new tiles : pithly	Heuristic : 17
+word : pithily anchor( col :  6 row : 8 ) score : 23 new tiles : pthily	Heuristic : 20
+word : pithily anchor( col :  8 row : 8 ) score : 20 new tiles : pithly	Heuristic : 17
+word : pithily anchor( col :  8 row : 8 ) score : 23 new tiles : pthily	Heuristic : 20
+word : li anchor( col :  6 row : 9 ) score : 7 new tiles : li	Heuristic : -3
+word : jib anchor( col :  6 row : 9 ) score : 28 new tiles : ji	Heuristic : 20
+word : blip anchor( col :  8 row : 9 ) score : 10 new tiles : lip	Heuristic : 2.5
+word : til anchor( col :  8 row : 9 ) score : 13 new tiles : til	Heuristic : 4
+word : til anchor( col :  6 row : 10 ) score : 8 new tiles : til	Heuristic : -1
+word : pile anchor( col :  6 row : 10 ) score : 12 new tiles : pil	Heuristic : 4.5
+word : phyle anchor( col :  6 row : 10 ) score : 26 new tiles : phyl	Heuristic : 23.5
+word : el anchor( col :  8 row : 10 ) score : 2 new tiles : l	Heuristic : -6.5
+word : help anchor( col :  8 row : 10 ) score : 9 new tiles : hlp	Heuristic : 3.5
+word : yelp anchor( col :  8 row : 10 ) score : 9 new tiles : ylp	Heuristic : 6
+word : ethyl anchor( col :  8 row : 10 ) score : 22 new tiles : thyl	Heuristic : 18
+Hasil evaluasi : phyle , score : 26 , direction :1 ,i: 10 j: 3 Heuristic: 23.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : wiz anchor( col :  6 row : 8 ) score : 29 new tiles : wz	Heuristic : 10
+word : fix anchor( col :  8 row : 8 ) score : 25 new tiles : fx	Heuristic : 9.5
+word : wiz anchor( col :  8 row : 8 ) score : 29 new tiles : wz	Heuristic : 10
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : VWCXZFC
+
+HUMAN MOVE : wiz , score : 29 , direction : 1 , col : 9 , row : 8
+
+
+******COMPUTER TURN******
+RACK : jithluu
+
+word : ulu anchor( col :  3 row : 9 ) score : 9 new tiles : ulu	Heuristic : 6
+word : uplit anchor( col :  3 row : 9 ) score : 14 new tiles : ulit	Heuristic : 9.5
+word : uh anchor( col :  4 row : 9 ) score : 5 new tiles : u	Heuristic : -1
+word : huh anchor( col :  4 row : 9 ) score : 9 new tiles : hu	Heuristic : 3.5
+word : ti anchor( col :  3 row : 11 ) score : 12 new tiles : ti	Heuristic : 4.5
+word : hi anchor( col :  3 row : 11 ) score : 18 new tiles : hi	Heuristic : 10
+word : phut anchor( col :  3 row : 11 ) score : 18 new tiles : hut	Heuristic : 12.5
+word : hi anchor( col :  4 row : 11 ) score : 5 new tiles : i	Heuristic : -3.5
+word : hit anchor( col :  4 row : 11 ) score : 6 new tiles : it	Heuristic : -1.5
+word : hilt anchor( col :  4 row : 11 ) score : 7 new tiles : ilt	Heuristic : 0.5
+word : hut anchor( col :  4 row : 11 ) score : 6 new tiles : ut	Heuristic : 1
+word : huh anchor( col :  4 row : 11 ) score : 9 new tiles : uh	Heuristic : 3.5
+word : li anchor( col :  6 row : 11 ) score : 2 new tiles : i	Heuristic : -6.5
+word : lit anchor( col :  6 row : 11 ) score : 4 new tiles : it	Heuristic : -3.5
+word : litu anchor( col :  6 row : 11 ) score : 5 new tiles : itu	Heuristic : -1.5
+word : lulu anchor( col :  6 row : 11 ) score : 5 new tiles : ulu	Heuristic : 2
+Hasil evaluasi : phut , score : 18 , direction :2 ,i: 10 j: 3 Heuristic: 12.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : vav anchor( col :  6 row : 7 ) score : 14 new tiles : va	Heuristic : -1.5
+word : ah anchor( col :  4 row : 9 ) score : 5 new tiles : a	Heuristic : -17
+word : ay anchor( col :  5 row : 9 ) score : 7 new tiles : a	Heuristic : -15
+word : ax anchor( col :  2 row : 11 ) score : 41 new tiles : ax	Heuristic : 23.5
+word : ha anchor( col :  4 row : 11 ) score : 10 new tiles : a	Heuristic : -12
+word : ya anchor( col :  5 row : 11 ) score : 5 new tiles : a	Heuristic : -17
+word : yaff anchor( col :  5 row : 11 ) score : 21 new tiles : aff	Heuristic : 5
+word : la anchor( col :  6 row : 11 ) score : 2 new tiles : a	Heuristic : -20
+word : lav anchor( col :  6 row : 11 ) score : 10 new tiles : av	Heuristic : -5.5
+word : lax anchor( col :  6 row : 11 ) score : 18 new tiles : ax	Heuristic : 0.5
+word : cuff anchor( col :  2 row : 12 ) score : 24 new tiles : cff	Heuristic : 15.5
+word : ax anchor( col :  2 row : 12 ) score : 41 new tiles : ax	Heuristic : 23.5
+word : cuff anchor( col :  4 row : 12 ) score : 24 new tiles : cff	Heuristic : 15.5
+word : aft anchor( col :  2 row : 13 ) score : 12 new tiles : af	Heuristic : -7
+word : vat anchor( col :  2 row : 13 ) score : 12 new tiles : va	Heuristic : -3.5
+word : ta anchor( col :  4 row : 13 ) score : 2 new tiles : a	Heuristic : -20
+word : tav anchor( col :  4 row : 13 ) score : 14 new tiles : av	Heuristic : -1.5
+word : tax anchor( col :  4 row : 13 ) score : 26 new tiles : ax	Heuristic : 8.5
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : VFCXAFC
+
+HUMAN MOVE : ax , score : 41 , direction : 2 , col : 2 , row : 13
+
+
+******COMPUTER TURN******
+RACK : jilutwr
+
+word : uh anchor( col :  4 row : 9 ) score : 5 new tiles : u	Heuristic : -4
+word : wit anchor( col :  4 row : 9 ) score : 10 new tiles : wit	Heuristic : 4.5
+word : yurt anchor( col :  5 row : 11 ) score : 9 new tiles : urt	Heuristic : 0.5
+word : li anchor( col :  6 row : 11 ) score : 2 new tiles : i	Heuristic : -9.5
+word : lilt anchor( col :  6 row : 11 ) score : 5 new tiles : ilt	Heuristic : -3.5
+word : ti anchor( col :  4 row : 13 ) score : 2 new tiles : i	Heuristic : -9.5
+word : til anchor( col :  4 row : 13 ) score : 5 new tiles : il	Heuristic : -4.5
+word : tilt anchor( col :  4 row : 13 ) score : 6 new tiles : ilt	Heuristic : -2.5
+word : twit anchor( col :  4 row : 13 ) score : 9 new tiles : wit	Heuristic : 3.5
+word : twirl anchor( col :  4 row : 13 ) score : 10 new tiles : wirl	Heuristic : 5
+Hasil evaluasi : twirl , score : 10 , direction :1 ,i: 13 j: 3 Heuristic: 5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : pah anchor( col :  1 row : 11 ) score : 8 new tiles : p	Heuristic : -10
+word : pi anchor( col :  5 row : 12 ) score : 4 new tiles : p	Heuristic : -14
+word : if anchor( col :  5 row : 14 ) score : 5 new tiles : f	Heuristic : -12.5
+word : pic anchor( col :  5 row : 14 ) score : 7 new tiles : pc	Heuristic : -6.5
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : VFCPNFC
+
+HUMAN MOVE : pah , score : 8 , direction : 1 , col : 4 , row : 11
+
+
+******COMPUTER TURN******
+RACK : jutaknq
+
+word : ta anchor( col :  6 row : 7 ) score : 11 new tiles : ta	Heuristic : -9.5
+word : uh anchor( col :  4 row : 9 ) score : 5 new tiles : u	Heuristic : -12.5
+word : nth anchor( col :  4 row : 9 ) score : 6 new tiles : nt	Heuristic : -11
+word : ankh anchor( col :  4 row : 9 ) score : 11 new tiles : ank	Heuristic : -6.5
+word : ay anchor( col :  5 row : 9 ) score : 7 new tiles : a	Heuristic : -14.5
+word : tup anchor( col :  1 row : 10 ) score : 7 new tiles : tu	Heuristic : -9.5
+word : jaup anchor( col :  1 row : 10 ) score : 15 new tiles : jau	Heuristic : -1.5
+word : ya anchor( col :  5 row : 11 ) score : 5 new tiles : a	Heuristic : -16.5
+word : la anchor( col :  6 row : 11 ) score : 2 new tiles : a	Heuristic : -19.5
+word : ta anchor( col :  5 row : 12 ) score : 8 new tiles : ta	Heuristic : -12.5
+word : ta anchor( col :  6 row : 12 ) score : 8 new tiles : ta	Heuristic : -12.5
+word : auk anchor( col :  7 row : 12 ) score : 10 new tiles : auk	Heuristic : -7
+word : it anchor( col :  5 row : 14 ) score : 2 new tiles : t	Heuristic : -15.5
+word : kit anchor( col :  5 row : 14 ) score : 7 new tiles : kt	Heuristic : -7
+word : jin anchor( col :  5 row : 14 ) score : 10 new tiles : jn	Heuristic : -4
+word : art anchor( col :  6 row : 14 ) score : 4 new tiles : at	Heuristic : -16.5
+word : ark anchor( col :  6 row : 14 ) score : 8 new tiles : ak	Heuristic : -10
+word : auk anchor( col :  7 row : 14 ) score : 27 new tiles : auk	Heuristic : 10
+Hasil evaluasi : auk , score : 27 , direction :1 ,i: 14 j: 7 Heuristic: 10
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : by anchor( col :  5 row : 9 ) score : 13 new tiles : b	Heuristic : -5
+word : bi anchor( col :  5 row : 12 ) score : 4 new tiles : b	Heuristic : -14
+word : if anchor( col :  5 row : 14 ) score : 5 new tiles : f	Heuristic : -14.5
+word : fib anchor( col :  5 row : 14 ) score : 8 new tiles : fb	Heuristic : -7
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : VFCBNFC
+
+HUMAN MOVE : by , score : 13 , direction : 2 , col : 5 , row : 11
+
+
+******COMPUTER TURN******
+RACK : jtnqeea
+
+word : ta anchor( col :  6 row : 7 ) score : 11 new tiles : ta	Heuristic : 0.5
+word : wizen anchor( col :  9 row : 8 ) score : 17 new tiles : en	Heuristic : 9.5
+word : jee anchor( col :  1 row : 10 ) score : 15 new tiles : jee	Heuristic : 5
+word : bye anchor( col :  5 row : 11 ) score : 8 new tiles : e	Heuristic : 0
+word : leer anchor( col :  6 row : 11 ) score : 5 new tiles : ee	Heuristic : -9
+word : lear anchor( col :  6 row : 11 ) score : 5 new tiles : ea	Heuristic : -6
+word : tea anchor( col :  5 row : 12 ) score : 12 new tiles : tea	Heuristic : 2
+word : tea anchor( col :  6 row : 12 ) score : 12 new tiles : tea	Heuristic : 2
+word : tea anchor( col :  7 row : 12 ) score : 12 new tiles : tea	Heuristic : 2
+word : ajee anchor( col :  7 row : 12 ) score : 22 new tiles : ajee	Heuristic : 9
+word : tan anchor( col :  9 row : 13 ) score : 10 new tiles : tan	Heuristic : -1
+word : teak anchor( col :  9 row : 13 ) score : 10 new tiles : tea	Heuristic : 0
+word : et anchor( col :  4 row : 14 ) score : 9 new tiles : et	Heuristic : 2
+word : et anchor( col :  5 row : 14 ) score : 9 new tiles : et	Heuristic : 2
+Hasil evaluasi : wizen , score : 17 , direction :1 ,i: 8 j: 6 Heuristic: 9.5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : no anchor( col :  9 row : 7 ) score : 6 new tiles : no	Heuristic : -11.5
+word : cove anchor( col :  9 row : 7 ) score : 15 new tiles : cov	Heuristic : 8
+word : coven anchor( col :  9 row : 7 ) score : 18 new tiles : covn	Heuristic : 11.5
+word : no anchor( col :  10 row : 7 ) score : 6 new tiles : no	Heuristic : -11.5
+word : of anchor( col :  10 row : 7 ) score : 11 new tiles : of	Heuristic : -4
+word : off anchor( col :  10 row : 7 ) score : 15 new tiles : off	Heuristic : 3
+word : wolf anchor( col :  6 row : 9 ) score : 17 new tiles : of	Heuristic : 2
+word : fon anchor( col :  9 row : 9 ) score : 29 new tiles : fon	Heuristic : 14.5
+word : fon anchor( col :  10 row : 9 ) score : 29 new tiles : fon	Heuristic : 14.5
+word : fop anchor( col :  1 row : 10 ) score : 16 new tiles : fo	Heuristic : 1
+word : wolf anchor( col :  6 row : 11 ) score : 17 new tiles : of	Heuristic : 2
+word : con anchor( col :  9 row : 13 ) score : 12 new tiles : con	Heuristic : -1
+word : cock anchor( col :  9 row : 13 ) score : 18 new tiles : coc	Heuristic : 6
+word : of anchor( col :  4 row : 14 ) score : 15 new tiles : of	Heuristic : 0
+word : of anchor( col :  5 row : 14 ) score : 15 new tiles : of	Heuristic : 0
+-------HUMAN CLICK HINT-------
+
+
+

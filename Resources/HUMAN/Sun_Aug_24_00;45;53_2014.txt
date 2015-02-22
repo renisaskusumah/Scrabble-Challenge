@@ -1,0 +1,22 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	weep	--	18		4	HUMAN 
+Player 2	jeez	1.871	40		3	GADDAG
+Player 1	mazed	--	17		4	HUMAN 
+Player 2	whips	4.281	39		5	GADDAG
+Player 1	thin	--	14		3	HUMAN 
+Player 2	baff	5.875	33		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	gelid	10.298	35		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	blunts	81.006	26		6	GADDAG
+Player 1		pass		--			0		0	
+Player 2	amazedly	8.51	31		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	cyders	11.352	24		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	quit	9.042	34		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	herm	8.355	27		3	GADDAG
+Player 1	guts	--	8		3	HUMAN 

@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	why	0.839	24		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	jutty	0.989	23		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	-	179.208	0		3	NEGASCOUT

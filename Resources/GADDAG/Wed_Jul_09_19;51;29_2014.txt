@@ -1,0 +1,57 @@
+player word durasi skor tiles
+
+
+Player 1	foxy	1.647	34		4	
+Player 2 	biz	1.318	31		3	
+Player 1	fist	226.3	33		4	blank tiles
+Player 2 	tummy	3.381	24		4	
+Player 1	yok	2.962	20		2	
+Player 2 	jock	4.032	33		3	
+Player 1	cab	6.052	25		3	
+Player 2 	prim	8.913	16		3	
+Player 1	trivia	5.199	24		6	
+Player 2 	pi	9.016	17		2	
+Player 1	id	1.191	7		1	
+Player 2 	inia	12.789	14		4	
+Player 1	hid	1.328	17		2	
+Player 2 	hung	6.186	17		3	
+Player 1	whid	1.296	11		1	
+Player 2 	glad	7.294	14		3	
+Player 1	jocks	1.789	36		1	
+Player 2 	whids	3.022	12		1	
+Player 1	vugh	2.37	12		2	
+Player 2 	papaw	2.966	12		1	
+Player 1	thaw	3.649	36		2	
+Player 2 	suss	7.228	17		3	
+Player 1	vet	3.168	29		3	
+Player 2 	ton	5.969	14		3	
+Player 1	ut	1.63	2		1	
+Player 2 	logo	10.062	12		4	
+Player 1	dodo	1.886	9		2	
+Player 2 	anal	8.794	11		3	
+Player 1	liner	5.348	20		5	
+Player 2 	nellie	10.623	16		5	
+Player 1	ree	7.262	8		3	
+Player 2 	oe	3.997	8		2	
+Player 1	err	3.409	12		4	
+Player 2 	aa	1.257	8		4	
+Player 1	glade	0.208	7		5	
+Player 2 	oe	0.282	7		6	
+Player 1	oe	0.097	4		6	
+Player 2 	en	0.049	52		7	
+Player 1	-	0.04	0		6	
+Player 2 	-	0.023	0		7	
+Player 1	-	0.043	0		6	
+Player 2 	-	0.022	0		7	
+Player 1	-	0.041	0		6	
+Player 2 	-	0.04	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 276.915
+player 1 left tile : 1
+player 1 total skor : 346
+player 1 Final skor : 336
+player 2 durasi : 107.263
+player 2 left tile : 0
+player 2 total skor : 335
+player 2 Final skor : 335

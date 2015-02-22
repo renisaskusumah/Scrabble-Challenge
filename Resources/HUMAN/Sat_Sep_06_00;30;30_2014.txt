@@ -1,0 +1,32 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	daze	--	26		4	HUMAN 
+Player 2	dynel	1.985	40		5	GADDAG
+Player 1	men	--	10		2	HUMAN 
+Player 2	pax	22.706	43		3	GADDAG
+Player 1	day	--	7		1	HUMAN 
+Player 2	vouch	17.392	45		5	GADDAG
+Player 1	neb	--	12		2	HUMAN 
+Player 2	coz	1.635	22		2	GADDAG
+Player 1	hapax	--	17		2	HUMAN 
+Player 2	fax	0.948	27		1	GADDAG
+Player 1	sojas	--	32		5	HUMAN 
+Player 2	pub	2.613	19		3	GADDAG
+Player 1	jag	--	11		2	HUMAN 
+Player 2	wring	3.562	43		5	GADDAG
+Player 1	dip	--	6		2	HUMAN 
+Player 2	woke	6.326	25		4	GADDAG
+Player 1	gone	--	10		3	HUMAN 
+Player 2	ulnar	10.29	28		5	GADDAG
+Player 1	deaf	--	10		2	HUMAN 
+Player 2	oot	12.158	17		3	GADDAG
+Player 1	mow	--	8		1	HUMAN 
+Player 2	or	8.917	10		2	GADDAG
+Player 1	girt	--	7		3	HUMAN 
+Player 2	rosolios	11.33	73		7	GADDAG
+Player 1	ova	--	6		2	HUMAN 
+Player 2	dal	13.305	21		3	GADDAG
+Player 1	qat	--	12		2	HUMAN 
+Player 2	tee	14.809	13		3	GADDAG
+Player 1	tie	--	5		2	HUMAN 

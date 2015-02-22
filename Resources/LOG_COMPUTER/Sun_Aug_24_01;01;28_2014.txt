@@ -1,0 +1,10 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : dry , score : 10 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+

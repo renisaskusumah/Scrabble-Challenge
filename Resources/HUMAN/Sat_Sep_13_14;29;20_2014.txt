@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	me	--	8		2	HUMAN 
+Player 2	pox	1.976	27		3	GADDAG

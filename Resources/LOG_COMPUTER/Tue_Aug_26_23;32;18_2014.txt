@@ -1,0 +1,50 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : KIM*WGL
+
+HUMAN MOVE : mike , score : 18 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : wfdc*vn
+
+Hasil evaluasi : fan , score : 25 , direction : 2 , anchor (8 , 8) , col : 8 , row : 8
+
+POSSIBLE MOVEMENT : 
+cwm ( col : 5 row: 7 ) score : 10
+cwm ( col : 6 row: 5 ) score : 14
+cwms ( col : 5 row: 7 ) score : 10
+ef ( col : 8 row: 7 ) score : 20
+wifed ( col : 6 row: 8 ) score : 19
+fan ( col : 8 row: 8 ) score : 25
+wo ( col : 5 row: 9 ) score : 17
+kaf ( col : 7 row: 9 ) score : 17
+fawned ( col : 3 row: 10 ) score : 24
+wand ( col : 4 row: 11 ) score : 23
+
+
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : BBOJWGL
+
+HUMAN MOVE : ben , score : 5 , direction : 1 , col : 9 , row : 10
+
+
+******COMPUTER TURN******
+RACK : wdcvssc
+
+Hasil evaluasi : bends , score : 16 , direction : 1 , anchor (9 , 10) , col : 10 , row : 6
+
+POSSIBLE MOVEMENT : 
+cwm ( col : 5 row: 7 ) score : 10
+ifs ( col : 7 row: 8 ) score : 6
+kas ( col : 7 row: 9 ) score : 8
+bends ( col : 6 row: 10 ) score : 16
+miked ( col : 7 row: 7 ) score : 14
+fans ( col : 8 row: 8 ) score : 6
+
+

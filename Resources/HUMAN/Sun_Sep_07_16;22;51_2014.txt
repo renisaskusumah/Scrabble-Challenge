@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	tat	--	4		3	HUMAN 
+Player 2	tuque	12.822	33		4	GADDAG

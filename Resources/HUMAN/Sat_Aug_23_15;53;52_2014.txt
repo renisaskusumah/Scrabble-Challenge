@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	zip	--	28		3
+Player 2	buys	1.592	33		4

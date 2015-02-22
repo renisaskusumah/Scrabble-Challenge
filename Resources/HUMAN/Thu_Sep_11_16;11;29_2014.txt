@@ -1,0 +1,12 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	tic	--	10		3	HUMAN 
+Player 2	aah	8.045	22		3	GADDAG
+Player 1	him	--	11		1	HUMAN 
+Player 2	quilt	3.733	21		5	GADDAG
+Player 1	luck	--	20		3	HUMAN 
+Player 2	cub	5.332	17		2	GADDAG
+Player 1	boil	--	6		3	HUMAN 
+Player 2	weft	7.524	40		4	GADDAG
+Player 1	win	--	7		2	HUMAN 

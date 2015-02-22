@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	lynx	--	28		4	HUMAN 
+Player 2	zonk	7.778	36		3	GADDAG

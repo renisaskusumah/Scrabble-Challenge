@@ -1,0 +1,52 @@
+player word durasi skor tiles
+
+
+Player 1	prexy	1.05	40		5	blank tiles
+Player 2 	em	0.836	20		2	
+Player 1	rheumy	2.816	28		4	
+Player 2 	whew	0.557	29		3	
+Player 1	jeopard	33.204	50		6	blank tiles
+Player 2 	yegg	2.037	33		4	
+Player 1	kobo	5.696	29		4	
+Player 2 	foes	4.684	38		4	
+Player 1	gaed	7.621	21		3	
+Player 2 	quits	2.462	52		5	
+Player 1	ar	10.321	12		1	
+Player 2 	clift	2.606	34		5	
+Player 1	areic	12.065	16		4	
+Player 2 	bog	5.925	18		2	
+Player 1	moods	9.09	46		5	
+Player 2 	adz	3.404	35		3	
+Player 1	joes	6.597	22		1	
+Player 2 	qat	7.584	12		2	
+Player 1	citrin	6.899	18		5	
+Player 2 	lilt	7.129	12		3	
+Player 1	navette	9.189	77		7	
+Player 2 	volti	6.889	20		4	
+Player 1	ane	6.259	17		3	
+Player 2 	nu	7.001	13		2	
+Player 1	in	5.77	8		2	
+Player 2 	near	4.388	14		5	
+Player 1	auk	0.911	7		4	
+Player 2 	er	0.073	4		6	
+Player 1	call	0.225	7		5	
+Player 2 	rant	0.027	54		7	
+Player 1	id	0.072	4		6	
+Player 2 	-	0.011	0		7	
+Player 1	inia	0.029	54		7	
+Player 2 	-	0.01	0		7	
+Player 1	-	0.011	0		7	
+Player 2 	-	0.01	0		7	
+Player 1	-	0.012	0		7	
+Player 2 	-	0.011	0		7	
+Player 1	-	0.011	0		7	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 117.848
+player 1 left tile : 0
+player 1 total skor : 456
+player 1 Final skor : 456
+player 2 durasi : 55.644
+player 2 left tile : 0
+player 2 total skor : 388
+player 2 Final skor : 388

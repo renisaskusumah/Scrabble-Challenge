@@ -1,0 +1,40 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+
+Hasil evaluasi : xu , score : 18 , direction : 2 , col : 7 , row : 6
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : wud , score : 7 , direction : 1 , anchor (6 , 7) , col : 7 , row : 6
+
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : howf , score : 28 , direction : 2 , anchor (6 , 6) , col : 5 , row : 6
+
+
+
+******COMPUTER TURN******
+
+
+/*-----HASIL NEGA----*/
+vav
+word vav
+skor 31
+
+
+
+-------NEGA--------
+
+eval -46 word na skor 8 depth 1 end 68 child 7
+eval -81 word vav skor 31 depth 1 end 95 child 4
+eval -67 word coxal skor 19 depth 1 end 63 child 3
+eval -60 word calf skor 9 depth 1 end 70 child 8
+eval -56 word al skor 7 depth 1 end 65 child 7
+
+
+

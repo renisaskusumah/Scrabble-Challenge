@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	dams	--	14		4	HUMAN 
+Player 2	swamy	41.635	37		5	GADDAG
+Player 1	salt	--	6		3	HUMAN 

@@ -1,0 +1,44 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : fikwttj
+
+word : if anchor( col :  7 row : 7 ) score : 10 new tiles : if
+word : kif anchor( col :  7 row : 7 ) score : 20 new tiles : kif
+Hasil evaluasi : kif , score : 20 , direction : 2 , col : 7 , row : 5
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : FOPUOSG
+
+HUMAN MOVE : fog , score : 7 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+RACK : wttjsgx
+
+word : tsk anchor( col :  6 row : 5 ) score : 9 new tiles : ts
+word : twit anchor( col :  6 row : 6 ) score : 15 new tiles : twt
+word : twig anchor( col :  6 row : 6 ) score : 19 new tiles : twg
+word : jig anchor( col :  6 row : 6 ) score : 26 new tiles : jg
+word : it anchor( col :  8 row : 6 ) score : 6 new tiles : t
+word : wit anchor( col :  8 row : 6 ) score : 14 new tiles : wt
+word : twit anchor( col :  8 row : 6 ) score : 15 new tiles : twt
+word : xis anchor( col :  8 row : 6 ) score : 22 new tiles : xs
+word : jig anchor( col :  8 row : 6 ) score : 26 new tiles : jg
+word : fogs anchor( col :  10 row : 7 ) score : 8 new tiles : s
+word : kifs anchor( col :  7 row : 8 ) score : 11 new tiles : s
+word : ow anchor( col :  8 row : 8 ) score : 9 new tiles : w
+word : tow anchor( col :  8 row : 8 ) score : 14 new tiles : tw
+word : tows anchor( col :  8 row : 8 ) score : 15 new tiles : tws
+word : ox anchor( col :  8 row : 8 ) score : 17 new tiles : x
+word : sox anchor( col :  8 row : 8 ) score : 22 new tiles : sx
+Hasil evaluasi : jig , score : 26 , direction : 1 , anchor (9 , 8) , col : 6 , row : 6
+
+POSSIBLE MOVEMENT : 
+
+

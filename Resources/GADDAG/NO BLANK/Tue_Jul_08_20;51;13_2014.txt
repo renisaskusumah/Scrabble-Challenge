@@ -1,0 +1,55 @@
+player word durasi skor tiles
+
+
+Player 1	fuzes	0.106	42		5
+Player 2 	fizz	1.915	33		2
+Player 1	ex	0.731	19		2
+Player 2 	veiny	2.601	64		5
+Player 1	meting	1.703	24		5
+Player 2 	yird	2.359	24		4
+Player 1	chuff	0.975	16		3
+Player 2 	nth	0.834	12		3
+Player 1	op	1.683	19		2
+Player 2 	gox	0.756	11		1
+Player 1	gun	1.654	12		3
+Player 2 	tsk	0.858	23		3
+Player 1	discs	1.518	16		3
+Player 2 	jinn	1.601	19		3
+Player 1	pelf	1.458	12		3
+Player 2 	bi	1.006	8		1
+Player 1	mob	1.311	19		3
+Player 2 	li	0.884	5		1
+Player 1	voe	3.2	31		3
+Player 2 	doc	1.57	16		2
+Player 1	arsons	1.794	25		4
+Player 2 	aglow	3.087	34		4
+Player 1	rotor	3.675	22		5
+Player 2 	intruder	3.69	23		6
+Player 1	exert	5.943	19		2
+Player 2 	awes	6.326	33		4
+Player 1	las	5.316	18		3
+Player 2 	en	2.905	8		1
+Player 1	ai	1.403	8		3
+Player 2 	ai	1.655	8		3
+Player 1	ai	0.445	7		5
+Player 2 	ae	0.566	8		5
+Player 1	am	0.121	4		6
+Player 2 	es	0.136	6		6
+Player 1	-	0.073	0		6
+Player 2 	ope	0.081	55		7
+Player 1	-	0.072	0		6
+Player 2 	-	0.058	0		7
+Player 1	-	0.075	0		6
+Player 2 	-	0.054	0		7
+Player 1	-	0.071	0		6
+Player 2 	-	0.066	0		7
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 33.327
+player 1 left tile : 1
+player 1 total skor : 313
+player 1 Final skor : 303
+player 2 durasi : 33.008
+player 2 left tile : 0
+player 2 total skor : 390
+player 2 Final skor : 390

@@ -1,0 +1,26 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	firm	0.155	18		4	GADDAG
+Player 1	biz	--	14		2	HUMAN 
+Player 2	yam	1.09	16		2	GADDAG
+Player 1	infirmly	--	20		4	HUMAN 
+Player 2	wing	2.54	24		4	GADDAG
+Player 1	migs	--	14		3	HUMAN 
+Player 2	cub	2.128	16		3	GADDAG
+Player 1	yamuns	--	13		3	HUMAN 
+Player 2	nix	2.341	26		2	GADDAG
+Player 1	spun	--	25		3	HUMAN 
+Player 2	hug	1.614	24		3	GADDAG
+Player 1	chip	--	15		3	HUMAN 
+Player 2	vaws	3.049	26		4	GADDAG
+Player 1	give	--	16		3	HUMAN 
+Player 2	fated	8.214	34		4	GADDAG
+Player 1	endow	--	14		4	HUMAN 
+Player 2	dourine	20.979	75		7	GADDAG
+Player 1	nixie	--	12		2	HUMAN 
+Player 2	coala	195.923	25		5	GADDAG
+Player 1	jot	--	20		2	HUMAN 
+Player 2	alive	150.481	27		4	GADDAG
+Player 1	dealt	--	6		3	HUMAN 

@@ -1,0 +1,48 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	lax	--	20		3	HUMAN 
+Player 2	kev	1	27		3	GADDAG
+Player 1	lac	--	6		2	HUMAN 
+Player 2	prex	0.844	13		2	GADDAG
+Player 1	cap	--	7		2	HUMAN 
+Player 2	pi	2.439	10		2	GADDAG
+Player 1	hup	--	8		2	HUMAN 
+Player 2	hum	3.047	33		3	GADDAG
+Player 1	cum	--	7		2	HUMAN 
+Player 2	adze	39.472	41		4	GADDAG
+Player 1	deaf	--	8		3	HUMAN 
+Player 2	gnawn	5.266	26		4	GADDAG
+Player 1	fun	--	6		2	HUMAN 
+Player 2	jets	5.344	35		4	GADDAG
+Player 1	gens	--	7		3	HUMAN 
+Player 2	wry	2.908	27		3	GADDAG
+Player 1	wry	--	9		2	HUMAN 
+Player 2	gid	2.734	18		2	GADDAG
+Player 1	hums	--	18		1	HUMAN 
+Player 2	vinyl	29.034	20		4	GADDAG
+Player 1	dribs	--	7		4	HUMAN 
+Player 2	strobe	10.688	27		5	GADDAG
+Player 1	ree	--	3		2	HUMAN 
+Player 2	bee	12.704	19		2	GADDAG
+Player 1	stand	--	12		4	HUMAN 
+Player 2	tootle	14.627	19		6	GADDAG
+Player 1	done	--	6		3	HUMAN 
+Player 2	one	7.751	15		2	GADDAG
+Player 1	qat	--	24		2	HUMAN 
+Player 2	eat	7.095	19		3	GADDAG
+Player 1	ilia	--	6		3	HUMAN 
+Player 2	do	273.745	12		1	NEGASCOUT
+Player 1	nail	--	6		5	HUMAN 
+Player 2	owe	20.079	7		2	NEGASCOUT
+Player 1	if	--	5		6	HUMAN 
+Player 2	mo	2.735	5		3	NEGASCOUT
+Player 1	ai	--	2		7	HUMAN 
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 6 menit 13 detik 
+player 1 left tile : 0
+player 1 total skor : 167
+player 2 durasi : 7 menit 13 detik 
+player 2 left tile : 4
+player 2 total skor : 373

@@ -1,0 +1,51 @@
+player word durasi skor tiles
+
+
+Player 1	pujah	0.155	40		5
+Player 2 	ox	3.189	43		2
+Player 1	nabe	4.761	40		4
+Player 2 	jobbing	2.089	23		4
+Player 1	gainful	5.142	32		6
+Player 2 	why	3.223	25		2
+Player 1	vat	4.256	27		3
+Player 2 	primp	3.524	22		4
+Player 1	fugu	3.995	36		4
+Player 2 	ritz	1.549	33		3
+Player 1	womb	4.851	41		3
+Player 2 	axes	0.835	23		1
+Player 1	vara	5.052	20		4
+Player 2 	ritzy	0.822	17		2
+Player 1	shiv	6.022	22		3
+Player 2 	whys	1.425	20		1
+Player 1	ados	4.479	30		4
+Player 2 	qaid	1.438	28		3
+Player 1	latke	6.01	23		5
+Player 2 	cede	1.253	9		2
+Player 1	galloot	8.58	22		6
+Player 2 	trod	2.412	14		3
+Player 1	onion	10.409	20		5
+Player 2 	cirri	6.269	16		5
+Player 1	oe	4.462	16		2
+Player 2 	lien	10.382	17		2
+Player 1	em	1.206	9		3
+Player 2 	ne	1.796	12		4
+Player 1	pee	0.608	8		5
+Player 2 	cee	0.31	6		6
+Player 1	dei	0.155	58		7
+Player 2 	err	0.089	55		7
+Player 1	-	0.063	0		7
+Player 2 	-	0.067	0		7
+Player 1	-	0.064	0		7
+Player 2 	-	0.063	0		7
+Player 1	-	0.062	0		7
+Player 2 	-	0.063	0		7
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 70.332
+player 1 left tile : 0
+player 1 total skor : 444
+player 1 Final skor : 444
+player 2 durasi : 40.798
+player 2 left tile : 0
+player 2 total skor : 363
+player 2 Final skor : 363

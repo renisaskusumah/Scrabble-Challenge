@@ -1,0 +1,77 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : aq*kzjn
+
+word : qat anchor( col :  7 row : 7 ) score : 22 new tiles : qat
+word : kanji anchor( col :  7 row : 7 ) score : 30 new tiles : kanji
+word : jazz anchor( col :  7 row : 7 ) score : 38 new tiles : jazz
+word : kanji anchor( col :  7 row : 7 ) score : 40 new tiles : kanji
+Hasil evaluasi : kanji , score : 40 , direction : 2 , col : 7 , row : 3
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+******HUMAN RESULT******
+RACK : HOHW*CB
+
+HUMAN MOVE : in , score : 1 , direction : 1 , col : 8 , row : 5
+
+
+******COMPUTER TURN******
+RACK : qzslrny
+
+word : sky anchor( col :  6 row : 3 ) score : 10 new tiles : sy
+word : sky anchor( col :  8 row : 3 ) score : 10 new tiles : sy
+word : sal anchor( col :  6 row : 4 ) score : 5 new tiles : sl
+word : say anchor( col :  6 row : 4 ) score : 8 new tiles : sy
+word : slay anchor( col :  6 row : 4 ) score : 9 new tiles : sly
+word : lazy anchor( col :  6 row : 4 ) score : 18 new tiles : lzy
+word : lazy anchor( col :  8 row : 4 ) score : 18 new tiles : lzy
+word : sin anchor( col :  5 row : 5 ) score : 5 new tiles : s
+word : lysin anchor( col :  5 row : 5 ) score : 10 new tiles : lys
+word : sly anchor( col :  5 row : 5 ) score : 13 new tiles : sly
+word : syn anchor( col :  5 row : 5 ) score : 28 new tiles : syn
+word : ins anchor( col :  8 row : 5 ) score : 3 new tiles : s
+word : lins anchor( col :  8 row : 5 ) score : 6 new tiles : ls
+word : yins anchor( col :  8 row : 5 ) score : 15 new tiles : ys
+word : si anchor( col :  6 row : 7 ) score : 1 new tiles : s
+word : lysin anchor( col :  6 row : 7 ) score : 7 new tiles : lysn
+word : sizy anchor( col :  6 row : 7 ) score : 15 new tiles : szy
+word : sizy anchor( col :  8 row : 7 ) score : 15 new tiles : szy
+word : sly anchor( col :  7 row : 8 ) score : 23 new tiles : sly
+word : syn anchor( col :  7 row : 8 ) score : 26 new tiles : syn
+Hasil evaluasi : syn , score : 28 , direction : 2 , anchor (7 , 8) , col : 4 , row : 5
+
+POSSIBLE MOVEMENT : 
+
+
+word : kor anchor( col :  8 row : 3 ) score : 7 new tiles : or
+word : kob anchor( col :  8 row : 3 ) score : 9 new tiles : ob
+word : oh anchor( col :  4 row : 4 ) score : 12 new tiles : oh
+word : rho anchor( col :  4 row : 4 ) score : 14 new tiles : rho
+word : hows anchor( col :  4 row : 4 ) score : 20 new tiles : how
+word : chow anchor( col :  4 row : 4 ) score : 26 new tiles : chow
+word : sh anchor( col :  6 row : 4 ) score : 11 new tiles : h
+word : shah anchor( col :  6 row : 4 ) score : 15 new tiles : hh
+word : ah anchor( col :  8 row : 4 ) score : 5 new tiles : h
+word : shah anchor( col :  8 row : 4 ) score : 15 new tiles : hh
+word : arch anchor( col :  8 row : 4 ) score : 18 new tiles : rch
+word : abhor anchor( col :  8 row : 4 ) score : 20 new tiles : bhor
+word : ho anchor( col :  4 row : 6 ) score : 6 new tiles : ho
+word : crown anchor( col :  4 row : 6 ) score : 11 new tiles : crow
+word : jo anchor( col :  8 row : 6 ) score : 10 new tiles : o
+word : jow anchor( col :  8 row : 6 ) score : 14 new tiles : ow
+word : roc anchor( col :  5 row : 7 ) score : 15 new tiles : roc
+word : chi anchor( col :  5 row : 7 ) score : 16 new tiles : ch
+word : chiro anchor( col :  5 row : 7 ) score : 18 new tiles : chro
+word : chi anchor( col :  6 row : 7 ) score : 16 new tiles : ch
+word : chiro anchor( col :  6 row : 7 ) score : 18 new tiles : chro
+word : bio anchor( col :  8 row : 7 ) score : 4 new tiles : bo
+word : chiro anchor( col :  8 row : 7 ) score : 18 new tiles : chro
+-------HUMAN CLICK HINT-------
+
+
+

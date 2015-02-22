@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	flump	0.491	32		5	GADDAG
+Player 1	pud	--	6		2	HUMAN 
+Player 2	dwarf	15.026	22		4	GADDAG
+Player 1	dolly	--	13		4	HUMAN 
+Player 2	who	17.162	30		2	NEGASCOUT

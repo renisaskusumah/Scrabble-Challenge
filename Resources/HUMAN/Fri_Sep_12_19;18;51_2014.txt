@@ -1,0 +1,16 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	my	--	14		2	HUMAN 
+Player 2	yellow	2.278	30		6	GADDAG
+Player 1	hills	--	8		4	HUMAN 
+Player 2	fact	4.649	40		4	GADDAG
+Player 1	jib	--	12		2	HUMAN 
+Player 2	pun	2.837	18		3	GADDAG
+Player 1	hip	--	16		2	HUMAN 
+Player 2	unravel	96.855	82		7	GADDAG
+Player 1	rag	--	8		2	HUMAN 
+Player 2	sib	16.037	36		3	GADDAG
+Player 1	mig	--	6		2	HUMAN 
+Player 2	oozier	6.947	32		5	GADDAG
+Player 1	lux	--	29		3	HUMAN 

@@ -1,0 +1,31 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : tberwca
+
+word : et anchor( col :  7 row : 7 ) score : 4 new tiles : et
+word : bet anchor( col :  7 row : 7 ) score : 10 new tiles : bet
+word : abet anchor( col :  7 row : 7 ) score : 12 new tiles : abet
+word : caret anchor( col :  7 row : 7 ) score : 20 new tiles : caret
+word : bract anchor( col :  7 row : 7 ) score : 24 new tiles : bract
+Hasil evaluasi : bract , score : 24 , direction : 2 , col : 7 , row : 3
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : brr anchor( col :  8 row : 3 ) score : 5 new tiles : rr
+word : sax anchor( col :  6 row : 5 ) score : 10 new tiles : sx
+word : wax anchor( col :  6 row : 5 ) score : 13 new tiles : wx
+word : as anchor( col :  8 row : 5 ) score : 2 new tiles : s
+word : ras anchor( col :  8 row : 5 ) score : 3 new tiles : rs
+word : was anchor( col :  8 row : 5 ) score : 6 new tiles : ws
+word : ax anchor( col :  8 row : 5 ) score : 9 new tiles : x
+word : sax anchor( col :  8 row : 5 ) score : 10 new tiles : sx
+word : wax anchor( col :  8 row : 5 ) score : 13 new tiles : wx
+word : bracts anchor( col :  7 row : 8 ) score : 10 new tiles : s
+-------HUMAN CLICK HINT-------
+
+
+

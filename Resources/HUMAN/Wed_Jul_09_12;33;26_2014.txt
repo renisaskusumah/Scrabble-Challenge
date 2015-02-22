@@ -1,0 +1,9 @@
+player word durasi skor tiles
+
+
+Player 1	mug	--	10		3
+Player 2	buffs	0.246	19		4
+Player 1		pass		--			0		0	
+Player 2	vig	0.666	19		2
+Player 1	sun	--	4		2
+Player 2	med	1.04	17		3

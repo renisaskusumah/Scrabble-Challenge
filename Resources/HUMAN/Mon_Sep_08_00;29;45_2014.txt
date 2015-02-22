@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	rod	--	8		3	HUMAN 
+Player 2	qat	3.978	28		3	GADDAG

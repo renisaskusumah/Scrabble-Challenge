@@ -1,0 +1,26 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	hun	--	12		3	HUMAN 
+Player 2	quid	2.374	25		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	sh	0.837	28		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	bang	1.918	28		4	GADDAG
+Player 1	zed	--	13		2	HUMAN 
+Player 2	mim	1.534	27		3	GADDAG
+Player 1	mud	--	6		2	HUMAN 
+Player 2	fub	1.532	23		2	GADDAG
+Player 1	ers	--	4		2	HUMAN 
+Player 2	expo	2.877	28		4	GADDAG
+Player 1	sex	--	20		2	HUMAN 
+Player 2	jew	2.873	30		3	GADDAG
+Player 1	puds	--	10		3	HUMAN 
+Player 2	scrip	86.204	27		4	GADDAG
+Player 1	anklet	--	12		5	HUMAN 
+Player 2	footy	160.556	53		5	GADDAG
+Player 1	vote	--	14		3	HUMAN 
+Player 2	wily	92.132	19		4	GADDAG
+Player 1	logger	--	12		5	HUMAN 
+Player 2	lucid	211.202	18		5	GADDAG
+Player 1	toad	--	10		3	HUMAN 

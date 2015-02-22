@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	box	0.18	24		3	GADDAG
+Player 1	joe	--	10		2	HUMAN 
+Player 2	joes	0.303	11		1	GADDAG
+Player 1	fichus	--	22		5	HUMAN 
+Player 2	zing	0.585	28		3	GADDAG

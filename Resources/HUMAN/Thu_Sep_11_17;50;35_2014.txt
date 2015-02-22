@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	ex	--	18		2	HUMAN 
+Player 2	joe	1113.99	31		3	NEGASCOUT
+Player 1	expo	--	10		2	HUMAN 

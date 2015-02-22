@@ -1,0 +1,53 @@
+player word durasi skor tiles
+
+
+Player 1	biz	0.71	26		3	blank tiles
+Player 2 	zax	0.893	35		2	
+Player 1	hikes	14.532	38		4	blank tiles
+Player 2 	hags	2.097	24		4	
+Player 1	vigas	1.695	18		3	
+Player 2 	djin	1.762	28		3	
+Player 1	mawn	2.605	31		4	
+Player 2 	qat	3.385	52		3	
+Player 1	dos	2.94	31		3	
+Player 2 	binge	3.589	30		5	
+Player 1	spill	5.186	32		5	
+Player 2 	vim	0.786	8		2	
+Player 1	eme	6.142	20		2	
+Player 2 	fidos	3.22	23		2	
+Player 1	ley	4.066	20		3	
+Player 2 	an	4.375	13		2	
+Player 1	dew	2.679	14		2	
+Player 2 	ice	5.033	12		3	
+Player 1	funnel	3.004	22		5	
+Player 2 	cate	10.418	27		4	
+Player 1	yarer	8.279	20		5	
+Player 2 	pattee	7.469	28		6	
+Player 1	ova	6.739	22		2	
+Player 2 	ow	4.085	14		1	
+Player 1	deb	5.807	11		2	
+Player 2 	er	5.863	12		2	
+Player 1	to	4.744	8		2	
+Player 2 	go	3.825	7		1	
+Player 1	uteri	4.735	13		5	
+Player 2 	or	4.786	10		2	
+Player 1	woo	0.165	6		5	
+Player 2 	or	0.905	10		4	
+Player 1	irid	0.063	6		6	
+Player 2 	li	0.131	2		5	
+Player 1	-	0.022	0		6	
+Player 2 	-	0.057	0		5	
+Player 1	-	0.022	0		6	
+Player 2 	-	0.058	0		5	
+Player 1	-	0.028	0		6	
+Player 2 	-	0.058	0		5	
+winner : Player 1
+left tile (letter bag): 0
+player 1 durasi : 74.163
+player 1 left tile : 1
+player 1 total skor : 338
+player 1 Final skor : 337
+player 2 durasi : 62.795
+player 2 left tile : 2
+player 2 total skor : 335
+player 2 Final skor : 333

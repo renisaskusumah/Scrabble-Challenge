@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	hat	--	12		3	HUMAN 
+Player 2	vow	3.279	31		3	GADDAG
+Player 1	pet	--	11		2	HUMAN 
+Player 2	web	1.047	25		2	GADDAG
+Player 1	hob	--	8		1	HUMAN 
+Player 2	vows	0.443	16		1	GADDAG
+Player 1	jabs	--	37		3	HUMAN 
+Player 2	pax	1.171	12		1	GADDAG

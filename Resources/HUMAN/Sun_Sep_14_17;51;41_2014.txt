@@ -1,0 +1,8 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	wall	0.531	14		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	tranq	0.671	36		4	GADDAG
+Player 1		pass		--			0		0	

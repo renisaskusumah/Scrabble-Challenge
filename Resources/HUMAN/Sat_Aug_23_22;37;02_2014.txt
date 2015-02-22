@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	jesse	2.286	40		5	GADDAG
+Player 1	sent	--	4		3	HUMAN 
+Player 2	dicky	3.339	40		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	sh	0.173	9		6	GADDAG

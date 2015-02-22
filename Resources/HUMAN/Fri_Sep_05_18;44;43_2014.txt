@@ -1,0 +1,45 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	firms	0.177	28		5	GADDAG
+Player 1	fussy	--	11		4	HUMAN 
+Player 2	vizor	25.554	36		4	GADDAG
+Player 1	vine	--	8		3	HUMAN 
+Player 2	dirks	2.045	23		4	GADDAG
+Player 1	fry	--	17		2	HUMAN 
+Player 2	whiter	56.753	39		6	GADDAG
+Player 1	tom	--	10		2	HUMAN 
+Player 2	cox	5.157	48		3	GADDAG
+Player 1	sit	--	3		2	HUMAN 
+Player 2	arse	15.468	33		3	GADDAG
+Player 1	yech	--	18		3	HUMAN 
+Player 2	bloat	7.325	24		5	GADDAG
+Player 1	rid	--	4		2	HUMAN 
+Player 2	pht	1.434	16		2	GADDAG
+Player 1	pant	--	7		3	HUMAN 
+Player 2	gin	3.041	19		3	GADDAG
+Player 1	wag	--	7		2	HUMAN 
+Player 2	did	3.015	12		3	GADDAG
+Player 1	dove	--	24		3	HUMAN 
+Player 2	bovine	1.47	22		1	GADDAG
+Player 1	log	--	11		2	HUMAN 
+Player 2	glop	2.669	28		4	GADDAG
+Player 1	tag	--	5		2	HUMAN 
+Player 2	tine	4.777	18		2	GADDAG
+Player 1	nail	--	4		3	HUMAN 
+Player 2	wagoner	4.503	24		4	GADDAG
+Player 1	lee	--	4		2	HUMAN 
+Player 2	queue	3.62	24		4	GADDAG
+Player 1	ear	--	6		2	HUMAN 
+Player 2	canoe	763.933	16		6	NEGASCOUT
+Player 1	nee	--	6		4	HUMAN 
+Player 2	arid	0.079	10		7	NEGASCOUT
+winner : Player 2
+left tile (letter bag): 0
+player 1 durasi : 5 menit 23 detik 
+player 1 left tile : 3
+player 1 total skor : 145
+player 2 durasi : 14 menit 54 detik 
+player 2 left tile : 0
+player 2 total skor : 420

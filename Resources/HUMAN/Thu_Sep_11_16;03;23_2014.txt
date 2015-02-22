@@ -1,0 +1,15 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	uh	2.246	10		2	GADDAG
+Player 1	hot	--	6		2	HUMAN 
+Player 2	vet	48.942	14		2	GADDAG
+Player 1	owe	--	10		2	HUMAN 
+Player 2	fez	59.161	35		2	GADDAG
+Player 1	ex	--	9		1	HUMAN 
+Player 2	gravida	140.036	76		7	GADDAG
+Player 1	bag	--	12		2	HUMAN 
+Player 2	jilt	11.498	27		3	GADDAG
+Player 1	gapy	--	18		3	HUMAN 
+Player 2	durra	14.934	24		5	GADDAG

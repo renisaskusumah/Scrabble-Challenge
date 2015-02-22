@@ -1,0 +1,16 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	khi	3.076	20		3	GADDAG
+Player 1	mail	--	6		3	HUMAN 
+Player 2	bogymen	9.925	80		7	GADDAG
+Player 1	fore	--	14		3	HUMAN 
+Player 2	fids	13.176	30		4	GADDAG
+Player 1	fax	--	26		2	HUMAN 
+Player 2	jenny	4.713	15		4	GADDAG
+Player 1	ex	--	9		1	HUMAN 
+Player 2	pad	220.224	20		4	NEGASCOUT
+Player 1	geck	--	13		4	HUMAN 
+Player 2	es	119.099	4		5	NEGASCOUT
+Player 1	pa	--	10		5	HUMAN 

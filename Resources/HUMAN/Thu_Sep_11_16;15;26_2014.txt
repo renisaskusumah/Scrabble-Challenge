@@ -1,0 +1,36 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	size	--	26		4	HUMAN 
+Player 2	kip	2.789	26		3	GADDAG
+Player 1	zoom	--	11		3	HUMAN 
+Player 2	gox	3.436	30		2	GADDAG
+Player 1	this	--	7		2	HUMAN 
+Player 2	expo	5.087	38		2	GADDAG
+Player 1	morn	--	6		2	HUMAN 
+Player 2	newt	4.477	14		3	GADDAG
+Player 1	tabs	--	12		3	HUMAN 
+Player 2	yow	7.077	34		3	GADDAG
+Player 1	jutty	--	62		4	HUMAN 
+Player 2	ribby	10.007	14		3	GADDAG
+Player 1	frog	--	10		3	HUMAN 
+Player 2	gig	7.448	10		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	sized	4.162	17		1	GADDAG
+Player 1	lathis	--	10		2	HUMAN 
+Player 2	cut	5.079	5		2	GADDAG
+Player 1	gran	--	6		3	HUMAN 
+Player 2	qat	3.522	12		2	GADDAG
+Player 1	mil	--	6		2	HUMAN 
+Player 2	clot	7.962	27		3	GADDAG
+Player 1	mud	--	6		2	HUMAN 
+Player 2	vend	13.736	16		3	GADDAG
+Player 1	tears	--	12		4	HUMAN 
+Player 2	reef	19.638	23		3	GADDAG
+Player 1	vims	--	27		3	HUMAN 
+Player 2	hoya	23.387	20		3	GADDAG
+Player 1	mars	--	7		3	HUMAN 
+Player 2	luv	26.313	14		2	GADDAG
+Player 1	rosed	--	12		4	HUMAN 
+Player 2	dele	33.968	27		4	GADDAG
+Player 1	idea	--	5		2	HUMAN 

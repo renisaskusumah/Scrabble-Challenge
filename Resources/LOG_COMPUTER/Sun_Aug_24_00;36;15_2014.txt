@@ -1,0 +1,46 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : lost , score : 8 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : cosh , score : 23 , direction : 2 , anchor (8 , 7) , col : 6 , row : 8
+
+
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  X Z V U U
+New Tiles :  F J F T *
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : yule , score : 32 , direction : 2 , anchor (9 , 9) , col : 9 , row : 9
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : feast , score : 24 , direction : 1 , col : 13 , row : 12
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : cyst , score : 18 , direction : 2 , anchor (11 , 11) , col : 10 , row : 11
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : tom , score : 9 , direction : 1 , col : 14 , row : 13
+
+
+******COMPUTER TURN******
+

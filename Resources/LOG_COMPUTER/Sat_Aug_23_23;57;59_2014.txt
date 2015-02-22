@@ -1,0 +1,30 @@
+******HUMAN TURN******
+
+-----HUMAN EXCHANGE TILE-----
+
+Exchange :  E * F S Q
+New Tiles :  L Y J K A
+
+
+******COMPUTER TURN******
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : we , score : 10 , direction : 2 , col : 7 , row : 9
+
+
+******COMPUTER TURN******
+
+Hasil evaluasi : sex , score : 19 , direction : 1 , anchor (6 , 8) , col : 8 , row : 6
+
+
+
+******HUMAN RESULT******
+
+
+HUMAN MOVE : sals , score : 4 , direction : 2 , col : 6 , row : 12
+
+
+******COMPUTER TURN******
+

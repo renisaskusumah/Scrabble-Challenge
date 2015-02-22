@@ -1,0 +1,63 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : efywjve
+
+word : jefe anchor( col :  7 row : 7 ) score : 28 new tiles : jefe
+Hasil evaluasi : jefe , score : 28 , direction : 2 , col : 7 , row : 4
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : jefe anchor( col :  8 row : 4 ) score : 28 new tiles : efe
+word : jefes anchor( col :  8 row : 4 ) score : 30 new tiles : efes
+word : fee anchor( col :  6 row : 5 ) score : 14 new tiles : fe
+word : fees anchor( col :  6 row : 5 ) score : 15 new tiles : fes
+word : ghee anchor( col :  6 row : 5 ) score : 16 new tiles : ghe
+word : ghees anchor( col :  6 row : 5 ) score : 17 new tiles : ghes
+word : seethe anchor( col :  6 row : 5 ) score : 19 new tiles : sethe
+word : fee anchor( col :  8 row : 5 ) score : 6 new tiles : fe
+word : fees anchor( col :  8 row : 5 ) score : 9 new tiles : fes
+word : ghee anchor( col :  8 row : 5 ) score : 12 new tiles : ghe
+word : ghees anchor( col :  8 row : 5 ) score : 15 new tiles : ghes
+word : fees anchor( col :  8 row : 5 ) score : 15 new tiles : fes
+word : ghees anchor( col :  8 row : 5 ) score : 17 new tiles : ghes
+word : seethe anchor( col :  8 row : 5 ) score : 19 new tiles : sethe
+word : heft anchor( col :  6 row : 6 ) score : 12 new tiles : het
+word : hefts anchor( col :  6 row : 6 ) score : 13 new tiles : hets
+word : teff anchor( col :  6 row : 6 ) score : 15 new tiles : tef
+word : teffs anchor( col :  6 row : 6 ) score : 16 new tiles : tefs
+word : he anchor( col :  6 row : 6 ) score : 17 new tiles : he
+word : feh anchor( col :  8 row : 6 ) score : 10 new tiles : eh
+word : fehs anchor( col :  8 row : 6 ) score : 11 new tiles : ehs
+word : eff anchor( col :  8 row : 6 ) score : 14 new tiles : ef
+word : teff anchor( col :  8 row : 6 ) score : 15 new tiles : tef
+word : teffs anchor( col :  8 row : 6 ) score : 16 new tiles : tefs
+word : fee anchor( col :  6 row : 7 ) score : 6 new tiles : fe
+word : fees anchor( col :  6 row : 7 ) score : 7 new tiles : fes
+word : ghee anchor( col :  6 row : 7 ) score : 8 new tiles : ghe
+word : ghees anchor( col :  6 row : 7 ) score : 9 new tiles : ghes
+word : fehs anchor( col :  6 row : 7 ) score : 10 new tiles : fhs
+word : hefts anchor( col :  6 row : 7 ) score : 11 new tiles : hfts
+word : eh anchor( col :  6 row : 7 ) score : 17 new tiles : eh
+word : fee anchor( col :  8 row : 7 ) score : 6 new tiles : fe
+word : fees anchor( col :  8 row : 7 ) score : 7 new tiles : fes
+word : ghee anchor( col :  8 row : 7 ) score : 8 new tiles : ghe
+word : ghees anchor( col :  8 row : 7 ) score : 9 new tiles : ghes
+word : seethe anchor( col :  8 row : 7 ) score : 10 new tiles : sethe
+word : heft anchor( col :  8 row : 7 ) score : 10 new tiles : hft
+word : hefts anchor( col :  8 row : 7 ) score : 11 new tiles : hfts
+word : feh anchor( col :  8 row : 7 ) score : 15 new tiles : feh
+word : fehs anchor( col :  8 row : 7 ) score : 16 new tiles : fehs
+word : hefts anchor( col :  8 row : 7 ) score : 17 new tiles : hefts
+word : es anchor( col :  7 row : 8 ) score : 18 new tiles : es
+word : egest anchor( col :  7 row : 8 ) score : 23 new tiles : egest
+word : these anchor( col :  7 row : 8 ) score : 25 new tiles : these
+word : efs anchor( col :  7 row : 8 ) score : 25 new tiles : efs
+word : fehs anchor( col :  7 row : 8 ) score : 29 new tiles : fehs
+-------HUMAN CLICK HINT-------
+
+
+

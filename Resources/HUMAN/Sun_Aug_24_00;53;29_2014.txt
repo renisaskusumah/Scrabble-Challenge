@@ -1,0 +1,18 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1		pass		--			0		0	
+Player 2	mixt	0.295	26		4	GADDAG
+Player 1		pass		--			0		0	
+Player 2	zip	0.511	27		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	pump	1.172	17		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	un	3.213	21		2	GADDAG
+Player 1		pass		--			0		0	
+Player 2	fatten	4.482	18		5	GADDAG
+Player 1		pass		--			0		0	
+Player 2	bib	7.724	28		3	GADDAG
+Player 1		pass		--			0		0	
+Player 2	verges	6.815	40		6	GADDAG
+Player 1	red	--	3		2	HUMAN 

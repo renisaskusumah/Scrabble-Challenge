@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	weeds	--	20		5	HUMAN 
+Player 2	sew	3.648	6		0	GADDAG

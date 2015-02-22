@@ -1,0 +1,28 @@
+******HUMAN TURN******
+
+******COMPUTER TURN******
+RACK : eikgfgc
+
+word : kief anchor( col :  7 row : 7 ) score : 22 new tiles : kief
+word : feck anchor( col :  7 row : 7 ) score : 26 new tiles : feck
+Hasil evaluasi : feck , score : 26 , direction : 2 , col : 7 , row : 6
+
+
+
+POSSIBLE MOVEMENT : 
+
+
+word : fer anchor( col :  6 row : 7 ) score : 6 new tiles : fr
+word : fem anchor( col :  6 row : 7 ) score : 8 new tiles : fm
+word : few anchor( col :  6 row : 7 ) score : 9 new tiles : fw
+word : jew anchor( col :  6 row : 7 ) score : 13 new tiles : jw
+word : ef anchor( col :  8 row : 7 ) score : 5 new tiles : f
+word : ref anchor( col :  8 row : 7 ) score : 6 new tiles : rf
+word : fem anchor( col :  8 row : 7 ) score : 8 new tiles : fm
+word : few anchor( col :  8 row : 7 ) score : 9 new tiles : fw
+word : jew anchor( col :  8 row : 7 ) score : 13 new tiles : jw
+word : cwm anchor( col :  8 row : 8 ) score : 14 new tiles : wm
+-------HUMAN CLICK HINT-------
+
+
+

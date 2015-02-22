@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method
+
+
+Player 1	dom	--	10		3	HUMAN 
+Player 2	lex	2.369	39		3	GADDAG

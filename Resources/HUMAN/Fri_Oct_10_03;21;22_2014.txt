@@ -1,0 +1,24 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1		pass ( 3.703 )		--			0		0	
+Player 2	-	2.111	0		0	GADDAG	0
+Player 1	zig	10.169	26		3	HUMAN 	26
+Player 2	qi	0.835	21		1	GADDAG	21
+Player 1		exchange ( 6.634 )		--			0		0	
+Player 2	fa	2.403	20		2	GADDAG	41
+Player 1		exchange ( 4.582 )		--			0		0	
+Player 2	gift	2.476	29		4	GADDAG	70
+Player 1		exchange ( 5.809 )		--			0		0	
+Player 2	alp	4.661	14		3	GADDAG	84
+Player 1		exchange ( 7.972 )		--			0		0	
+Player 2	tav	2.23	6		1	GADDAG	90
+Player 1		exchange ( 6.693 )		--			0		0	
+Player 2	ill	2.043	3		2	GADDAG	93
+Player 1	trap	6.723	6		3	HUMAN 	32
+Player 2	whys	4.062	40		4	GADDAG	133
+Player 1		exchange ( 11.097 )		--			0		0	
+Player 2	rho	9.562	17		3	GADDAG	150
+Player 1		exchange ( 4.701 )		--			0		0	
+Player 2	verdins	23.947	81		7	GADDAG	231
+Player 1	war	7.232	6		2	HUMAN 	38
